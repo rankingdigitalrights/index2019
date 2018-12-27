@@ -1,0 +1,391 @@
+<!doctype html>
+
+<!--[if lt IE 10]> <html class="lt-ie10 no-js"  lang=""> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+
+{% include head.html %}
+
+<body id="page--index">
+
+  <!--[if lt IE 10]>
+         <div id="nocando">
+           <p>You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+         </div>
+      <![endif]-->
+
+  <!-- Header -->
+  {% include banner.html %}
+  <!--<div class="main-content-with-padding">-->
+    <!-- Page itro -->
+    <div class="main-content-with-padding">
+      <div class="page--intro non-highlihted-bg">
+        <div class="row contain">
+          <p>{{ page.intro }}</p>
+        </div>
+      </div>
+    </div>
+
+    <div id="site-canvas" class="non-highlihted-bg" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
+
+      <!-- World map -->
+      <section class="world-map non-highlihted-bg">
+        <div class="contain row">
+
+          <div id="container"></div>
+
+          <img id="map_placeholder" style="display:none" class="img-responsive" src="assets/graphics/content/map_mobile.png">
+
+            <div class="graph-legend">
+              <div class="graph-legend-content">
+                <div class="graph-legend-content-item">
+                  <div class="graph-legend-content-item-value">22</div>
+                  <div class="graph-legend-content-item-label">companies</div>
+                </div>
+                <div class="graph-legend-content-item">
+                  <div class="graph-legend-content-item-value">61</div>
+                  <div class="graph-legend-content-item-label">services</div>
+                </div>
+                <div class="graph-legend-content-item">
+                  <div class="graph-legend-content-item-value">35</div>
+                  <div class="graph-legend-content-item-label">indicators</div>
+                </div>
+              </div>
+              <div class="graph-legend-values">
+                <div class="graph-legend-values-item">
+                  <div class="graph-legend-values-label">Industry</div>
+                  <div class="graph-legend-values-value internet-and-mobile-companies">
+                    <i class="fa fa-circle"></i> Internet and mobile ecosystem companies
+                  </div>
+                  <div class="graph-legend-values-value telecommunications-companies">
+                    <i class="fa fa-circle"></i> Telecommunications companies
+                  </div>
+                </div>
+                <div class="graph-legend-values-item">
+                  <div class="graph-legend-values-label">Domicile</div>
+                  <div class="graph-legend-values-value">
+                    <span class="graph-legend-values-value-bar"></span>
+                  </div>
+                </div>
+              </div>
+              <!--<div class="graph-legend-interaction">-->
+                <!--<div class="graph-legend-interaction-item">-->
+                  <!--<a href="{{ site.baseurl }}/download/"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>-->
+                <!--</div>-->
+                <!--<div class="graph-legend-interaction-item">-->
+                  <!--<div class="dropdown&#45;&#45;trigger_mobile" data-dropdown="dropdown-share">-->
+                    <!--<a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i></a>-->
+                    <!--<ul class="dropdown&#45;&#45;share" id="dropdown-share">-->
+                      <!--<li class="dropdown&#45;&#45;item">-->
+                        <!--<textarea id="linkToCopy" readonly></textarea>-->
+                        <!--<button id="CopyToClipboard">Copy</button>-->
+                      <!--</li>-->
+                    <!--</ul>-->
+                  <!--</div>-->
+                <!--</div>-->
+              <!--</div>-->
+            </div>
+        </div>
+      </section>
+
+      <!-- Key findings -->
+      <section class="key-findings highlihted-bg" id="key-findings">
+        <div class="main-content-with-padding">
+          <div class="contain spaced-row row">
+          <h1 class="page--subtitle">Key findings</h1>
+          <div class="description--texts">
+            <div class="description--text">
+              <p>17 of the 22 companies evaluated for the 2018 Index improved scores in at least one area, and many made multiple improvements in the past year. Yet companies still fall short:</p>
+              <ul>
+                <li><p><strong>Privacy:</strong> Companies fail to disclose enough about what user information is collected and shared, with whom, and under what circumstances. </p></li>
+                <li><p><strong>Security:</strong> Companies provide insufficient evidence of measures  to protect users’ information. </p></li>
+                <li><p><strong>Expression:</strong> Companies keep the public in the dark about how content and information flows are policed and shaped through their platforms and services. </p></li>
+                <li><p><strong>Governance:</strong> Too few companies make users’ expression and privacy rights a central priority for corporate oversight, governance, and risk assessment.</p></li>
+              </ul>
+            </div>
+            <div class="description--text">
+              <p>The 2018 Index ranks 22 companies on <a href="{{ site.baseurl }}/indicators/">35 indicators across three categories</a> evaluating how transparent companies are about commitments and policies affecting freedom of expression and privacy. The Index evaluates policies of the parent company, operating company and those of selected services (depending on company structure). </p>
+              <p>Read more about <a href="{{ site.baseurl }}/report/2018-index-methodology/">the methodology</a>, <a href="https://rankingdigitalrights.org/2018-research-process/">research</a> process and how we <a href="{{ site.baseurl }}/report/2018-index-methodology/#evaluation">score</a> each company.</p>
+              <div class="action-links">
+                <a href="{{ site.baseurl }}/report/executive-summary/">
+                  <span>Read the Executive Summary</span>
+                </a>
+                <a href="{{ site.baseurl }}/report/inadequate-disclosure/#section-36">
+                  <span>Read our Recommendations</span>
+                </a>
+                <a href="{{ site.baseurl }}/download/">
+                  <span>Download The Full Report</span>
+                </a>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+        </div>
+
+      </section>
+
+
+      <!-- Company ranking -->
+      <section class="company-ranking non-highlihted-bg" id="company-ranking">
+
+          <div class="main-content-with-padding">
+            <div class="contain spaced-row row">
+
+              <h1 class="page--subtitle">2018 Company ranking</h1>
+              <div class="page--subtitle--undertext">How do the companies compare?</div>
+
+              <div class="company-ranking-chart">
+                <div id="category--internet--home">
+                  <label><i class="fa fa-circle"></i> Internet and mobile ecosystem companies</label>
+                </div>
+                <div id="category--telco--home">
+                  <label><i class="fa fa-circle"></i> Telecommunications companies</label>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+      </section>
+
+
+      <!-- Services ranking -->
+
+      <section class="services-ranking" id="services-ranking">
+        <div class="main-content-with-padding">
+          <div class="contain spaced-row row">
+            <h1 class="page--subtitle">Year-on-year comparison</h1>
+            <p>Which companies improved the most? To read how each company performed in comparison to the 2017 Index go to the <a href="{{ site.baseurl }}/compare/">Compare page</a>.</p>
+            <div id="compare--overview_chart" class="compare-chart"></div>
+            <div class="services-ranking-mob-image"><img src="{{ site.baseurl }}/assets/graphics/content/index-compare-year.svg"></div>
+          </div>
+        </div>
+      </section>
+
+
+      <!-- Data stories -->
+
+      <section class="data-stories non-highlihted-bg" id="key-stories">
+        <div class="main-content-with-padding">
+          <div class="contain spaced-row row">
+            <h1 class="page--subtitle">Report Highlights</h1>
+
+            <div class="data-stories-tabs">
+
+              <ul class="tabs">
+                <li class="tab-link current" data-tab="tab-1">
+                  <div class="icon icon-inadequate-disclosure"></div>
+                  <span>Inadequate disclosure</span>
+                </li>
+                <li class="tab-link" data-tab="tab-2">
+                  <div class="icon icon-security-uncertainty"></div>
+                  <span>Security uncertainty</span>
+                </li>
+                <li class="tab-link" data-tab="tab-3">
+                  <div class="icon icon-privacy-failures"></div>
+                  <span>Privacy failures</span>
+                </li>
+                <li class="tab-link" data-tab="tab-4">
+                  <div class="icon icon-policing-speech"></div>
+                  <span>Policing speech</span>
+
+                </li>
+                <li class="tab-link" data-tab="tab-5">
+                  <div class="icon icon-telecommunications-disconnect"></div>
+                  <span>Telecommunications disconnect</span>
+                </li>
+              </ul>
+
+
+              <div id="tab-1" class="tab-content current">
+                <div class="tab-content-title">
+                  <div class="icon icon-inadequate-disclosure"></div>
+                  <h3>Inadequate disclosure</h3>
+                </div>
+
+                <p>While more than half of the companies evaluated in the past two Indexes have made meaningful improvements, they still fall short in disclosing basic information to users about the design, management, and governance of the digital platforms and services that affect human rights. Read <a href="{{ site.baseurl }}/report/inadequate-disclosure/">Chapter 3: Inadequate disclosure</a>.</p>
+              </div>
+              <div id="tab-2" class="tab-content">
+                <div class="tab-content-title">
+                  <div class="icon icon-security-uncertainty"></div>
+                  <h3>Security uncertainty</h3>
+                </div>
+
+                <p>Companies lack transparency about what they do to protect users’ data, which means people don’t know the security, privacy, and human rights risks they face when using a particular platform or service. Read <a href="{{ site.baseurl }}/report/security-uncertainty/">Chapter 4: Security uncertainty</a>.</p>
+              </div>
+              <div id="tab-3" class="tab-content">
+                <div class="tab-content-title">
+                  <div class="icon icon-privacy-failures"></div>
+                  <h3>Privacy failures</h3>
+                </div>
+
+                <p>Internet and mobile ecosystem companies don’t disclose enough about how they handle user information, which makes it difficult to assess the privacy, security, and human rights risks of using their services. Read <a href="{{ site.baseurl }}/report/privacy-failures/">Chapter 5: Privacy failures</a>.</p>
+              </div>
+              <div id="tab-4" class="tab-content">
+                <div class="tab-content-title">
+                  <div class="icon icon-policing-speech"></div>
+                  <h3>Policing speech</h3>
+                </div>
+
+                <p>Users are in the dark about the role that internet and mobile companies, governments, and a range of private parties play in policing the flow of information online. Read <a href="{{ site.baseurl }}/report/policing-speech/">Chapter 6: Policing speech</a>.</p>
+              </div>
+              <div id="tab-5" class="tab-content">
+                <div class="tab-content-title">
+                  <div class="icon icon-telecommunications-disconnect"></div>
+                  <h3>Telecommunications disconnect</h3>
+                </div>
+
+                <p>Most of the changes by telecommunications companies came from Global Network Initiative members. Other companies have made few changes in the past year. Read <a href="{{ site.baseurl }}/report/telecommunications-disconnect/">Chapter 7: Telecommunications Disconnect</a>.</p>
+              </div>
+
+
+
+            </div>
+
+          </div>
+        </div>
+
+      </section>
+
+      <!--<section class="data-stories non-highlihted-bg" id="key-stories">-->
+        <!--<div class="contain spaced-row row">-->
+          <!--<h1 class="page&#45;&#45;subtitle">Key Stories</h1>-->
+          <!--<div class="page&#45;&#45;subtitle&#45;&#45;undertext">In addition to our main findings, here are some key stories that emerged from the 2017 Index data.</div>-->
+          <!--<div class="data-stories-items">-->
+            <!--<div class="data-stories-item">-->
+              <!--<img class="img-responsive" src="{{ site.baseurl }}/assets/graphics/content/mobileecoStory.svg">-->
+              <!--<h3><a href="{{ site.baseurl }}/findings/mobileecosystems">Mobile Ecosystems</a></h3>-->
+              <!--<p>The 2017 Index added three mobile ecosystems to this year’s ranking: Apple iOS, Google Android, and Samsung’s-->
+                <!--implementation of Android. Our analysis shows that all three failed to sufficiently disclose policies affecting-->
+                <!--users’ freedom of expression and privacy. <a href="{{ site.baseurl }}/findings/mobileecosystems">Read more.</a></p>-->
+            <!--</div>-->
+            <!--<div class="data-stories-item">-->
+              <!--<img class="img-responsive" src="{{ site.baseurl }}/assets/graphics/content/networkStory.svg">-->
+              <!--<h3><a href="{{ site.baseurl }}/findings/networkshutdowns">Network Shutdowns</a></h3>-->
+              <!--<p>Network shutdowns are a growing threat to human rights around the world. But all telecommunication companies-->
+                <!--failed to provide sufficient disclosure of their policies for responding to requests by governments to shut-->
+                <!--down their networks. <a href="{{ site.baseurl }}/findings/networkshutdowns">Read more.</a></p>-->
+            <!--</div>-->
+            <!--<div class="data-stories-item">-->
+              <!--<img class="img-responsive" src="{{ site.baseurl }}/assets/graphics/content/russianStory.svg">-->
+              <!--<h3><a href="{{ site.baseurl }}/findings/russia">Russian Companies</a></h3>-->
+              <!--<p>Russian internet companies operate in an increasingly restrictive environment, but our data shows there is room-->
+                <!--for companies to disclose more about policies affecting users’ freedom of expression and privacy. <a href="{{ site.baseurl }}/findings/russia">Read more about how Russian internet companies Mail.Ru and Yandex compared.</a></p>-->
+            <!--</div>-->
+            <!--<div class="data-stories-item">-->
+              <!--<img class="img-responsive" src="{{ site.baseurl }}/assets/graphics/content/chineseStory.svg">-->
+              <!--<h3><a href="{{ site.baseurl }}/findings/china">Chinese Companies</a></h3>-->
+              <!--<p>Chinese internet company Tencent disclosed more information about its policies affecting users’ rights than Baidu—and-->
+                <!--both disclosed more about policies affecting users’ privacy than those affecting freedom of expression.-->
+                <!--<a-->
+                        <!--href="{{ site.baseurl }}/findings/china">Read more about how these two Chinese internet companies compared.</a>-->
+              <!--</p>-->
+            <!--</div>-->
+          <!--</div>-->
+        <!--</div>-->
+      <!--</section>-->
+
+    </div>
+
+  <!--</div>-->
+
+
+
+    <!-- Footer -->
+    {% include footer.html %}
+
+    <!-- Go to top HTML -->
+    <a href="#" class="go-to-top"><i class="fa fa-chevron-up"></i></a>
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+
+    <!-- JS -->
+    <script src="{{ site.baseurl }}/assets/scripts/bundle.js"></script>
+
+    <!-- Tabs JS -->
+    <script type="text/javascript">
+      // Equal heghts
+      var tabsFn = (function () {
+        function init() {
+          setHeight();
+        }
+        function setHeight() {
+          var $tabPane = $('.tab-pane-wrapper'),
+            tabsHeight = $('.nav-tabs').height();
+          $tabPane.css({
+            height: tabsHeight
+          });
+        }
+        $(init);
+      })();
+
+      // Current tab
+      $(document).ready(function () {
+        $('ul.nav-tabs li').click(function () {
+          var tab_id = $(this).attr('data-tab');
+          $('ul.nav-tabs li').removeClass('current');
+          $('.tab-pane-wrapper').removeClass('current');
+          $(this).addClass('current');
+          $("#" + tab_id).addClass('current');
+        })
+      })
+
+      // Current tab - Report
+      $(document).ready(function () {
+          $('ul.tabs li').click(function(){
+              var tab_id = $(this).attr('data-tab');
+
+              $('ul.tabs li').removeClass('current');
+              $('.tab-content').removeClass('current');
+
+              $(this).addClass('current');
+              $("#"+tab_id).addClass('current');
+          })
+      })
+    </script>
+
+    <!-- Go to top JS -->
+    <script type="text/javascript">
+      jQuery(document).ready(function($){
+        // browser window scroll (in pixels) after which the "back to top" link is shown
+        var offset = 300,
+          //browser window scroll (in pixels) after which the "back to top" link opacity is reduced
+          offset_opacity = 1200,
+          //duration of the top scrolling animation (in ms)
+          scroll_top_duration = 700,
+          //grab the "back to top" link
+          $back_to_top = $('.go-to-top');
+        //hide or show the "back to top" link
+        $(window).scroll(function(){
+          ( $(this).scrollTop() > offset ) ? $back_to_top.addClass('is-visible') : $back_to_top.removeClass('is-visible fade-out');
+          if( $(this).scrollTop() > offset_opacity ) {
+            $back_to_top.addClass('fade-out');
+          }
+        });
+        //smooth scroll to top
+        $back_to_top.on('click', function(event){
+          event.preventDefault();
+          $('body,html').animate({
+            scrollTop: 0 ,
+            }, scroll_top_duration
+          );
+        });
+      });
+    </script>
+
+
+    <!-- Map -->
+    <script type="text/javascript">
+        jQuery(document).ready(function($){
+            $('#container').css({"position":"relative","padding-bottom":"48%"});
+        });
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,68 @@
+[
+    {
+        "Company": "Twitter",
+        "Description": "Twitter is an online news and social networking service where users post and interact with 'tweets', restricted to 280 characters.",
+        "Difference": "-1",
+        "FoE": "71",
+        "G": "46",
+        "P": "63",
+        "Service": "Twitter",
+        "Total": "62",
+        "rank": "1"
+    },
+    {
+        "Company": "Oath",
+        "Description": "Tumblr is a microblogging and social networking service, now part of Oath. The service allows users to post multimedia and other content to a short-form blog.",
+        "Difference": "-1",
+        "FoE": "62",
+        "G": "89",
+        "P": "47",
+        "Service": "Tumblr",
+        "Total": "59",
+        "rank": "2"
+    },
+    {
+        "Company": "Facebook",
+        "Description": "Facebook is the social networking service operated by Facebook Inc.",
+        "Difference": "3",
+        "FoE": "46",
+        "G": "80",
+        "P": "55",
+        "Service": "Facebook",
+        "Total": "57",
+        "rank": "3"
+    },
+    {
+        "Company": "Mail.ru",
+        "Description": "VKontakte is an online social media and social networking service, owned by the Russian internet company Mail.Ru.",
+        "Difference": "-2",
+        "FoE": "16",
+        "G": "7",
+        "P": "32",
+        "Service": "VKontakte",
+        "Total": "23",
+        "rank": "4"
+    },
+    {
+        "Company": "Tencent",
+        "Description": "Qzone is a social networking service developed by Tencent Holding Limited in 2005. It allows users to write blogs, keep diaries, send photos, listen to music, and watch videos.",
+        "Difference": "-2",
+        "FoE": "12",
+        "G": "7",
+        "P": "27",
+        "Service": "QZone",
+        "Total": "19",
+        "rank": "5"
+    },
+    {
+        "Company": "Baidu",
+        "Description": "Baidu PostBar is a communication platform tied to search results operated by the Chinese company Baidu.",
+        "Difference": "4",
+        "FoE": "13",
+        "G": "7",
+        "P": "23",
+        "Service": "Baidu PostBar",
+        "Total": "18",
+        "rank": "6"
+    }
+]

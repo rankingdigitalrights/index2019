@@ -1,0 +1,61 @@
+<!doctype html>
+
+<!--[if lt IE 10]> <html class="lt-ie10 no-js"  lang=""> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+
+  {% include head.html %}
+
+  <body  id="page--indicators">
+  
+    <!--[if lt IE 10]>
+      <div id="nocando">
+        <p>You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+      </div>
+    <![endif]-->
+
+    {% include banner.html %}
+
+    <div id="site-canvas" class="page-content-dynamic" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
+
+        <!-- Page itro -->
+        <div class="main-content-with-padding">
+          <div class="page--intro non-highlihted-bg">
+            <div class="row contain">
+              <p>{{ page.intro }}</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="main-content">
+            <div class="main-content-with-padding">
+                <section class="indicators-wrapper contain spaced-row row">
+                    <div class="container--left">
+                        <div class="indicator-item">
+                            <h2 class="page--subtitle governance"><a href="#G1" class="governance">Governance</a></h2>
+                            <ul id="overview_list--governance" class="indicator-list"></ul>
+                        </div>
+                        <div class="indicator-item">
+                            <h2 class="page--subtitle freedom"><a href="#F1" class="freedom">Freedom of Expression</a></h2>
+                            <ul id="overview_list--freedom" class="indicator-list"></ul>
+                        </div>
+                    </div>
+                    
+                    <div class="container--right">
+                        <div class="indicator-item">
+                            <h2 class="page--subtitle privacy"><a href="#P1" class="privacy">Privacy</a></h2>
+                            <ul id="overview_list--privacy" class="indicator-list"></ul>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+
+
+    {% include footer.html %}
+
+    <script src="{{ site.baseurl }}/assets/scripts/bundle.js"></script>
+
+  </body>
+
+</html>

@@ -1,0 +1,393 @@
+<!doctype html>
+
+<!--[if lt IE 10]> <html class="lt-ie10 no-js"  lang=""> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+
+  {% include head.html %}
+
+  <body id="page--company" class="{{ page.company_type_page }}">
+
+    <!--[if lt IE 10]>
+      <div id="nocando">
+        <p>You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+      </div>
+    <![endif]-->
+
+    {% include banner.html %}
+
+    <div class="main-content">
+      <div id="site-canvas" data-type="company" data-id="{{ page.entity }}">
+
+        <!-- Introduction -->
+        <section class="introduction">
+
+          <div class="contain row">
+
+            <div class="container--left">
+
+              <div class="company-type">
+                <i class="fa fa-circle"></i> {{ page.company_type }}
+              </div>
+
+              <h1 class="page--title">
+                {{ page.display }}
+              </h1>
+
+              <div class="comp--sub_headquarters">
+                <i class="fa fa-map-marker" aria-hidden="true"></i>
+                <label>Domicile:</label>
+                {{ page.headquarters }}
+              </div>
+
+              <div class="comp--sub_website">
+                <i class="fa fa-link" aria-hidden="true"></i>
+                <label>Link:</label>
+                <a href="{{ page.link }}" target="_blank">
+                  {{ page.link }}
+                </a>
+              </div>
+
+              <div class="comp--sub_download">
+                <label>Download:</label>
+                <a href="{{ page.download }}" target="_blank">
+                  Download company report
+                </a>
+              </div>
+
+              {% if page.operating %}
+              <div class="comp--sub_operating">
+                <label>Operating Company Evaluated:</label>
+                {{ page.operating }}
+              </div>
+              {% endif %}
+
+            </div>
+
+            <div class="container--right">
+
+              <div class="comp--rank">
+                <label>Rank</label>
+                <div class="comp--rank--value">{{ page.rank }}</div>
+              </div> <!-- comp--rank -->
+
+              <div class="comp--score">
+                <label>Score</label>
+                <div id="total_score" class="comp--score--value"></div>
+              </div> <!-- overall score -->
+
+              <div class="comp--difference">
+                <label>Difference</label>
+                <div id="total_difference" class="comp--difference--value">
+                  <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
+                  <span></span>
+
+                </div>
+              </div> <!-- comp--rank -->
+
+              <div class="comp--among">
+                <label id="comp--position_among_label" >Rank among
+                  {% if page.company_type_page == 'internet-and-mobile-companies' %}12{% endif %}
+                  {% if page.company_type_page == 'telecommunications-companies' %}10{% endif %}
+                  {{ page.company_type }}
+                </label>
+                <div id="total--dot_chart" class="comp--dot_chart"></div>
+              </div> <!-- position among other companies -->
+
+            </div>
+
+          </div>
+        </section>
+
+        <!-- Key fiindings-->
+        <section class="key-findings">
+          <div class="contain row">
+            <div class="container--left">
+              <div class="comp--key_findings">
+                <h2>Key findings</h2>
+                {{ page.key_findings }}
+              </div>
+            </div>
+            <div class="container--right">
+              <div class="comp--services_evaluated">
+                {% if page.services_evaluated %}
+                <div class="comp--services_evaluated-title">Services evaluated</div>
+                <div class="comp--instant_mess-wrapper">
+                  {% for item in page.services_evaluated %}
+                  <div class="comp--instant_mess">
+                    <label><a href="{{ site.baseurl }}/services/{{ item.key_href }}"> [{{ item.key }}]</a></label>
+                    <div class="comp--name"><i class="fa fa-circle" aria-hidden="true"></i>{{ item.name }}</div>
+                    <div class="comp--value">{{ item.value }}</div>
+                    <div class="comp--desc">{{ item.desc }}</div>
+                  </div>
+                  {% endfor %}
+                </div>
+                
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Circle chart -->
+        <section class=" circle-chart highlihted-bg">
+          <div id="comp--circle_chart" class="row spaced-row contain"></div>
+        </section>
+
+        <!-- Section analysis -->
+        <section class="section--analysis">
+
+          <div class="contain spaced-row row">
+
+            <div class="title-section">
+              <h2>Analysis</h2>
+            </div>
+
+            <div class="container--left">
+              <div class="title-line-chart">
+                <div class="title-line-chart-value" style="width:{{ page.total }}%;"></div>
+              </div>
+              <div class="overall-score">
+                <label class="label-black-style overall-score-label">Overall score <span id="total_2018" class="overall-score-value"></span></label>
+              </div>
+              <p>{{ page.analysis_text }}</p>
+            </div>
+
+            <div class="container--right">
+              <div class="key-recommendation">
+                <label class="label-black-style key-recommendation-label">Key Recommendations</label>
+                {% if page.key_recommendation_list %}
+                {{ page.key_recommendation_list }}
+                {% endif; %}
+              </div>
+              <div class="border-line"></div>
+              <p>{{ page.key_recommendation_paragraph }}</p>
+              <p>{{ page.analysis_text_right }}</p>
+              <div class="comp--industry">
+                <label>Industry: </label>{{ page.analysis_industry }}
+              </div>
+              <div class="comp--mark">
+                <label>Market cap: </label>{{ page.analysis_market_cap }}
+              </div>
+              <div class="comp--sank">
+                <label>Stock symbol: </label>{{ page.analysis_stock_symbol }}
+              </div>
+            </div>
+
+          </div>
+        </section>
+
+        <!-- Section governance -->
+        <section class="section--governance">
+          <div class="contain spaced-row row">
+
+            <div class="title-section">
+              <div class="category-label">
+                <label>Category</label>
+                <h2 class="governance">Governance</h2>
+              </div>
+            </div>
+            <div class="container--left">
+
+              <ul class="scores-and-difference">
+                <li>
+                  <label>Score 2017</label>
+                  <div id="governance_2017" class="label-black-style score-value"></div>
+                </li>
+                <li>
+                  <label>Score 2018</label>
+                  <div id="governance_2018" class="label-black-style score-value"></div>
+                </li>
+                <li>
+                  <label>Difference</label>
+                  <div id="governance_difference" class="label-black-style score-value">
+                    <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
+                    <span></span>
+
+                  </div>
+                </li>
+              </ul>
+              <p>{{ page.governance_text }}</p>
+            </div>
+
+            <div class="container--right">
+              <div class="company-indicators">
+                <label>Indicators</label>
+                <div id="indicators--commitment" class="company-indicators company-line-chart">
+                </div>
+              </div>
+
+              {% if page.summary_of_changes_governance %}
+              <div class="summary-of-changes">
+                <label> Summary of changes</label>
+                <div class="positive-and-negative-changes">
+                  {% for item in page.summary_of_changes_governance %}
+                  <div class="{{ item.change }}-change">
+                    {% if item.change == "positive" %}
+                    <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                    {% endif %}
+                    {% if item.change == "negative" %}
+                    <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
+                    {% endif %}
+                    <div class="text-change">
+                      <p class="title-change">{{ item.title }}</p>
+                      <p>{{ item.body }}</p>
+                    </div>
+                  </div>
+                  {% endfor %}
+                </div>
+
+
+              </div>
+              {% endif %}
+
+            </div>
+          </div>
+        </section>
+
+        <!-- Section freedom -->
+        <section class="section--freedom">
+          <div class="contain spaced-row row">
+
+            <div class="title-section">
+              <div class="category-label">
+                <label>Category</label>
+                <h2 class="freedom">Freedom of expression</h2>
+              </div>
+
+            </div>
+            <div class="container--left">
+
+              <ul class="scores-and-difference">
+                <li>
+                  <label>Score 2017</label>
+                  <div id="freedom_of_expression_2017" class="label-black-style score-value"></div>
+                </li>
+                <li>
+                  <label>Score 2018</label>
+                  <div id="freedom_of_expression_2018" class="label-black-style score-value"></div>
+                </li>
+                <li>
+                  <label>Difference</label>
+                  <div id="freedom_of_expression_difference" class="label-black-style score-value">
+                    <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
+                    <span></span>
+
+                  </div>
+                </li>
+              </ul>
+              <p>{{ page.freedom_text }}</p>
+
+            </div>
+            <div class="container--right">
+              <div class="company-indicators">
+                <label>Indicators</label>
+                <div id="indicators--freedom"  class="company-line-chart"></div>
+              </div>
+              
+              {% if page.summary_of_changes_freedom %}
+              <div class="summary-of-changes">
+                <label> Summary of changes</label>
+
+                <div class="positive-and-negative-changes">
+                  {% for item in page.summary_of_changes_freedom %}
+                  <div class="{{ item.change }}-change">
+                    {% if item.change == "positive" %}
+                    <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                    {% endif %}
+                    {% if item.change == "negative" %}
+                    <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
+                    {% endif %}
+                    <div class="text-change">
+                      <p class="title-change">{{ item.title }}</p>
+                      <p>{{ item.body }}</p>
+                    </div>
+                  </div>
+                  {% endfor %}
+                </div>
+
+              </div>
+              {% endif %}
+
+            </div>
+          </div>
+        </section>
+
+        <!-- Section privacy -->
+        <section class="section--privacy">
+          <div class="contain spaced-row row">
+
+            <div class="title-section">
+              <div class="category-label">
+                <label>Category</label>
+                <h2 class="privacy">Privacy</span></h2>
+              </div>
+
+            </div>
+
+            <div class="container--left">
+
+              <ul class="scores-and-difference">
+                <li>
+                  <label>Score 2017</label>
+                  <div id="privacy_2017" class="label-black-style score-value"></div>
+                </li>
+                <li>
+                  <label>Score 2018</label>
+                  <div id="privacy_2018" class="label-black-style score-value"></div>
+                </li>
+                <li>
+                  <label>Difference</label>
+                  <div id="privacy_difference" class="label-black-style score-value">
+                    <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
+                    <span></span>
+
+                  </div>
+                </li>
+              </ul>
+              <p>{{ page.privacy_text }}</p>
+
+            </div>
+
+            <div class="container--right">
+
+              <div class="company-indicators">
+                <label>Indicators</label>
+                <div id="indicators--privacy"  class="company-line-chart"></div>
+              </div>
+              
+              {% if page.summary_of_changes_privacy %}
+              <div class="summary-of-changes">
+                <label> Summary of changes</label>
+                <div class="positive-and-negative-changes">
+                  {% for item in page.summary_of_changes_privacy %}
+                  <div class="{{ item.change }}-change">
+                    {% if item.change == "positive" %}
+                    <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                    {% endif %}
+                    {% if item.change == "negative" %}
+                    <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
+                    {% endif %}
+                    <div class="text-change">
+                      <p class="title-change">{{ item.title }}</p>
+                      <p>{{ item.body }}</p>
+                    </div>
+                  </div>
+                  {% endfor %}
+                </div>
+
+              </div>
+              {% endif %}
+            </div>
+          </div>
+        </section>
+
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    <script src="{{ site.baseurl }}/assets/scripts/bundle.js"></script>
+
+  </body>
+  
+</html>

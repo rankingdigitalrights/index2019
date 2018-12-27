@@ -1,0 +1,258 @@
+#page--compare {
+
+  .page--intro {
+    padding-bottom: 0;
+  }
+
+  .highlihted-bg {
+    margin-bottom: 1.5em;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+  }
+  #compare--overview_list{
+    .item{
+      .container--title{
+        h2{
+          line-height: 1.9em;
+          @include media(small-up){
+            line-height: 1.7em;
+          }
+          @include media(medium-up){
+            line-height: 1.5em;
+          }
+          @include media(large-up){
+            line-height: 1.3em;
+          }
+        }
+      }
+    }
+  }
+  .item {
+    padding: 0;
+    .row {
+      border-top: 2px solid $black;
+      margin-top: 0 !important;
+      margin-bottom: 0 !important;
+      padding-top: 3em;
+      padding-bottom: 2.2em;
+      position: relative;
+
+      .container--score {
+        @include span-columns(3);
+        @include media(small-up) {
+          @include span-columns(2);
+        }
+        @include media(medium-up) {
+          @include span-columns(2);
+        }
+        @include media(large-up) {
+          @include span-columns(1);
+        }
+      }
+
+      .container--title {
+        @include span-columns(6);
+        @include media(small-up) {
+          @include span-columns(6);
+
+        }
+        @include media(medium-up) {
+          @include span-columns(6);
+
+        }
+        @include media(large-up) {
+          @include span-columns(3);
+        }
+      }
+
+      .container--body {
+        @include span-columns(12);
+        @include media(small-up) {
+          @include span-columns(12);
+        }
+        @include media(medium-up) {
+          @include span-columns(12);
+        }
+        @include media(large-up) {
+          @include span-columns(7);
+        }
+      }
+
+      .container--score {
+        span {
+          position: relative;
+          display: inline-block;
+          font-weight: bold;
+          color: #FFFFFF;
+          padding:5px;
+          height: 28px;
+          text-align: center;
+          margin-top: 6px;
+          border-radius: 2px;
+          min-width: 50px;
+        }
+        span:after, span:before {
+          left: 100%;
+          top: 50%;
+          border: solid transparent;
+          content: " ";
+          height: 0;
+          width: 0;
+          position: absolute;
+          pointer-events: none;
+        }
+        span:after {
+          border-color: rgba(0, 166, 90, 0);
+          border-width: 5px;
+          margin-top: -5px;
+        }
+        span:before {
+          border-color: rgba(0, 166, 90, 0);
+          border-width: 6px;
+          margin-top: -6px;
+        }
+        .positive {
+          background-color: #8BC43F;
+          border: 1px solid #8BC43F;
+          &:after{
+            border-left-color: #8BC43F;
+          }
+          &:before{
+            border-left-color: #8BC43F;
+          }
+        }
+        .negative {
+          background-color: #F05A28;
+          border: 1px solid #F05A28;
+          &:after{
+            border-left-color: #F05A28;
+          }
+          &:before{
+            border-left-color: #F05A28;
+          }
+        }
+        .zero {
+          background-color: $black;
+          border: 1px solid $black;
+          &:after{
+            border-left-color: $black;
+          }
+          &:before{
+            border-left-color: $black;
+          }
+        }
+      }
+      .container--body {
+        margin: 0;
+        a{
+          color: #313131;
+          font-weight: bold;
+          i {
+            bottom: 10px;
+            font-size: 20px;
+            right: 10px;
+            position: absolute;
+          }
+        }
+      }
+    }
+  }
+}
+
+#compare--overview_chart {
+  padding: 0;
+  @include media(medium-up){
+    // padding: 0 2em;
+  }
+
+  .chart rect {
+    fill: #D0DBCB;
+  }
+  .bar.positive {
+    fill: #D0DBCB;
+  }
+  .bar.negative {
+    fill: #DFD8CE;
+  }
+  .axis path, .axis line {
+    fill: none;
+    stroke: #DFD8CE;
+    shape-rendering: crispEdges;
+  }
+
+
+  .company--name {
+    transform: rotate(-45deg);
+    font-size: 10px;           
+    @include media(small-up) {
+      transform: rotate(-45deg) !important;
+      font-size: 10px !important; 
+    }
+    @include media(medium-up) {
+      transform: rotate(-45deg) !important;
+      font-size: inherit !important;           
+    }
+    @include media(large-up) {
+      transform: rotate(-45deg) !important;
+      font-size: inherit !important;           
+    }
+    @include media(xlarge-up) {
+      transform: rotate(-45deg) !important;
+      font-size: inherit !important;           
+    }
+  }
+
+  .company--name:hover {
+    cursor: pointer;
+    text-decoration: underline;
+  }
+
+  .legend {
+    border-radius: 2px;
+    color: #FFFFFF;
+    font-weight: bold;
+    display: none !important;
+    @include media(small-up) {
+      display: none !important;
+    }
+    @include media(medium-up) {
+      display: none !important;
+    }
+    @include media(large-up) {
+      display: block !important;
+    }
+    @include media(xlarge-up) {
+      display: block !important;
+    }
+
+  }
+  .legend--zero {
+    fill: #787878;
+  }
+  .legend--positive {
+    fill: #8BC43F;
+  }
+  .legend--negative {
+    fill: #F05A28;
+  }
+  .rank {
+    fill: #ffffff;
+    font-size: 13px;
+    font-weight: bold;
+    position: relative;
+    display: none !important;
+    @include media(small-up) {
+      display: none !important;
+    }
+    @include media(medium-up) {
+      display: none !important;
+    }
+    @include media(large-up) {
+      display: block !important;
+    }
+    @include media(xlarge-up) {
+      display: block !important;
+    }
+  }
+
+}

@@ -1,0 +1,90 @@
+[
+    {
+        "Company": "Microsoft",
+        "Description": "Skype is an application that provides video chat and voice call services, acquired by Microsoft in 2011.",
+        "Difference": "-2",
+        "FoE": "38",
+        "G": "88",
+        "P": "56",
+        "Service": "Skype",
+        "Total": "57",
+        "rank": "1"
+    },
+    {
+        "Company": "Facebook",
+        "Description": "Facebook Messenger is a free instant messaging service and software application which provides text and voice communication via mobile device and on the main Facebook website.",
+        "Difference": "0",
+        "FoE": "43",
+        "G": "81",
+        "P": "55",
+        "Service": "Messenger",
+        "Total": "56",
+        "rank": "2"
+    },
+    {
+        "Company": "Facebook",
+        "Description": "WhatsApp Messenger is an instant messaging application for smartphones which also enables voice calls and sharing of image, video, and audio files using standard mobile numbers. It was acquired by Facebook in February 2014.",
+        "Difference": "2",
+        "FoE": "52",
+        "G": "80",
+        "P": "50",
+        "Service": "WhatsApp",
+        "Total": "56",
+        "rank": "2"
+    },
+    {
+        "Company": "Kakao",
+        "Description": "KakaoTalk is a free mobile instant messaging application for smartphones owned by South Korean internet company Kakao.",
+        "Difference": "-1",
+        "FoE": "53",
+        "G": "35",
+        "P": "52",
+        "Service": "Kakao Talk",
+        "Total": "49",
+        "rank": "4"
+    },
+    {
+        "Company": "Apple",
+        "Description": "iMessage is an instant messaging service developed by Apple Inc. and released in 2011. It allows users to send texts, documents, photos, videos, contact information, and group messages to other iOS or macOS users.",
+        "Difference": "8",
+        "FoE": "25",
+        "G": "33",
+        "P": "56",
+        "Service": "iMessage",
+        "Total": "43",
+        "rank": "5"
+    },
+    {
+        "Company": "Tencent",
+        "Description": "WeChat is a free, cross-platform instant messaging application developed by Tencent and released in January 2011.",
+        "Difference": "2",
+        "FoE": "16",
+        "G": "8",
+        "P": "34",
+        "Service": "WeChat",
+        "Total": "25",
+        "rank": "6"
+    },
+    {
+        "Company": "Tencent",
+        "Description": "Tencent QQ, popularly known as QQ, is an instant messaging service developed by Tencent Holdings Limited. It also offers a variety of services, including online social games, music, shopping, microblogging, movies, and group and voice chat.",
+        "Difference": "1",
+        "FoE": "15",
+        "G": "6",
+        "P": "34",
+        "Service": "QQ",
+        "Total": "24",
+        "rank": "7"
+    },
+    {
+        "Company": "Mail.ru",
+        "Description": "Mail.Ru Agent is an instant messaging service operated by Mail.Ru Group, a Russian internet company.",
+        "Difference": "0",
+        "FoE": "25",
+        "G": "7",
+        "P": "20",
+        "Service": "Mail.ru Agent",
+        "Total": "19",
+        "rank": "8"
+    }
+]

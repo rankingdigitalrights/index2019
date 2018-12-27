@@ -1,0 +1,540 @@
+.col-6 {
+	@include media(medium-up) {
+    	@include span-columns(6);
+  	}
+}
+$maincolor:  #231f20;
+
+
+#narrative-page-content{
+  display: flex;
+  @media(max-width: 1365px){
+    margin: 0 5%;
+  }
+
+  ul,ol{
+    margin: 0;
+    padding: 0;
+    li{
+      font-family: $simplon-light;
+      list-style: none;
+    }
+  }
+  .expand {
+  		float: right;
+  		display: inline;
+  		transition: all .2s ease;
+  		-webkit-transition: all .2s ease;
+  		margin: 0 10px;
+  	}
+  .open:before {
+    animation: turn-plus;
+    animation-duration: .3s;
+    animation-fill-mode: forwards;
+  }
+
+  .open:after {
+    animation: turn-crossbar;
+    animation-duration: .3s;
+    animation-fill-mode: forwards;
+  }
+  .sidebar{
+    text-align: left;
+    padding: 0 20px 0 0;
+    border-right: 2px solid $border-gray-color;
+    margin: 0;
+    width: 30%;
+    position: absolute;
+    display: block;
+
+    @media(min-width: 992px){
+      width: 26%;
+    }
+    @media(min-width: 1366px){
+      width: 18%;
+    }
+
+    @media(max-width: 767px){
+      display: none;
+    }
+    .sidebar-image{
+      width: 215px;
+      margin: 0 0 10px 0;
+      @media(max-width: 767px){
+        width: 180px;
+      }
+      img{
+        width: 100%;
+        height: auto;
+      }
+
+    }
+    .sidebar-menu {
+        cursor: pointer;
+        padding: 10px 0;
+        position: relative;
+        font-size: 1em;
+        font-weight: 300;
+        text-rendering: optimizeLegibility;
+        letter-spacing: .5px;
+      display: flex;
+      justify-content: start;
+      a{
+        line-height: 1.4em;
+        color: $black-narrative;
+        font-size: 1.1em;
+        font-family: "Simplon", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        position: relative;
+
+        &:hover{
+          text-decoration: none;
+          color: $maincolor;
+        }
+        i{
+          color: $black-lighter;
+          font-size: 12px;
+          position: relative;
+          left: 5px;
+          top: 3px;
+        }
+      }
+      .sidebar-menu-link{
+        top: -5px;
+      }
+    }
+    .sidebar-menu-active{
+      a{
+
+      }
+    }
+    .open:before {
+        animation: turn-sign;
+        animation-duration: .3s;
+        animation-fill-mode: forwards;
+    }
+    .open:after {
+        animation: turn-crossbar;
+        animation-duration: .3s;
+        animation-fill-mode: forwards;
+    }
+    .submenu {
+          color: darken($maincolor,30%);
+          font-size: 1em;
+          display: none;
+          &:last-child {
+              border-bottom: 0;
+          }
+          ol{
+              list-style-type: none;
+              margin: 0;
+              padding: 0;
+              counter-reset: item;
+              li{
+                  padding: 5px 0 0 0;
+                  background: none;
+                  color: #a5a8ab;
+                  display: block;
+                  &:last-child {
+                      border-bottom: 0;
+                  }
+                  &:hover{
+                      cursor: pointer;
+                      color: $base-color;
+                  }
+                  a{
+                      color: #5d5e5f;
+                      text-decoration: none;
+                      width: 100%;
+                      display: block;
+                      &:hover{
+                          cursor: pointer;
+                          color: $base-color;
+
+                      }
+                  }
+                .active-base-color{
+                  color: $base-color;
+                  font-family: "Simplon-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+                }
+              }
+
+          }
+
+      }
+    .sidebar-menu-active{
+
+      }
+  }
+  .fixed{
+    position: fixed;
+    top: 50px;
+    height: calc(90% - 50px);
+    overflow: auto;
+  }
+
+
+  .narrative-content{
+    margin-left: 0;
+    width: 100%;
+    h1, h2,h3,h4,h5,h6{
+      font-family: "Simplon-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    @media(min-width: 768px){
+      width: 63%;
+      margin-left: 37%;
+    }
+    @media(min-width: 992px){
+      width: 67%;
+      margin-left: 33%;
+    }
+    @media(min-width: 1366px){
+      width: 73%;
+      margin-left: 27%;
+    }
+
+    .ref-number{
+      color: $black;
+      font-family: "Simplon-bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      position: relative;
+      top: -8px;
+      &:hover{
+        border-bottom: 2px solid $border-gray-color;
+      }
+    }
+    .chapter-title{
+        border-bottom: 2px solid $border-gray-color;
+        display: flex;
+        justify-content: space-between;
+        h1{
+          color: $black;
+          margin-bottom: 20px;
+          text-transform: none;
+        }
+        a{
+          padding-top: 0;
+          @include media(large-up) {
+            padding-top: 14px;
+          }
+          i{
+            font-size: 2em;
+            color: $border-gray-color;
+          }
+        }
+    }
+    h1 {
+      border-bottom: 2px solid #e2dad1;
+      padding-bottom: 15px;
+      margin-bottom: 40px;
+      font-size: 2em;
+      line-height: 1em;
+      color: $link-color;
+        @include media(small-up) {
+          font-size: 2em;
+          line-height: 1em;
+        }
+        @include media(medium-up) {
+          font-size: 2em;
+          line-height: 1em;
+        }
+      @include media(large-up) {
+        font-size: 2.5em;
+        line-height: 1em;
+      }
+    }
+    h2{
+      color: $base-color;
+      margin-bottom: 0;
+      font-size: 2em;
+      text-transform: none;
+      margin: 30px 0;
+        @include media(small-up) {
+          font-size: 1.8em;
+          line-height: 1em;
+        }
+        @include media(medium-up) {
+          font-size: 1.8em;
+          line-height: 1em;
+        }
+    }
+    h3{
+      font-size: 2em;
+      text-transform: none;
+      margin: 30px 0;
+          @include media(small-up) {
+          font-size: 1.8em;
+          line-height: 1em;
+        }
+        @include media(medium-up) {
+          font-size: 1.8em;
+          line-height: 1em;
+        }
+       
+    }
+    blockquote {
+      background-color: #F7F7F7;
+      padding: 2.8em;
+      margin: 1.875em 0;
+
+      h3 {
+        color: #4D9ECF;
+        text-transform: none;
+        font-family: "Simplon-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 2em;
+      }
+
+      p{
+        margin: 0;
+      }
+
+    }
+    a{
+        color: $link-color;
+        cursor: pointer;
+        word-break: break-word;
+        &:hover{
+            text-decoration: underline;
+        }
+    }
+    p{
+      font-size: 1em;
+      line-height: 1.4em;
+      font-family: $simplon-light;
+      color: $black-narrative;
+      @include media(small-up) {
+        font-size: 1em;
+        margin-bottom: 10px;
+      }
+      @include media(medium-up) {
+        font-size: 1em;
+        margin-bottom: 10px;
+      }
+      @include media(large-up) {
+        font-size: 1.250em;
+        margin-bottom: 15px;
+      }
+      @include media(xlarge-up) {
+        font-size: 1.250em;
+      }
+      span{
+        font-size: inherit;
+      }
+    }
+    img{
+      height: auto;
+      width: 100%;
+      margin: 10px auto 20px;
+      @media(min-width: 1920px){
+        width: 70%;
+        margin: 10px 30% 20px 0;
+      }
+    }
+    .ref-number{
+      color: $black;
+      &:hover{
+        text-decoration: none;
+      }
+    }
+    .bold{
+        font-weight: bold;
+    }
+    .quote{
+      font-size: 1.25em;
+      padding-left: 1em;
+      border-left: 3px solid $base-color;
+      margin: 1em;
+      line-height: 1.2em;
+      @include media(small-up) {
+        font-size: 1em;
+      }
+      @include media(medium-up) {
+        font-size: 1.25em;
+      }
+      @include media(large-up) {
+        font-size: 1.75em;
+      }
+      @include media(xlarge-up) {
+        font-size: 1.75em;
+      }
+      span{
+        font-size: 1.75em;
+      }
+    }
+    .highlihted-section-div{
+      background-color: #F7F7F7;
+      padding: 2.8em;
+      margin: 1.875em 0;
+      h3{
+        color: $base-color;
+        text-transform: none;
+        font-family: "Simplon-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 2em;
+      }
+    }
+    .firstcharacter {
+        color:$base-color;
+        float: left;
+        font-size: 4.5em;
+        line-height: 60px;
+        padding-top: 10px;
+        padding-right: 20px;
+        padding-left: 3px;
+        font-weight: bold;
+      }
+
+    ul{
+        margin-left: 20px;
+        li{
+          list-style: disc;
+          p{
+            font-size: 1em;
+            line-height: 1.4em;
+            font-family: $simplon-light;
+            color: $black-narrative;
+            @include media(small-up) {
+              font-size: 1em;
+              margin-bottom: 10px;
+            }
+            @include media(medium-up) {
+              font-size: 1em;
+              margin-bottom: 10px;
+            }
+            @include media(large-up) {
+              font-size: 1.250em;
+              margin-bottom: 15px;
+            }
+            @include media(xlarge-up) {
+              font-size: 1.250em;
+            }
+          }
+        }
+      }
+    ol{
+      margin-left: 20px;
+      padding: 0;
+      counter-reset: item;
+        li{
+          margin: 0;
+          counter-increment: item;
+          list-style-type: none;
+          position: relative;
+
+          &::before{
+            font-weight: bold;
+            content: counter(item) ".";
+            padding-right:0.5em;
+            float: left;
+            font-size: 1em;
+            position: absolute;
+            left: -20px;
+            @include media(large-up) {
+              font-size: 1.12em;
+            }
+          }
+          p{
+            line-height: 1.3em;
+            font-family: "Simplon-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+          }
+
+        }
+    }
+
+    .introduction{
+      margin-top: 44px;
+        p {
+          line-height: 1.5em;
+        }
+    }
+    .pagination{
+      font-size: 20px;
+      margin: 40px 0;
+      	a{
+          cursor: pointer;
+          color: $black-lighter ;
+          font-family: $simplon-light;
+          font-size: 15px;
+          display: flex;
+          flex-direction: row;
+          flex-wrap: wrap;
+          @include media(medium-up) {
+            display: inline-block;
+          }
+
+          @include media(large-up) {
+            font-size: 1.12em;
+          }
+          &:hover{
+            text-decoration: none;
+            span{
+              color: $maincolor;
+              border-bottom: 2px solid $border-gray-color;
+              text-decoration: none;
+            }
+            i{
+              color: $maincolor;
+            }
+          }
+          i{
+            padding: 0 5px;
+            position: relative;
+            //top: -2px;
+          }
+
+      	}
+        a:hover {
+          border-bottom: 2px solid #E5DCD2;
+        }
+      	.next{
+      		float:right;
+      	}
+      }
+     footnotes{
+      h2{
+        font-size: 2em;
+        text-transform: none;
+      }
+      ol{
+        li{
+          font-size: 0.85em;
+          margin: 0 0 20px 0;
+        }
+      }
+      font-size: 0.85em;
+      margin: 0 0 20px 0;
+    }
+    .footnote-paragraph {
+      font-size: 0.85em;
+      margin: 0 0 20px 0;
+    }
+
+    .pagination + h3{
+      font-size: 2em;
+      text-transform: none;
+      margin: 30px 0;
+      border-top: 1px solid #737373;
+      padding-top: 15px;
+      width: 50%;
+    }
+    .footnotes{
+      font-size: 1em;
+      margin: 0 0 20px 15px;
+      color: $black;
+      position: relative;
+      span{
+        font-size: 0.75em;
+        font-family: Simplon-Bold;
+        border-bottom: 2px solid $border-gray-color;
+        position: absolute;
+        top: -5px;
+        left: -30px;
+      }
+      p,a{
+        font-family: Simplon-Regular;
+      }
+    }
+
+  }
+
+
+}
+

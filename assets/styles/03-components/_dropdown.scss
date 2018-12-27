@@ -1,0 +1,209 @@
+#dropdown-indicators-governance,#dropdown-indicators-privacy,#dropdown-indicators-freedom{
+  left: -350px !important;
+  top: -25px !important;
+  width: 350px;
+  a{
+    text-transform: capitalize !important;
+    line-height: 1.2em;
+  }
+
+}
+#dropdown-indicators-mobile{
+  li{
+    .collecticon-sm-triangle-down,.collecticon-sm-triangle-up{
+      float: right;
+      padding-right: 15px;
+      padding-top: 7px;
+    }
+  }
+}
+.dropdown--trigger {
+  position: relative;
+  @include noselect;
+  cursor: pointer;
+}
+
+.dropdown--trigger_mobile {
+  @extend .dropdown--trigger;
+
+  .collecticon {
+    color: $white;
+    margin-bottom: 2px;
+  }
+  .collecticon-sm-triangle-up { display: none; }
+  .collecticon-sm-triangle-down { display: inline-block; }
+
+  &.expanded {
+    .collecticon-sm-triangle-up { display: inline-block; }
+    .collecticon-sm-triangle-down { display: none; }
+  }
+
+  &:hover {
+    a { text-decoration: none; }
+  }
+}
+
+.dropdown {
+width: auto;
+z-index: 0;
+visibility: hidden;
+position: absolute;
+box-shadow: 0 0 2px $gray;
+background: $white-pure;
+  &.dropdown-companies {
+  width: 397px;
+    .dropdown--item-wrapper {
+      @include media(medium-up) {
+      @include span-columns(6);
+      padding-left: 1em;
+      }      
+      .internet-and-mobile-companies {
+        .dropdown--item {
+          a {
+            i {
+            color: $red;  
+            }
+          }
+        }
+      }
+      .telecommunications-companies {
+        .dropdown--item {
+          a {
+            i {
+            color: $orange;  
+            }
+          }
+        }       
+      }      
+    } 
+  }
+}
+
+.dropdown--mobile {
+  width: 100%;
+  background: $dropdown-bg;
+  position: relative;
+  visibility: visible;
+  display: none;
+  margin-top: .5em;
+
+  a,
+  a:link,
+  a:hover,
+  a:active,
+  a:visited {
+    color: $base-color;
+    &:hover {
+      text-decoration: underline;
+    }
+
+  }
+}
+
+.dropdown--share {
+top: 35px !important;  
+width: 250px;
+z-index: 0;
+display: none;
+position: absolute;
+box-shadow: 0 0 2px $gray;
+background: #313131;
+  li {
+    padding: 10px 18px;
+    color: #fff;
+    textarea {
+      border-bottom: 1px dotted #4e4e4e;
+      padding-bottom: 8px;
+      width: 100%;
+      color: #fff;
+    }
+    button {
+      margin-top: 10px;
+      background-color: #313131;
+      border: 1px solid #4e4e4e;
+      border-radius: 3px;
+      &:hover {
+        background-color: #4e4e4e;
+      }
+    }
+  }
+}
+
+.dropdown--item {
+list-style: none;
+margin: 0;
+  a {
+  display: inline-block;
+  padding: 0.5em 0;
+  margin-left: 1em;
+  margin-right: 1em;
+  font-family: $simplon;
+  font-weight: 600;
+  color: $black-lighter;
+  font-size: 14px;
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background: $white-pure;
+  position: relative;
+    i {
+    font-size: 10px;                          
+    line-height: 1;
+    margin-right: 5px;        
+    }       
+    &:hover {
+    background:transparent;
+    text-decoration: none;
+      &::after {
+        display: block;
+        content: '';
+        width: 100%;
+        height: 2px;
+        background: $border-gray-color;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+      }
+    }
+  }
+  &:first-child {
+  margin-top: 10px;   
+  }
+  &:last-child {
+  margin-bottom: 10px;    
+  }
+}
+
+.dropdown--category {
+  border-top: none;
+  border-bottom: none;
+  &:first-child {
+    border-top: 1px solid #fff;
+  }
+  &:last-child {
+    border-bottom: 1px solid #ddd;
+  }
+}
+
+.dropdown--category_child {
+  margin-left: .75em;
+  position: relative;
+}
+
+.dropdown--reverse {
+  text-align: right;
+  width: 180px;
+
+  .dropdown--category_child {
+    margin-left: 0;
+    margin-right: .75em;
+  }
+}
+
+.dropdown--item{
+  position: relative;
+  #dropdown-indicators-privacy,#dropdown-indicators-freedom{
+    position: absolute !important;
+  }
+}
+

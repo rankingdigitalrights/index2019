@@ -1,0 +1,43 @@
+.secondary-navigation {
+background-color: $dark-grey;
+padding: 10px 0;
+display: none;
+box-shadow: 0 2px 4px 0 rgba(0,0,0,0.25);
+	@include media(small-up) {
+	display: none;  
+	}
+	@include media(medium-up) {
+	display: block; 
+	}
+	@include media(large-up) {
+	display: block;	
+	}
+	@include media(xlarge-up) { 
+	display: block;	
+	}
+	.medium-up {
+	float: left;
+		.nav {
+		text-align: left;
+		margin-left: 3.05em;
+			.nav--item {
+				a {
+				padding: 16px 0 3px 0;
+				font-family: $simplon-regular;
+				font-size: 15px;
+				font-weight: 500;
+				color: $black-lighter;
+				line-height: 1;
+				text-transform: uppercase;
+				letter-spacing: 0;
+				text-decoration: none;
+					&:hover {
+					color: $black-pure;
+					text-decoration: none;
+					border-bottom: 2.6px solid $white;
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,605 @@
+#page--service {
+	.container--right {
+		.rank--section {
+			@include media(small-up) {
+				@include span-columns(3);
+			}
+			@include media(medium-up) {
+				@include span-columns(3);
+			}
+			@include media(large-up) {
+				@include span-columns(3);
+			}
+		}
+		.score--section {
+			@include media(small-up) {
+				@include span-columns(3);
+			}
+			@include media(medium-up) {
+				@include span-columns(3);
+			}
+			@include media(large-up) {
+				@include span-columns(3);
+			}
+		}
+		.difference--section {
+			@include media(small-up) {
+				@include span-columns(3);
+			}
+			@include media(medium-up) {
+				@include span-columns(3);
+			}
+			@include media(large-up) {
+				@include span-columns(3);
+			}
+		}
+
+	}
+
+	.graph-legend{
+		margin-top: 2em;
+		margin-bottom: 0;
+		.graph-legend-values{
+			border: none !important;
+			width: 100%;
+			display: block;
+			.graph-legend-values-item{
+				display: flex;
+				justify-content: center;
+				align-items: flex-start;
+				.graph-legend-values-value{
+					padding: 0 10px;
+				}
+			}
+			.graph-legend-values-value + .graph-legend-values-value {
+				margin-top: 0;
+			}
+		}
+	}
+	.comp--industry{
+		display: flex;
+		.rank--section,.score--section,.difference--section{
+			font-family: $simplon-bold;
+			padding: 0 15px 0 0;
+			@include media(medium-up) {
+				padding: 0;
+			}
+			.overall-score,.difference--value{
+				margin-top: 0.5em;
+				font-size: 33px;
+				@include media(small-up) {
+					margin-top: 0.5em;
+					font-size: 33px;
+				}
+				@include media(medium-up) {
+					margin-top: 0.5em;
+					font-size: 33px;
+				}
+				@include media(large-up) {
+					margin-top: 0.5em;
+					font-size: 37px;
+				}
+				@include media(xlarge-up) {
+					margin-top: 0.5em;
+					font-size: 37px;
+				}
+
+			}
+			.rank--section_rank_value > span,
+			.overall-score,
+			.difference--value > span {
+				font-size: 33px;
+				@include media(small-up) {
+					margin-top: 0.5em;
+					font-size: 33px;
+				}
+				@include media(medium-up) {
+					margin-top: 0.5em;
+					font-size: 33px;
+				}
+				@include media(large-up) {
+					margin-top: 0.5em;
+					font-size: 37px;
+				}
+				@include media(xlarge-up) {
+					margin-top: 0.5em;
+					font-size: 37px;
+				}
+
+			}
+			.rank--section_rank_value{
+				margin-top: 6px;
+			}
+			.difference--value{
+				.up-arrow-green,.down-arrow-red{
+					font-size: 0.6em;
+					line-height: 1.6em;
+					position: relative;
+					top: -12px;
+					margin: 0 5px 0 0;
+				}
+			}
+		}
+	}
+	.page-content-dynamic {
+
+		.page-introduction {}
+
+		.service-graph {
+			.service-indicators {
+				.container--left + .container--right {
+				/*border-left: 1px solid $light-grey;*/
+				}
+				.container--left {
+					@include media(medium-up) {
+					@include span-columns(6);
+					}
+				}
+				.indicator-item + .indicator-item {
+				margin-top: 2em;	
+				}			
+			}
+			.service-chart {
+				.bar--chart {
+					.bar--axis_x_service,
+					.bar--axis_x_percent {
+						.tick {
+						font-family: $simplon-bold;                 
+						color: $black;
+						line-height: 1;	
+						font-weight: 600;
+						text-transform: capitalize;
+						font-size: 0.6em;
+						  @include media(small-up) {
+						  font-size: 0.6em;
+						  }
+						  @include media(medium-up) {
+						  font-size: 14px;  
+						  }
+						  @include media(large-up) {
+						  font-size: 14px;
+						  }
+						  @include media(xlarge-up) {
+						  font-size: 14px;  
+						  }							
+						}
+					}
+					.bar--axis_x_rank {
+						.tick {
+						text-align: center;
+						line-height: 2;               
+						fill: $white-pure;
+						font-weight: 600;
+						font-family: $simplon-bold;                 
+						font-size: 14px;
+							@include media(small-up) {
+							font-size: 14px;
+							}
+							@include media(medium-up) {
+							font-size: 14px;  
+							}
+							@include media(large-up) {
+							font-size: 14px;
+							}
+							@include media(xlarge-up) {
+							font-size: 14px;  
+							} 							
+						}
+					}
+					.bar--axis_x_company {
+					font-family: $simplon-light;                 
+					color: $black;					
+					line-height: 1;	
+					text-transform: uppercase;
+					font-size: 9px;
+					  @include media(small-up) {
+					  font-size: 14px;
+					  }
+					  @include media(medium-up) {
+					  font-size: 16px;  
+					  }
+					  @include media(large-up) {
+					  font-size: 16px;
+					  }
+					  @include media(xlarge-up) {
+					  font-size: 16px;  
+					  }
+					  text {
+					  fill: $black;
+						  text-transform: capitalize;
+					  }
+					}
+
+					.bar--axis_x_company{
+						display: none;
+						@include media(large-up) {
+							display: block;
+						}
+					}
+					.bar--axis_x_percent{
+						display: none;
+						@include media(medium-up) {
+							display: block;
+						}
+					}
+					.bar--axis_x_service{
+						.tick{
+							text{
+								@media (max-width: 767px){
+									-webkit-transform: rotate(-35deg) translate(-70px, 17px);
+									-moz-transform: rotate(-35deg) translate(-70px, 17px);
+									-o-transform: rotate(-35deg) translate(-70px, 17px);
+									transform: rotate(-35deg) translate(-70px, 17px);
+								}
+
+							}
+						}
+					}
+				}
+			}				
+			.graph-legend {
+			justify-content: flex-end;
+				.governance {
+				font-family: $simplon-medium;
+				color: $cat-commitment !important;
+					&:hover {
+					color: $cat-commitment !important;	
+					}
+				}   
+				.freedom {
+				font-family: $simplon-medium;
+				color: $cat-freedom !important;
+					&:hover {
+					color: $cat-freedom !important;	
+					}
+				}   
+				.privacy {
+				font-family: $simplon-medium;
+				color: $cat-privacy !important;
+					&:hover {
+					color: $cat-privacy !important;	
+					}
+				}
+				.service-rank {
+				margin-bottom: 10px;	
+					i {
+					color: $gray;
+					font-size: 10px;
+				        @include media(small-up) {
+				        font-size: 15px;		
+				        }
+				        @include media(medium-up) {
+				  		font-size: 20px;
+				        }
+				        @include media(large-up) {
+				        font-size: 20px;	
+				        }
+				        @include media(xlarge-up) {
+				 		font-size: 20px;
+				        }						
+					}
+				}
+				.graph-legend-values-label {
+				margin-bottom: 0px;	
+				}
+			}
+			
+		}
+
+		#service--analysis {
+			h2 {
+				color: #b1b1b1;
+				font-size: 46px;
+			}
+		}
+
+		.service--companies {
+			.service--section {
+				.comp--industry {
+				margin-top: 1em;
+			        @include media(small-up) {
+					margin-top: 1em;
+			        }
+			        @include media(medium-up) {
+					margin-top: 0em;			  
+			        }
+			        @include media(large-up) {
+					margin-top: 0em;
+			        }
+			        @include media(xlarge-up) {
+					margin-top: 0em;			 
+			        }					
+
+				}
+				.comp--mark {
+					padding-top: 2em;
+					.dotchart {
+						margin: 0 0 1em;
+					    @include media(small-up) {
+				        margin: 0 0 1em;
+				        }
+				        @include media(medium-up) {
+				        margin: 0 0 1em;
+				        }
+				        @include media(large-up) {
+				        margin: 0 0 3em;
+				        }
+				        @include media(xlarge-up) {
+				        margin: 0 0 3em;
+				        }						
+				        .dot {
+				        top: 2.1em;
+							@include media(small-up) {
+							top: 2.1em;
+							}
+							@include media(medium-up) {
+							top: 2.1em;
+							}
+							@include media(large-up) {
+							top: 2.1em;
+							}
+							@include media(xlarge-up) {
+							top: 2.1em;   
+							}                   
+							&.highlight {
+							text-align: center;
+						    width: 2em;
+						    height: 2em;
+						    top: 1.5em;
+						    line-height: 2;								
+							color: $white-pure;
+							font-weight: 600;
+							font-family: $simplon-bold; 								
+							background-color: $base-color;
+							font-size: 13px;
+							  @include media(small-up) {
+							  font-size: 13px;
+							  }
+							  @include media(medium-up) {
+							  font-size: 13px;
+								top: 1.9em;
+							  }
+							  @include media(large-up) {
+							  font-size: 13px;
+								top: 1.9em;
+							  }
+							  @include media(xlarge-up) {
+							  font-size: 13px;
+								top: 1.9em;
+							  }								
+							}
+						}						
+						.dotchart--label {
+						top: 2em;
+					        @include media(small-up) {
+							top: 2em;
+					        }
+					        @include media(medium-up) {
+							top: 1.5em;					  
+					        }
+					        @include media(large-up) {
+					        top: 1.5em;		
+					        }
+					        @include media(xlarge-up) {
+					 		top: 1.5em;
+					        }							
+							&.dotchart--label_left {
+							left: -20px;
+						        @include media(small-up) {
+								left: -20px;
+						        }
+						        @include media(medium-up) {
+								left: -25px;
+						        }
+						        @include media(large-up) {
+								left: -25px;
+						        }
+						        @include media(xlarge-up) {
+								left: -25px;
+						        }								
+							}
+							&.dotchart--label_right {
+							right: -15px;
+						        @include media(small-up) {
+						        right: -2.4em;
+						        }
+						        @include media(medium-up) {
+						  		right: -2.4em;
+						        }
+						        @include media(large-up) {
+						        right: -2.4em;
+						        }
+						        @include media(xlarge-up) {
+						 		right: -2.4em;
+						        }								
+							}							
+						}
+						.collecticon {
+							&.collecticon-arrow-down {
+							display: none;	
+							}
+						}						
+					}
+				}
+			}
+		}
+
+	}
+
+
+	section.service--section {
+
+		.contain.spaced-row.row {
+			border-bottom: 1px solid #313131;
+
+
+			.title-section {
+	    	display: flex;
+	    	justify-content: flex-start;
+	    	align-items: center;
+	    	margin-bottom: .8em;
+	      h3 {
+	      	margin-bottom: 0;  
+	      }     
+	      .overall-score {
+	        margin-left: 1em;  
+	        label {
+	          font-family: $simplon-light;  
+	          text-transform: uppercase;
+	          color: $black;
+	          font-size: 15px;
+	          line-height: 1.3; 
+	          letter-spacing: 1px;
+	          margin-bottom: 0;
+	          @include media(small-up) {
+	            font-size: 15px;
+	          }
+	          @include media(medium-up) {
+	            font-size: 1.12em;
+			  }
+	          @include media(large-up) {
+	            font-size: 1.12em;
+			  }
+	          @include media(xlarge-up) {
+	            font-size: 1.12em;
+	          } 
+	        }
+	        .overall-score-value {
+	        font-family: $simplon-bold;
+	        color: $gray;
+	        font-size: 19px;
+	        line-height: 1.3; 
+	        letter-spacing: 1px;
+	        margin-bottom: 0px;
+	        text-transform: uppercase;
+	          @include media(small-up) {
+	          font-size: 19px;  
+	          }
+	          @include media(medium-up) {
+	          font-size: 20px;  
+	          }
+	          @include media(large-up) {
+	          font-size: 25px;
+	          }
+	          @include media(xlarge-up) {
+	          font-size: 34px;  
+	          }           
+	        }
+	      }
+
+	      .overall-score.service {
+	      	margin-left: 0;
+	      	.overall-score-value {
+	      		color: $black;
+	      	}
+	      }      
+	    }
+
+	    .rank--section {
+	      .overall-score {
+	      	font-family: $simplon-bold;
+	      	font-size: 30px;
+	        margin-left: 0.5em;
+	        margin-top: 10px;
+		        @include media(small-up) {
+		      	font-size: 30px;
+		        margin-top: 10px;
+		        }
+		        @include media(medium-up) {
+		      	font-size: 35px;
+		        margin-top: 5px;		  
+		        }
+		        @include media(large-up) {
+		      	font-size: 42px;
+		        margin-top: 0px;
+		        }
+		        @include media(xlarge-up) {
+		 		font-size: 42px;
+		        margin-top: 00px;		 		
+		        }	          
+	      }
+	      
+        .rank--section_rank_value {
+    	width: 55px;
+    	height: 55px;
+    	text-align: center;
+    	background-color: $base-color;
+    	@include border-radius (50%);
+          @include media(small-up) {
+			  width: 55px;
+			  height: 55px;
+          }
+          @include media(medium-up) {
+			  width: 55px;
+			  height: 55px;
+          } 
+          @include media(large-up) {
+			  width: 55px;
+			  height: 55px;
+          }            
+          @include media(xlarge-up) {
+			  width: 55px;
+			  height: 55px;
+          }               
+          span {
+          	font-family: $simplon-bold;
+          	color: $white-pure;
+          	font-size: 32px;
+          	line-height: 2;
+            @include media(small-up) {
+            }
+            @include media(medium-up) {
+            }
+            @include media(large-up) {
+            }
+            @include media(xlarge-up) {
+            }                                              
+          }                           
+        } 
+			}
+
+	    label {
+		    font-family: $simplon-light;
+			text-align: left;
+			text-transform: capitalize;
+		    color: $black;
+		    font-size: 15px;
+		    line-height: 1.3; 
+		    letter-spacing: 1px;
+		    margin-bottom: 0;
+		    @include media(small-up) {
+		      font-size: 15px;
+		    }
+		    @include media(medium-up) {
+		      font-size: 1.12em;
+			}
+		    @include media(large-up) {
+		      font-size: 1.12em;
+			}
+		    @include media(xlarge-up) {
+		      font-size: 1.12em;
+		    } 
+		  }
+
+	    .container--left {
+			padding: 0 2% 0 0;
+	      @include media(medium-up) {
+	        @include span-columns(6);
+	      }
+	    }
+	    .container--right {
+	      margin-right: 0;
+			padding: 0 0 0 2%;
+
+	      @include media(medium-up) {
+	        @include span-columns(6);
+	      }
+	    }
+
+
+	  }
+
+	}
+
+
+}
