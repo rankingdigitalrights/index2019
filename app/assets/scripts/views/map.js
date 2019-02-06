@@ -12,7 +12,6 @@ module.exports = Backbone.View.extend({
 
   // Constructor
   initialize: function () {
-
     // render map
     var map = new Datamap({
       element: document.getElementById('container'),
@@ -67,12 +66,9 @@ module.exports = Backbone.View.extend({
     function handleCompanyLabels (layer) {
       var self = this;
       d3.selectAll('.datamaps-bubble').attr('data-foo', function (data) {
-
-        tooltip.text(data.company); 
-
-        // convert lat/lng into x/y
+        tooltip.text(data.company);
         var coords = self.latLngToXY(data.latitude, data.longitude);
-        var a = layer.append('a')
+        layer.append('a')
           .attr('class', 'company--name')
           .attr('xlink:href', baseurl + '/companies/' + data.compURL)
           .append('text')
@@ -81,26 +77,24 @@ module.exports = Backbone.View.extend({
           .style('font-size', '12px')
           .style('fill', '#ffffff')
           .text(data.company)
-
-          .on("mouseover", function(){return tooltip.text(data.company).style("visibility", "visible");})
-          .on("mousemove", function(){return tooltip.style("top", (d3.event.pageY+20)+"px").style("left",(d3.event.pageX-150)+"px");})
-          .on("mouseout", function(){return tooltip.style("visibility", "hidden");});
+          .on('mouseover', function () { return tooltip.text(data.company).style('visibility', 'visible'); })
+          .on('mousemove', function () { return tooltip.style('top', (d3.event.pageY + 20) + 'px').style('left', (d3.event.pageX - 150) + 'px'); })
+          .on('mouseout', function () { return tooltip.style('visibility', 'hidden'); });
       });
     }
 
     // register the plugin to datamaps
     map.addPlugin('companyLabels', handleCompanyLabels);
 
-    var tooltip = d3.select("body")
-      .append("div")
+    var tooltip = d3.select('body')
+      .append('div')
       .attr('class', 'company--tooltip')
-      .style("position", "absolute")
-      .style("z-index", "10")
-      .style("visibility", "hidden")
-      .text("a simple tooltip");
+      .style('position', 'absolute')
+      .style('z-index', '10')
+      .style('visibility', 'hidden')
+      .text('a simple tooltip');
 
-
-   window.addEventListener('resize', function () {
+    window.addEventListener('resize', function () {
       map.resize();
     });
   }
