@@ -1,0 +1,10 @@
+---
+---
+Table of contents
+=================
+
+1. Lorem
+2. Ipsum
+3. Dolor
+4. Sit
+5. Amet

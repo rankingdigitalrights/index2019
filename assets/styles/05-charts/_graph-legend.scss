@@ -28,22 +28,22 @@ flex-direction: column;
     justify-content: space-around;
     align-items: flex-start;			
 	border-left: none;
-	border-top: 1px solid $black;
+	border-top: 1px solid $white;
 		@include media(small-up) {
 		border-left: none;
-		border-top: 1px solid $black;
+		border-top: 1px solid $white;
 		}
 		@include media(medium-up) {
 		border-left: none;
-		border-top: 1px solid $black;
+		border-top: 1px solid $white;
 		}
 		@include media(large-up) {
 		border-top: none;	
-		border-left: 1px solid $black;
+		border-left: 1px solid $white;
 		}
 		@include media(xlarge-up) {
 		border-top: none;	
-		border-left: 1px solid $black;
+		border-left: 1px solid $white;
 		} 	
 	}
 
@@ -83,9 +83,9 @@ flex-direction: column;
 		}		 			
 		.graph-legend-content-item {	
 		text-align: center;				
-			.graph-legend-content-item-value {
+		.graph-legend-content-item-value {
 			font-family: $simplon-bold;
-			color: $black;    											
+			color: $white;    											
 			line-height: 1;
 			font-size: 24px;//17
 			letter-spacing: 2px;
@@ -105,7 +105,7 @@ flex-direction: column;
 			}
 			.graph-legend-content-item-label	{
 			font-family: $simplon-medium;	
-			color: $black;    											
+			color: $white;    											
 			line-height: 1;
 			font-size: 9px;
 			text-transform: uppercase;
@@ -160,7 +160,7 @@ flex-direction: column;
 		}
 		@include media(large-up) {
 		padding: 1em 1em; //3
-		border-right: 1px solid $black;
+		border-right: 1px solid $white;
 		}
 		@include media(xlarge-up) {
 		padding: 1em 2em;//4
@@ -186,10 +186,10 @@ flex-direction: column;
 		.graph-legend-values-item {	
 			.graph-legend-values-label {
 			font-family: $simplon-medium;	
-			color: $black;    											
+			color: $white;    											
 			line-height: 1;
 			font-size: 18px;
-			text-transform: capitalize;
+			text-transform: uppercase;
 			margin-bottom: 5px;
 				@include media(small-up) {
 				font-size: 20px;
@@ -210,7 +210,7 @@ flex-direction: column;
 			}				
 			.graph-legend-values-value {					
 			font-family: $simplon-light;				
-			color: $black;    											
+			color: $white;    											
 			line-height: 1;
 			font-size: 15px;
 			letter-spacing: 1px;
@@ -322,7 +322,7 @@ flex-direction: column;
 		}				 		
 		.graph-legend-interaction-item {
 		display: flex;	
-		background-color: $black;
+		background-color: $white;
 
 			i {
 			color: $white-pure;	

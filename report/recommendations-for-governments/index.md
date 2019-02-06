@@ -7,7 +7,7 @@ prev:
   text: Telecommunications disconnect
 next:
   href: questions-for-investors-to-ask
-  text: Questions for investors
+  text: Questions for investors to ask
 footnotes:
   <p class="footnotes"><span>[101]</span> “Working Group 3- Privacy and Transparency” (Freedom Online Coalition, November 2015), <a href="https://www.freedomonlinecoalition.com/wp-content/uploads/2015/10/FOC-WG3-Privacy-and-Transparency-Online-Report-November-2015.pdf">https://www.freedomonlinecoalition.com/wp-content/uploads/2015/10/FOC-WG3-Privacy-and-Transparency-Online-Report-November-2015.pdf</a>.</p>
   <p class="footnotes"><span>[102]</span> “Universal Declaration of Human Rights” (United Nations, December 10, 1948), <a href="http://www.un.org/en/universal-declaration-human-rights/">http://www.un.org/en/universal-declaration-human-rights/</a>.</p>
@@ -28,7 +28,7 @@ Such laws should:
 
   - **Require companies to clearly disclose to users the full lifecycle of their information,** from collection, to use, to sharing, to retention and deletion.
 
-  - **Require companies to give users more control over the collection and sharing of their information,** and to clearly disclose how users can exercise such control.
+  - **Require companies to give users more control over the collection and sharing of their information,** and to clearly disclose how users can exercise such control.  
 
   - **Require companies to implement and disclose appropriate policies and procedures for handling data breaches,** and to notify users when their data has been compromised.
 

@@ -16,7 +16,12 @@
   <!-- Header -->
   {% include banner.html %}
   <!--<div class="main-content-with-padding">-->
-    <!-- Page itro -->
+    <div id="site-canvas" class="non-highlihted-bg" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
+
+      <!-- World map -->
+      <section class="world-map non-highlihted-bg">
+
+        <!-- Page itro -->
     <div class="main-content-with-padding">
       <div class="page--intro non-highlihted-bg">
         <div class="row contain">
@@ -24,11 +29,7 @@
         </div>
       </div>
     </div>
-
-    <div id="site-canvas" class="non-highlihted-bg" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
-
-      <!-- World map -->
-      <section class="world-map non-highlihted-bg">
+    
         <div class="contain row">
 
           <div id="container"></div>
@@ -52,16 +53,16 @@
               </div>
               <div class="graph-legend-values">
                 <div class="graph-legend-values-item">
-                  <div class="graph-legend-values-label">Industry</div>
+                  <div class="graph-legend-values-label">Companies headquoters</div>
                   <div class="graph-legend-values-value internet-and-mobile-companies">
-                    <i class="fa fa-circle"></i> Internet and mobile ecosystem companies
+                    <i class="fa fa-circle"></i> Internet and mobile
                   </div>
                   <div class="graph-legend-values-value telecommunications-companies">
-                    <i class="fa fa-circle"></i> Telecommunications companies
+                    <i class="fa fa-circle"></i> Telecommunications
                   </div>
                 </div>
                 <div class="graph-legend-values-item">
-                  <div class="graph-legend-values-label">Domicile</div>
+                  <div class="graph-legend-values-label">Companies reach</div>
                   <div class="graph-legend-values-value">
                     <span class="graph-legend-values-value-bar"></span>
                   </div>
@@ -145,14 +146,10 @@
               </div>
             </div>
           </div>
-
-
-
       </section>
 
 
       <!-- Services ranking -->
-
       <section class="services-ranking" id="services-ranking">
         <div class="main-content-with-padding">
           <div class="contain spaced-row row">
@@ -166,7 +163,6 @@
 
 
       <!-- Data stories -->
-
       <section class="data-stories non-highlihted-bg" id="key-stories">
         <div class="main-content-with-padding">
           <div class="contain spaced-row row">
@@ -382,7 +378,7 @@
     <!-- Map -->
     <script type="text/javascript">
         jQuery(document).ready(function($){
-            $('#container').css({"position":"relative","padding-bottom":"48%"});
+            //$('#container').css({"position":"relative","padding-bottom":"48%"});
         });
     </script>
 

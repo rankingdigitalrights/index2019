@@ -30,7 +30,16 @@
 
 
 	/* World map */
-	.bombLabels{
+	.company--tooltip {
+		background-color: #000000;
+		color: $white;
+		padding: 20px;
+		width: 300px;
+		@include border-radius(10px);
+	}
+
+	.companyLabels{
+
 		text {
 			font-size: 7px !important;
 			font-weight: normal !important;
@@ -45,6 +54,15 @@
 			}
 			@include media(xlarge-up) {
 				font-size: inherit !important;
+			}
+		}
+
+		a.company--name:hover {
+			//font-size: 20px;
+			//font-weight: bold;
+			text-decoration: none;
+			text {
+				font-weight: bold !important;
 			}
 		}
 
@@ -109,6 +127,15 @@
 	}
 
 	.world-map {
+
+		.non-highlihted-bg {
+			background-color: transparent;
+			p {
+				color: #ffffff;
+			}
+		}
+
+		background-color: #0C2637;
 		padding-top: 0;
 		margin-top: 0em;
 		@include media(small-up) {
