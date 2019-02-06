@@ -4,7 +4,7 @@ var Overview = require('./collections/overview');
 var IndexService = require('./collections/index-service');
 var Companies = require('./views/index');
 var VIndexService = require('./views/index-service');
-var Map = require('./views/map');
+//var Map = require('./views/map');
 var Compare = require('./collections/compare');
 var CompareView = require('./views/compare');
 
@@ -41,7 +41,7 @@ module.exports = function () {
   });
 
   // Map
-  var map = new Map();
+  // var map = new Map();
   // map.render();
 
   // Compare
