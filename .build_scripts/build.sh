@@ -3,6 +3,7 @@ set -e # halt script on error
 
 if [ $TRAVIS_PULL_REQUEST = "false" ] && [ $TRAVIS_BRANCH = ${DEPLOY_BRANCH} ]; then
   echo "Building site"
+  npm install -y
   gulp build
 else
   echo "Not building, so long and thanks for all the fish!"
