@@ -10,6 +10,7 @@ cache:
 before_install:
 - openssl aes-256-cbc -K $encrypted_194431d92fdc_key -iv $encrypted_194431d92fdc_iv
   -in deploy_rsa.enc -out deploy_rsa -d
+- chmod 400 deploy_rsa
 - chmod +x ./.build_scripts/build.sh
 - chmod +x ./.build_scripts/deploy.sh
 
