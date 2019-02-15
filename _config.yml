@@ -19,7 +19,7 @@ exclude:
   - bundle/cache
   - bin
 highlighter: pygments
-baseurl: https://rankingdigitalrights.org/index2015
+baseurl: https://rankingdigitalrights.org/index2019
 paginate: 40
 kramdown:
   input: GFM
@@ -30,4 +30,4 @@ description: The 2015 Ranking Digital Rights survey site
 
 prose:
   rooturl: app
-  siteurl: https://rankingdigitalrights.org/index2015
+  siteurl: https://rankingdigitalrights.org/index2019
