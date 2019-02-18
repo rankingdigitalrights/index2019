@@ -213,6 +213,14 @@ gulp.task('stage', function (done) {
   });
 });
 
+gulp.task('dev', function (done) {
+  environment = 'development';
+  runSequence('build', function () {
+    process.exit(0);
+    done();
+  });
+});
+
 gulp.task('limit', function (done) {
   if (process.argv[3] == '-n') {
     jekyllLimit = process.argv[4];
