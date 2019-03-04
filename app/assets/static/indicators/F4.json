@@ -25,7 +25,7 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
                             "value": "0"
@@ -92,7 +92,7 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
                             "value": "0"
@@ -168,7 +168,7 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
                             "value": "0"
@@ -238,7 +238,7 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
                             "value": "0"
@@ -305,7 +305,7 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
                             "value": "0"
@@ -381,7 +381,83 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company publish this data at least once a year?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Can the data published by the company be exported as a structured data file?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "deutschetelekom",
+            "name": "Deutsche Telekom",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
                             "value": "0"
@@ -457,7 +533,7 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
                             "value": "0"
@@ -523,7 +599,7 @@
             ],
             "average": [
                 {
-                    "value": "17"
+                    "value": "33.33333333"
                 },
                 {
                     "value": "0"
@@ -539,10 +615,10 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         },
                         {
                             "value": "0"
@@ -600,16 +676,19 @@
             "name": "Google",
             "headers": [
                 {
-                    "text": "Search"
+                    "text": "Google Search"
                 },
                 {
                     "text": "Gmail"
                 },
                 {
-                    "text": "Youtube"
+                    "text": "YouTube"
                 },
                 {
                     "text": "Android mobile ecosystem"
+                },
+                {
+                    "text": "Google Drive"
                 }
             ],
             "average": [
@@ -620,7 +699,10 @@
                     "value": "0"
                 },
                 {
-                    "value": "17"
+                    "value": "66.66666667"
+                },
+                {
+                    "value": "16.66666667"
                 },
                 {
                     "value": "0"
@@ -630,13 +712,16 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
                             "value": "0"
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "100"
                         },
                         {
                             "value": "50"
@@ -658,6 +743,9 @@
                             "value": "0"
                         },
                         {
+                            "value": "100"
+                        },
+                        {
                             "value": "0"
                         },
                         {
@@ -669,6 +757,9 @@
                     "cells": [
                         {
                             "value": "3. Can the data published by the company be exported as a structured data file?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -697,7 +788,7 @@
                     "text": "Daum Mail"
                 },
                 {
-                    "text": "KakaoTalk"
+                    "text": "Kakao Talk"
                 }
             ],
             "average": [
@@ -715,7 +806,7 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
                             "value": "0"
@@ -770,13 +861,19 @@
                     "text": "VKontakte"
                 },
                 {
-                    "text": "Mail.ru email"
+                    "text": "Mail.Ru email"
                 },
                 {
-                    "text": "Mail.ru Agent"
+                    "text": "Mail.Ru Agent"
+                },
+                {
+                    "text": "Mail.Ru Cloud Solutions"
                 }
             ],
             "average": [
+                {
+                    "value": "0"
+                },
                 {
                     "value": "0"
                 },
@@ -791,7 +888,10 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -817,6 +917,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -824,6 +927,9 @@
                     "cells": [
                         {
                             "value": "3. Can the data published by the company be exported as a structured data file?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -850,24 +956,30 @@
                 },
                 {
                     "text": "Skype"
+                },
+                {
+                    "text": "OneDrive"
                 }
             ],
             "average": [
                 {
-                    "value": "83"
+                    "value": "83.33333333"
                 },
                 {
                     "value": "0"
                 },
                 {
                     "value": "0"
+                },
+                {
+                    "value": "83.33333333"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
                             "value": "50"
@@ -877,6 +989,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "50"
                         }
                     ]
                 },
@@ -893,6 +1008,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 },
@@ -909,6 +1027,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 }
@@ -917,143 +1038,6 @@
         {
             "id": "mtn",
             "name": "MTN",
-            "headers": [
-                {
-                    "text": "Prepaid Mobile"
-                },
-                {
-                    "text": "Postpaid Mobile"
-                }
-            ],
-            "average": [
-                {
-                    "value": "0"
-                },
-                {
-                    "value": "0"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company publish this data at least once a year?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Can the data published by the company be exported as a structured data file?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "oath",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail"
-                },
-                {
-                    "text": "Flickr"
-                },
-                {
-                    "text": "Tumblr"
-                }
-            ],
-            "average": [
-                {
-                    "value": "0"
-                },
-                {
-                    "value": "0"
-                },
-                {
-                    "value": "0"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company publish this data at least once a year?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Can the data published by the company be exported as a structured data file?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "ooredoo",
-            "name": "Ooredoo",
             "headers": [
                 {
                     "text": "Prepaid Mobile"
@@ -1080,7 +1064,7 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
                             "value": "0"
@@ -1156,7 +1140,83 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company publish this data at least once a year?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Can the data published by the company be exported as a structured data file?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ooredoo",
+            "name": "Ooredoo",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
                             "value": "0"
@@ -1208,10 +1268,16 @@
             "name": "Samsung",
             "headers": [
                 {
-                    "text": "Samsung"
+                    "text": "Samsung  implementation of Android"
+                },
+                {
+                    "text": "Samsung Cloud"
                 }
             ],
             "average": [
+                {
+                    "value": "0"
+                },
                 {
                     "value": "0"
                 }
@@ -1220,7 +1286,10 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1234,6 +1303,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -1244,13 +1316,16 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "telefonica",
+            "id": "telefónica",
             "name": "Telefónica",
             "headers": [
                 {
@@ -1278,7 +1353,83 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company publish this data at least once a year?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Can the data published by the company be exported as a structured data file?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "telenor",
+            "name": "Telenor",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
                             "value": "0"
@@ -1327,7 +1478,7 @@
         },
         {
             "id": "tencent",
-            "name": "Tencent",
+            "name": "TenCent",
             "headers": [
                 {
                     "text": "QZone"
@@ -1337,9 +1488,15 @@
                 },
                 {
                     "text": "WeChat"
+                },
+                {
+                    "text": "TenCent Cloud"
                 }
             ],
             "average": [
+                {
+                    "value": "0"
+                },
                 {
                     "value": "0"
                 },
@@ -1354,7 +1511,10 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1380,6 +1540,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -1387,6 +1550,9 @@
                     "cells": [
                         {
                             "value": "3. Can the data published by the company be exported as a structured data file?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1414,7 +1580,7 @@
             ],
             "average": [
                 {
-                    "value": "83"
+                    "value": "83.33333333"
                 },
                 {
                     "value": "0"
@@ -1424,7 +1590,7 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
                             "value": "50"
@@ -1491,7 +1657,7 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
                             "value": "0"
@@ -1539,6 +1705,67 @@
             ]
         },
         {
+            "id": "verizonmedia",
+            "name": "Verizon Media",
+            "headers": [
+                {
+                    "text": "Yahoo Mail"
+                },
+                {
+                    "text": "Tumblr"
+                }
+            ],
+            "average": [
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company publish this data at least once a year?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Can the data published by the company be exported as a structured data file?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "yandex",
             "name": "Yandex",
             "headers": [
@@ -1567,7 +1794,7 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company’s rules?"
+                            "value": "1. Does the company clearly disclose data about the volume and nature of content and accounts restricted for violating the company�s rules?"
                         },
                         {
                             "value": "0"

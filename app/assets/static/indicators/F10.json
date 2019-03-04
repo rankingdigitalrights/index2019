@@ -300,13 +300,13 @@
             ],
             "average": [
                 {
-                    "value": "13"
+                    "value": "12.5"
                 },
                 {
-                    "value": "13"
+                    "value": "12.5"
                 },
                 {
-                    "value": "13"
+                    "value": "12.5"
                 }
             ],
             "rows": [
@@ -453,10 +453,10 @@
             ],
             "average": [
                 {
-                    "value": "6"
+                    "value": "6.25"
                 },
                 {
-                    "value": "6"
+                    "value": "6.25"
                 }
             ],
             "rows": [
@@ -738,13 +738,13 @@
             ],
             "average": [
                 {
-                    "value": "6"
+                    "value": "6.25"
                 },
                 {
-                    "value": "6"
+                    "value": "6.25"
                 },
                 {
-                    "value": "6"
+                    "value": "6.25"
                 }
             ],
             "rows": [
@@ -879,6 +879,162 @@
             ]
         },
         {
+            "id": "deutschetelekom",
+            "name": "Deutsche Telekom",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "12.5"
+                },
+                {
+                    "value": "12.5"
+                },
+                {
+                    "value": "6.25"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly explain the reason(s) why it may shut down service to a particular area or group of users?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain why it may restrict access to specific applications or protocols (e.g., VoIP, messaging) in a particular area or to a specific group of users?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly explain its process for responding to requests to shut down a network or restrict access to a service?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company commit to push back on requests to shut down a network or restrict access to a service?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it notifies users directly when it shuts down the network or restricts access to a service?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company list the number of network shutdown requests it receives?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company clearly identify the specific legal authority that makes the request?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "8. Does the company list the number of requests with which it complied?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "etisalat",
             "name": "Etisalat",
             "headers": [
@@ -894,13 +1050,13 @@
             ],
             "average": [
                 {
-                    "value": "13"
+                    "value": "12.5"
                 },
                 {
-                    "value": "13"
+                    "value": "12.5"
                 },
                 {
-                    "value": "13"
+                    "value": "12.5"
                 }
             ],
             "rows": [
@@ -1225,19 +1381,25 @@
             "name": "Google",
             "headers": [
                 {
-                    "text": "Search"
+                    "text": "Google Search"
                 },
                 {
                     "text": "Gmail"
                 },
                 {
-                    "text": "Youtube"
+                    "text": "YouTube"
                 },
                 {
                     "text": "Android mobile ecosystem"
+                },
+                {
+                    "text": "Google Drive"
                 }
             ],
             "average": [
+                {
+                    "value": "N/A"
+                },
                 {
                     "value": "N/A"
                 },
@@ -1256,6 +1418,9 @@
                     "cells": [
                         {
                             "value": "1. Does the company clearly explain the reason(s) why it may shut down service to a particular area or group of users?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -1287,6 +1452,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1294,6 +1462,9 @@
                     "cells": [
                         {
                             "value": "3. Does the company clearly explain its process for responding to requests to shut down a network or restrict access to a service?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -1325,6 +1496,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1332,6 +1506,9 @@
                     "cells": [
                         {
                             "value": "5. Does the company clearly disclose that it notifies users directly when it shuts down the network or restricts access to a service?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -1363,6 +1540,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1370,6 +1550,9 @@
                     "cells": [
                         {
                             "value": "7. Does the company clearly identify the specific legal authority that makes the request?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -1401,6 +1584,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 }
@@ -1417,7 +1603,7 @@
                     "text": "Daum Mail"
                 },
                 {
-                    "text": "KakaoTalk"
+                    "text": "Kakao Talk"
                 }
             ],
             "average": [
@@ -1570,13 +1756,19 @@
                     "text": "VKontakte"
                 },
                 {
-                    "text": "Mail.ru email"
+                    "text": "Mail.Ru email"
                 },
                 {
-                    "text": "Mail.ru Agent"
+                    "text": "Mail.Ru Agent"
+                },
+                {
+                    "text": "Mail.Ru Cloud Solutions"
                 }
             ],
             "average": [
+                {
+                    "value": "N/A"
+                },
                 {
                     "value": "N/A"
                 },
@@ -1592,6 +1784,9 @@
                     "cells": [
                         {
                             "value": "1. Does the company clearly explain the reason(s) why it may shut down service to a particular area or group of users?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -1617,6 +1812,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1624,6 +1822,9 @@
                     "cells": [
                         {
                             "value": "3. Does the company clearly explain its process for responding to requests to shut down a network or restrict access to a service?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -1649,6 +1850,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1656,6 +1860,9 @@
                     "cells": [
                         {
                             "value": "5. Does the company clearly disclose that it notifies users directly when it shuts down the network or restricts access to a service?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -1681,6 +1888,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1697,6 +1907,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1704,6 +1917,9 @@
                     "cells": [
                         {
                             "value": "8. Does the company list the number of requests with which it complied?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -1730,9 +1946,15 @@
                 },
                 {
                     "text": "Skype"
+                },
+                {
+                    "text": "OneDrive"
                 }
             ],
             "average": [
+                {
+                    "value": "N/A"
+                },
                 {
                     "value": "N/A"
                 },
@@ -1748,6 +1970,9 @@
                     "cells": [
                         {
                             "value": "1. Does the company clearly explain the reason(s) why it may shut down service to a particular area or group of users?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -1773,6 +1998,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1780,6 +2008,9 @@
                     "cells": [
                         {
                             "value": "3. Does the company clearly explain its process for responding to requests to shut down a network or restrict access to a service?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -1805,6 +2036,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1812,6 +2046,9 @@
                     "cells": [
                         {
                             "value": "5. Does the company clearly disclose that it notifies users directly when it shuts down the network or restricts access to a service?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -1837,6 +2074,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1853,6 +2093,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1860,6 +2103,9 @@
                     "cells": [
                         {
                             "value": "8. Does the company list the number of requests with which it complied?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -1883,288 +2129,6 @@
                 },
                 {
                     "text": "Postpaid Mobile"
-                }
-            ],
-            "average": [
-                {
-                    "value": "13"
-                },
-                {
-                    "value": "13"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly explain the reason(s) why it may shut down service to a particular area or group of users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly explain why it may restrict access to specific applications or protocols (e.g., VoIP, messaging) in a particular area or to a specific group of users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly explain its process for responding to requests to shut down a network or restrict access to a service?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company commit to push back on requests to shut down a network or restrict access to a service?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "5. Does the company clearly disclose that it notifies users directly when it shuts down the network or restricts access to a service?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "6. Does the company list the number of network shutdown requests it receives?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "7. Does the company clearly identify the specific legal authority that makes the request?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "8. Does the company list the number of requests with which it complied?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "oath",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail"
-                },
-                {
-                    "text": "Flickr"
-                },
-                {
-                    "text": "Tumblr"
-                }
-            ],
-            "average": [
-                {
-                    "value": "N/A"
-                },
-                {
-                    "value": "N/A"
-                },
-                {
-                    "value": "N/A"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly explain the reason(s) why it may shut down service to a particular area or group of users?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly explain why it may restrict access to specific applications or protocols (e.g., VoIP, messaging) in a particular area or to a specific group of users?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly explain its process for responding to requests to shut down a network or restrict access to a service?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company commit to push back on requests to shut down a network or restrict access to a service?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "5. Does the company clearly disclose that it notifies users directly when it shuts down the network or restricts access to a service?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "6. Does the company list the number of network shutdown requests it receives?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "7. Does the company clearly identify the specific legal authority that makes the request?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "8. Does the company list the number of requests with which it complied?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "ooredoo",
-            "name": "Ooredoo",
-            "headers": [
-                {
-                    "text": "Prepaid Mobile"
-                },
-                {
-                    "text": "Postpaid Mobile"
                 },
                 {
                     "text": "Fixed Line Broadband"
@@ -2172,13 +2136,13 @@
             ],
             "average": [
                 {
-                    "value": "6"
+                    "value": "18.75"
                 },
                 {
-                    "value": "6"
+                    "value": "18.75"
                 },
                 {
-                    "value": "6"
+                    "value": "18.75"
                 }
             ],
             "rows": [
@@ -2220,13 +2184,13 @@
                             "value": "3. Does the company clearly explain its process for responding to requests to shut down a network or restrict access to a service?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         }
                     ]
                 },
@@ -2252,13 +2216,13 @@
                             "value": "5. Does the company clearly disclose that it notifies users directly when it shuts down the network or restricts access to a service?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         }
                     ]
                 },
@@ -2328,13 +2292,13 @@
             ],
             "average": [
                 {
-                    "value": "19"
+                    "value": "25"
                 },
                 {
-                    "value": "19"
+                    "value": "25"
                 },
                 {
-                    "value": "19"
+                    "value": "25"
                 }
             ],
             "rows": [
@@ -2376,13 +2340,13 @@
                             "value": "3. Does the company clearly explain its process for responding to requests to shut down a network or restrict access to a service?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         }
                     ]
                 },
@@ -2399,6 +2363,162 @@
                         },
                         {
                             "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it notifies users directly when it shuts down the network or restricts access to a service?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company list the number of network shutdown requests it receives?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company clearly identify the specific legal authority that makes the request?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "8. Does the company list the number of requests with which it complied?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ooredoo",
+            "name": "Ooredoo",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "6.25"
+                },
+                {
+                    "value": "6.25"
+                },
+                {
+                    "value": "6.25"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly explain the reason(s) why it may shut down service to a particular area or group of users?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain why it may restrict access to specific applications or protocols (e.g., VoIP, messaging) in a particular area or to a specific group of users?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly explain its process for responding to requests to shut down a network or restrict access to a service?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company commit to push back on requests to shut down a network or restrict access to a service?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -2473,10 +2593,16 @@
             "name": "Samsung",
             "headers": [
                 {
-                    "text": "Samsung"
+                    "text": "Samsung  implementation of Android"
+                },
+                {
+                    "text": "Samsung Cloud"
                 }
             ],
             "average": [
+                {
+                    "value": "N/A"
+                },
                 {
                     "value": "N/A"
                 }
@@ -2486,6 +2612,9 @@
                     "cells": [
                         {
                             "value": "1. Does the company clearly explain the reason(s) why it may shut down service to a particular area or group of users?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -2499,6 +2628,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2506,6 +2638,9 @@
                     "cells": [
                         {
                             "value": "3. Does the company clearly explain its process for responding to requests to shut down a network or restrict access to a service?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -2519,6 +2654,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2526,6 +2664,9 @@
                     "cells": [
                         {
                             "value": "5. Does the company clearly disclose that it notifies users directly when it shuts down the network or restricts access to a service?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -2539,6 +2680,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2546,6 +2690,9 @@
                     "cells": [
                         {
                             "value": "7. Does the company clearly identify the specific legal authority that makes the request?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -2559,13 +2706,16 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "telefonica",
+            "id": "telefónica",
             "name": "Telefónica",
             "headers": [
                 {
@@ -2721,8 +2871,164 @@
             ]
         },
         {
+            "id": "telenor",
+            "name": "Telenor",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly explain the reason(s) why it may shut down service to a particular area or group of users?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain why it may restrict access to specific applications or protocols (e.g., VoIP, messaging) in a particular area or to a specific group of users?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly explain its process for responding to requests to shut down a network or restrict access to a service?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company commit to push back on requests to shut down a network or restrict access to a service?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it notifies users directly when it shuts down the network or restricts access to a service?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company list the number of network shutdown requests it receives?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company clearly identify the specific legal authority that makes the request?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "8. Does the company list the number of requests with which it complied?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "tencent",
-            "name": "Tencent",
+            "name": "TenCent",
             "headers": [
                 {
                     "text": "QZone"
@@ -2732,9 +3038,15 @@
                 },
                 {
                     "text": "WeChat"
+                },
+                {
+                    "text": "TenCent Cloud"
                 }
             ],
             "average": [
+                {
+                    "value": "N/A"
+                },
                 {
                     "value": "N/A"
                 },
@@ -2750,6 +3062,9 @@
                     "cells": [
                         {
                             "value": "1. Does the company clearly explain the reason(s) why it may shut down service to a particular area or group of users?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -2775,6 +3090,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2782,6 +3100,9 @@
                     "cells": [
                         {
                             "value": "3. Does the company clearly explain its process for responding to requests to shut down a network or restrict access to a service?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -2807,6 +3128,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2814,6 +3138,9 @@
                     "cells": [
                         {
                             "value": "5. Does the company clearly disclose that it notifies users directly when it shuts down the network or restricts access to a service?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -2839,6 +3166,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2855,6 +3185,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2862,6 +3195,9 @@
                     "cells": [
                         {
                             "value": "8. Does the company list the number of requests with which it complied?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -3153,6 +3489,132 @@
                         },
                         {
                             "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "verizonmedia",
+            "name": "Verizon Media",
+            "headers": [
+                {
+                    "text": "Yahoo Mail"
+                },
+                {
+                    "text": "Tumblr"
+                }
+            ],
+            "average": [
+                {
+                    "value": "N/A"
+                },
+                {
+                    "value": "N/A"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly explain the reason(s) why it may shut down service to a particular area or group of users?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain why it may restrict access to specific applications or protocols (e.g., VoIP, messaging) in a particular area or to a specific group of users?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly explain its process for responding to requests to shut down a network or restrict access to a service?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company commit to push back on requests to shut down a network or restrict access to a service?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it notifies users directly when it shuts down the network or restricts access to a service?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company list the number of network shutdown requests it receives?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company clearly identify the specific legal authority that makes the request?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "8. Does the company list the number of requests with which it complied?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
                         }
                     ]
                 }
