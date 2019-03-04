@@ -92,13 +92,13 @@
             ],
             "average": [
                 {
-                    "value": "0"
+                    "value": "12.5"
                 },
                 {
-                    "value": "0"
+                    "value": "12.5"
                 },
                 {
-                    "value": "0"
+                    "value": "12.5"
                 }
             ],
             "rows": [
@@ -156,13 +156,13 @@
                             "value": "4. Does the company clearly disclose that it notifies users when it restricts their account?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         }
                     ]
                 }
@@ -184,13 +184,13 @@
             ],
             "average": [
                 {
-                    "value": "33"
+                    "value": "33.33333333"
                 },
                 {
-                    "value": "33"
+                    "value": "33.33333333"
                 },
                 {
-                    "value": "33"
+                    "value": "33.33333333"
                 }
             ],
             "rows": [
@@ -519,6 +519,98 @@
             ]
         },
         {
+            "id": "deutschetelekom",
+            "name": "Deutsche Telekom",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. If the company hosts user-generated content, does the company clearly disclose that it notifies users who generated the content when it is restricted?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose that it notifies users who attempt to access content that has been restricted?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. In its notification, does the company clearly disclose a reason for the content restriction (legal or otherwise)?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it notifies users when it restricts their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "etisalat",
             "name": "Etisalat",
             "headers": [
@@ -534,13 +626,13 @@
             ],
             "average": [
                 {
-                    "value": "17"
+                    "value": "16.66666667"
                 },
                 {
-                    "value": "17"
+                    "value": "16.66666667"
                 },
                 {
-                    "value": "17"
+                    "value": "16.66666667"
                 }
             ],
             "rows": [
@@ -629,16 +721,16 @@
             ],
             "average": [
                 {
-                    "value": "38"
+                    "value": "50"
+                },
+                {
+                    "value": "37.5"
                 },
                 {
                     "value": "25"
                 },
                 {
-                    "value": "25"
-                },
-                {
-                    "value": "38"
+                    "value": "50"
                 }
             ],
             "rows": [
@@ -667,16 +759,16 @@
                             "value": "2. Does the company clearly disclose that it notifies users who attempt to access content that has been restricted?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
                         },
                         {
                             "value": "0"
                         },
                         {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
+                            "value": "50"
                         }
                     ]
                 },
@@ -725,16 +817,19 @@
             "name": "Google",
             "headers": [
                 {
-                    "text": "Search"
+                    "text": "Google Search"
                 },
                 {
                     "text": "Gmail"
                 },
                 {
-                    "text": "Youtube"
+                    "text": "YouTube"
                 },
                 {
                     "text": "Android mobile ecosystem"
+                },
+                {
+                    "text": "Google Drive"
                 }
             ],
             "average": [
@@ -742,13 +837,16 @@
                     "value": "50"
                 },
                 {
-                    "value": "0"
+                    "value": "50"
                 },
                 {
-                    "value": "63"
+                    "value": "62.5"
                 },
                 {
-                    "value": "38"
+                    "value": "37.5"
+                },
+                {
+                    "value": "12.5"
                 }
             ],
             "rows": [
@@ -768,6 +866,9 @@
                         },
                         {
                             "value": "100"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -781,6 +882,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -806,6 +910,9 @@
                         },
                         {
                             "value": "50"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -818,13 +925,16 @@
                             "value": "exclude"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
                             "value": "100"
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "50"
                         }
                     ]
                 }
@@ -841,7 +951,7 @@
                     "text": "Daum Mail"
                 },
                 {
-                    "text": "KakaoTalk"
+                    "text": "Kakao Talk"
                 }
             ],
             "average": [
@@ -852,7 +962,7 @@
                     "value": "100"
                 },
                 {
-                    "value": "38"
+                    "value": "25"
                 }
             ],
             "rows": [
@@ -900,7 +1010,7 @@
                             "value": "exclude"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         }
                     ]
                 },
@@ -930,13 +1040,19 @@
                     "text": "VKontakte"
                 },
                 {
-                    "text": "Mail.ru email"
+                    "text": "Mail.Ru email"
                 },
                 {
-                    "text": "Mail.ru Agent"
+                    "text": "Mail.Ru Agent"
+                },
+                {
+                    "text": "Mail.Ru Cloud Solutions"
                 }
             ],
             "average": [
+                {
+                    "value": "0"
+                },
                 {
                     "value": "0"
                 },
@@ -952,6 +1068,9 @@
                     "cells": [
                         {
                             "value": "1. If the company hosts user-generated content, does the company clearly disclose that it notifies users who generated the content when it is restricted?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -977,6 +1096,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -993,6 +1115,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -1000,6 +1125,9 @@
                     "cells": [
                         {
                             "value": "4. Does the company clearly disclose that it notifies users when it restricts their account?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1026,11 +1154,17 @@
                 },
                 {
                     "text": "Skype"
+                },
+                {
+                    "text": "OneDrive"
                 }
             ],
             "average": [
                 {
                     "value": "50"
+                },
+                {
+                    "value": "0"
                 },
                 {
                     "value": "0"
@@ -1053,6 +1187,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -1069,6 +1206,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -1085,6 +1225,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -1095,6 +1238,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1115,14 +1261,20 @@
                 },
                 {
                     "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
                 }
             ],
             "average": [
                 {
-                    "value": "33"
+                    "value": "33.33333333"
                 },
                 {
-                    "value": "17"
+                    "value": "16.66666667"
+                },
+                {
+                    "value": "16.66666667"
                 }
             ],
             "rows": [
@@ -1130,6 +1282,9 @@
                     "cells": [
                         {
                             "value": "1. If the company hosts user-generated content, does the company clearly disclose that it notifies users who generated the content when it is restricted?"
+                        },
+                        {
+                            "value": "exclude"
                         },
                         {
                             "value": "exclude"
@@ -1149,6 +1304,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -1156,6 +1314,9 @@
                     "cells": [
                         {
                             "value": "3. In its notification, does the company clearly disclose a reason for the content restriction (legal or otherwise)?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1172,6 +1333,9 @@
                         },
                         {
                             "value": "100"
+                        },
+                        {
+                            "value": "50"
                         },
                         {
                             "value": "50"
@@ -1181,28 +1345,28 @@
             ]
         },
         {
-            "id": "oath",
-            "name": "Oath",
+            "id": "orange",
+            "name": "Orange",
             "headers": [
                 {
-                    "text": "Yahoo Mail"
+                    "text": "Prepaid Mobile"
                 },
                 {
-                    "text": "Flickr"
+                    "text": "Postpaid Mobile"
                 },
                 {
-                    "text": "Tumblr"
+                    "text": "Fixed Line Broadband"
                 }
             ],
             "average": [
                 {
-                    "value": "50"
+                    "value": "16.66666667"
                 },
                 {
-                    "value": "50"
+                    "value": "16.66666667"
                 },
                 {
-                    "value": "25"
+                    "value": "16.66666667"
                 }
             ],
             "rows": [
@@ -1215,10 +1379,10 @@
                             "value": "exclude"
                         },
                         {
-                            "value": "100"
+                            "value": "exclude"
                         },
                         {
-                            "value": "50"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1228,7 +1392,7 @@
                             "value": "2. Does the company clearly disclose that it notifies users who attempt to access content that has been restricted?"
                         },
                         {
-                            "value": "exclude"
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1244,13 +1408,13 @@
                             "value": "3. In its notification, does the company clearly disclose a reason for the content restriction (legal or otherwise)?"
                         },
                         {
-                            "value": "exclude"
+                            "value": "0"
                         },
                         {
-                            "value": "50"
+                            "value": "0"
                         },
                         {
-                            "value": "50"
+                            "value": "0"
                         }
                     ]
                 },
@@ -1266,7 +1430,7 @@
                             "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         }
                     ]
                 }
@@ -1365,108 +1529,22 @@
             ]
         },
         {
-            "id": "orange",
-            "name": "Orange",
-            "headers": [
-                {
-                    "text": "Prepaid Mobile"
-                },
-                {
-                    "text": "Postpaid Mobile"
-                },
-                {
-                    "text": "Fixed Line Broadband"
-                }
-            ],
-            "average": [
-                {
-                    "value": "17"
-                },
-                {
-                    "value": "17"
-                },
-                {
-                    "value": "17"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. If the company hosts user-generated content, does the company clearly disclose that it notifies users who generated the content when it is restricted?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that it notifies users who attempt to access content that has been restricted?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. In its notification, does the company clearly disclose a reason for the content restriction (legal or otherwise)?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company clearly disclose that it notifies users when it restricts their account?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "samsung",
             "name": "Samsung",
             "headers": [
                 {
-                    "text": "Samsung"
+                    "text": "Samsung  implementation of Android"
+                },
+                {
+                    "text": "Samsung Cloud"
                 }
             ],
             "average": [
                 {
                     "value": "25"
+                },
+                {
+                    "value": "0"
                 }
             ],
             "rows": [
@@ -1474,6 +1552,9 @@
                     "cells": [
                         {
                             "value": "1. If the company hosts user-generated content, does the company clearly disclose that it notifies users who generated the content when it is restricted?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1487,6 +1568,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -1494,6 +1578,9 @@
                     "cells": [
                         {
                             "value": "3. In its notification, does the company clearly disclose a reason for the content restriction (legal or otherwise)?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1507,13 +1594,16 @@
                         },
                         {
                             "value": "100"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "telefonica",
+            "id": "telefónica",
             "name": "Telefónica",
             "headers": [
                 {
@@ -1528,13 +1618,13 @@
             ],
             "average": [
                 {
-                    "value": "33"
+                    "value": "33.33333333"
                 },
                 {
-                    "value": "33"
+                    "value": "33.33333333"
                 },
                 {
-                    "value": "33"
+                    "value": "33.33333333"
                 }
             ],
             "rows": [
@@ -1605,28 +1695,28 @@
             ]
         },
         {
-            "id": "tencent",
-            "name": "Tencent",
+            "id": "telenor",
+            "name": "Telenor",
             "headers": [
                 {
-                    "text": "QZone"
+                    "text": "Prepaid Mobile"
                 },
                 {
-                    "text": "QQ"
+                    "text": "Postpaid Mobile"
                 },
                 {
-                    "text": "WeChat"
+                    "text": "Fixed Line Broadband"
                 }
             ],
             "average": [
                 {
-                    "value": "0"
+                    "value": "33.33333333"
                 },
                 {
-                    "value": "0"
+                    "value": "33.33333333"
                 },
                 {
-                    "value": "0"
+                    "value": "33.33333333"
                 }
             ],
             "rows": [
@@ -1636,13 +1726,13 @@
                             "value": "1. If the company hosts user-generated content, does the company clearly disclose that it notifies users who generated the content when it is restricted?"
                         },
                         {
-                            "value": "0"
+                            "value": "exclude"
                         },
                         {
-                            "value": "0"
+                            "value": "exclude"
                         },
                         {
-                            "value": "0"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1682,6 +1772,116 @@
                     "cells": [
                         {
                             "value": "4. Does the company clearly disclose that it notifies users when it restricts their account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tencent",
+            "name": "TenCent",
+            "headers": [
+                {
+                    "text": "QZone"
+                },
+                {
+                    "text": "QQ"
+                },
+                {
+                    "text": "WeChat"
+                },
+                {
+                    "text": "TenCent Cloud"
+                }
+            ],
+            "average": [
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. If the company hosts user-generated content, does the company clearly disclose that it notifies users who generated the content when it is restricted?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose that it notifies users who attempt to access content that has been restricted?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. In its notification, does the company clearly disclose a reason for the content restriction (legal or otherwise)?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it notifies users when it restricts their account?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1712,7 +1912,7 @@
                     "value": "50"
                 },
                 {
-                    "value": "63"
+                    "value": "62.5"
                 }
             ],
             "rows": [
@@ -1792,7 +1992,7 @@
                     "value": "0"
                 },
                 {
-                    "value": "17"
+                    "value": "16.66666667"
                 }
             ],
             "rows": [
@@ -1863,6 +2063,80 @@
             ]
         },
         {
+            "id": "verizonmedia",
+            "name": "Verizon Media",
+            "headers": [
+                {
+                    "text": "Yahoo Mail"
+                },
+                {
+                    "text": "Tumblr"
+                }
+            ],
+            "average": [
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "25"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. If the company hosts user-generated content, does the company clearly disclose that it notifies users who generated the content when it is restricted?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose that it notifies users who attempt to access content that has been restricted?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. In its notification, does the company clearly disclose a reason for the content restriction (legal or otherwise)?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it notifies users when it restricts their account?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "yandex",
             "name": "Yandex",
             "headers": [
@@ -1884,7 +2158,7 @@
                     "value": "0"
                 },
                 {
-                    "value": "13"
+                    "value": "12.5"
                 }
             ],
             "rows": [

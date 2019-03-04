@@ -77,7 +77,7 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "0"
@@ -90,7 +90,7 @@
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "0"
@@ -196,13 +196,13 @@
             ],
             "average": [
                 {
-                    "value": "67"
+                    "value": "70.83333333"
                 },
                 {
-                    "value": "58"
+                    "value": "58.33333333"
                 },
                 {
-                    "value": "67"
+                    "value": "66.66666667"
                 }
             ],
             "rows": [
@@ -260,7 +260,7 @@
                             "value": "4. Does the company clearly disclose its process for responding to private requests?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
                             "value": "0"
@@ -273,7 +273,7 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "100"
@@ -289,7 +289,7 @@
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "100"
@@ -416,13 +416,13 @@
             ],
             "average": [
                 {
-                    "value": "63"
+                    "value": "62.5"
                 },
                 {
-                    "value": "63"
+                    "value": "62.5"
                 },
                 {
-                    "value": "63"
+                    "value": "62.5"
                 }
             ],
             "rows": [
@@ -493,7 +493,7 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "100"
@@ -509,7 +509,7 @@
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "100"
@@ -695,7 +695,7 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "0"
@@ -708,7 +708,7 @@
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "0"
@@ -891,7 +891,7 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "0"
@@ -907,7 +907,7 @@
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "0"
@@ -1111,7 +1111,7 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "0"
@@ -1127,7 +1127,227 @@
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company clearly disclose that it carries out due diligence on government requests before deciding how to respond?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "8. Does the company clearly disclose that it carries out due diligence on private requests before deciding how to respond?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "9. Does the company commit to push back on inappropriate or overbroad requests made by governments?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "10.Does the company commit to push back on inappropriate or overbroad private requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "11. Does the company provide clear guidance or examples of implementation of its process of responding to government requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "12. Does the company provide clear guidance or examples of implementation of its process of responding to private requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "deutschetelekom",
+            "name": "Deutsche Telekom",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "4.166666667"
+                },
+                {
+                    "value": "4.166666667"
+                },
+                {
+                    "value": "4.166666667"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose its process for responding to non-judicial government requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose its process for responding to court orders?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its process for responding to government requests from foreign jurisdictions?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose its process for responding to private requests?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "0"
@@ -1260,7 +1480,7 @@
                     "value": "0"
                 },
                 {
-                    "value": "8"
+                    "value": "0"
                 }
             ],
             "rows": [
@@ -1331,7 +1551,7 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "0"
@@ -1347,7 +1567,7 @@
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "0"
@@ -1356,7 +1576,7 @@
                             "value": "0"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         }
                     ]
                 },
@@ -1477,16 +1697,16 @@
             ],
             "average": [
                 {
-                    "value": "92"
+                    "value": "87.5"
                 },
                 {
-                    "value": "96"
+                    "value": "87.5"
                 },
                 {
-                    "value": "96"
+                    "value": "0"
                 },
                 {
-                    "value": "96"
+                    "value": "4.166666667"
                 }
             ],
             "rows": [
@@ -1502,10 +1722,10 @@
                             "value": "100"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         }
                     ]
                 },
@@ -1521,10 +1741,10 @@
                             "value": "100"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         }
                     ]
                 },
@@ -1540,10 +1760,10 @@
                             "value": "100"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         }
                     ]
                 },
@@ -1556,39 +1776,39 @@
                             "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "100"
@@ -1597,10 +1817,10 @@
                             "value": "100"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         }
                     ]
                 },
@@ -1616,10 +1836,10 @@
                             "value": "100"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         }
                     ]
                 },
@@ -1635,10 +1855,10 @@
                             "value": "100"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         }
                     ]
                 },
@@ -1654,10 +1874,10 @@
                             "value": "100"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         }
                     ]
                 },
@@ -1673,10 +1893,10 @@
                             "value": "50"
                         },
                         {
-                            "value": "50"
+                            "value": "0"
                         },
                         {
-                            "value": "50"
+                            "value": "0"
                         }
                     ]
                 },
@@ -1692,10 +1912,10 @@
                             "value": "100"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         }
                     ]
                 },
@@ -1711,10 +1931,10 @@
                             "value": "100"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         }
                     ]
                 }
@@ -1725,30 +1945,36 @@
             "name": "Google",
             "headers": [
                 {
-                    "text": "Search"
+                    "text": "Google Search"
                 },
                 {
                     "text": "Gmail"
                 },
                 {
-                    "text": "Youtube"
+                    "text": "YouTube"
                 },
                 {
                     "text": "Android mobile ecosystem"
+                },
+                {
+                    "text": "Google Drive"
                 }
             ],
             "average": [
                 {
-                    "value": "96"
+                    "value": "95.83333333"
                 },
                 {
                     "value": "N/A"
                 },
                 {
-                    "value": "96"
+                    "value": "83.33333333"
                 },
                 {
-                    "value": "96"
+                    "value": "87.5"
+                },
+                {
+                    "value": "75"
                 }
             ],
             "rows": [
@@ -1762,6 +1988,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "100"
                         },
                         {
                             "value": "100"
@@ -1787,6 +2016,9 @@
                         },
                         {
                             "value": "100"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 },
@@ -1800,6 +2032,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "100"
                         },
                         {
                             "value": "100"
@@ -1825,13 +2060,16 @@
                         },
                         {
                             "value": "50"
+                        },
+                        {
+                            "value": "50"
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "100"
@@ -1844,19 +2082,25 @@
                         },
                         {
                             "value": "100"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "100"
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "100"
                         },
                         {
                             "value": "100"
@@ -1882,6 +2126,9 @@
                         },
                         {
                             "value": "100"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 },
@@ -1897,10 +2144,13 @@
                             "value": "exclude"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
                             "value": "100"
+                        },
+                        {
+                            "value": "50"
                         }
                     ]
                 },
@@ -1914,6 +2164,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "100"
                         },
                         {
                             "value": "100"
@@ -1935,10 +2188,13 @@
                             "value": "exclude"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -1952,6 +2208,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "100"
                         },
                         {
                             "value": "100"
@@ -1977,6 +2236,9 @@
                         },
                         {
                             "value": "100"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 }
@@ -1993,7 +2255,7 @@
                     "text": "Daum Mail"
                 },
                 {
-                    "text": "KakaoTalk"
+                    "text": "Kakao Talk"
                 }
             ],
             "average": [
@@ -2075,7 +2337,7 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "100"
@@ -2091,7 +2353,7 @@
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "100"
@@ -2210,18 +2472,24 @@
                     "text": "VKontakte"
                 },
                 {
-                    "text": "Mail.ru email"
+                    "text": "Mail.Ru email"
                 },
                 {
-                    "text": "Mail.ru Agent"
+                    "text": "Mail.Ru Agent"
+                },
+                {
+                    "text": "Mail.Ru Cloud Solutions"
                 }
             ],
             "average": [
                 {
-                    "value": "13"
+                    "value": "8.333333333"
                 },
                 {
                     "value": "N/A"
+                },
+                {
+                    "value": "0"
                 },
                 {
                     "value": "0"
@@ -2241,6 +2509,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -2254,6 +2525,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -2273,6 +2547,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -2289,13 +2566,16 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "0"
@@ -2305,19 +2585,25 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "50"
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -2337,6 +2623,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -2346,10 +2635,13 @@
                             "value": "8. Does the company clearly disclose that it carries out due diligence on private requests before deciding how to respond?"
                         },
                         {
-                            "value": "50"
+                            "value": "0"
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -2369,6 +2661,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -2382,6 +2677,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -2401,6 +2699,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -2414,6 +2715,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -2434,17 +2738,23 @@
                 },
                 {
                     "text": "Skype"
+                },
+                {
+                    "text": "OneDrive"
                 }
             ],
             "average": [
                 {
-                    "value": "79"
+                    "value": "79.16666667"
                 },
                 {
                     "value": "N/A"
                 },
                 {
                     "value": "0"
+                },
+                {
+                    "value": "70.83333333"
                 }
             ],
             "rows": [
@@ -2461,6 +2771,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 },
@@ -2477,6 +2790,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 },
@@ -2493,6 +2809,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 },
@@ -2509,13 +2828,16 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "50"
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "100"
@@ -2525,13 +2847,16 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "100"
@@ -2541,6 +2866,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 },
@@ -2557,6 +2885,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 },
@@ -2570,6 +2901,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -2589,6 +2923,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 },
@@ -2605,6 +2942,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 },
@@ -2621,6 +2961,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -2634,6 +2977,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -2645,404 +2991,6 @@
         {
             "id": "mtn",
             "name": "MTN",
-            "headers": [
-                {
-                    "text": "Prepaid Mobile"
-                },
-                {
-                    "text": "Postpaid Mobile"
-                }
-            ],
-            "average": [
-                {
-                    "value": "0"
-                },
-                {
-                    "value": "0"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose its process for responding to non-judicial government requests?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose its process for responding to court orders?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to government requests from foreign jurisdictions?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company clearly disclose its process for responding to private requests?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "7. Does the company clearly disclose that it carries out due diligence on government requests before deciding how to respond?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "8. Does the company clearly disclose that it carries out due diligence on private requests before deciding how to respond?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "9. Does the company commit to push back on inappropriate or overbroad requests made by governments?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "10.Does the company commit to push back on inappropriate or overbroad private requests?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "11. Does the company provide clear guidance or examples of implementation of its process of responding to government requests?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "12. Does the company provide clear guidance or examples of implementation of its process of responding to private requests?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "oath",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail"
-                },
-                {
-                    "text": "Flickr"
-                },
-                {
-                    "text": "Tumblr"
-                }
-            ],
-            "average": [
-                {
-                    "value": "N/A"
-                },
-                {
-                    "value": "92"
-                },
-                {
-                    "value": "83"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose its process for responding to non-judicial government requests?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose its process for responding to court orders?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to government requests from foreign jurisdictions?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company clearly disclose its process for responding to private requests?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "7. Does the company clearly disclose that it carries out due diligence on government requests before deciding how to respond?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "8. Does the company clearly disclose that it carries out due diligence on private requests before deciding how to respond?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "9. Does the company commit to push back on inappropriate or overbroad requests made by governments?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "10.Does the company commit to push back on inappropriate or overbroad private requests?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "11. Does the company provide clear guidance or examples of implementation of its process of responding to government requests?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "12. Does the company provide clear guidance or examples of implementation of its process of responding to private requests?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "ooredoo",
-            "name": "Ooredoo",
             "headers": [
                 {
                     "text": "Prepaid Mobile"
@@ -3133,7 +3081,7 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "0"
@@ -3149,7 +3097,7 @@
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "0"
@@ -3353,7 +3301,7 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "0"
@@ -3369,7 +3317,227 @@
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company clearly disclose that it carries out due diligence on government requests before deciding how to respond?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "8. Does the company clearly disclose that it carries out due diligence on private requests before deciding how to respond?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "9. Does the company commit to push back on inappropriate or overbroad requests made by governments?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "10.Does the company commit to push back on inappropriate or overbroad private requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "11. Does the company provide clear guidance or examples of implementation of its process of responding to government requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "12. Does the company provide clear guidance or examples of implementation of its process of responding to private requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ooredoo",
+            "name": "Ooredoo",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose its process for responding to non-judicial government requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose its process for responding to court orders?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its process for responding to government requests from foreign jurisdictions?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose its process for responding to private requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "0"
@@ -3485,10 +3653,16 @@
             "name": "Samsung",
             "headers": [
                 {
-                    "text": "Samsung"
+                    "text": "Samsung  implementation of Android"
+                },
+                {
+                    "text": "Samsung Cloud"
                 }
             ],
             "average": [
+                {
+                    "value": "0"
+                },
                 {
                     "value": "0"
                 }
@@ -3498,6 +3672,9 @@
                     "cells": [
                         {
                             "value": "1. Does the company clearly disclose its process for responding to non-judicial government requests?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -3511,6 +3688,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -3518,6 +3698,9 @@
                     "cells": [
                         {
                             "value": "3. Does the company clearly disclose its process for responding to government requests from foreign jurisdictions?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -3531,13 +3714,6 @@
                         },
                         {
                             "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "0"
@@ -3547,7 +3723,23 @@
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -3561,6 +3753,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -3568,6 +3763,9 @@
                     "cells": [
                         {
                             "value": "8. Does the company clearly disclose that it carries out due diligence on private requests before deciding how to respond?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -3581,6 +3779,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -3588,6 +3789,9 @@
                     "cells": [
                         {
                             "value": "10.Does the company commit to push back on inappropriate or overbroad private requests?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -3601,6 +3805,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -3611,13 +3818,16 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "telefonica",
+            "id": "telefónica",
             "name": "Telefónica",
             "headers": [
                 {
@@ -3632,13 +3842,13 @@
             ],
             "average": [
                 {
-                    "value": "33"
+                    "value": "33.33333333"
                 },
                 {
-                    "value": "33"
+                    "value": "33.33333333"
                 },
                 {
-                    "value": "33"
+                    "value": "33.33333333"
                 }
             ],
             "rows": [
@@ -3709,7 +3919,7 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "100"
@@ -3725,7 +3935,7 @@
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "100"
@@ -3735,6 +3945,226 @@
                         },
                         {
                             "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company clearly disclose that it carries out due diligence on government requests before deciding how to respond?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "8. Does the company clearly disclose that it carries out due diligence on private requests before deciding how to respond?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "9. Does the company commit to push back on inappropriate or overbroad requests made by governments?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "10.Does the company commit to push back on inappropriate or overbroad private requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "11. Does the company provide clear guidance or examples of implementation of its process of responding to government requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "12. Does the company provide clear guidance or examples of implementation of its process of responding to private requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "telenor",
+            "name": "Telenor",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "33.33333333"
+                },
+                {
+                    "value": "33.33333333"
+                },
+                {
+                    "value": "33.33333333"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose its process for responding to non-judicial government requests?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose its process for responding to court orders?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its process for responding to government requests from foreign jurisdictions?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose its process for responding to private requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -3838,7 +4268,7 @@
         },
         {
             "id": "tencent",
-            "name": "Tencent",
+            "name": "TenCent",
             "headers": [
                 {
                     "text": "QZone"
@@ -3848,6 +4278,9 @@
                 },
                 {
                     "text": "WeChat"
+                },
+                {
+                    "text": "TenCent Cloud"
                 }
             ],
             "average": [
@@ -3855,10 +4288,13 @@
                     "value": "0"
                 },
                 {
-                    "value": "4"
+                    "value": "4.166666667"
                 },
                 {
-                    "value": "4"
+                    "value": "4.166666667"
+                },
+                {
+                    "value": "0"
                 }
             ],
             "rows": [
@@ -3866,6 +4302,9 @@
                     "cells": [
                         {
                             "value": "1. Does the company clearly disclose its process for responding to non-judicial government requests?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -3891,6 +4330,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -3898,6 +4340,9 @@
                     "cells": [
                         {
                             "value": "3. Does the company clearly disclose its process for responding to government requests from foreign jurisdictions?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -3923,19 +4368,6 @@
                         },
                         {
                             "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -3945,7 +4377,29 @@
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -3971,6 +4425,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -3978,6 +4435,9 @@
                     "cells": [
                         {
                             "value": "8. Does the company clearly disclose that it carries out due diligence on private requests before deciding how to respond?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -4003,6 +4463,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -4010,6 +4473,9 @@
                     "cells": [
                         {
                             "value": "10.Does the company commit to push back on inappropriate or overbroad private requests?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -4035,6 +4501,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -4042,6 +4511,9 @@
                     "cells": [
                         {
                             "value": "12. Does the company provide clear guidance or examples of implementation of its process of responding to private requests?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -4069,10 +4541,10 @@
             ],
             "average": [
                 {
-                    "value": "63"
+                    "value": "62.5"
                 },
                 {
-                    "value": "33"
+                    "value": "25"
                 }
             ],
             "rows": [
@@ -4131,7 +4603,7 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "100"
@@ -4144,7 +4616,7 @@
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "100"
@@ -4215,7 +4687,7 @@
                             "value": "100"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         }
                     ]
                 },
@@ -4327,7 +4799,7 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "100"
@@ -4343,7 +4815,7 @@
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "100"
@@ -4455,6 +4927,184 @@
             ]
         },
         {
+            "id": "verizonmedia",
+            "name": "Verizon Media",
+            "headers": [
+                {
+                    "text": "Yahoo Mail"
+                },
+                {
+                    "text": "Tumblr"
+                }
+            ],
+            "average": [
+                {
+                    "value": "N/A"
+                },
+                {
+                    "value": "83.33333333"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose its process for responding to non-judicial government requests?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose its process for responding to court orders?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its process for responding to government requests from foreign jurisdictions?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose its process for responding to private requests?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company clearly disclose that it carries out due diligence on government requests before deciding how to respond?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "8. Does the company clearly disclose that it carries out due diligence on private requests before deciding how to respond?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "9. Does the company commit to push back on inappropriate or overbroad requests made by governments?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "10.Does the company commit to push back on inappropriate or overbroad private requests?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "11. Does the company provide clear guidance or examples of implementation of its process of responding to government requests?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "12. Does the company provide clear guidance or examples of implementation of its process of responding to private requests?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "yandex",
             "name": "Yandex",
             "headers": [
@@ -4473,10 +5123,10 @@
                     "value": "N/A"
                 },
                 {
-                    "value": "29"
+                    "value": "20.83333333"
                 },
                 {
-                    "value": "33"
+                    "value": "29.16666667"
                 }
             ],
             "rows": [
@@ -4547,7 +5197,7 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                            "value": "5. Do the company�s explanations clearly disclose the legal basis under which it may comply with government requests?"
                         },
                         {
                             "value": "exclude"
@@ -4563,7 +5213,7 @@
                 {
                     "cells": [
                         {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                            "value": "6. Do the company�s explanations clearly disclose the basis under which it may comply with private requests?"
                         },
                         {
                             "value": "exclude"
@@ -4633,10 +5283,10 @@
                             "value": "exclude"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         },
                         {
-                            "value": "50"
+                            "value": "0"
                         }
                     ]
                 },
