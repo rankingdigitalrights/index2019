@@ -33,31 +33,9 @@
                 {{ page.display }}
               </h1>
 
-              <div class="comp--sub_headquarters">
-                <i class="fa fa-map-marker" aria-hidden="true"></i>
-                <label>Domicile:</label>
-                {{ page.headquarters }}
-              </div>
-
-              <div class="comp--sub_website">
-                <i class="fa fa-link" aria-hidden="true"></i>
-                <label>Link:</label>
-                <a href="{{ page.link }}" target="_blank">
-                  {{ page.link }}
-                </a>
-              </div>
-
-              <div class="comp--sub_download">
-                <label>Download:</label>
-                <a href="{{ page.download }}" target="_blank">
-                  Download company report
-                </a>
-              </div>
-
-              {% if page.operating %}
-              <div class="comp--sub_operating">
-                <label>Operating Company Evaluated:</label>
-                {{ page.operating }}
+              {% if page.basic_information %}
+              <div class="comp--basic_information">
+                {{ page.basic_information }}
               </div>
               {% endif %}
 
@@ -102,28 +80,22 @@
         <section class="key-findings">
           <div class="contain row">
             <div class="container--left">
+              {% if page.services_evaluated %}
               <div class="comp--key_findings">
                 <h2>Key findings</h2>
                 {{ page.key_findings }}
               </div>
+              {% endif %}
             </div>
             <div class="container--right">
+              {% if page.services_evaluated %}
               <div class="comp--services_evaluated">
-                {% if page.services_evaluated %}
                 <div class="comp--services_evaluated-title">Services evaluated</div>
-                <div class="comp--instant_mess-wrapper">
-                  {% for item in page.services_evaluated %}
-                  <div class="comp--instant_mess">
-                    <label><a href="{{ site.baseurl }}/services/{{ item.key_href }}"> [{{ item.key }}]</a></label>
-                    <div class="comp--name"><i class="fa fa-circle" aria-hidden="true"></i>{{ item.name }}</div>
-                    <div class="comp--value">{{ item.value }}</div>
-                    <div class="comp--desc">{{ item.desc }}</div>
-                  </div>
-                  {% endfor %}
+                <div class="comp--services_evaluated-wrapper">
+                  {{ page.services_evaluated }}
                 </div>
-                
-                {% endif %}
               </div>
+              {% endif %}
             </div>
           </div>
         </section>
@@ -153,24 +125,12 @@
             </div>
 
             <div class="container--right">
+              {% if page.key_recommendation %}
               <div class="key-recommendation">
                 <label class="label-black-style key-recommendation-label">Key Recommendations</label>
-                {% if page.key_recommendation_list %}
-                {{ page.key_recommendation_list }}
-                {% endif; %}
+                {{ page.key_recommendation }}
               </div>
-              <div class="border-line"></div>
-              <p>{{ page.key_recommendation_paragraph }}</p>
-              <p>{{ page.analysis_text_right }}</p>
-              <div class="comp--industry">
-                <label>Industry: </label>{{ page.analysis_industry }}
-              </div>
-              <div class="comp--mark">
-                <label>Market cap: </label>{{ page.analysis_market_cap }}
-              </div>
-              <div class="comp--sank">
-                <label>Stock symbol: </label>{{ page.analysis_stock_symbol }}
-              </div>
+              {% endif; %}
             </div>
 
           </div>
@@ -221,11 +181,11 @@
                 <label> Summary of changes</label>
                 <div class="positive-and-negative-changes">
                   {% for item in page.summary_of_changes_governance %}
-                  <div class="{{ item.change }}-change">
-                    {% if item.change == "positive" %}
+                  <div class="change">
+                    {% if item.change == true %}
                     <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
                     {% endif %}
-                    {% if item.change == "negative" %}
+                    {% if item.change == false %}
                     <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
                     {% endif %}
                     <div class="text-change">
@@ -235,7 +195,6 @@
                   </div>
                   {% endfor %}
                 </div>
-
 
               </div>
               {% endif %}
@@ -290,11 +249,11 @@
 
                 <div class="positive-and-negative-changes">
                   {% for item in page.summary_of_changes_freedom %}
-                  <div class="{{ item.change }}-change">
-                    {% if item.change == "positive" %}
+                  <div class="change">
+                    {% if item.change == true %}
                     <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
                     {% endif %}
-                    {% if item.change == "negative" %}
+                    {% if item.change == false %}
                     <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
                     {% endif %}
                     <div class="text-change">
@@ -360,11 +319,11 @@
                 <label> Summary of changes</label>
                 <div class="positive-and-negative-changes">
                   {% for item in page.summary_of_changes_privacy %}
-                  <div class="{{ item.change }}-change">
-                    {% if item.change == "positive" %}
+                  <div class="change">
+                    {% if item.change == true %}
                     <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
                     {% endif %}
-                    {% if item.change == "negative" %}
+                    {% if item.change == false %}
                     <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
                     {% endif %}
                     <div class="text-change">
