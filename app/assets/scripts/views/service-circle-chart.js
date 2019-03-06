@@ -37,7 +37,7 @@ module.exports = BaseChart.extend({
       .on('click', function (d) {
         var href = label.name.toLowerCase().replace('&', '')
           .replace('.', '').replace(' ', '').replace('ó', 'o').replace('é', 'e');
-        window.location.href = baseurl + '/companies/' + href;
+        window.location.href = baseurl + '/companies/' + href + '/index';
       });
     var score = g.append('text')
       .attr('class', 'circle--label_val')
