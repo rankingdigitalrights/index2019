@@ -115,7 +115,7 @@ module.exports = BaseChart.extend({
         var href = d.company;
         href = href.toLowerCase().replace('&', '')
           .replace('.', '').replace(' ', '').replace('ó', 'o').replace('é', 'e');
-        window.location.href = baseurl + '/companies/' + href;
+        window.location.href = baseurl + '/companies/' + href + '/index';
       });
 
     g.append('g')

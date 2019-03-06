@@ -62,7 +62,7 @@ module.exports = BaseChart.extend({
       .on('click', function (d) {
         var href = d.toLowerCase().replace('&', '')
           .replace('.', '').replace(' ', '');
-        window.location.href = baseurl + '/companies/' + href;
+        window.location.href = baseurl + '/companies/' + href + '/index';
       });
 
     g.append('g')

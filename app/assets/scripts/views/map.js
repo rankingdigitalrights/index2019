@@ -3,6 +3,8 @@ var Backbone = require('backbone');
 var Datamap = require('datamaps');
 var d3 = require('d3');
 var baseurl = require('../util/base-url');
+var LineDotChart = require('./line-dot-chart');
+var template = require('../templates/company-tooltip.tpl');
 require('d3-geo-projection')(d3);
 
 module.exports = Backbone.View.extend({
@@ -16,15 +18,11 @@ module.exports = Backbone.View.extend({
     var map = new Datamap({
       element: document.getElementById('container'),
       setProjection: function (element) {
-        var projection = d3.geo.mercator()
-          .scale(element.offsetWidth / 8)
-          .rotate([350, 0, 0])
-          .translate([element.offsetWidth / 2, element.offsetHeight / 1.5]);
+        var projection = d3.geo.mercator().scale(element.offsetWidth / 8).translate([element.offsetWidth / 2, element.offsetHeight / 1.5]);
         var path = d3.geo.path().projection(projection);
         return { path: path, projection: projection };
       },
-      responsive: true, // If true, call `resize()` on the map object when it should adjust it's size
-      // countries don't listed in dataset will be painted with this color
+      responsive: true,
       fills: {
         'yellow': '#F8931F',
         'red': '#ed1b24',
@@ -33,24 +31,9 @@ module.exports = Backbone.View.extend({
       geographyConfig: {
         borderColor: '#597180',
         highlightBorderWidth: 1,
-        popupOnHover: true,
-        // don't change color on mouse hover
+        popupOnHover: false,
         highlightFillColor: false,
-        // only change border
-        highlightBorderColor: '#597180',
-        // show desired information in tooltip
-        popupTemplate: function (geo, data) {
-          // don't show tooltip if country don't present in dataset
-          if (!data) { return; }
-          // tooltip content
-          var retval = '';
-          data.companies.forEach(function (item) {
-            retval += '<li><i class="fa fa-circle ' + item.type + '"></i>' + item.name + '</li>';
-          });
-          return ['<div class="d3-tip s"><div class="country">', geo.properties.name, '</div>',
-            '<ul>', retval, '</ul>',
-            '</div>'].join('');
-        }
+        highlightBorderColor: '#597180'
       }
     });
 
@@ -66,7 +49,30 @@ module.exports = Backbone.View.extend({
     function handleCompanyLabels (layer) {
       var self = this;
       d3.selectAll('.datamaps-bubble').attr('data-foo', function (data) {
-        tooltip.text(data.company);
+        
+
+        var values = [{'className': "highlight",'display': "Apple",'id': "apple", 'val': 44},{'className': "highlight",'display': "microsoft",'id': "microsoft", 'val': 24}];
+        var active = 'apple';
+        var isTelco = false;
+        var id = 'total';
+
+        var view = new LineDotChart({
+          values: values,
+          active: active,
+          isTelco: isTelco,
+          category: id
+        });
+
+       // console.info(view['$el'][0]['innerHTML']);
+
+        var tooltip = d3.select('body')
+          .append('div')
+          .attr('class', 'company--tooltip')
+          .style('position', 'absolute')
+          .style('z-index', '10')
+          .style('visibility', 'hidden')
+          .html(template({data:data, dot_chart:view['$el'][0]['innerHTML']}));
+
         var coords = self.latLngToXY(data.latitude, data.longitude);
         layer.append('a')
           .attr('class', 'company--name')
@@ -77,8 +83,8 @@ module.exports = Backbone.View.extend({
           .style('font-size', '12px')
           .style('fill', '#ffffff')
           .text(data.company)
-          .on('mouseover', function () { return tooltip.text(data.company).style('visibility', 'visible'); })
-          .on('mousemove', function () { return tooltip.style('top', (d3.event.pageY + 20) + 'px').style('left', (d3.event.pageX - 150) + 'px'); })
+          .on('mouseover', function () { return tooltip.style('visibility', 'visible'); })
+          .on('mousemove', function () { return tooltip.style('top', (d3.event.pageY + 20) + 'px').style('left', (d3.event.pageX - 180) + 'px'); })
           .on('mouseout', function () { return tooltip.style('visibility', 'hidden'); });
       });
     }
@@ -86,16 +92,11 @@ module.exports = Backbone.View.extend({
     // register the plugin to datamaps
     map.addPlugin('companyLabels', handleCompanyLabels);
 
-    var tooltip = d3.select('body')
-      .append('div')
-      .attr('class', 'company--tooltip')
-      .style('position', 'absolute')
-      .style('z-index', '10')
-      .style('visibility', 'hidden')
-      .text('a simple tooltip');
-
     window.addEventListener('resize', function () {
       map.resize();
     });
-  }
+  },
+
+  render: function() {}
+
 });
