@@ -23,7 +23,7 @@ module.exports = Backbone.View.extend({
     var map = new Datamap({
       element: document.getElementById('container'),
       setProjection: function (element) {
-        var projection = d3.geo.mercator().scale(element.offsetWidth / 8).rotate([350, 0, 0]).translate([element.offsetWidth / 2, element.offsetHeight / 1.5]);
+        var projection = d3.geo.mercator().scale(element.offsetWidth / 7.3).rotate([350, 0, 0]).translate([element.offsetWidth / 2, element.offsetHeight / 1.42]);
         var path = d3.geo.path().projection(projection);
         return {
           path: path,
