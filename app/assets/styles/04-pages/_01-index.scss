@@ -6,26 +6,45 @@
 	.page--intro {
 		padding-top: 2em;
 		padding-bottom: 0;
+		.page--title {
+			color: $white !important;
+		}
 		p {
-
-		text-align: center;
+		  margin-bottom: 30px;
+		  text-align: center;
 		  @include media(small-up) {
-            padding-top: 2em;
+            padding-top: 0em;
 			text-align: center;
 		  }
 		  @include media(medium-up) {
-            padding-top: 2em;
+            padding-top: 0em;
 			text-align: center;
 		  }
 		  @include media(large-up) {
-
 			text-align: left;
 		  }
 		  @include media(xlarge-up) {
-
 		  	text-align: left;
 		  }   
-		}	
+		}
+		a.read--more,
+		a.download--full--report {
+			background-color: #4D9ECF;
+			@include border-radius(8px);
+			color: $white;
+			display: inline-block;
+			font-size: 1.12em;
+			font-weight: 900;
+			padding: 15px 20px 11px 15px;
+			text-transform: uppercase;
+			i {
+				font-weight: normal;
+				margin-right: 10px;
+			}
+		}
+		a.read--more {
+			margin-right: 50px;
+		}
 	}
 
 
@@ -160,11 +179,19 @@
 
 	.world-map {
 
-		.non-highlihted-bg {
-			background-color: transparent;
-			p {
-				color: #ffffff;
+		.main-content-with-padding {
+			z-index: 2;
+			.non-highlihted-bg {
+				background-color: transparent;
+				p {
+					color: #ffffff;
+				}
 			}
+		}
+
+		#container {
+			margin-top: -130px;
+			z-index: 1;
 		}
 
 		background-color: #0C2637;
