@@ -1,168 +1,120 @@
 [
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"red",
     "latitude":37.774929,
     "longitude":-122.419418,
     "company":"Apple",
     "compURL":"apple",
-    "compPosX":10,
-    "compPosY":15,
-    "compColor": "#000000",
-    "compAnchor": "end",
+    "compPosX":33,
+    "compPosY":-150,
     "lineColor":"#ed1b24",
     "country":"U.S.",
-    "countryPosX":15,
-    "countryPosY":16,
-    "countryColor": "#3C3C3C",
-    "countryAnchor": "end",
-    "x2":38,
-    "y2":-100
+    "x2":35,
+    "y2":-133
   },
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"red",
     "latitude":37.774929,
     "longitude":-122.419418,
     "company":"Facebook",
     "compURL":"facebook",
-    "compPosX":-80,
-    "compPosY":-5,
-    "compColor": "#000000",
-    "compAnchor": "end",
+    "compPosX":46,
+    "compPosY":-159,
     "lineColor":"#ed1b24",
     "country":"U.S.",
-    "countryPosX":15,
-    "countryPosY":16,
-    "countryAnchor": "end",
-    "countryColor": "#3C3C3C",
-    "x2":138,
-    "y2":-100
+    "x2":47,
+    "y2":-133
   },
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"red",
     "latitude":37.774929,
     "longitude":-122.419418,
     "company":"Google",
     "compURL":"google",
-    "compPosX":-58,
-    "compPosY":15,
-    "compColor": "#000000",
-    "compAnchor": "end",
+    "compPosX":40,
+    "compPosY":-153,
     "lineColor":"#ed1b24",
     "country":"U.S.",
-    "countryPosX":15,
-    "countryPosY":16,
-    "countryAnchor": "end",
-    "countryColor": "#3C3C3C",
-    "x2":38,
-    "y2":-100
+    "x2":41,
+    "y2":-133
   },
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"red",
     "latitude":47.639890,
     "longitude":-122.125090,
     "company":"Microsoft",
     "compURL":"microsoft",
-    "compPosX":-35,
-    "compPosY":-40,
-    "compColor":"#000000",
-    "compAnchor":"center",
+    "compPosX":56,
+    "compPosY":-135,
     "lineColor":"#ed1b24",
     "country":"U.S.",
-    "countryPosX":15,
-    "countryPosY":16,
-    "countryAnchor": "end",
-    "countryColor": "#3C3C3C",
-    "x2":55.5,
+    "x2":54.5,
     "y2":-122.125090
   },
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"red",
     "latitude":37.774929,
     "longitude":-122.419418,
     "company":"Twitter",
     "compURL":"twitter",
-    "compPosX":10,
-    "compPosY":-5,
-    "compColor": "#000000",
-    "compAnchor": "end",
+    "compPosX":25,
+    "compPosY":-155,
     "lineColor":"#ed1b24",
     "country":"U.S.",
-    "countryPosX":15,
-    "countryPosY":16,
-    "countryAnchor": "end",
-    "countryColor": "#3C3C3C",
-    "x2":38,
-    "y2":-100
+    "x2":27,
+    "y2":-133
   },
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"red",
     "latitude":40.712776,
     "longitude":-74.005974,
-    "company":"Oath",
+    "company":"Verizon media",
     "compURL":"oath",
-    "compPosX":-40,
-    "compPosY":3,
-    "compColor": "#000000",
-    "compAnchor": "end",
+    "compPosX":52,
+    "compPosY":-90,
     "lineColor":"#ed1b24",
     "country":"U.S.",
-    "countryPosX":15,
-    "countryPosY":16,
-    "countryAnchor": "end",
-    "countryColor": "#3C3C3C",
-    "x2":38,
-    "y2":-100
+    "x2":50,
+    "y2":-74.005974
   },
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"yellow",
     "latitude":32.767340,
     "longitude":-96.722120,
     "company":"AT&T",
     "compURL":"att",
-    "compPosX":10,
-    "compPosY":5,
-    "compColor": "#000000",
-    "compAnchor": "end",
+    "compPosX":45,
+    "compPosY":-103,
     "lineColor":"#f8931f",
     "country":"U.S.",
-    "countryPosX":15,
-    "countryPosY":16,
-    "countryAnchor": "end",
-    "countryColor": "#3C3C3C",
-    "x2":33,
-    "y2":-97
+    "x2":43,
+    "y2":-96.722120
   },
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"yellow",
     "latitude":19.432680,
     "longitude":-99.134210,
     "company":"América Móvil",
     "compURL":"americamovil",
-    "compPosX":-105,
-    "compPosY":5,
-    "compColor": "#000000",
-    "compAnchor": "middle",
+    "compPosX":2,
+    "compPosY":-115,
     "lineColor":"#f8931f",
     "country":"Mexico",
-    "countryPosX":0,
-    "countryPosY":41,
-    "countryAnchor": "middle",
-    "countryColor": "#3C3C3C",
-    "x2":20,
-    "y2":-100
+    "x2":8,
+    "y2":-99.134210
   },
 
 
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"red",
     "latitude":55.755825,
     "longitude":37.617298,
@@ -180,7 +132,7 @@
     "countryColor": "#3C3C3C"
   },
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"red",
     "latitude":55.755825,
     "longitude":37.617298,
@@ -198,7 +150,7 @@
     "countryColor": "#3C3C3C"
   },
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"yellow",
     "latitude":-26.204103,
     "longitude":28.047304,
@@ -219,7 +171,7 @@
   },
 
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"yellow",
     "latitude":51.400460,
     "longitude":-1.321850,
@@ -240,7 +192,7 @@
   },
 
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"yellow",
     "latitude":59.913818,
     "longitude":10.738740,
@@ -261,7 +213,7 @@
   },
 
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"yellow",
     "latitude":50.732700,
     "longitude":7.096310,
@@ -282,7 +234,7 @@
   },
 
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"yellow",
     "latitude":48.837310,
     "longitude":2.370410,
@@ -302,7 +254,7 @@
     "y2":2
   },
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"yellow",
     "latitude":40.416775,
     "longitude":-3.703790,
@@ -323,7 +275,7 @@
   },
 
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"yellow",
     "latitude":25.285446,
     "longitude":51.531040,
@@ -343,7 +295,7 @@
     "y2":51
   },
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"yellow",
     "latitude":24.453884,
     "longitude":54.377342,
@@ -363,7 +315,7 @@
     "y2":54
   },
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"yellow",
     "latitude":28.557920,
     "longitude":77.169820,
@@ -383,7 +335,7 @@
     "y2":80
   },
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"yellow",
     "latitude":3.133040,
     "longitude":101.684230,
@@ -404,7 +356,7 @@
   },
 
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"red",
     "latitude":22.524055,
     "longitude":113.949007,
@@ -424,7 +376,7 @@
     "y2":105
   },
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"red",
     "latitude":39.904202,
     "longitude":116.407394,
@@ -444,7 +396,7 @@
     "y2":105
   },
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"red",
     "latitude":37.568290,
     "longitude":126.997780,
@@ -464,7 +416,7 @@
     "y2":128
   },
   {
-    "radius":4,
+    "radius":5,
     "fillKey":"red",
     "latitude":33.510140,
     "longitude":126.521930,

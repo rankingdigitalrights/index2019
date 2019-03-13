@@ -5,7 +5,6 @@ var d3 = require('d3');
 var baseurl = require('../util/base-url');
 var Overview = require('../collections/overview');
 var CategoryChart = require('../views/category-line-dot-chart');
-
 require('d3-geo-projection')(d3);
 
 module.exports = Backbone.View.extend({
@@ -34,8 +33,8 @@ module.exports = Backbone.View.extend({
       // If true, call `resize()` on the map object when it should adjust it's size
       // countries don't listed in dataset will be painted with this color
       fills: {
-        'yellow': '#F8931F',
-        'red': '#ed1b24',
+        'yellow': '#FF9100',
+        'red': '#FD0000',
         defaultFill: '#325F7C'
       },
       geographyConfig: {
@@ -73,15 +72,17 @@ module.exports = Backbone.View.extend({
     function handleCompanyLabels(layer) {
       var self = this;
       d3.selectAll('.datamaps-bubble').attr('data-foo', function (data) {
-        //tooltip.text(data.company);
         var coords = self.latLngToXY(data.latitude, data.longitude);
+        var company_position = self.latLngToXY(data.compPosX, data.compPosY);
+        var $end = self.latLngToXY(data.x2, data.y2);
         layer.append('a')
           .attr('class', 'company--name')
           .attr('xlink:href', baseurl + '/companies/' + data.compURL + '/index')
           .append('text')
-          .attr('x', coords[0] + parseInt(data.compPosX))
-          .attr('y', coords[1] + parseInt(data.compPosY))
-          .style('font-size', '12px')
+          .attr('x', company_position[0])
+          .attr('y', company_position[1])
+          .style('font-size', '24px !important')
+          .style('text-transform', 'uppercase')
           .style('fill', '#ffffff')
           .text(data.company)
           .on('mouseover', function () {
@@ -90,18 +91,23 @@ module.exports = Backbone.View.extend({
               highlighted: data.compURL
             });
             category.render('total');
+            var company = overview.findWhere({ id: data.compURL });
+            var is_telco = company.attributes.telco;
+            var total = company.attributes.total;
+            var company_type = (is_telco) ? 'Telecommunications company' : 'Internet and Mobile Ecosystem Companies';
+            $('#company--type').html('<i class="fa fa-circle '+is_telco+'"></i>'+company_type);
+            $('#company--name').text(data.company);
+            $('#company--domicile').html('Domicile: '+data.country);
+            $('#company--total').html('Score: <span>'+Math.round(total)+'%</span>');
             return tooltip.style('visibility', 'visible');
           }).on('mousemove', function () {
             return tooltip.style('top', d3.event.pageY + 20 + 'px').style('left', d3.event.pageX - 150 + 'px');
           }).on('mouseout', function () {
-
             $('.dotchart').remove();
-
             return tooltip.style('visibility', 'hidden');
           });
 
         if (parseInt(data.lineColor) !== 0) {
-          var $end = self.latLngToXY(data.x2, data.y2);
           layer.append('line') // attach a line
             .style('stroke', data.lineColor) // colour the line
             .attr('x1', coords[0]) // x position of the first end of the line
@@ -111,21 +117,23 @@ module.exports = Backbone.View.extend({
         }
       });
     }
-
-
     map.addPlugin('companyLabels', handleCompanyLabels);
-    
     var tooltip = d3.select('body').
       append('div').
       attr('class', 'company--tooltip').
       style('position', 'absolute').
       style('z-index', '10').
-      style('visibility', 'hidden').
-      text('a simple tooltip');
+      style('visibility', 'hidden');
 
-      tooltip.append('div').
-      attr('id', 'total--dot_chart').
-      attr('class', 'comp--dot_chart');
+      tooltip.append('div').attr('id', 'company--type');
+      tooltip.append('h2').attr('id', 'company--name');
+
+      var company_info = tooltip.append('div').attr('id', 'company--info');
+      company_info.append('div').attr('id', 'company--domicile');
+      company_info.append('div').attr('id', 'company--total');
+
+      tooltip.append('div').attr('id', 'company--chart--title').text('Position Among Other Companies');
+      tooltip.append('div').attr('id', 'total--dot_chart');
 
     window.addEventListener('resize', function () {
       map.resize();
