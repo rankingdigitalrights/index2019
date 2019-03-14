@@ -4,6 +4,7 @@ var Datamap = require('datamaps');
 var d3 = require('d3');
 var baseurl = require('../util/base-url');
 var Overview = require('../collections/overview');
+var Compare = require('../collections/compare');
 var CategoryChart = require('../views/category-line-dot-chart');
 require('d3-geo-projection')(d3);
 
@@ -13,10 +14,10 @@ module.exports = Backbone.View.extend({
   // Constructor
   initialize: function () {
 
-
     var overview = new Overview();
     overview.fetch();
-
+    var compare = new Compare();
+    compare.fetch();
 
     // render map
     var map = new Datamap({
@@ -92,6 +93,9 @@ module.exports = Backbone.View.extend({
             });
             category.render('total');
             var company = overview.findWhere({ id: data.compURL });
+            var difference = compare.findWhere({ id: data.compURL });
+            var total_difference = difference.attributes.total_difference;
+            var total_difference_class = (total_difference >= 0) ? 'fa fa-chevron-up up-arrow-green' : 'fa fa-chevron-down down-arrow-red';
             var is_telco = company.attributes.telco;
             var total = company.attributes.total;
             var company_type = (is_telco) ? 'Telecommunications company' : 'Internet and Mobile Ecosystem Companies';
@@ -99,6 +103,7 @@ module.exports = Backbone.View.extend({
             $('#company--name').text(data.company);
             $('#company--domicile').html('Domicile: '+data.country);
             $('#company--total').html('Score: <span>'+Math.round(total)+'%</span>');
+            $('#company--difference').html('<i class="'+total_difference_class+'" aria-hidden="true"></i>');
             return tooltip.style('visibility', 'visible');
           }).on('mousemove', function () {
             return tooltip.style('top', d3.event.pageY + 20 + 'px').style('left', d3.event.pageX - 150 + 'px');
@@ -131,6 +136,7 @@ module.exports = Backbone.View.extend({
       var company_info = tooltip.append('div').attr('id', 'company--info');
       company_info.append('div').attr('id', 'company--domicile');
       company_info.append('div').attr('id', 'company--total');
+      company_info.append('div').attr('id', 'company--difference');
 
       tooltip.append('div').attr('id', 'company--chart--title').text('Position Among Other Companies');
       tooltip.append('div').attr('id', 'total--dot_chart');
