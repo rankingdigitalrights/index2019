@@ -120,7 +120,7 @@
 		}
 		#total--dot_chart {
 			.dotchart {
-				margin: 0 25px;
+				margin: 0 65px 0 50px;
 				top: -30px;
 				height: 40px;
 				.dot {
@@ -140,6 +140,18 @@
 				.dotchart--label {
 					color: #E2E2E2;
 					font-size: 15px;
+					margin-top: -14px;
+				}
+				.dotchart--label_left {
+					margin-left: -25px;
+				}
+				.dotchart--label_right {
+					margin-right: -40px;
+				}
+				.dotchart--baseline {
+					border-bottom: 1px solid #A1A3A4;
+					//margin: 0 25px;
+					//width: 265px;
 				}
 			}
 		}
