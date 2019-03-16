@@ -5,7 +5,7 @@ layout: company
 name: mtn
 id: mtn
 company_type: Telecommunications company
-display: MTN Group Limited
+display: Verizon Media
 telco: true
 rank: 6
 basic_information: | 
