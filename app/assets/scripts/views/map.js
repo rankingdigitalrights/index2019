@@ -94,8 +94,11 @@ module.exports = Backbone.View.extend({
             category.render('total');
             var company = overview.findWhere({ id: data.compURL });
             var difference = compare.findWhere({ id: data.compURL });
-            var total_difference = difference.attributes.total_difference;
-            var total_difference_class = (total_difference >= 0) ? 'fa fa-chevron-up up-arrow-green' : 'fa fa-chevron-down down-arrow-red';
+            if(difference){
+              var total_difference = difference.attributes.total_difference;
+              var total_difference_class = (total_difference >= 0) ? 'fa fa-chevron-up up-arrow-green' : 'fa fa-chevron-down down-arrow-red';  
+              $('#company--difference').html('<i class="'+total_difference_class+'" aria-hidden="true"></i>');
+            }
             var is_telco = company.attributes.telco;
             var total = company.attributes.total;
             var company_type = (is_telco) ? 'Telecommunications company' : 'Internet and Mobile Ecosystem Companies';
@@ -103,7 +106,6 @@ module.exports = Backbone.View.extend({
             $('#company--name').text(data.company);
             $('#company--domicile').html('Domicile: '+data.country);
             $('#company--total').html('Score: <span>'+Math.round(total)+'%</span>');
-            $('#company--difference').html('<i class="'+total_difference_class+'" aria-hidden="true"></i>');
             return tooltip.style('visibility', 'visible');
           }).on('mousemove', function () {
             return tooltip.style('top', d3.event.pageY + 20 + 'px').style('left', d3.event.pageX - 150 + 'px');
@@ -112,14 +114,12 @@ module.exports = Backbone.View.extend({
             return tooltip.style('visibility', 'hidden');
           });
 
-        if (parseInt(data.lineColor) !== 0) {
-          layer.append('line') // attach a line
-            .style('stroke', data.lineColor) // colour the line
-            .attr('x1', coords[0]) // x position of the first end of the line
-            .attr('y1', coords[1]) // y position of the first end of the line
-            .attr('x2', $end[0]) // x position of the second end of the line
-            .attr('y2', $end[1]); // y position of the second end of the line
-        }
+        layer.append('line') // attach a line
+          .style('stroke', data.lineColor) // colour the line
+          .attr('x1', coords[0]) // x position of the first end of the line
+          .attr('y1', coords[1]) // y position of the first end of the line
+          .attr('x2', $end[0]) // x position of the second end of the line
+          .attr('y2', $end[1]); // y position of the second end of the line
       });
     }
     map.addPlugin('companyLabels', handleCompanyLabels);
