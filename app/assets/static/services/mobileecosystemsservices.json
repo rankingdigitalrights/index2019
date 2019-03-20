@@ -1,35 +1,29 @@
 [
     {
         "Company": "Google",
-        "Description": "Android is a mobile operating system developed by Google for mobile devices such as smartphones and tablets. Initially developed based on the Linux kernel by Android, Inc., acquired by Google in 2005, Android was released in 2007.",
-        "Difference": "1",
-        "FoE": "47",
-        "G": "71",
-        "P": "58",
+        "FoE": "53.2",
+        "G": "69.9",
+        "P": "53.9",
         "Service": "Android mobile ecosystem",
-        "Total": "57",
+        "Total": "56.6",
         "rank": "1"
     },
     {
         "Company": "Apple",
-        "Description": "iOS is a mobile operating system launched in 2007 by Apple Inc. exclusively for its own hardware. It is the operating system that presently powers the company's mobile devices, including the iPhone, iPad, and iPod Touch.",
-        "Difference": "9",
-        "FoE": "27",
-        "G": "34",
-        "P": "53",
+        "FoE": "29",
+        "G": "32.8",
+        "P": "55",
         "Service": "iOS mobile ecosystem",
-        "Total": "42",
+        "Total": "43.9",
         "rank": "2"
     },
     {
         "Company": "Samsung",
-        "Description": "The Samsung implementation of Android encompasses aspects that are unique to using Android OS devices sold by Samsung, a South Korean conglomerate. Android is a mobile operating system developed by Google, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets. ",
-        "Difference": "2",
-        "FoE": "22",
-        "G": "32",
-        "P": "29",
+        "FoE": "27.6",
+        "G": "32.1",
+        "P": "26.2",
         "Service": "Samsung implementation of Android",
-        "Total": "28",
+        "Total": "27.7",
         "rank": "3"
     }
 ]

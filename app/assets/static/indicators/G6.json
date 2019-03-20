@@ -24,20 +24,20 @@
                     "value": "30"
                 },
                 {
-                    "value": "70"
+                    "value": "40"
                 },
                 {
                     "value": "30"
                 },
                 {
-                    "value": "70"
+                    "value": "40"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "100"
@@ -56,26 +56,7 @@
                 {
                     "cells": [
                         {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
                         },
                         {
                             "value": "50"
@@ -94,26 +75,45 @@
                 {
                     "cells": [
                         {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
                         },
                         {
                             "value": "0"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         },
                         {
                             "value": "0"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "0"
@@ -159,51 +159,26 @@
                     "value": "20"
                 },
                 {
-                    "value": "40"
+                    "value": "30"
                 },
                 {
                     "value": "0"
                 },
                 {
-                    "value": "40"
+                    "value": "30"
                 },
                 {
                     "value": "0"
                 },
                 {
-                    "value": "40"
+                    "value": "30"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "50"
@@ -228,10 +203,10 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
                             "value": "50"
@@ -253,7 +228,7 @@
                 {
                     "cells": [
                         {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
                         },
                         {
                             "value": "0"
@@ -278,7 +253,32 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "0"
@@ -330,91 +330,66 @@
                     "value": "40"
                 },
                 {
-                    "value": "30"
+                    "value": "20"
                 },
                 {
                     "value": "40"
                 },
                 {
-                    "value": "30"
+                    "value": "20"
                 },
                 {
                     "value": "40"
                 },
                 {
-                    "value": "30"
+                    "value": "20"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
                         },
                         {
                             "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         },
                         {
                             "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "0"
                         },
                         {
                             "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -424,7 +399,32 @@
                 {
                     "cells": [
                         {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
                         },
                         {
                             "value": "0"
@@ -449,7 +449,7 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "0"
@@ -495,20 +495,20 @@
                     "value": "0"
                 },
                 {
-                    "value": "30"
+                    "value": "20"
                 },
                 {
                     "value": "0"
                 },
                 {
-                    "value": "30"
+                    "value": "20"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "0"
@@ -527,26 +527,7 @@
                 {
                     "cells": [
                         {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
                         },
                         {
                             "value": "0"
@@ -565,7 +546,7 @@
                 {
                     "cells": [
                         {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
                         },
                         {
                             "value": "0"
@@ -584,7 +565,26 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "0"
@@ -642,14 +642,14 @@
                     "value": "20"
                 },
                 {
-                    "value": "10"
+                    "value": "20"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "0"
@@ -664,42 +664,17 @@
                             "value": "0"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
                         },
                         {
                             "value": "0"
@@ -724,7 +699,7 @@
                 {
                     "cells": [
                         {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
                         },
                         {
                             "value": "0"
@@ -749,7 +724,32 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "0"
@@ -798,29 +798,200 @@
             ],
             "average": [
                 {
-                    "value": "50"
+                    "value": "10"
                 },
                 {
-                    "value": "70"
+                    "value": "40"
                 },
                 {
-                    "value": "50"
+                    "value": "10"
                 },
                 {
-                    "value": "70"
+                    "value": "40"
                 },
                 {
-                    "value": "50"
+                    "value": "10"
                 },
                 {
-                    "value": "70"
+                    "value": "40"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "deutschetelekom",
+            "name": "Deutsche Telekom",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Prepaid Mobile - Privacy"
+                },
+                {
+                    "text": "Postpaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Postpaid Mobile - Privacy"
+                },
+                {
+                    "text": "Fixed Line Broadband - Freedom of Expression"
+                },
+                {
+                    "text": "Fixed Line Broadband - Privacy"
+                }
+            ],
+            "average": [
+                {
+                    "value": "40"
+                },
+                {
+                    "value": "40"
+                },
+                {
+                    "value": "40"
+                },
+                {
+                    "value": "40"
+                },
+                {
+                    "value": "40"
+                },
+                {
+                    "value": "40"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "100"
@@ -845,57 +1016,7 @@
                 {
                     "cells": [
                         {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
                         },
                         {
                             "value": "0"
@@ -920,7 +1041,57 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "50"
@@ -969,29 +1140,29 @@
             ],
             "average": [
                 {
-                    "value": "40"
+                    "value": "20"
                 },
                 {
-                    "value": "40"
+                    "value": "20"
                 },
                 {
-                    "value": "40"
+                    "value": "20"
                 },
                 {
-                    "value": "40"
+                    "value": "20"
                 },
                 {
-                    "value": "40"
+                    "value": "20"
                 },
                 {
-                    "value": "40"
+                    "value": "20"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "100"
@@ -1016,7 +1187,7 @@
                 {
                     "cells": [
                         {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
                         },
                         {
                             "value": "0"
@@ -1041,32 +1212,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
                         },
                         {
                             "value": "0"
@@ -1091,7 +1237,32 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "0"
@@ -1146,19 +1317,7 @@
             ],
             "average": [
                 {
-                    "value": "10"
-                },
-                {
-                    "value": "10"
-                },
-                {
-                    "value": "10"
-                },
-                {
-                    "value": "20"
-                },
-                {
-                    "value": "10"
+                    "value": "30"
                 },
                 {
                     "value": "0"
@@ -1167,14 +1326,119 @@
                     "value": "10"
                 },
                 {
-                    "value": "10"
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "30"
+                },
+                {
+                    "value": "0"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
                         },
                         {
                             "value": "0"
@@ -1205,100 +1469,7 @@
                 {
                     "cells": [
                         {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "0"
@@ -1333,10 +1504,10 @@
             "name": "Google",
             "headers": [
                 {
-                    "text": "Search - Freedom of Expression"
+                    "text": "Google Search - Freedom of Expression"
                 },
                 {
-                    "text": "Search - Privacy"
+                    "text": "Google Search - Privacy"
                 },
                 {
                     "text": "Gmail - Freedom of Expression"
@@ -1345,27 +1516,36 @@
                     "text": "Gmail - Privacy"
                 },
                 {
-                    "text": "Youtube - Freedom of Expression"
+                    "text": "YouTube - Freedom of Expression"
                 },
                 {
-                    "text": "Youtube - Privacy"
+                    "text": "YouTube - Privacy"
                 },
                 {
                     "text": "Android mobile ecosystem - Freedom of Expression"
                 },
                 {
                     "text": "Android mobile ecosystem - Privacy"
+                },
+                {
+                    "text": "Google Drive - Freedom of Expression"
+                },
+                {
+                    "text": "Google Drive - Privacy"
                 }
             ],
             "average": [
                 {
-                    "value": "30"
+                    "value": "20"
                 },
                 {
-                    "value": "50"
+                    "value": "40"
                 },
                 {
-                    "value": "30"
+                    "value": "20"
+                },
+                {
+                    "value": "10"
                 },
                 {
                     "value": "20"
@@ -1374,51 +1554,29 @@
                     "value": "30"
                 },
                 {
-                    "value": "30"
+                    "value": "10"
+                },
+                {
+                    "value": "10"
                 },
                 {
                     "value": "20"
                 },
                 {
-                    "value": "20"
+                    "value": "10"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "50"
                         },
                         {
                             "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
                         },
                         {
                             "value": "50"
@@ -1449,7 +1607,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
                         },
                         {
                             "value": "50"
@@ -1468,6 +1626,49 @@
                         },
                         {
                             "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1480,13 +1681,19 @@
                 {
                     "cells": [
                         {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
                         },
                         {
                             "value": "0"
                         },
                         {
                             "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1511,13 +1718,19 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "0"
                         },
                         {
                             "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1558,10 +1771,10 @@
                     "text": "Daum Mail - Privacy"
                 },
                 {
-                    "text": "KakaoTalk - Freedom of Expression"
+                    "text": "Kakao Talk - Freedom of Expression"
                 },
                 {
-                    "text": "KakaoTalk - Privacy"
+                    "text": "Kakao Talk - Privacy"
                 }
             ],
             "average": [
@@ -1569,66 +1782,41 @@
                     "value": "30"
                 },
                 {
-                    "value": "60"
+                    "value": "50"
                 },
                 {
                     "value": "30"
                 },
                 {
-                    "value": "60"
+                    "value": "50"
                 },
                 {
                     "value": "30"
                 },
                 {
-                    "value": "60"
+                    "value": "30"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
-                        },
-                        {
-                            "value": "50"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "100"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         },
                         {
                             "value": "100"
                         },
                         {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
                             "value": "100"
                         },
                         {
-                            "value": "50"
-                        },
-                        {
                             "value": "100"
-                        },
-                        {
-                            "value": "50"
                         },
                         {
                             "value": "100"
@@ -1638,47 +1826,22 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
                         },
                         {
                             "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
                             "value": "50"
                         },
                         {
-                            "value": "0"
-                        },
-                        {
                             "value": "50"
                         },
                         {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
                             "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
                         },
                         {
                             "value": "50"
@@ -1688,7 +1851,32 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
                         },
                         {
                             "value": "0"
@@ -1706,7 +1894,32 @@
                             "value": "0"
                         },
                         {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
                             "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 }
@@ -1723,43 +1936,55 @@
                     "text": "VKontakte - Privacy"
                 },
                 {
-                    "text": "Mail.ru email - Freedom of Expression"
+                    "text": "Mail.Ru email - Freedom of Expression"
                 },
                 {
-                    "text": "Mail.ru email - Privacy"
+                    "text": "Mail.Ru email - Privacy"
                 },
                 {
-                    "text": "Mail.ru Agent - Freedom of Expression"
+                    "text": "Mail.Ru Agent - Freedom of Expression"
                 },
                 {
-                    "text": "Mail.ru Agent - Privacy"
+                    "text": "Mail.Ru Agent - Privacy"
+                },
+                {
+                    "text": "Mail.Ru Cloud Solutions - Freedom of Expression"
+                },
+                {
+                    "text": "Mail.Ru Cloud Solutions - Privacy"
                 }
             ],
             "average": [
                 {
-                    "value": "40"
+                    "value": "30"
                 },
                 {
-                    "value": "20"
+                    "value": "30"
                 },
                 {
-                    "value": "40"
+                    "value": "30"
                 },
                 {
-                    "value": "20"
+                    "value": "30"
                 },
                 {
-                    "value": "40"
+                    "value": "30"
                 },
                 {
-                    "value": "20"
+                    "value": "30"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "100"
@@ -1778,50 +2003,6 @@
                         },
                         {
                             "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1834,7 +2015,44 @@
                 {
                     "cells": [
                         {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1859,7 +2077,44 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1904,83 +2159,51 @@
                 },
                 {
                     "text": "Skype - Privacy"
+                },
+                {
+                    "text": "OneDrive - Freedom of Expression"
+                },
+                {
+                    "text": "OneDrive - Privacy"
                 }
             ],
             "average": [
                 {
-                    "value": "40"
+                    "value": "10"
                 },
                 {
-                    "value": "40"
+                    "value": "10"
                 },
                 {
-                    "value": "40"
+                    "value": "20"
                 },
                 {
-                    "value": "40"
+                    "value": "10"
                 },
                 {
-                    "value": "40"
+                    "value": "20"
                 },
                 {
-                    "value": "40"
+                    "value": "10"
+                },
+                {
+                    "value": "20"
+                },
+                {
+                    "value": "10"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "50"
                         },
                         {
                             "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
                         },
                         {
                             "value": "50"
@@ -2005,7 +2228,44 @@
                 {
                     "cells": [
                         {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -2030,7 +2290,44 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -2069,6 +2366,12 @@
                 },
                 {
                     "text": "Postpaid Mobile - Privacy"
+                },
+                {
+                    "text": "Fixed Line Broadband - Freedom of Expression"
+                },
+                {
+                    "text": "Fixed Line Broadband - Privacy"
                 }
             ],
             "average": [
@@ -2076,141 +2379,6 @@
                     "value": "30"
                 },
                 {
-                    "value": "40"
-                },
-                {
-                    "value": "30"
-                },
-                {
-                    "value": "40"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "oath",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail - Freedom of Expression"
-                },
-                {
-                    "text": "Yahoo Mail - Privacy"
-                },
-                {
-                    "text": "Flickr - Freedom of Expression"
-                },
-                {
-                    "text": "Flickr - Privacy"
-                },
-                {
-                    "text": "Tumblr - Freedom of Expression"
-                },
-                {
-                    "text": "Tumblr - Privacy"
-                }
-            ],
-            "average": [
-                {
-                    "value": "40"
-                },
-                {
                     "value": "30"
                 },
                 {
@@ -2220,7 +2388,7 @@
                     "value": "30"
                 },
                 {
-                    "value": "50"
+                    "value": "30"
                 },
                 {
                     "value": "30"
@@ -2230,7 +2398,57 @@
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
                         },
                         {
                             "value": "50"
@@ -2255,47 +2473,22 @@
                 {
                     "cells": [
                         {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
-                        },
-                        {
-                            "value": "50"
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
                         },
                         {
                             "value": "0"
                         },
                         {
-                            "value": "50"
+                            "value": "0"
                         },
                         {
                             "value": "0"
                         },
                         {
-                            "value": "50"
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -2305,7 +2498,7 @@
                 {
                     "cells": [
                         {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "0"
@@ -2320,32 +2513,7 @@
                             "value": "0"
                         },
                         {
-                            "value": "50"
-                        },
-                        {
                             "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
                         },
                         {
                             "value": "0"
@@ -2379,54 +2547,29 @@
             ],
             "average": [
                 {
-                    "value": "10"
+                    "value": "0"
                 },
                 {
-                    "value": "10"
+                    "value": "0"
                 },
                 {
-                    "value": "10"
+                    "value": "0"
                 },
                 {
-                    "value": "10"
+                    "value": "0"
                 },
                 {
-                    "value": "10"
+                    "value": "0"
                 },
                 {
-                    "value": "10"
+                    "value": "0"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "0"
@@ -2451,7 +2594,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
                         },
                         {
                             "value": "0"
@@ -2476,7 +2619,7 @@
                 {
                     "cells": [
                         {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
                         },
                         {
                             "value": "0"
@@ -2501,7 +2644,32 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "0"
@@ -2550,71 +2718,121 @@
             ],
             "average": [
                 {
-                    "value": "20"
+                    "value": "40"
                 },
                 {
-                    "value": "0"
+                    "value": "40"
                 },
                 {
-                    "value": "20"
+                    "value": "40"
                 },
                 {
-                    "value": "0"
+                    "value": "40"
                 },
                 {
-                    "value": "20"
+                    "value": "40"
                 },
                 {
-                    "value": "0"
+                    "value": "40"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "100"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         },
                         {
                             "value": "100"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         },
                         {
                             "value": "100"
                         },
                         {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
                             "value": "0"
                         }
                     ]
@@ -2622,57 +2840,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "0"
@@ -2701,10 +2869,16 @@
             "name": "Samsung",
             "headers": [
                 {
-                    "text": "Samsung - Freedom of Expression"
+                    "text": "Samsung  implementation of Android - Freedom of Expression"
                 },
                 {
-                    "text": "Samsung - Privacy"
+                    "text": "Samsung implementation of Android - Privacy"
+                },
+                {
+                    "text": "Samsung Cloud - Freedom of Expression"
+                },
+                {
+                    "text": "Samsung Cloud - Privacy"
                 }
             ],
             "average": [
@@ -2713,78 +2887,114 @@
                 },
                 {
                     "value": "0"
+                },
+                {
+                    "value": ""
+                },
+                {
+                    "value": ""
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "0"
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
                         },
                         {
                             "value": "0"
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
                         },
                         {
                             "value": "0"
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
                         },
                         {
                             "value": "0"
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "0"
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "telefonica",
+            "id": "telefónica",
             "name": "Telefónica",
             "headers": [
                 {
@@ -2808,29 +3018,29 @@
             ],
             "average": [
                 {
-                    "value": "60"
-                },
-                {
-                    "value": "70"
+                    "value": "90"
                 },
                 {
                     "value": "60"
                 },
                 {
-                    "value": "70"
+                    "value": "90"
                 },
                 {
                     "value": "60"
                 },
                 {
-                    "value": "70"
+                    "value": "90"
+                },
+                {
+                    "value": "60"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "100"
@@ -2855,72 +3065,22 @@
                 {
                     "cells": [
                         {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
                         },
                         {
                             "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
                             "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
                         },
                         {
                             "value": "50"
@@ -2930,7 +3090,228 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "telenor",
+            "name": "Telenor",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Prepaid Mobile - Privacy"
+                },
+                {
+                    "text": "Postpaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Postpaid Mobile - Privacy"
+                },
+                {
+                    "text": "Fixed Line Broadband - Freedom of Expression"
+                },
+                {
+                    "text": "Fixed Line Broadband - Privacy"
+                }
+            ],
+            "average": [
+                {
+                    "value": "10"
+                },
+                {
+                    "value": "10"
+                },
+                {
+                    "value": "10"
+                },
+                {
+                    "value": "10"
+                },
+                {
+                    "value": "10"
+                },
+                {
+                    "value": "10"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "0"
@@ -2956,7 +3337,7 @@
         },
         {
             "id": "tencent",
-            "name": "Tencent",
+            "name": "TenCent",
             "headers": [
                 {
                     "text": "QZone - Freedom of Expression"
@@ -2979,104 +3360,29 @@
             ],
             "average": [
                 {
-                    "value": "10"
+                    "value": "0"
                 },
                 {
-                    "value": "20"
+                    "value": "0"
                 },
                 {
-                    "value": "10"
+                    "value": "0"
                 },
                 {
-                    "value": "10"
+                    "value": "0"
                 },
                 {
-                    "value": "10"
+                    "value": "0"
                 },
                 {
-                    "value": "40"
+                    "value": "0"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "0"
@@ -3101,7 +3407,82 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "0"
@@ -3130,7 +3511,7 @@
             "name": "Twitter",
             "headers": [
                 {
-                    "text": "Twitter - Freedom of Expression"
+                    "text": "Twitter- Freedom of Expression"
                 },
                 {
                     "text": "Twitter - Privacy"
@@ -3147,20 +3528,20 @@
                     "value": "50"
                 },
                 {
-                    "value": "30"
+                    "value": "10"
                 },
                 {
                     "value": "50"
                 },
                 {
-                    "value": "30"
+                    "value": "10"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "50"
@@ -3179,45 +3560,7 @@
                 {
                     "cells": [
                         {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
                         },
                         {
                             "value": "50"
@@ -3236,7 +3579,45 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "50"
@@ -3279,29 +3660,29 @@
             ],
             "average": [
                 {
-                    "value": "60"
+                    "value": "40"
                 },
                 {
-                    "value": "60"
+                    "value": "40"
                 },
                 {
-                    "value": "60"
+                    "value": "40"
                 },
                 {
-                    "value": "60"
+                    "value": "40"
                 },
                 {
-                    "value": "60"
+                    "value": "40"
                 },
                 {
-                    "value": "60"
+                    "value": "40"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "100"
@@ -3326,57 +3707,57 @@
                 {
                     "cells": [
                         {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
                         },
                         {
                             "value": "0"
@@ -3401,7 +3782,7 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "0"
@@ -3426,14 +3807,143 @@
             ]
         },
         {
+            "id": "verizonmedia",
+            "name": "Verizon Media",
+            "headers": [
+                {
+                    "text": "Yahoo Mail - Freedom of Expression"
+                },
+                {
+                    "text": "Yahoo Mail - Privacy"
+                },
+                {
+                    "text": "Tumblr - Freedom of Expression"
+                },
+                {
+                    "text": "Tumblr - Privacy"
+                }
+            ],
+            "average": [
+                {
+                    "value": "20"
+                },
+                {
+                    "value": "20"
+                },
+                {
+                    "value": "30"
+                },
+                {
+                    "value": "20"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "yandex",
             "name": "Yandex",
             "headers": [
                 {
-                    "text": "Yandex mail - Freedom of Expression"
+                    "text": "Yandex Mail - Freedom of Expression"
                 },
                 {
-                    "text": "Yandex mail - Privacy"
+                    "text": "Yandex Mail - Privacy"
                 },
                 {
                     "text": "Yandex Search - Freedom of Expression"
@@ -3450,104 +3960,29 @@
             ],
             "average": [
                 {
-                    "value": "10"
+                    "value": "0"
                 },
                 {
-                    "value": "30"
+                    "value": "0"
                 },
                 {
-                    "value": "30"
+                    "value": "0"
                 },
                 {
-                    "value": "30"
+                    "value": "0"
                 },
                 {
-                    "value": "10"
+                    "value": "0"
                 },
                 {
-                    "value": "30"
+                    "value": "0"
                 }
             ],
             "rows": [
                 {
                     "cells": [
                         {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                            "value": "Does the company clearly disclose_ it has a grievance mechanism(s) enabling users to submit complaints if they feel their freedom of expression or privacy has been adversely affected by the company�s policies or practices?"
                         },
                         {
                             "value": "0"
@@ -3572,7 +4007,82 @@
                 {
                     "cells": [
                         {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                            "value": "Does the company clearly disclose_ its procedures for providing remedy for freedom of expression- or privacy-related grievances?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ timeframes for its grievance and remedy procedures?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose_ evidence that it is providing remedy for freedom of expression and privacy grievances?"
                         },
                         {
                             "value": "0"

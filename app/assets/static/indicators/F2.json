@@ -98,7 +98,7 @@
                     "value": "0"
                 },
                 {
-                    "value": "38"
+                    "value": "50"
                 }
             ],
             "rows": [
@@ -130,7 +130,7 @@
                             "value": "0"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         }
                     ]
                 },
@@ -184,13 +184,13 @@
             ],
             "average": [
                 {
-                    "value": "38"
+                    "value": "37.5"
                 },
                 {
-                    "value": "38"
+                    "value": "25"
                 },
                 {
-                    "value": "38"
+                    "value": "25"
                 }
             ],
             "rows": [
@@ -203,10 +203,10 @@
                             "value": "100"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         }
                     ]
                 },
@@ -519,6 +519,98 @@
             ]
         },
         {
+            "id": "deutschetelekom",
+            "name": "Deutsche Telekom",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "37.5"
+                },
+                {
+                    "value": "37.5"
+                },
+                {
+                    "value": "37.5"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its terms of service?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the timeframe within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "etisalat",
             "name": "Etisalat",
             "headers": [
@@ -629,16 +721,16 @@
             ],
             "average": [
                 {
-                    "value": "25"
+                    "value": "37.5"
                 },
                 {
-                    "value": "63"
+                    "value": "50"
                 },
                 {
-                    "value": "38"
+                    "value": "37.5"
                 },
                 {
-                    "value": "25"
+                    "value": "37.5"
                 }
             ],
             "rows": [
@@ -670,7 +762,7 @@
                             "value": "0"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         },
                         {
                             "value": "0"
@@ -705,16 +797,16 @@
                             "value": "4. Does the company maintain a public archive or change log?"
                         },
                         {
+                            "value": "50"
+                        },
+                        {
                             "value": "0"
                         },
                         {
                             "value": "100"
                         },
                         {
-                            "value": "100"
-                        },
-                        {
-                            "value": "0"
+                            "value": "50"
                         }
                     ]
                 }
@@ -725,30 +817,36 @@
             "name": "Google",
             "headers": [
                 {
-                    "text": "Search"
+                    "text": "Google Search"
                 },
                 {
                     "text": "Gmail"
                 },
                 {
-                    "text": "Youtube"
+                    "text": "YouTube"
                 },
                 {
                     "text": "Android mobile ecosystem"
+                },
+                {
+                    "text": "Google Drive"
                 }
             ],
             "average": [
                 {
-                    "value": "75"
+                    "value": "62.5"
                 },
                 {
-                    "value": "38"
+                    "value": "37.5"
                 },
                 {
-                    "value": "13"
+                    "value": "12.5"
                 },
                 {
                     "value": "50"
+                },
+                {
+                    "value": "37.5"
                 }
             ],
             "rows": [
@@ -759,6 +857,9 @@
                         },
                         {
                             "value": "100"
+                        },
+                        {
+                            "value": "50"
                         },
                         {
                             "value": "50"
@@ -787,6 +888,9 @@
                         },
                         {
                             "value": "50"
+                        },
+                        {
+                            "value": "50"
                         }
                     ]
                 },
@@ -796,13 +900,16 @@
                             "value": "3. Does the company clearly disclose the timeframe within which it provides notification prior to changes coming into effect?"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
                             "value": "50"
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "50"
                         },
                         {
                             "value": "50"
@@ -825,6 +932,9 @@
                         },
                         {
                             "value": "50"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 }
@@ -841,18 +951,18 @@
                     "text": "Daum Mail"
                 },
                 {
-                    "text": "KakaoTalk"
+                    "text": "Kakao Talk"
                 }
             ],
             "average": [
                 {
-                    "value": "100"
+                    "value": "87.5"
                 },
                 {
                     "value": "100"
                 },
                 {
-                    "value": "88"
+                    "value": "87.5"
                 }
             ],
             "rows": [
@@ -878,7 +988,7 @@
                             "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         },
                         {
                             "value": "100"
@@ -930,10 +1040,13 @@
                     "text": "VKontakte"
                 },
                 {
-                    "text": "Mail.ru email"
+                    "text": "Mail.Ru email"
                 },
                 {
-                    "text": "Mail.ru Agent"
+                    "text": "Mail.Ru Agent"
+                },
+                {
+                    "text": "Mail.Ru Cloud Solutions"
                 }
             ],
             "average": [
@@ -945,6 +1058,9 @@
                 },
                 {
                     "value": "0"
+                },
+                {
+                    "value": "50"
                 }
             ],
             "rows": [
@@ -961,6 +1077,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 },
@@ -977,6 +1096,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 },
@@ -993,6 +1115,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -1000,6 +1125,9 @@
                     "cells": [
                         {
                             "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1026,17 +1154,23 @@
                 },
                 {
                     "text": "Skype"
+                },
+                {
+                    "text": "OneDrive"
                 }
             ],
             "average": [
                 {
-                    "value": "38"
+                    "value": "50"
                 },
                 {
-                    "value": "63"
+                    "value": "62.5"
                 },
                 {
-                    "value": "63"
+                    "value": "62.5"
+                },
+                {
+                    "value": "62.5"
                 }
             ],
             "rows": [
@@ -1044,6 +1178,9 @@
                     "cells": [
                         {
                             "value": "1. Does the company clearly disclose that it notifies users about changes to its terms of service?"
+                        },
+                        {
+                            "value": "100"
                         },
                         {
                             "value": "100"
@@ -1062,7 +1199,10 @@
                             "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
                         },
                         {
                             "value": "100"
@@ -1085,6 +1225,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -1092,6 +1235,9 @@
                     "cells": [
                         {
                             "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "50"
                         },
                         {
                             "value": "50"
@@ -1115,172 +1261,6 @@
                 },
                 {
                     "text": "Postpaid Mobile"
-                }
-            ],
-            "average": [
-                {
-                    "value": "25"
-                },
-                {
-                    "value": "38"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose that it notifies users about changes to its terms of service?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose the timeframe within which it provides notification prior to changes coming into effect?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company maintain a public archive or change log?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "oath",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail"
-                },
-                {
-                    "text": "Flickr"
-                },
-                {
-                    "text": "Tumblr"
-                }
-            ],
-            "average": [
-                {
-                    "value": "13"
-                },
-                {
-                    "value": "13"
-                },
-                {
-                    "value": "100"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose that it notifies users about changes to its terms of service?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose the timeframe within which it provides notification prior to changes coming into effect?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company maintain a public archive or change log?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "ooredoo",
-            "name": "Ooredoo",
-            "headers": [
-                {
-                    "text": "Prepaid Mobile"
-                },
-                {
-                    "text": "Postpaid Mobile"
                 },
                 {
                     "text": "Fixed Line Broadband"
@@ -1288,13 +1268,13 @@
             ],
             "average": [
                 {
-                    "value": "13"
+                    "value": "37.5"
                 },
                 {
-                    "value": "13"
+                    "value": "37.5"
                 },
                 {
-                    "value": "13"
+                    "value": "0"
                 }
             ],
             "rows": [
@@ -1304,13 +1284,13 @@
                             "value": "1. Does the company clearly disclose that it notifies users about changes to its terms of service?"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         },
                         {
                             "value": "50"
                         },
                         {
-                            "value": "50"
+                            "value": "0"
                         }
                     ]
                 },
@@ -1323,7 +1303,7 @@
                             "value": "0"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
                             "value": "0"
@@ -1339,7 +1319,7 @@
                             "value": "0"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
                             "value": "0"
@@ -1352,7 +1332,7 @@
                             "value": "4. Does the company maintain a public archive or change log?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
                             "value": "0"
@@ -1386,7 +1366,7 @@
                     "value": "0"
                 },
                 {
-                    "value": "38"
+                    "value": "37.5"
                 }
             ],
             "rows": [
@@ -1435,6 +1415,98 @@
                         },
                         {
                             "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ooredoo",
+            "name": "Ooredoo",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "12.5"
+                },
+                {
+                    "value": "12.5"
+                },
+                {
+                    "value": "12.5"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its terms of service?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the timeframe within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 },
@@ -1461,12 +1533,18 @@
             "name": "Samsung",
             "headers": [
                 {
-                    "text": "Samsung"
+                    "text": "Samsung  implementation of Android"
+                },
+                {
+                    "text": "Samsung Cloud"
                 }
             ],
             "average": [
                 {
-                    "value": "88"
+                    "value": "87.5"
+                },
+                {
+                    "value": "100"
                 }
             ],
             "rows": [
@@ -1474,6 +1552,9 @@
                     "cells": [
                         {
                             "value": "1. Does the company clearly disclose that it notifies users about changes to its terms of service?"
+                        },
+                        {
+                            "value": "100"
                         },
                         {
                             "value": "100"
@@ -1487,6 +1568,9 @@
                         },
                         {
                             "value": "100"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 },
@@ -1494,6 +1578,9 @@
                     "cells": [
                         {
                             "value": "3. Does the company clearly disclose the timeframe within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "100"
                         },
                         {
                             "value": "100"
@@ -1507,13 +1594,16 @@
                         },
                         {
                             "value": "50"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "telefonica",
+            "id": "telefónica",
             "name": "Telefónica",
             "headers": [
                 {
@@ -1534,7 +1624,7 @@
                     "value": "75"
                 },
                 {
-                    "value": "88"
+                    "value": "87.5"
                 }
             ],
             "rows": [
@@ -1605,28 +1695,28 @@
             ]
         },
         {
-            "id": "tencent",
-            "name": "Tencent",
+            "id": "telenor",
+            "name": "Telenor",
             "headers": [
                 {
-                    "text": "QZone"
+                    "text": "Prepaid Mobile"
                 },
                 {
-                    "text": "QQ"
+                    "text": "Postpaid Mobile"
                 },
                 {
-                    "text": "WeChat"
+                    "text": "Fixed Line Broadband"
                 }
             ],
             "average": [
                 {
-                    "value": "0"
+                    "value": "25"
                 },
                 {
-                    "value": "0"
+                    "value": "25"
                 },
                 {
-                    "value": "0"
+                    "value": "25"
                 }
             ],
             "rows": [
@@ -1636,13 +1726,13 @@
                             "value": "1. Does the company clearly disclose that it notifies users about changes to its terms of service?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         }
                     ]
                 },
@@ -1668,6 +1758,113 @@
                             "value": "3. Does the company clearly disclose the timeframe within which it provides notification prior to changes coming into effect?"
                         },
                         {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tencent",
+            "name": "TenCent",
+            "headers": [
+                {
+                    "text": "QZone"
+                },
+                {
+                    "text": "QQ"
+                },
+                {
+                    "text": "WeChat"
+                },
+                {
+                    "text": "TenCent Cloud"
+                }
+            ],
+            "average": [
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its terms of service?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the timeframe within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
                             "value": "0"
                         },
                         {
@@ -1682,6 +1879,9 @@
                     "cells": [
                         {
                             "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1709,10 +1909,10 @@
             ],
             "average": [
                 {
-                    "value": "38"
+                    "value": "37.5"
                 },
                 {
-                    "value": "25"
+                    "value": "37.5"
                 }
             ],
             "rows": [
@@ -1764,7 +1964,7 @@
                             "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         }
                     ]
                 }
@@ -1789,7 +1989,7 @@
                     "value": "50"
                 },
                 {
-                    "value": "38"
+                    "value": "25"
                 },
                 {
                     "value": "25"
@@ -1837,7 +2037,7 @@
                             "value": "50"
                         },
                         {
-                            "value": "50"
+                            "value": "0"
                         },
                         {
                             "value": "0"
@@ -1857,6 +2057,80 @@
                         },
                         {
                             "value": "50"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "verizonmedia",
+            "name": "Verizon Media",
+            "headers": [
+                {
+                    "text": "Yahoo Mail"
+                },
+                {
+                    "text": "Tumblr"
+                }
+            ],
+            "average": [
+                {
+                    "value": "25"
+                },
+                {
+                    "value": "100"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its terms of service?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the timeframe within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 }

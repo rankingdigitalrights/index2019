@@ -1,46 +1,29 @@
 [
     {
         "Company": "Google",
-        "Description": "YouTube is a video hosting and sharing website created in February 2005 and acquired by Google in November 2006.",
-        "Difference": "-4",
-        "FoE": "60",
-        "G": "73",
-        "P": "63",
-        "Service": "YouTube",
-        "Total": "64",
+        "FoE": "63.8",
+        "G": "72.4",
+        "P": "58.9",
+        "Service": "Youtube",
+        "Total": "62.7",
         "rank": "1"
     },
     {
-        "Company": "Oath",
-        "Description": "Flickr is an image and video hosting and sharing website acquired by Yahoo in 2005, and now owned by Oath.",
-        "Difference": "1",
-        "FoE": "40",
-        "G": "87",
-        "P": "57",
-        "Service": "Flickr",
-        "Total": "58",
+        "Company": "Facebook",
+        "FoE": "58",
+        "G": "77.4",
+        "P": "46.7",
+        "Service": "Instagram",
+        "Total": "55.4",
         "rank": "2"
     },
     {
-        "Company": "Facebook",
-        "Description": "Instagram is an online mobile photo-sharing site that allows users to share pictures and videos either publicly or privately on the app, as well as through a variety of other social networking platforms. It was acquired by Facebook in 2012.",
-        "Difference": "3",
-        "FoE": "54",
-        "G": "81",
-        "P": "38",
-        "Service": "Instagram",
-        "Total": "50",
-        "rank": "3"
-    },
-    {
         "Company": "Twitter",
-        "Description": "Periscope is a live video streaming mobile app acquired by Twitter in 2015. In December 2016, some of Periscope's features were integrated into the main Twitter app.",
-        "Difference": "7",
-        "FoE": "52",
-        "G": "46",
-        "P": "43",
+        "FoE": "48.9",
+        "G": "50.2",
+        "P": "47.8",
         "Service": "Periscope",
-        "Total": "46",
-        "rank": "4"
+        "Total": "48.5",
+        "rank": "3"
     }
 ]

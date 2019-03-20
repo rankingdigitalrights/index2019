@@ -10,12 +10,14 @@ next:
 footnotes: | 
   <p class="footnotes">[1] Figures as of March 8, 2018. Bloomberg Markets,<a href="https://www.bloomberg.com/markets">https://www.bloomberg.com/markets</a>.</p><p class="footnotes">[2] Figures as of December 31, 2017. &ldquo;World Internet Users Statistics and 2018 World Population Stats,&rdquo; Internet World Stats, accessed March 19, 2018,<a href="https://www.internetworldstats.com/stats.htm">https://www.internetworldstats.com/stats.htm</a>.</p><p class="footnotes">[3] &ldquo;Guiding Principles on Business and Human Rights&rdquo; (United Nations, 2011),<a href="http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf">http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf</a>.</p>
 ---
-Executive summary xxx
-=====================
+Executive summary
+=================
 
-The Ranking Digital Rights 2018 Corporate Accountability Index evaluated 22 of the world’s most powerful internet, mobile, and telecommunications companies on their disclosed commitments and policies affecting freedom of expression and privacy. These companies held a combined market capitalization of approximately USD 4.7 trillion.[[1]](#footnotes) Their products and services are used by a majority of the world’s 4.2 billion internet users.[[2]](#footnotes) There is good news and bad news:
+- - - - - -
 
-<span style="text-decoration: underline; font-style: italic; font-weight: bold;">The good news:</span> **More than half of the companies evaluated in the 2018 Index improved disclosure in multiple areas affecting users’ freedom of expression and privacy.** In all, 17 of the 22 companies improved scores on at least one indicator. Even companies headquartered in the world’s toughest regulatory environments are making efforts to improve. Positive trends included:
+The Ranking Digital Rights 2018 Corporate Accountability Index evaluated 22 of the world’s most powerful internet, mobile, and telecommunications companies on their disclosed commitments and policies affecting freedom of expression and privacy. These companies held a combined market capitalization of approximately USD 4.7 trillion. Their products and services are used by a majority of the world’s 4.2 billion internet **<sup>1</sup>** users. There <sup>**2**</sup> is good news <sup>**3**</sup> and bad news:
+
+<span style="font-style: italic; font-weight: bold;">The</span><span style="font-style: italic; font-weight: bold;"> goo</span><span style="font-style: italic; font-weight: bold;">d</span><span style="font-style: italic; font-weight: bold;"> news:</span> **More than half of the companies evaluated in the 2018 Index improved disclosure in multiple areas affecting users’ freedom of expression and privacy.** In all, 17 of the 22 companies improved scores on at least one indicator. Even companies headquartered in the world’s toughest regulatory environments are making efforts to improve. Positive trends included:
 
 - **Transparency reporting continues to improve and expand.** More companies disclosed more information and data related to their policies and processes for responding to government or other third party requests to restrict content, as well as to share user information with authorities.
 - **Telecommunications companies that joined the Global Network Initiative (GNI) pulled ahead of others in the sector.** In 2017, three European telecommunications companies evaluated by the Index (Orange, Telefónica, and Vodafone) joined GNI, a multi-stakeholder initiative that works with companies to advance human rights principles in the face of government censorship and surveillance demands. All three strengthened disclosure about governance, oversight, due diligence, and internal accountability mechanisms.

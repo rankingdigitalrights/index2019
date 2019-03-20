@@ -5,7 +5,7 @@ entity: downloads
 header: Download the Data and Documents
 published: 1
 intro: | 
-  <p>zzzzzzzzzzz</p>
+  <p>Lorem ipsum dolor sit amet</p>
 ---
 The 2015 Report \[[pdf](\"http://localhost:3000/assets/static/download/RDRindex2015report.pdf\")\]
 
