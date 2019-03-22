@@ -1062,13 +1062,13 @@
             ],
             "average": [
                 {
-                    "value": "25"
+                    "value": "100"
                 },
                 {
-                    "value": "25"
+                    "value": "100"
                 },
                 {
-                    "value": "0"
+                    "value": "100"
                 }
             ],
             "rows": [
@@ -1078,13 +1078,13 @@
                             "value": "1. Does the company clearly disclose that it does not prioritize, block, or delay certain types of traffic, applications, protocols, or content for reasons beyond assuring quality of service and reliability of the network?"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         }
                     ]
                 },
@@ -1094,13 +1094,13 @@
                             "value": "2. If the company does engage in these practices, does it clearly disclose its purpose for doing so?"
                         },
                         {
-                            "value": "50"
+                            "value": "exclude"
                         },
                         {
-                            "value": "50"
+                            "value": "exclude"
                         },
                         {
-                            "value": "0"
+                            "value": "exclude"
                         }
                     ]
                 }

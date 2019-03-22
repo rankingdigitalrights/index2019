@@ -92,13 +92,13 @@
             ],
             "average": [
                 {
-                    "value": "12.5"
+                    "value": "13"
                 },
                 {
-                    "value": "12.5"
+                    "value": "13"
                 },
                 {
-                    "value": "12.5"
+                    "value": "13"
                 }
             ],
             "rows": [
@@ -184,13 +184,13 @@
             ],
             "average": [
                 {
-                    "value": "33.33333333"
+                    "value": "33"
                 },
                 {
-                    "value": "33.33333333"
+                    "value": "33"
                 },
                 {
-                    "value": "33.33333333"
+                    "value": "33"
                 }
             ],
             "rows": [
@@ -626,13 +626,13 @@
             ],
             "average": [
                 {
-                    "value": "16.66666667"
+                    "value": "17"
                 },
                 {
-                    "value": "16.66666667"
+                    "value": "17"
                 },
                 {
-                    "value": "16.66666667"
+                    "value": "17"
                 }
             ],
             "rows": [
@@ -721,16 +721,16 @@
             ],
             "average": [
                 {
-                    "value": "50"
+                    "value": "63"
                 },
                 {
-                    "value": "37.5"
+                    "value": "50"
                 },
                 {
                     "value": "25"
                 },
                 {
-                    "value": "50"
+                    "value": "63"
                 }
             ],
             "rows": [
@@ -740,16 +740,16 @@
                             "value": "1. If the company hosts user-generated content, does the company clearly disclose that it notifies users who generated the content when it is restricted?"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         },
                         {
                             "value": "0"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         }
                     ]
                 },
@@ -840,13 +840,13 @@
                     "value": "50"
                 },
                 {
-                    "value": "62.5"
+                    "value": "63"
                 },
                 {
-                    "value": "37.5"
+                    "value": "38"
                 },
                 {
-                    "value": "12.5"
+                    "value": "13"
                 }
             ],
             "rows": [
@@ -1073,7 +1073,7 @@
                             "value": "0"
                         },
                         {
-                            "value": "0"
+                            "value": "exclude"
                         },
                         {
                             "value": "0"
@@ -1092,7 +1092,7 @@
                             "value": "0"
                         },
                         {
-                            "value": "0"
+                            "value": "exclude"
                         },
                         {
                             "value": "0"
@@ -1111,7 +1111,7 @@
                             "value": "0"
                         },
                         {
-                            "value": "0"
+                            "value": "exclude"
                         },
                         {
                             "value": "0"
@@ -1268,13 +1268,13 @@
             ],
             "average": [
                 {
-                    "value": "33.33333333"
+                    "value": "33"
                 },
                 {
-                    "value": "16.66666667"
+                    "value": "17"
                 },
                 {
-                    "value": "16.66666667"
+                    "value": "17"
                 }
             ],
             "rows": [
@@ -1360,13 +1360,13 @@
             ],
             "average": [
                 {
-                    "value": "16.66666667"
+                    "value": "17"
                 },
                 {
-                    "value": "16.66666667"
+                    "value": "17"
                 },
                 {
-                    "value": "16.66666667"
+                    "value": "17"
                 }
             ],
             "rows": [
@@ -1618,13 +1618,13 @@
             ],
             "average": [
                 {
-                    "value": "33.33333333"
+                    "value": "33"
                 },
                 {
-                    "value": "33.33333333"
+                    "value": "33"
                 },
                 {
-                    "value": "33.33333333"
+                    "value": "33"
                 }
             ],
             "rows": [
@@ -1710,13 +1710,13 @@
             ],
             "average": [
                 {
-                    "value": "33.33333333"
+                    "value": "33"
                 },
                 {
-                    "value": "33.33333333"
+                    "value": "33"
                 },
                 {
-                    "value": "33.33333333"
+                    "value": "33"
                 }
             ],
             "rows": [
@@ -1909,10 +1909,10 @@
             ],
             "average": [
                 {
-                    "value": "50"
+                    "value": "63"
                 },
                 {
-                    "value": "62.5"
+                    "value": "63"
                 }
             ],
             "rows": [
@@ -1935,7 +1935,7 @@
                             "value": "2. Does the company clearly disclose that it notifies users who attempt to access content that has been restricted?"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         },
                         {
                             "value": "50"
@@ -1992,7 +1992,7 @@
                     "value": "0"
                 },
                 {
-                    "value": "16.66666667"
+                    "value": "17"
                 }
             ],
             "rows": [
@@ -2152,13 +2152,13 @@
             ],
             "average": [
                 {
-                    "value": "0"
+                    "value": "50"
                 },
                 {
                     "value": "0"
                 },
                 {
-                    "value": "12.5"
+                    "value": "25"
                 }
             ],
             "rows": [
@@ -2216,13 +2216,13 @@
                             "value": "4. Does the company clearly disclose that it notifies users when it restricts their account?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
                             "value": "exclude"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         }
                     ]
                 }
