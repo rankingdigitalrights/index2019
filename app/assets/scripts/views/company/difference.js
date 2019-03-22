@@ -16,9 +16,9 @@ module.exports = Backbone.View.extend({
     // alert(companyName);
 
     // Overall score
-    var total_2018 = difference.attributes.total_2018;
-    $('#total_2018').text(Math.round(total_2018) + '%');
-    $('#total_score').text(Math.round(total_2018) + '%');
+    var total_2019 = difference.attributes.total_2019;
+    $('#total_2019').text(Math.round(total_2019) + '%');
+    $('#total_score').text(Math.round(total_2019) + '%');
 
     // Total difference
     var total_difference = difference.attributes.total_difference;
@@ -30,10 +30,10 @@ module.exports = Backbone.View.extend({
     if (total_difference < 0) $('#total_difference .fa').removeClass().addClass('fa fa-chevron-down down-arrow-red');
 
     // Governance
-    var governance_2017 = difference.attributes.governance_2017;
-    $('#governance_2017').text(Math.round(governance_2017) + '%');
     var governance_2018 = difference.attributes.governance_2018;
     $('#governance_2018').text(Math.round(governance_2018) + '%');
+    var governance_2019 = difference.attributes.governance_2019;
+    $('#governance_2019').text(Math.round(governance_2019) + '%');
     var governance_difference = difference.attributes.governance_difference;
     $('#governance_difference span').text(
       Math.abs(governance_difference)
@@ -42,10 +42,10 @@ module.exports = Backbone.View.extend({
     if (governance_difference < 0) $('#governance_difference .fa').removeClass().addClass('fa fa-chevron-down down-arrow-red');
 
     // Privacy
-    var privacy_2017 = difference.attributes.privacy_2017;
-    $('#privacy_2017').text(Math.round(privacy_2017) + '%');
     var privacy_2018 = difference.attributes.privacy_2018;
     $('#privacy_2018').text(Math.round(privacy_2018) + '%');
+    var privacy_2019 = difference.attributes.privacy_2019;
+    $('#privacy_2019').text(Math.round(privacy_2019) + '%');
     var privacy_difference = difference.attributes.privacy_difference;
     $('#privacy_difference span').text(
       Math.abs(privacy_difference)
@@ -54,10 +54,10 @@ module.exports = Backbone.View.extend({
     if (privacy_difference < 0) $('#privacy_difference .fa').removeClass().addClass('fa fa-chevron-down down-arrow-red');
 
     // Freedom of expression
-    var freedom_of_expression_2017 = difference.attributes.freedom_of_expression_2017;
-    $('#freedom_of_expression_2017').text(Math.round(freedom_of_expression_2017) + '%');
     var freedom_of_expression_2018 = difference.attributes.freedom_of_expression_2018;
     $('#freedom_of_expression_2018').text(Math.round(freedom_of_expression_2018) + '%');
+    var freedom_of_expression_2019 = difference.attributes.freedom_of_expression_2019;
+    $('#freedom_of_expression_2019').text(Math.round(freedom_of_expression_2019) + '%');
     var freedom_of_expression_difference = difference.attributes.freedom_of_expression_difference;
     $('#freedom_of_expression_difference span').text(
       Math.abs(freedom_of_expression_difference)

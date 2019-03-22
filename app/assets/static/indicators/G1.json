@@ -746,16 +746,16 @@
             "name": "Telefónica",
             "headers": [
                 {
-                    "text": "Group - Telef�nica - Freedom of Expression"
+                    "text": "Group - Telefónica - Freedom of Expression"
                 },
                 {
-                    "text": "Group - Telef�nica - Privacy"
+                    "text": "Group - Telefónica - Privacy"
                 },
                 {
-                    "text": "OperatingCo - Telef�nica de Espa�a - Freedom of Expression"
+                    "text": "OperatingCo - Telefónica de Espa�a - Freedom of Expression"
                 },
                 {
-                    "text": "OperatingCo - Telef�nica de Espa�a - Privacy"
+                    "text": "OperatingCo - Telefónica de Espa�a - Privacy"
                 }
             ],
             "average": [
@@ -1018,10 +1018,10 @@
             ],
             "average": [
                 {
-                    "value": "0"
+                    "value": "100"
                 },
                 {
-                    "value": "0"
+                    "value": "100"
                 }
             ],
             "rows": [
@@ -1031,10 +1031,10 @@
                             "value": "1. Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?1. "
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         }
                     ]
                 }

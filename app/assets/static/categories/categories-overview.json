@@ -5,20 +5,20 @@
         "display": "Microsoft",
         "telco": "false",
         "total": {
-            "val": "59.66559535",
+            "val": "60.05",
             "rank": "1"
         },
         "governance": {
-            "val": "81.83712121",
-            "rank": "4"
+            "val": "84.55",
+            "rank": "2"
         },
         "freedom": {
-            "val": "49.62191358",
+            "val": "49.24",
             "rank": "3"
         },
         "privacy": {
-            "val": "57.29692761",
-            "rank": "3"
+            "val": "57.3",
+            "rank": "4"
         }
     },
     {
@@ -27,20 +27,20 @@
         "display": "Google",
         "telco": "false",
         "total": {
-            "val": "58.96473392",
+            "val": "59.09",
             "rank": "2"
         },
         "governance": {
-            "val": "71.34848485",
+            "val": "71.35",
             "rank": "8"
         },
         "freedom": {
-            "val": "53.96472663",
+            "val": "54.44",
             "rank": "2"
         },
         "privacy": {
-            "val": "57.33682059",
-            "rank": "2"
+            "val": "57.34",
+            "rank": "3"
         }
     },
     {
@@ -49,20 +49,42 @@
         "display": "Verizon Media",
         "telco": "false",
         "total": {
-            "val": "57.12044689",
+            "val": "57.97",
             "rank": "3"
         },
         "governance": {
-            "val": "83.29545455",
-            "rank": "2"
+            "val": "84.05",
+            "rank": "3"
         },
         "freedom": {
-            "val": "44.38271605",
-            "rank": "6"
+            "val": "44.91",
+            "rank": "7"
         },
         "privacy": {
-            "val": "54.76430976",
+            "val": "55.81",
             "rank": "5"
+        }
+    },
+    {
+        "id": "telefónica",
+        "name": "telefónica",
+        "display": "Telefónica",
+        "telco": "true",
+        "total": {
+            "val": "56.68",
+            "rank": "4"
+        },
+        "governance": {
+            "val": "93.64",
+            "rank": "1"
+        },
+        "freedom": {
+            "val": "46.97",
+            "rank": "4"
+        },
+        "privacy": {
+            "val": "49.03",
+            "rank": "9"
         }
     },
     {
@@ -71,19 +93,19 @@
         "display": "Facebook",
         "telco": "false",
         "total": {
-            "val": "55.51986313",
-            "rank": "4"
+            "val": "56.63",
+            "rank": "5"
         },
         "governance": {
-            "val": "77.97348485",
-            "rank": "6"
+            "val": "77.97",
+            "rank": "7"
         },
         "freedom": {
-            "val": "44.92173721",
+            "val": "46.58",
             "rank": "5"
         },
         "privacy": {
-            "val": "53.33438552",
+            "val": "54.54",
             "rank": "7"
         }
     },
@@ -93,19 +115,19 @@
         "display": "Twitter",
         "telco": "false",
         "total": {
-            "val": "55.42420963",
-            "rank": "5"
+            "val": "55.16",
+            "rank": "6"
         },
         "governance": {
-            "val": "50.2020202",
+            "val": "50.2",
             "rank": "11"
         },
         "freedom": {
-            "val": "60.51587302",
+            "val": "59.54",
             "rank": "1"
         },
         "privacy": {
-            "val": "54.61910774",
+            "val": "54.62",
             "rank": "6"
         }
     },
@@ -115,20 +137,20 @@
         "display": "Vodafone",
         "telco": "true",
         "total": {
-            "val": "49.90581034",
-            "rank": "6"
+            "val": "50.22",
+            "rank": "7"
         },
         "governance": {
-            "val": "79.77272727",
+            "val": "81.44",
             "rank": "5"
         },
         "freedom": {
-            "val": "40.07034632",
-            "rank": "7"
+            "val": "40.07",
+            "rank": "8"
         },
         "privacy": {
-            "val": "45.17171717",
-            "rank": "10"
+            "val": "45.17",
+            "rank": "11"
         }
     },
     {
@@ -137,42 +159,20 @@
         "display": "Kakao",
         "telco": "false",
         "total": {
-            "val": "47.86169779",
-            "rank": "7"
+            "val": "47.24",
+            "rank": "8"
         },
         "governance": {
-            "val": "33.00505051",
+            "val": "33.01",
             "rank": "14"
         },
         "freedom": {
-            "val": "48.62139918",
-            "rank": "4"
+            "val": "46.36",
+            "rank": "6"
         },
         "privacy": {
-            "val": "52.43406285",
+            "val": "52.43",
             "rank": "8"
-        }
-    },
-    {
-        "id": "telefónica",
-        "name": "telefónica",
-        "display": "Telefónica",
-        "telco": "true",
-        "total": {
-            "val": "46.51160038",
-            "rank": "8"
-        },
-        "governance": {
-            "val": "84.84848485",
-            "rank": "1"
-        },
-        "freedom": {
-            "val": "32.91666667",
-            "rank": "9"
-        },
-        "privacy": {
-            "val": "41.14646465",
-            "rank": "11"
         }
     },
     {
@@ -181,20 +181,20 @@
         "display": "AT&T",
         "telco": "true",
         "total": {
-            "val": "46.31569602",
+            "val": "46.32",
             "rank": "9"
         },
         "governance": {
-            "val": "59.98737374",
+            "val": "59.99",
             "rank": "9"
         },
         "freedom": {
-            "val": "35.66287879",
-            "rank": "8"
+            "val": "35.66",
+            "rank": "9"
         },
         "privacy": {
-            "val": "48.65909091",
-            "rank": "9"
+            "val": "48.66",
+            "rank": "10"
         }
     },
     {
@@ -203,42 +203,20 @@
         "display": "Apple",
         "telco": "false",
         "total": {
-            "val": "45.43643506",
+            "val": "46.28",
             "rank": "10"
         },
         "governance": {
-            "val": "31.71717172",
+            "val": "31.72",
             "rank": "16"
         },
         "freedom": {
-            "val": "31.7930629",
-            "rank": "10"
-        },
-        "privacy": {
-            "val": "56.83120891",
-            "rank": "4"
-        }
-    },
-    {
-        "id": "deutschetelekom",
-        "name": "deutscheTelekom",
-        "display": "Deutsche Telekom",
-        "telco": "true",
-        "total": {
-            "val": "42.72465165",
+            "val": "32.95",
             "rank": "11"
         },
-        "governance": {
-            "val": "55.27777778",
-            "rank": "10"
-        },
-        "freedom": {
-            "val": "14.51028139",
-            "rank": "18"
-        },
         "privacy": {
-            "val": "58.39393939",
-            "rank": "1"
+            "val": "57.8",
+            "rank": "2"
         }
     },
     {
@@ -247,20 +225,42 @@
         "display": "Telenor",
         "telco": "true",
         "total": {
-            "val": "42.1289908",
+            "val": "44.74",
+            "rank": "11"
+        },
+        "governance": {
+            "val": "78.48",
+            "rank": "6"
+        },
+        "freedom": {
+            "val": "33.54",
+            "rank": "10"
+        },
+        "privacy": {
+            "val": "39.45",
+            "rank": "12"
+        }
+    },
+    {
+        "id": "deutschetelekom",
+        "name": "deutscheTelekom",
+        "display": "Deutsche Telekom",
+        "telco": "true",
+        "total": {
+            "val": "43.57",
             "rank": "12"
         },
         "governance": {
-            "val": "75.15151515",
-            "rank": "7"
+            "val": "55.28",
+            "rank": "10"
         },
         "freedom": {
-            "val": "30.8008658",
-            "rank": "11"
+            "val": "15.29",
+            "rank": "17"
         },
         "privacy": {
-            "val": "37.22727273",
-            "rank": "13"
+            "val": "59.62",
+            "rank": "1"
         }
     },
     {
@@ -269,20 +269,42 @@
         "display": "Orange",
         "telco": "true",
         "total": {
-            "val": "35.92363366",
+            "val": "35.78",
             "rank": "13"
         },
         "governance": {
-            "val": "82.42424242",
-            "rank": "3"
+            "val": "81.67",
+            "rank": "4"
         },
         "freedom": {
-            "val": "17.33225108",
-            "rank": "15"
+            "val": "17.33",
+            "rank": "16"
         },
         "privacy": {
-            "val": "30.95707071",
+            "val": "30.96",
             "rank": "16"
+        }
+    },
+    {
+        "id": "yandex",
+        "name": "yandex",
+        "display": "Yandex",
+        "telco": "false",
+        "total": {
+            "val": "30.5",
+            "rank": "14"
+        },
+        "governance": {
+            "val": "29.09",
+            "rank": "17"
+        },
+        "freedom": {
+            "val": "20.68",
+            "rank": "14"
+        },
+        "privacy": {
+            "val": "35.88",
+            "rank": "14"
         }
     },
     {
@@ -291,19 +313,19 @@
         "display": "Samsung",
         "telco": "false",
         "total": {
-            "val": "28.33344265",
-            "rank": "14"
+            "val": "28.51",
+            "rank": "15"
         },
         "governance": {
-            "val": "32.07070707",
+            "val": "32.07",
             "rank": "15"
         },
         "freedom": {
-            "val": "29.26587302",
+            "val": "29.9",
             "rank": "12"
         },
         "privacy": {
-            "val": "26.62147266",
+            "val": "26.62",
             "rank": "17"
         }
     },
@@ -313,20 +335,20 @@
         "display": "TenCent",
         "telco": "false",
         "total": {
-            "val": "25.85858586",
-            "rank": "15"
+            "val": "25.86",
+            "rank": "16"
         },
         "governance": {
-            "val": "4.166666667",
-            "rank": "21"
+            "val": "4.17",
+            "rank": "22"
         },
         "freedom": {
-            "val": "14.12037037",
+            "val": "14.12",
             "rank": "19"
         },
         "privacy": {
-            "val": "38.95833333",
-            "rank": "12"
+            "val": "38.96",
+            "rank": "13"
         }
     },
     {
@@ -335,42 +357,20 @@
         "display": "América Móvil",
         "telco": "true",
         "total": {
-            "val": "25.3125",
-            "rank": "16"
-        },
-        "governance": {
-            "val": "37.08333333",
-            "rank": "12"
-        },
-        "freedom": {
-            "val": "17.42424242",
-            "rank": "14"
-        },
-        "privacy": {
-            "val": "26.38888889",
-            "rank": "18"
-        }
-    },
-    {
-        "id": "yandex",
-        "name": "yandex",
-        "display": "Yandex",
-        "telco": "false",
-        "total": {
-            "val": "24.38016529",
+            "val": "25.31",
             "rank": "17"
         },
         "governance": {
-            "val": "2.840909091",
-            "rank": "23"
+            "val": "37.08",
+            "rank": "13"
         },
         "freedom": {
-            "val": "17.12962963",
-            "rank": "16"
+            "val": "17.42",
+            "rank": "15"
         },
         "privacy": {
-            "val": "35.18518519",
-            "rank": "14"
+            "val": "26.39",
+            "rank": "18"
         }
     },
     {
@@ -379,19 +379,19 @@
         "display": "Baidu",
         "telco": "false",
         "total": {
-            "val": "22.54930255",
+            "val": "22.55",
             "rank": "18"
         },
         "governance": {
-            "val": "7.361111111",
-            "rank": "19"
+            "val": "7.36",
+            "rank": "20"
         },
         "freedom": {
-            "val": "12.49559083",
+            "val": "12.5",
             "rank": "22"
         },
         "privacy": {
-            "val": "32.63888889",
+            "val": "32.64",
             "rank": "15"
         }
     },
@@ -401,19 +401,19 @@
         "display": "Mail.Ru",
         "telco": "false",
         "total": {
-            "val": "20.73142136",
+            "val": "20.73",
             "rank": "19"
         },
         "governance": {
-            "val": "5.833333333",
-            "rank": "20"
+            "val": "5.83",
+            "rank": "21"
         },
         "freedom": {
-            "val": "23.53835979",
+            "val": "23.54",
             "rank": "13"
         },
         "privacy": {
-            "val": "24.29398148",
+            "val": "24.29",
             "rank": "19"
         }
     },
@@ -423,19 +423,19 @@
         "display": "Bharti Airtel",
         "telco": "true",
         "total": {
-            "val": "16.48623512",
+            "val": "16.38",
             "rank": "20"
         },
         "governance": {
-            "val": "24.30555556",
-            "rank": "17"
+            "val": "23.75",
+            "rank": "18"
         },
         "freedom": {
-            "val": "8.944805195",
+            "val": "8.94",
             "rank": "24"
         },
         "privacy": {
-            "val": "18.88888889",
+            "val": "18.89",
             "rank": "20"
         }
     },
@@ -445,19 +445,19 @@
         "display": "MTN",
         "telco": "true",
         "total": {
-            "val": "14.74025974",
+            "val": "16.17",
             "rank": "21"
         },
         "governance": {
-            "val": "36.31313131",
-            "rank": "13"
+            "val": "39.09",
+            "rank": "12"
         },
         "freedom": {
-            "val": "9.058441558",
+            "val": "9.06",
             "rank": "23"
         },
         "privacy": {
-            "val": "10.27777778",
+            "val": "12.22",
             "rank": "22"
         }
     },
@@ -467,19 +467,19 @@
         "display": "Axiata",
         "telco": "true",
         "total": {
-            "val": "13.6328125",
+            "val": "13.63",
             "rank": "22"
         },
         "governance": {
-            "val": "9.305555556",
-            "rank": "18"
+            "val": "9.31",
+            "rank": "19"
         },
         "freedom": {
-            "val": "12.99242424",
+            "val": "12.99",
             "rank": "21"
         },
         "privacy": {
-            "val": "15.83333333",
+            "val": "15.83",
             "rank": "21"
         }
     },
@@ -489,19 +489,19 @@
         "display": "Etisalat",
         "telco": "true",
         "total": {
-            "val": "7.570684524",
+            "val": "7.57",
             "rank": "23"
         },
         "governance": {
-            "val": "3.333333333",
-            "rank": "22"
+            "val": "3.33",
+            "rank": "23"
         },
         "freedom": {
-            "val": "14.9025974",
-            "rank": "17"
+            "val": "14.9",
+            "rank": "18"
         },
         "privacy": {
-            "val": "3.888888889",
+            "val": "3.89",
             "rank": "23"
         }
     },
@@ -511,7 +511,7 @@
         "display": "Ooredoo",
         "telco": "true",
         "total": {
-            "val": "4.521949405",
+            "val": "4.52",
             "rank": "24"
         },
         "governance": {
@@ -519,7 +519,7 @@
             "rank": "24"
         },
         "freedom": {
-            "val": "13.1547619",
+            "val": "13.15",
             "rank": "20"
         },
         "privacy": {

@@ -170,13 +170,13 @@
             ],
             "average": [
                 {
-                    "value": "35"
+                    "value": "45"
                 },
                 {
-                    "value": "38.88888889"
+                    "value": "50"
                 },
                 {
-                    "value": "35"
+                    "value": "45"
                 }
             ],
             "rows": [
@@ -330,13 +330,13 @@
                             "value": "10. Can the data be exported as a structured data file?"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         }
                     ]
                 }
@@ -1680,7 +1680,7 @@
             ],
             "average": [
                 {
-                    "value": "88.88888889"
+                    "value": "89"
                 },
                 {
                     "value": "N/A"
@@ -1934,13 +1934,13 @@
             ],
             "average": [
                 {
-                    "value": "38.88888889"
+                    "value": "39"
                 },
                 {
                     "value": "N/A"
                 },
                 {
-                    "value": "38.88888889"
+                    "value": "39"
                 }
             ],
             "rows": [
@@ -3286,13 +3286,13 @@
             ],
             "average": [
                 {
-                    "value": "25"
+                    "value": "40"
                 },
                 {
-                    "value": "25"
+                    "value": "40"
                 },
                 {
-                    "value": "25"
+                    "value": "40"
                 }
             ],
             "rows": [
@@ -3350,13 +3350,13 @@
                             "value": "4. Does the company list the types of subject matter associated with the requests it receives?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         }
                     ]
                 },
@@ -3446,13 +3446,13 @@
                             "value": "10. Can the data be exported as a structured data file?"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         }
                     ]
                 }
