@@ -1,56 +1,56 @@
 [
     {
         "Company": "Microsoft",
-        "FoE": "54.3",
-        "G": "82.1",
-        "P": "62.3",
+        "FoE": "54",
+        "G": "85",
+        "P": "62",
         "Service": "Outlook.com",
-        "Total": "64.6",
+        "Total": "65",
         "rank": "1"
     },
     {
         "Company": "Google",
-        "FoE": "59.6",
-        "G": "70.7",
-        "P": "58.9",
+        "FoE": "60",
+        "G": "71",
+        "P": "59",
         "Service": "Gmail",
-        "Total": "61.4",
+        "Total": "61",
         "rank": "2"
     },
     {
         "Company": "Verizon Media",
-        "FoE": "36.4",
-        "G": "82.9",
-        "P": "58.2",
+        "FoE": "39",
+        "G": "84",
+        "P": "58",
         "Service": "Yahoo Mail",
-        "Total": "58.8",
+        "Total": "60",
         "rank": "3"
     },
     {
         "Company": "Kakao",
-        "FoE": "68.9",
-        "G": "33.6",
-        "P": "54.5",
+        "FoE": "69",
+        "G": "34",
+        "P": "54",
         "Service": "Kakao Mail",
-        "Total": "53.2",
+        "Total": "53",
         "rank": "4"
     },
     {
         "Company": "Yandex",
-        "FoE": "19.2",
-        "G": "2.8",
-        "P": "36.1",
+        "FoE": "28",
+        "G": "29",
+        "P": "37",
         "Service": "Yandex Mail",
-        "Total": "26.1",
+        "Total": "33",
         "rank": "5"
     },
     {
         "Company": "Mail.Ru",
-        "FoE": "37.8",
-        "G": "7.1",
-        "P": "23.7",
+        "FoE": "38",
+        "G": "7",
+        "P": "24",
         "Service": "Mail.Ru email",
-        "Total": "23.2",
+        "Total": "23",
         "rank": "6"
     }
 ]
