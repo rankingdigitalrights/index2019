@@ -2,39 +2,39 @@
     {
         "commitment": "84.55",
         "display": "Microsoft",
-        "freedom": "49.24",
+        "freedom": "55.36",
         "id": "microsoft",
         "name": "microsoft",
-        "privacy": "57.3",
+        "privacy": "58.61",
         "telco": "false",
-        "total": "60.05"
+        "total": "62.44"
     },
     {
         "commitment": "71.35",
         "display": "Google",
-        "freedom": "54.44",
+        "freedom": "60.82",
         "id": "google",
         "name": "google",
-        "privacy": "57.34",
+        "privacy": "58.45",
         "telco": "false",
-        "total": "59.09"
+        "total": "61.44"
     },
     {
         "commitment": "84.05",
         "display": "Verizon Media",
-        "freedom": "44.91",
+        "freedom": "55.93",
         "id": "verizonmedia",
         "name": "verizon media",
         "privacy": "55.81",
         "telco": "false",
-        "total": "57.97"
+        "total": "60.97"
     },
     {
         "commitment": "93.64",
         "display": "Telefónica",
         "freedom": "46.97",
         "id": "telefónica",
-        "name": "telefonica",
+        "name": "telefónica",
         "privacy": "49.03",
         "telco": "true",
         "total": "56.68"
@@ -62,32 +62,32 @@
     {
         "commitment": "81.44",
         "display": "Vodafone",
-        "freedom": "40.07",
+        "freedom": "44.62",
         "id": "vodafone",
         "name": "vodafone",
         "privacy": "45.17",
         "telco": "true",
-        "total": "50.22"
+        "total": "51.78"
     },
     {
         "commitment": "33.01",
         "display": "Kakao",
-        "freedom": "46.36",
+        "freedom": "53.15",
         "id": "kakao",
         "name": "kakao",
-        "privacy": "52.43",
+        "privacy": "53.82",
         "telco": "false",
-        "total": "47.24"
+        "total": "49.85"
     },
     {
         "commitment": "59.99",
         "display": "AT&T",
-        "freedom": "35.66",
+        "freedom": "40.21",
         "id": "att",
         "name": "at&t",
         "privacy": "48.66",
         "telco": "true",
-        "total": "46.32"
+        "total": "47.88"
     },
     {
         "commitment": "31.72",
@@ -132,12 +132,12 @@
     {
         "commitment": "29.09",
         "display": "Yandex",
-        "freedom": "20.68",
+        "freedom": "21.60",
         "id": "yandex",
         "name": "yandex",
-        "privacy": "35.88",
+        "privacy": "37.73",
         "telco": "false",
-        "total": "30.5"
+        "total": "31.76"
     },
     {
         "commitment": "32.07",
