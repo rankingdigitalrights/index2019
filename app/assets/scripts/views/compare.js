@@ -13,7 +13,9 @@ module.exports = Backbone.View.extend({
     var data = this.collection.models;
     var $data = [];
     data.forEach(function (i) {
-      $data.push({ name: i.attributes.name, total_difference: i.attributes.total_difference, description: i.attributes.description });
+      if(!isNaN(i.attributes.total_difference)) {
+        $data.push({ name: i.attributes.name, total_difference: i.attributes.total_difference, description: i.attributes.description });
+      }
     });
     $data.sort(function (a, b) {
       return parseFloat(a.total_difference) - parseFloat(b.total_difference);
