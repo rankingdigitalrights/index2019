@@ -1,91 +1,101 @@
 [
     {
         "Company": "Etisalat",
+        "Description": "Etisalat UAE offers fixed-line broadband service in the United Arab Emirates. It is a subsidiary of Emirates Telecommunications Corporation, a multinational UAE based telecommunications services provider.",
         "FoE": "16",
         "G": "3",
         "P": "4",
-        "Service": "Fixed line broadband",
+        "Service": "Etisalat UAE",
         "Total": "8",
         "rank": "1"
     },
     {
         "Company": "Telefónica",
+        "Description": "Movistar is a fixed-line broadband service operated in Spain by Telefónica de España, a subsidiary company of Telefónica, a multinational telecommunications company that also operates in many Latin American countries.",
         "FoE": "51",
         "G": "94",
         "P": "50",
-        "Service": "Fixed line broadband (Movistar)",
+        "Service": "Movistar",
         "Total": "59",
         "rank": "2"
     },
     {
         "Company": "Vodafone",
+        "Description": "Vodafone UK offers fixed-line broadband services in the United Kingdom. It is a subsidiary of the multinational telecommunications company Vodafone Group Plc, which operates worldwide with a significant footprint in Europe, Asia, the Middle East, and Africa.",
         "FoE": "39",
         "G": "81",
         "P": "45",
-        "Service": "Fixed line broadband (Vodafone UK)",
+        "Service": "Vodafone UK",
         "Total": "50",
         "rank": "3"
     },
     {
         "Company": "AT&T",
+        "Description": "AT&T’s offers fixed-line broadband service in the United States. Its broadband services include telephony, internet access, and network integration.",
         "FoE": "34",
         "G": "60",
         "P": "50",
-        "Service": "Fixed line broadband",
+        "Service": "AT&T",
         "Total": "46",
         "rank": "4"
     },
     {
         "Company": "Telenor",
+        "Description": "Telenor Norway offers fixed-line broadband services in Norway. It is a subsidiary of Telenor ASA, which offers services in Scandinavia and a number of Asian countries. ",
         "FoE": "36",
         "G": "78",
         "P": "39",
-        "Service": "Fixed line broadband (Telenor)",
+        "Service": "Telenor Norway",
         "Total": "46",
         "rank": "5"
     },
     {
         "Company": "Deutsche Telekom",
+        "Description": "Deutsche Telekom offers fixed-line broadband services in Germany. It is the largest telecommunications provider in Europe and also offers services in Africa, Asia, and the Americas. ",
         "FoE": "16",
         "G": "55",
         "P": "60",
-        "Service": "Fixed line broadband (Deutsche Telekom)",
+        "Service": "Deutsche Telekom",
         "Total": "45",
         "rank": "6"
     },
     {
         "Company": "Ooredoo",
+        "Description": "Ooredoo Qatar offers fixed-line broadband services in Qatar. It is a subsidiary of Ooredoo Q.S.C. (formerly Qtel), an international telecommunications company headquartered in Qatar with operations across the Middle East, North Africa, and Asia.",
         "FoE": "13",
         "G": "0",
         "P": "0",
-        "Service": "Fixed line broadband",
+        "Service": "Ooredoo Qatar",
         "Total": "4",
         "rank": "7"
     },
     {
         "Company": "Orange",
+        "Description": "Orange France offers fixed-line broadband service in France. It is a subsidiary of Orange S.A. (formerly France Télécom S.A.), a French multinational telecommunications corporation.",
         "FoE": "20",
         "G": "82",
         "P": "31",
-        "Service": "Fixed line broadband",
+        "Service": "Orange France",
         "Total": "38",
         "rank": "8"
     },
     {
         "Company": "Bharti Airtel",
+        "Description": "Airtel India offers fixed-line broadband service in India. It is a subsidiary of Bharti Airtel Limited, a global telecommunications company that operates in countries across South Asia and Africa. ",
         "FoE": "12",
         "G": "22",
         "P": "19",
-        "Service": "Fixed line broadband",
+        "Service": "Airtel India",
         "Total": "17",
         "rank": "9"
     },
     {
         "Company": "MTN",
+        "Description": "MTN South Africa offers fixed-line broadband services in South Africa. It is a subsidiary of MTN Group, a South Africa-based multinational mobile telecommunications company, operating in many African, European, and Asian countries.",
         "FoE": "7",
         "G": "39",
         "P": "12",
-        "Service": "Fixed line broadband",
+        "Service": "MTN South Africa",
         "Total": "16",
         "rank": "10"
     }
