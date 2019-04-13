@@ -53,7 +53,7 @@
                 <div id="total_score" class="comp--score--value"></div>
               </div> <!-- overall score -->
 
-              <div class="comp--difference">
+              <div id="wrapper-difference-total" class="comp--difference">
                 <label>Difference</label>
                 <div id="total_difference" class="comp--difference--value">
                   <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
@@ -127,7 +127,7 @@
             <div class="container--right">
               {% if page.key_recommendation %}
               <div class="key-recommendation">
-                <label class="label-black-style key-recommendation-label">Key Recommendations</label>
+                <label class="label-black-style key-recommendation-label">Key recommendations</label>
                 {{ page.key_recommendation }}
               </div>
               {% endif; %}
@@ -149,15 +149,15 @@
             <div class="container--left">
 
               <ul class="scores-and-difference">
-                <li>
+                <li id="wrapper-governance-2018">
                   <label>Score 2018</label>
                   <div id="governance_2018" class="label-black-style score-value"></div>
                 </li>
-                <li>
+                <li id="wrapper-governance-2019">
                   <label>Score 2019</label>
                   <div id="governance_2019" class="label-black-style score-value"></div>
                 </li>
-                <li>
+                <li id="wrapper-governance-difference">
                   <label>Difference</label>
                   <div id="governance_difference" class="label-black-style score-value">
                     <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
@@ -217,15 +217,15 @@
             <div class="container--left">
 
               <ul class="scores-and-difference">
-                <li>
+                <li id="wrapper-freedom-2018">
                   <label>Score 2018</label>
                   <div id="freedom_of_expression_2018" class="label-black-style score-value"></div>
                 </li>
-                <li>
+                <li id="wrapper-freedom-2019">
                   <label>Score 2019</label>
                   <div id="freedom_of_expression_2019" class="label-black-style score-value"></div>
                 </li>
-                <li>
+                <li id="wrapper-freedom-difference">
                   <label>Difference</label>
                   <div id="freedom_of_expression_difference" class="label-black-style score-value">
                     <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
@@ -286,15 +286,15 @@
             <div class="container--left">
 
               <ul class="scores-and-difference">
-                <li>
+                <li id="wrapper-privacy-2018">
                   <label>Score 2018</label>
                   <div id="privacy_2018" class="label-black-style score-value"></div>
                 </li>
-                <li>
+                <li id="wrapper-privacy-2019">
                   <label>Score 2019</label>
                   <div id="privacy_2019" class="label-black-style score-value"></div>
                 </li>
-                <li>
+                <li id="wrapper-privacy-difference">
                   <label>Difference</label>
                   <div id="privacy_difference" class="label-black-style score-value">
                     <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>

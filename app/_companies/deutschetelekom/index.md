@@ -1,9 +1,9 @@
 ---
 company_type_page: telecommunications-companies
-entity: mtn
+entity: deutschetelekom
 layout: company
-name: mtn
-id: mtn
+name: deutschetelekom
+id: deutschetelekom
 company_type: Telecommunications company
 display: Deutsche Telekom
 telco: true
@@ -25,24 +25,27 @@ governance_value: 21
 governance_text: | 
   <p>Am&eacute;rica M&oacute;vil scored below most of its peers in the Governance category, but ahead of Bharti Airtel, Etisalat, Axiata, and Ooredoo. The company continued to lack clear disclosure of its commitments to human rights at the governance level, including whether it conducts human rights impact assessments (G4) or if it engages with a range of stakeholders on freedom of expression and privacy issues (G5). However, it disclosed more than most of its peers about remedy mechanisms addressing freedom of expression and privacy related complaints (G6). In Mexico <a href="http://www.diputados.gob.mx/LeyesBiblio/pdf/LFTR_311017.pdf" target="_blank" rel="noopener">companies are legally required to provide users with a complaint mechanism</a>.</p>
 summary_of_changes_governance:
+- markup: <a href='#' rel='summary_of_changes_governance' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
-  change: positive
+  change: true
   title: F2. Changes to terms of service
   body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>
 freedom_value: 17
 freedom_text: | 
   <p>But the company failed to clarify this (F11).</p>
 summary_of_changes_freedom:
+- markup: <a href='#' rel='summary_of_changes_freedom' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
-  change: positive
+  change: true
   title: F2. Changes to terms of service
   body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>
 privacy_value: 25
 privacy_text: | 
   <p>Am&eacute;rica M&oacute;vil ranked fifth out of the 10 telecommunications companies evaluated in the Privacy category, ranking behind AT&amp;T, Orange, and several other companies.<br /><br /><strong>Handling of user information:</strong> Telcel disclosed less about how it handles user information than AT&amp;T, Vodafone UK, and Telef&oacute;nica Spain, but more than most other telecommunications companies evaluated (P3-P8). It disclosed little about what types of user information it collects (P3), shares (P4), and its reasons for doing so (P5). Like most of its peers, Telcel disclosed nothing about how long it retains user information (P6), although no law prohibits the company from doing so. It disclosed little about options users have to control what information is collected, including for targeted advertising (P7).<br /><br /><strong>Requests for user information:</strong> Like most telecommunications companies, Am&eacute;rica M&oacute;vil provided almost no information about how it handles government and private requests for user information (P10), and failed to disclose whether it informs users when their information is requested (P12). The company did not publish any data about such requests (P11), despite being required by law to report the number of government requests for real-time location tracking or user metadata to the country&rsquo;s telecommunications authority. <br /><br /><strong>Security:</strong> Telcel did not provide as much information about its security policies as Vodafone UK, AT&amp;T, and Telef&oacute;nica Spain, but was on par with Airtel India and Orange France (P13-P18). Telcel failed to disclose any information about how it addresses security vulnerabilities, including if it offers a bug bounty program for security researchers to submit vulnerabilities (P14). Like most companies in the Index, Telcel disclosed nothing about its policies for addressing data breaches (P15). Companies in Mexico are <a href="https://www.telcel.com/mundo_telcel/quienes-somos/corporativo/redes-sociales" target="_blank" rel="noopener">legally required</a> to notify users only if the data breach &ldquo;significantly affects&rdquo; their rights, however the company does not disclose this information to users.</p>
 summary_of_changes_privacy:
+- markup: <a href='#' rel='summary_of_changes_privacy' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
-  change: positive
+  change: true
   title: F2. Changes to terms of service
   body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>
 ---
