@@ -1,242 +1,242 @@
 [
-    {
-        "commitment": "84.55",
-        "display": "Microsoft",
-        "freedom": "55.36",
-        "id": "microsoft",
-        "name": "microsoft",
-        "privacy": "58.61",
-        "telco": "false",
-        "total": "62.44"
-    },
-    {
-        "commitment": "71.35",
-        "display": "Google",
-        "freedom": "60.82",
-        "id": "google",
-        "name": "google",
-        "privacy": "58.45",
-        "telco": "false",
-        "total": "61.44"
-    },
-    {
-        "commitment": "84.05",
-        "display": "Verizon Media",
-        "freedom": "55.93",
-        "id": "verizonmedia",
-        "name": "verizon media",
-        "privacy": "55.81",
-        "telco": "false",
-        "total": "60.97"
-    },
-    {
-        "commitment": "93.64",
-        "display": "Telefónica",
-        "freedom": "46.97",
-        "id": "telefónica",
-        "name": "telefónica",
-        "privacy": "49.03",
-        "telco": "true",
-        "total": "56.68"
-    },
-    {
-        "commitment": "77.97",
-        "display": "Facebook",
-        "freedom": "46.58",
-        "id": "facebook",
-        "name": "facebook",
-        "privacy": "54.54",
-        "telco": "false",
-        "total": "56.63"
-    },
-    {
-        "commitment": "50.2",
-        "display": "Twitter",
-        "freedom": "59.54",
-        "id": "twitter",
-        "name": "twitter",
-        "privacy": "54.62",
-        "telco": "false",
-        "total": "55.16"
-    },
-    {
-        "commitment": "81.44",
-        "display": "Vodafone",
-        "freedom": "44.62",
-        "id": "vodafone",
-        "name": "vodafone",
-        "privacy": "45.17",
-        "telco": "true",
-        "total": "51.78"
-    },
-    {
-        "commitment": "33.01",
-        "display": "Kakao",
-        "freedom": "53.15",
-        "id": "kakao",
-        "name": "kakao",
-        "privacy": "53.82",
-        "telco": "false",
-        "total": "49.85"
-    },
-    {
-        "commitment": "59.99",
-        "display": "AT&T",
-        "freedom": "40.21",
-        "id": "att",
-        "name": "at&t",
-        "privacy": "48.66",
-        "telco": "true",
-        "total": "47.88"
-    },
-    {
-        "commitment": "31.72",
-        "display": "Apple",
-        "freedom": "32.95",
-        "id": "apple",
-        "name": "apple",
-        "privacy": "57.8",
-        "telco": "false",
-        "total": "46.28"
-    },
-    {
-        "commitment": "78.48",
-        "display": "Telenor",
-        "freedom": "33.54",
-        "id": "telenor",
-        "name": "telenor",
-        "privacy": "39.45",
-        "telco": "true",
-        "total": "44.74"
-    },
-    {
-        "commitment": "55.28",
-        "display": "Deutsche Telekom",
-        "freedom": "15.29",
-        "id": "deutschetelekom",
-        "name": "deutsche telekom",
-        "privacy": "59.62",
-        "telco": "true",
-        "total": "43.57"
-    },
-    {
-        "commitment": "81.67",
-        "display": "Orange",
-        "freedom": "17.33",
-        "id": "orange",
-        "name": "orange",
-        "privacy": "30.96",
-        "telco": "true",
-        "total": "35.78"
-    },
-    {
-        "commitment": "29.09",
-        "display": "Yandex",
-        "freedom": "21.60",
-        "id": "yandex",
-        "name": "yandex",
-        "privacy": "37.73",
-        "telco": "false",
-        "total": "31.76"
-    },
-    {
-        "commitment": "32.07",
-        "display": "Samsung",
-        "freedom": "29.9",
-        "id": "samsung",
-        "name": "samsung",
-        "privacy": "26.62",
-        "telco": "false",
-        "total": "28.51"
-    },
-    {
-        "commitment": "4.17",
-        "display": "TenCent",
-        "freedom": "14.12",
-        "id": "tencent",
-        "name": "tencent",
-        "privacy": "38.96",
-        "telco": "false",
-        "total": "25.86"
-    },
-    {
-        "commitment": "37.08",
-        "display": "América Móvil",
-        "freedom": "17.42",
-        "id": "americamovil",
-        "name": "américa móvil",
-        "privacy": "26.39",
-        "telco": "true",
-        "total": "25.31"
-    },
-    {
-        "commitment": "7.36",
-        "display": "Baidu",
-        "freedom": "12.5",
-        "id": "baidu",
-        "name": "baidu",
-        "privacy": "32.64",
-        "telco": "false",
-        "total": "22.55"
-    },
-    {
-        "commitment": "5.83",
-        "display": "Mail.Ru",
-        "freedom": "23.54",
-        "id": "mailru",
-        "name": "mail.ru",
-        "privacy": "24.29",
-        "telco": "false",
-        "total": "20.73"
-    },
-    {
-        "commitment": "23.75",
-        "display": "Bharti Airtel",
-        "freedom": "8.94",
-        "id": "bhartiairtel",
-        "name": "bharti airtel",
-        "privacy": "18.89",
-        "telco": "true",
-        "total": "16.38"
-    },
-    {
-        "commitment": "39.09",
-        "display": "MTN",
-        "freedom": "9.06",
-        "id": "mtn",
-        "name": "mtn",
-        "privacy": "12.22",
-        "telco": "true",
-        "total": "16.17"
-    },
-    {
-        "commitment": "9.31",
-        "display": "Axiata",
-        "freedom": "12.99",
-        "id": "axiata",
-        "name": "axiata",
-        "privacy": "15.83",
-        "telco": "true",
-        "total": "13.63"
-    },
-    {
-        "commitment": "3.33",
-        "display": "Etisalat",
-        "freedom": "14.9",
-        "id": "etisalat",
-        "name": "etisalat",
-        "privacy": "3.89",
-        "telco": "true",
-        "total": "7.57"
-    },
-    {
-        "commitment": "0",
-        "display": "Ooredoo",
-        "freedom": "13.15",
-        "id": "ooredoo",
-        "name": "ooredoo",
-        "privacy": "0",
-        "telco": "true",
-        "total": "4.52"
-    }
+   {
+      "commitment":"37.08",
+      "display":"América Móvil",
+      "freedom":"17.42",
+      "id":"americamovil",
+      "name":"américa móvil",
+      "privacy":"26.39",
+      "telco":"true",
+      "total":"25.31"
+   },
+   {
+      "commitment":"31.72",
+      "display":"Apple",
+      "freedom":"32.95",
+      "id":"apple",
+      "name":"apple",
+      "privacy":"57.8",
+      "telco":"false",
+      "total":"46.28"
+   },
+   {
+      "commitment":"59.99",
+      "display":"AT&T",
+      "freedom":"40.21",
+      "id":"att",
+      "name":"at&t",
+      "privacy":"48.66",
+      "telco":"true",
+      "total":"47.88"
+   },
+   {
+      "commitment":"9.31",
+      "display":"Axiata",
+      "freedom":"12.99",
+      "id":"axiata",
+      "name":"axiata",
+      "privacy":"15.83",
+      "telco":"true",
+      "total":"13.63"
+   },
+   {
+      "commitment":"7.36",
+      "display":"Baidu",
+      "freedom":"12.5",
+      "id":"baidu",
+      "name":"baidu",
+      "privacy":"32.64",
+      "telco":"false",
+      "total":"22.55"
+   },
+   {
+      "commitment":"23.75",
+      "display":"Bharti Airtel",
+      "freedom":"8.94",
+      "id":"bhartiairtel",
+      "name":"bharti airtel",
+      "privacy":"18.89",
+      "telco":"true",
+      "total":"16.38"
+   },
+   {
+      "commitment":"55.28",
+      "display":"Deutsche Telekom",
+      "freedom":"15.29",
+      "id":"deutschetelekom",
+      "name":"deutsche telekom",
+      "privacy":"59.62",
+      "telco":"true",
+      "total":"43.57"
+   },
+   {
+      "commitment":"3.33",
+      "display":"Etisalat",
+      "freedom":"14.9",
+      "id":"etisalat",
+      "name":"etisalat",
+      "privacy":"3.89",
+      "telco":"true",
+      "total":"7.57"
+   },
+   {
+      "commitment":"77.97",
+      "display":"Facebook",
+      "freedom":"46.58",
+      "id":"facebook",
+      "name":"facebook",
+      "privacy":"54.54",
+      "telco":"false",
+      "total":"56.63"
+   },
+   {
+      "commitment":"71.35",
+      "display":"Google",
+      "freedom":"60.82",
+      "id":"google",
+      "name":"google",
+      "privacy":"58.45",
+      "telco":"false",
+      "total":"61.44"
+   },
+   {
+      "commitment":"33.01",
+      "display":"Kakao",
+      "freedom":"53.15",
+      "id":"kakao",
+      "name":"kakao",
+      "privacy":"53.82",
+      "telco":"false",
+      "total":"49.85"
+   },
+   {
+      "commitment":"5.83",
+      "display":"Mail.Ru",
+      "freedom":"23.54",
+      "id":"mailru",
+      "name":"mail.ru",
+      "privacy":"24.29",
+      "telco":"false",
+      "total":"20.73"
+   },
+   {
+      "commitment":"84.55",
+      "display":"Microsoft",
+      "freedom":"55.36",
+      "id":"microsoft",
+      "name":"microsoft",
+      "privacy":"58.61",
+      "telco":"false",
+      "total":"62.44"
+   },
+   {
+      "commitment":"39.09",
+      "display":"MTN",
+      "freedom":"9.06",
+      "id":"mtn",
+      "name":"mtn",
+      "privacy":"12.22",
+      "telco":"true",
+      "total":"16.17"
+   },
+   {
+      "commitment":"0",
+      "display":"Ooredoo",
+      "freedom":"13.15",
+      "id":"ooredoo",
+      "name":"ooredoo",
+      "privacy":"0",
+      "telco":"true",
+      "total":"4.52"
+   },
+   {
+      "commitment":"81.67",
+      "display":"Orange",
+      "freedom":"17.33",
+      "id":"orange",
+      "name":"orange",
+      "privacy":"30.96",
+      "telco":"true",
+      "total":"35.78"
+   },
+   {
+      "commitment":"32.07",
+      "display":"Samsung",
+      "freedom":"29.9",
+      "id":"samsung",
+      "name":"samsung",
+      "privacy":"26.62",
+      "telco":"false",
+      "total":"28.51"
+   },
+   {
+      "commitment":"93.64",
+      "display":"Telefónica",
+      "freedom":"46.97",
+      "id":"telefónica",
+      "name":"telefónica",
+      "privacy":"49.03",
+      "telco":"true",
+      "total":"56.68"
+   },
+   {
+      "commitment":"78.48",
+      "display":"Telenor",
+      "freedom":"33.54",
+      "id":"telenor",
+      "name":"telenor",
+      "privacy":"39.45",
+      "telco":"true",
+      "total":"44.74"
+   },
+   {
+      "commitment":"4.17",
+      "display":"TenCent",
+      "freedom":"14.12",
+      "id":"tencent",
+      "name":"tencent",
+      "privacy":"38.96",
+      "telco":"false",
+      "total":"25.86"
+   },
+   {
+      "commitment":"50.2",
+      "display":"Twitter",
+      "freedom":"59.54",
+      "id":"twitter",
+      "name":"twitter",
+      "privacy":"54.62",
+      "telco":"false",
+      "total":"55.16"
+   },
+   {
+      "commitment":"84.05",
+      "display":"Verizon Media",
+      "freedom":"55.93",
+      "id":"verizonmedia",
+      "name":"verizon media",
+      "privacy":"55.81",
+      "telco":"false",
+      "total":"60.97"
+   },
+   {
+      "commitment":"81.44",
+      "display":"Vodafone",
+      "freedom":"44.62",
+      "id":"vodafone",
+      "name":"vodafone",
+      "privacy":"45.17",
+      "telco":"true",
+      "total":"51.78"
+   },
+   {
+      "commitment":"29.09",
+      "display":"Yandex",
+      "freedom":"21.60",
+      "id":"yandex",
+      "name":"yandex",
+      "privacy":"37.73",
+      "telco":"false",
+      "total":"31.76"
+   }
 ]
