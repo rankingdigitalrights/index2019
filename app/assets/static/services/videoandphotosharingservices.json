@@ -1,6 +1,7 @@
 [
     {
         "Company": "Google",
+        "Description": "YouTube is a video hosting and sharing website created in 2005 and acquired by Google in 2006.",
         "FoE": "65",
         "G": "72",
         "P": "59",
@@ -10,6 +11,7 @@
     },
     {
         "Company": "Facebook",
+        "Description": "Instagram is a photo-sharing service that allows users to share pictures and videos publicly, privately, and through a variety of other social networking platforms. It was acquired by Facebook in 2012.",
         "FoE": "59",
         "G": "77",
         "P": "47",
@@ -19,6 +21,7 @@
     },
     {
         "Company": "Twitter",
+        "Description": "Periscope is a live video streaming mobile application acquired by Twitter in 2015. In 2016, some of Periscope's features were integrated into the main Twitter platform.",
         "FoE": "49",
         "G": "50",
         "P": "48",

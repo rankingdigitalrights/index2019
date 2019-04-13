@@ -1,42 +1,47 @@
 [
     {
         "Company": "Etisalat",
+        "Description": "Etisalat UAE offers prepaid and postpaid mobile services in the United Arab Emirates. It is a subsidiary of Emirates Telecommunications Corporation, a multinational UAE based telecommunications services provider.",
         "FoE": "16",
         "G": "3",
         "P": "4",
-        "Service": "Mobile service",
+        "Service": "Etisalat UAE",
         "Total": "8",
         "rank": "1"
     },
     {
         "Company": "Telefónica",
+        "Description": "Movistar offers prepaid and postpaid mobile services in Spain. The services are operated by Telefónica de España, a subsidiary company of Telefónica, a multinational telecommunications company that also operates in many Latin American countries.",
         "FoE": "47",
         "G": "94",
         "P": "48",
-        "Service": "Mobile service",
+        "Service": "Movistar",
         "Total": "57",
         "rank": "2"
     },
     {
         "Company": "Vodafone",
+        "Description": "Vodafone UK offers prepaid and postpaid mobile services in the United Kingdom. It is a subsidiary of the multinational telecommunications company Vodafone Group Plc, with a significant footprint in Europe, Asia, the Middle East, and Africa.",
         "FoE": "45",
         "G": "81",
         "P": "45",
-        "Service": "Mobile service (Vodafone UK)",
+        "Service": "Vodafone UK",
         "Total": "52",
         "rank": "3"
     },
     {
         "Company": "Ooredoo",
+        "Description": "Ooredoo Qatar offers prepaid and postpaid mobile services in Qatar. It is a subsidiary of Ooredoo Q.S.C. (formerly Qtel), an international telecommunications company headquartered in Qatar with operations across the Middle East, North Africa, and Asia.",
         "FoE": "14",
         "G": "0",
         "P": "0",
-        "Service": "Mobile service",
+        "Service": "Ooredoo Qatar",
         "Total": "5",
         "rank": "4"
     },
     {
         "Company": "AT&T",
+        "Description": "AT&T offers prepaid and postpaid mobile services in the United States through its Wireless segment. It provides telecommunications services in the United States and internationally.",
         "FoE": "41",
         "G": "60",
         "P": "48",
@@ -46,64 +51,71 @@
     },
     {
         "Company": "Telenor",
+        "Description": "Telenor Norway offers prepaid and postpaid mobile services in Norway. It is a subsidiary of Telenor ASA, which offers services in Scandinavia and a number of Asian countries.",
         "FoE": "35",
         "G": "78",
         "P": "40",
-        "Service": "Mobile service (Telenor)",
+        "Service": "Telenor Norway",
         "Total": "45",
         "rank": "6"
     },
     {
         "Company": "Deutsche Telekom",
+        "Description": "Deutsche Telekom offers prepaid and postpaid mobile services services in Germany. It is the largest telecommunications provider in Europe and also offers services in Africa, Asia, and the Americas. ",
         "FoE": "16",
         "G": "55",
         "P": "60",
-        "Service": "Mobile service (Deutsche Telekom)",
+        "Service": "Deutsche Telekom",
         "Total": "44",
         "rank": "7"
     },
     {
         "Company": "Orange",
+        "Description": "Orange France offers prepaid and postpaid mobile services in France. It is a subsidiary of Orange S.A. (formerly France Télécom S.A.), a French multinational telecommunications corporation.",
         "FoE": "16",
         "G": "82",
         "P": "31",
-        "Service": "Mobile service",
+        "Service": "Orange France",
         "Total": "35",
         "rank": "8"
     },
     {
         "Company": "América Móvil",
+        "Description": "Telcel is a Mexican wireless telecommunications company offering prepaid and postpaid mobile services in Mexico. It is owned by América Móvil, S.A.B. de C.V., a multinational telecommunications company headquartered in Mexico and also operating in the Americas and Europe. ",
         "FoE": "17",
         "G": "37",
         "P": "26",
-        "Service": "Mobile service (Telcel)",
+        "Service": "Telcel",
         "Total": "25",
         "rank": "9"
     },
     {
         "Company": "MTN",
+        "Description": "MTN South Africa offers prepaid and postpaid mobile services in South Africa. It is a subsidiary of MTN Group, a South Africa based multinational mobile telecommunications company operating in many African, European, and Asian countries. ",
         "FoE": "12",
         "G": "39",
         "P": "12",
-        "Service": "Mobile service",
+        "Service": "MTN South Africa",
         "Total": "17",
         "rank": "10"
     },
     {
         "Company": "Bharti Airtel",
+        "Description": "Airtel India offers prepaid and postpaid mobile services in India. It is a subsidiary of Bharti Airtel Limited, a global telecommunications services company that operates in South Asia and Africa.",
         "FoE": "7",
         "G": "21",
         "P": "19",
-        "Service": "Mobile service",
+        "Service": "Airtel India",
         "Total": "15",
         "rank": "11"
     },
     {
         "Company": "Axiata",
+        "Description": "Celcom offers prepaid and postpaid mobile services in Malaysia. It is a subsidiary of Axiata Group Berhad, a multinational telecommunications conglomerate operating across Asia.",
         "FoE": "13",
         "G": "9",
         "P": "16",
-        "Service": "Mobile service",
+        "Service": "Celcom",
         "Total": "14",
         "rank": "12"
     }
