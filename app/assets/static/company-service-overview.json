@@ -1,0 +1,40 @@
+[
+    {
+        "id":"americamovil",
+        "companies":[
+            {
+                "text": "Telcel"
+            }
+        ]
+    },
+    {
+        "id":"apple",
+        "companies":[
+            {
+                "text": "iMessage"
+            },
+            {
+                "text": "iCloud"
+            },
+            {
+                "text": "iOS"
+            }
+        ]
+    },
+    {
+        "id":"att",
+        "companies":[
+            {
+                "text": "AT&T"
+            }
+        ]
+    },
+    {
+        "id":"axiata",
+        "companies":[
+            {
+                "text": "Celcom"
+            }
+        ]
+    }
+]

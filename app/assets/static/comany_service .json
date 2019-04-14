@@ -1,0 +1,96 @@
+[
+    {
+        "id":"americamovil",
+        "companies":[
+            {
+                "text": "Telcel"
+            }
+        ]
+    },
+    {
+        "id":"apple",
+        "companies":[
+            {
+                "text": "iMessage"
+            },
+            {
+                "text": "iCloud"
+            },
+            {
+                "text": "iOS"
+            }
+        ]
+    },
+    {
+        "id":"att",
+        "companies":[
+            {
+                "text": "AT&T"
+            }
+        ]
+    },
+    {
+        "id":"axiata",
+        "companies":[
+            {
+                "text": "Celcom"
+            }
+        ]
+    },
+]    
+
+baidu,Baidu PostBar
+baidu,Baidu Search
+baidu,Baidu Cloud
+bhartiairtel,Airtel India
+bhartiairtel,Airtel India 
+deutschetelekom,Deutsche Telekom
+deutschetelekom,Deutsche Telekom
+etisalat,Etisalat UAE
+etisalat,Etisalat UAE
+facebook,Facebook
+facebook,WhatsApp
+facebook,Messenger
+facebook,Instagram
+google,YouTube
+google,Gmail
+google,Google Search
+google,Drive
+google,Google Android
+kakao,KakaoTalk
+kakao,Daum Mail
+kakao,Daum Search
+mailru,VKontakte
+mailru,Mail.Ru Agent 
+mailru,Mail.Ru 
+mailru,Mail.Ru Cloud Solutions
+microsoft,Skype
+microsoft,Outlook.com
+microsoft,Bing
+microsoft,OneDrive
+mtn,MTN South Africa
+mtn,MTN South Africa 
+ooredoo,Ooredoo Qatar
+ooredoo,Ooredoo Qatar
+orange,Orange France
+orange,Orange France
+samsung,Samsung Cloud
+samsung,Samsung Android
+telefonica,Movistar 
+telefonica,Movistar 
+telenor,Telenor Norway
+telenor,Telenor Norway
+tencent,Qzone
+tencent,WeChat
+tencent,QQ
+tencent,Tencent Cloud
+twitter,Twitter
+twitter,Periscope
+verizonmedia,Tumblr
+verizonmedia,Yahoo! Mail
+vodafone,Vodafone UK
+vodafone,Vodafone UK
+yandex,Yandex.Mail
+yandex,Yandex Search
+yandex,Yandex.Disk   
+}
