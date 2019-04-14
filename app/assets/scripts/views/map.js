@@ -5,8 +5,11 @@ var d3 = require('d3');
 var baseurl = require('../util/base-url');
 var Overview = require('../collections/overview');
 var Compare = require('../collections/compare');
+var CompanyService = require('../collections/company-service-overview');
 var CategoryChart = require('../views/category-line-dot-chart');
-require('d3-geo-projection')(d3);
+
+var CompanyServiceOverview = require('../views/company-service-overview');
+// require('d3-geo-projection')(d3);
 
 module.exports = Backbone.View.extend({
   // Represents the actual DOM element that corresponds to your View (There is a one to one relationship between View Objects and DOM elements)
@@ -18,6 +21,8 @@ module.exports = Backbone.View.extend({
     overview.fetch();
     var compare = new Compare();
     compare.fetch();
+    var companyService = new CompanyService();
+    companyService.fetch();
 
     // render map
     var map = new Datamap({
@@ -92,6 +97,13 @@ module.exports = Backbone.View.extend({
               highlighted: data.compURL
             });
             category.render('total');
+
+            var companyServiceOverview = new CompanyServiceOverview({
+              company: data.compURL,
+              collection: companyService
+            });
+            companyServiceOverview.render();
+
             var company = overview.findWhere({ id: data.compURL });
             var difference = compare.findWhere({ id: data.compURL });
             if(difference){
@@ -110,7 +122,8 @@ module.exports = Backbone.View.extend({
           }).on('mousemove', function () {
             return tooltip.style('top', d3.event.pageY + 20 + 'px').style('left', d3.event.pageX - 150 + 'px');
           }).on('mouseout', function () {
-            $('.dotchart').remove();
+            //$('.dotchart').remove();
+            $("#service--evaluated").empty();
             return tooltip.style('visibility', 'hidden');
           });
 
@@ -138,8 +151,11 @@ module.exports = Backbone.View.extend({
       company_info.append('div').attr('id', 'company--total');
       company_info.append('div').attr('id', 'company--difference');
 
-      tooltip.append('div').attr('id', 'company--chart--title').text('Position Among Other Companies');
-      tooltip.append('div').attr('id', 'total--dot_chart');
+      tooltip.append('div').attr('id', 'company--chart--title').text('Service Evaluated');
+      tooltip.append('ul').attr('id', 'service--evaluated');
+
+      // tooltip.append('div').attr('id', 'company--chart--title').text('Position Among Other Companies');
+      // tooltip.append('div').attr('id', 'total--dot_chart');
 
     window.addEventListener('resize', function () {
       map.resize();
