@@ -3,7 +3,7 @@
         "id":"americamovil",
         "companies":[
             {
-                "text": "Telcel"
+                "text": "Telcel [Prepaid and postpaid mobile]"
             }
         ]
     },
@@ -11,13 +11,13 @@
         "id":"apple",
         "companies":[
             {
-                "text": "iMessage"
+                "text": "iMessage [Messaging & VoIP]"
             },
             {
-                "text": "iCloud"
+                "text": "iCloud [Cloud services ]"
             },
             {
-                "text": "iOS"
+                "text": "iOS [Mobile ecosystems]"
             }
         ]
     },
@@ -25,7 +25,10 @@
         "id":"att",
         "companies":[
             {
-                "text": "AT&T"
+                "text": "AT&T [Fixed-line broadband]"
+            },
+            {
+                "text": "AT&T [Prepaid and postpaid mobile]"
             }
         ]
     },
@@ -33,8 +36,270 @@
         "id":"axiata",
         "companies":[
             {
-                "text": "Celcom"
+                "text": "Celcom [Prepaid and postpaid mobile]"
             }
         ]
+    },
+    {
+      "id": "baidu",
+      "companies":[
+        {
+          "text": "Baidu Cloud [Cloud services]"
+        },
+        {
+          "text": "Baidu Search [Search engine]"
+        },
+        {
+          "text": "Baidu PostBar [Social networking & blog]"
+        }
+      ]
+    },
+    {
+      "id": "bhartiairtel",
+      "companies":[
+        {
+          "text": "Airtel India [Fixed-line broadband]"
+        },
+        {
+          "text": "Airtel India [Prepaid and postpaid mobile]"
+        }
+      ]
+    },
+    {
+      "id": "deutschetelekom",
+      "companies":[
+        {
+          "text": "Deutsche Telekom [Fixed-line broadband]"
+        },
+        {
+          "text": "Deutsche Telekom [Prepaid and postpaid mobile]"
+        }
+      ]
+    },
+    {
+      "id": "etisalat",
+      "companies":[
+        {
+          "text": "Etisalat UAE [Fixed-line broadband]"
+        },
+        {
+          "text": "Etisalat UAE [Prepaid and postpaid mobile]"
+        }
+      ]
+    },
+    {
+      "id": "facebook",
+      "companies":[
+        {
+          "text": "WhatsApp [Messaging & VoIP]"
+        },
+        {
+          "text": "Messenger [Messaging & VoIP]"
+        },
+        {
+          "text": "Facebook [Social networking & blog]"
+        },
+        {
+          "text": "Instagram [Video & photo sharing]"
+        }
+      ]
+    },
+    {
+      "id": "google",
+      "companies":[
+        {
+          "text": "Drive [Cloud services]"
+        },
+        {
+          "text": "Gmail [Email]"
+        },
+        {
+          "text": "Google Android [Mobile ecosystems]"
+        },
+        {
+          "text": "Google Search [Search engine]"
+        },
+        {
+          "text": "YouTube [Video & photo sharing]"
+        }
+      ]
+    },
+    {
+      "id": "kakao",
+      "companies":[
+        {
+          "text": "Daum Mail [Email]"
+        },
+        {
+          "text": "KakaoTalk [Messaging & VoIP]"
+        },
+        {
+          "text": "Daum Search [Search engine]"
+        }
+      ]
+    },
+    {
+      "id": "mailru",
+      "companies":[
+        {
+          "text": "Mail.Ru Cloud Solutions [Cloud services]"
+        },
+        {
+          "text": "Mail.Ru [Email]"
+        },
+        {
+          "text": "Mail.Ru Agent [Messaging & VoIP]"
+        },
+        {
+          "text": "VKontakte [Social networking & blog]"
+        }
+      ]
+    },
+    {
+      "id": "microsoft",
+      "companies":[
+        {
+          "text": "OneDrive [Cloud services]"
+        },
+        {
+          "text": "Outlook.com [Email]"
+        },
+        {
+          "text": "Skype [Messaging & VoIP]"
+        },
+        {
+          "text": "Bing [Search engine]"
+        }
+      ]
+    },
+    {
+      "id": "mtn",
+      "companies":[
+        {
+          "text": "MTN South Africa [Fixed-line broadband]"
+        },
+        {
+          "text": "MTN South Africa [Prepaid and postpaid mobile]"
+        }
+      ]
+    },
+    {
+      "id": "ooredoo",
+      "companies":[
+        {
+          "text": "Ooredoo Qatar [Fixed-line broadband]"
+        },
+        {
+          "text": "Ooredoo Qatar [Prepaid and postpaid mobile]"
+        }
+      ]
+    },
+    {
+      "id": "orange",
+      "companies":[
+        {
+          "text": "Orange France [Fixed-line broadband]"
+        },
+        {
+          "text": "Orange France [Prepaid and postpaid mobile]"
+        }
+      ]
+    },
+    {
+      "id": "samsung",
+      "companies":[
+        {
+          "text": "Samsung Cloud [Cloud services]"
+        },
+        {
+          "text": "Samsung Android [Mobile ecosystems]"
+        }
+      ]
+    },
+    {
+      "id": "telefónica",
+      "companies":[
+        {
+          "text": "Movistar [Fixed-line broadband]"
+        },
+        {
+          "text": "Movistar [Prepaid and postpaid mobile]"
+        }
+      ]
+    },
+    {
+      "id": "telenor",
+      "companies":[
+        {
+          "text": "Telenor Norway [Fixed-line broadband]"
+        },
+        {
+          "text": "Telenor Norway [Prepaid and postpaid mobile]"
+        }
+      ]
+    },
+    {
+      "id": "tencent",
+      "companies":[
+        {
+          "text": "WeChat [Messaging & VoIP]"
+        },
+        {
+          "text": "Tencent Cloud [Cloud services]"
+        },
+        {
+          "text": "WeChat [Messaging & VoIP]"
+        },
+        {
+          "text": "QQ [Messaging & VoIP]"
+        }
+      ]
+    },
+    {
+      "id": "twitter",
+      "companies":[
+        {
+          "text": "Twitter [Social networking & blog]"
+        },
+        {
+          "text": "Periscope [Video & photo sharing]"
+        }
+      ]
+    },
+    {
+      "id": "verizonmedia",
+      "companies":[
+        {
+          "text": "Yahoo! Mail [Email]"
+        },
+        {
+          "text": "Tumblr [Social networking & blog]"
+        }
+      ]
+    },
+    {
+      "id": "vodafone",
+      "companies":[
+        {
+          "text": "Vodafone UK [Fixed-line broadband]"
+        },
+        {
+          "text": "Vodafone UK [Prepaid and postpaid mobile]"
+        }
+      ]
+    },
+    {
+      "id": "yandex",
+      "companies":[
+        {
+          "text": "Yandex.Disk [Cloud services]"
+        },
+        {
+          "text": "Yandex.Mail [Email]"
+        },
+        {
+          "text": "Yandex Search [Search engine]"
+        }
+      ]
     }
 ]
