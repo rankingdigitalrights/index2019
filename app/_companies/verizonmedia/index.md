@@ -1,9 +1,9 @@
 ---
 company_type_page: telecommunications-companies
-entity: mtn
+entity: verizonmedia
 layout: company
-name: mtn
-id: mtn
+name: verizonmedia
+id: verizonmedia
 company_type: Telecommunications company
 display: Verizon Media
 telco: true
