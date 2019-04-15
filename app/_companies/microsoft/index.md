@@ -7,7 +7,7 @@ id: microsoft
 company_type: Internet and Mobile Ecosystem Companies
 display: Microsoft Corp.
 telco: false
-rank: 2
+rank: 1
 basic_information: | 
   <p><strong>Headquarters</strong>: USA <br /><strong>Link</strong>: <a href="https://www.apple.com">https://www.apple.com </a><br /><strong>Download</strong>: <a href="https://www.apple.com">https://www.apple.com</a></p>
 key_findings: | 
