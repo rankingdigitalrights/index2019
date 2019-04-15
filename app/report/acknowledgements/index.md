@@ -5,8 +5,8 @@ next:
   href: executive-summary
   text: Executive summary
 ---
-Acknowledgments xxx
-===================
+Acknowledgments
+===============
 
 **Ranking Digital Rights (RDR) staff:**
 
