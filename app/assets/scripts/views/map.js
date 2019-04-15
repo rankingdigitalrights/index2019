@@ -109,7 +109,11 @@ module.exports = Backbone.View.extend({
             if(difference){
               var total_difference = difference.attributes.total_difference;
               var total_difference_class = (total_difference >= 0) ? 'fa fa-chevron-up up-arrow-green' : 'fa fa-chevron-down down-arrow-red';  
-              $('#company--difference').html('<i class="'+total_difference_class+'" aria-hidden="true"></i>');
+              if(!isNaN(total_difference)) {
+                $('#company--difference').html('<i class="'+total_difference_class+'" aria-hidden="true"></i><span>'+total_difference+'</span>');
+              } else {
+                $('#company--difference').html('');
+              }
             }
             var is_telco = company.attributes.telco;
             var total = company.attributes.total;
