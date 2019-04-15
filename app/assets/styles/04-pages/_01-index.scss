@@ -160,6 +160,14 @@
 			margin: 0 25px;
 			padding: 12px 0;
 		}
+		#service--evaluated {
+			padding: 0 25px;
+			li {
+				color: $white;
+				font-size: 14px;
+				font-weight: bold;
+			}
+		}
 	}
 
 	.companyLabels{

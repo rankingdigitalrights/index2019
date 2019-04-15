@@ -9,18 +9,19 @@
       }
 
       .category--title {
-      margin-bottom: 1em;
+        margin-bottom: 1em;
+        height: 60px;
         @include media(small-up) {
-        margin-bottom: 1em;  
+          margin-bottom: 1em;  
         }
         @include media(medium-up) {
-        margin-bottom: 1em;
+          margin-bottom: 1em;
         }
         @include media(large-up) {
-        margin-bottom: 1em;  
+          margin-bottom: 1em;  
         }
         @include media(xlarge-up) {
-        margin-bottom: 1em;  
+          margin-bottom: 1em;  
         }                                 
       }
 

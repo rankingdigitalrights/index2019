@@ -25,24 +25,27 @@ governance_value: 5
 governance_text: | 
   <p>Baidu scored lowest of all internet and mobile ecosystem companies in the Governance category. The company made a commitment to respect users&rsquo; privacy, although it fell short of committing to protect privacy as a human right (G1). The company disclosed no evidence of senior-level oversight on freedom of expression or privacy issues (G2), or of employee training or a whistleblower program related to these issues (G3). It failed to disclose if it conducts human rights due diligence (G4), or if the company engages with stakeholders on freedom of expression or privacy issues (G5). China&rsquo;s political and legal environment strongly discourages companies from making human rights commitments, but Baidu could still improve its disclosure of grievance and remedy mechanisms (G6).</p>
 summary_of_changes_governance:
+- markup: <a href='#' rel='summary_of_changes_governance' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
-  change: positive
+  change: true
   title: F2. Changes to terms of service
   body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>
 freedom_value: 12
 freedom_text: | 
   <p>Baidu disclosed less about its policies affecting users&rsquo; freedom of expression than any other internet and mobile ecosystem company evaluated, including Tencent.</p><p><strong>Content and account restrictions</strong>: Baidu disclosed less than all other internet and mobile ecosystem companies about the rules pertaining to different services and how they are enforced (F3, F4, F8). The company received some credit for its disclosure of what types of content or activities it prohibits on its services (F3), but disclosed no data about the volume and nature of content or accounts it restricts for violating these rules. Baidu did not commit to notify users when their content or accounts have been censored (F8).</p><p><strong>Content and account restriction requests:</strong> Baidu was one of only two internet and mobile ecosystem companies to receive no credit on these indicators, along with Samsung (F5-F7). It did not disclose any information about its process for responding to government or private requests to restrict content or accounts (F5), nor did it publish data about the requests it received and with which it complied (F6, F7).</p><p><strong>Identity policy:</strong> The company disclosed it requires users to verify their identities for all services (F11). Service providers offering internet access or information-related services in China are legally required to do so, as are messaging apps.</p>
 summary_of_changes_freedom:
+- markup: <a href='#' rel='summary_of_changes_freedom' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
-  change: positive
+  change: true
   title: F2. Changes to terms of service
   body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>
 privacy_value: 23
 privacy_text: | 
   <p>Baidu disclosed less about its policies affecting users&rsquo; freedom of expression than any other internet and mobile ecosystem company evaluated, including Tencent. Content and account restrictions: Baidu disclosed less than all other internet and mobile ecosystem companies about the rules pertaining to different services and how they are enforced (F3, F4, F8). The company received some credit for its disclosure of what types of content or activities it prohibits on its services (F3), but disclosed no data about the volume and nature of content or accounts it restricts for violating these rules. Baidu did not commit to notify users when their content or accounts have been censored (F8). Content and account restriction requests: Baidu was one of only two internet and mobile ecosystem companies to receive no credit on these indicators, along with Samsung (F5-F7). It did not disclose any information about its process for responding to government or private requests to restrict content or accounts (F5), nor did it publish data about the requests it received and with which it complied (F6, F7). Identity policy: The company disclosed it requires users to verify their identities for all services (F11). Service providers offering internet access or information-related services in China are legally required to do so, as are messaging apps.</p>
 summary_of_changes_privacy:
+- markup: <a href='#' rel='summary_of_changes_privacy' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
-  change: positive
+  change: true
   title: F2. Changes to terms of service
   body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>
 ---

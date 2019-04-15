@@ -1,6 +1,7 @@
 [
     {
         "Company": "Microsoft",
+        "Description": "OneDrive is a cloud-based file-hosting service operated by Microsoft.",
         "FoE": "64",
         "G": "85",
         "P": "59",
@@ -10,6 +11,7 @@
     },
     {
         "Company": "Google",
+        "Description": "Google Drive is a cloud-based file-hosting service. It stores files generated and edited in Google Docs, Sheets, and Slides.",
         "FoE": "53",
         "G": "71",
         "P": "59",
@@ -19,6 +21,7 @@
     },
     {
         "Company": "Apple",
+        "Description": "iCloud is a cloud storage and cloud computing service operated by Apple. It enables users to store files on remote servers, share and send data to other users, and manage lost or stolen Apple devices.",
         "FoE": "41",
         "G": "31",
         "P": "57",
@@ -28,6 +31,7 @@
     },
     {
         "Company": "Yandex",
+        "Description": "Yandex.Disk is a cloud service operated by Russian internet company Yandex that lets users store and share files with others.",
         "FoE": "25",
         "G": "29",
         "P": "37",
@@ -37,6 +41,7 @@
     },
     {
         "Company": "Samsung",
+        "Description": "Samsung Cloud is a cloud-based file-hosting service and Samsung device back-up service operated by Korean internet and mobile ecosystem company Samsung.",
         "FoE": "32",
         "G": "32",
         "P": "27",
@@ -46,6 +51,7 @@
     },
     {
         "Company": "Tencent",
+        "Description": "Tencent Cloud is a cloud-based computing service operated by the Chinese internet company Tencent.",
         "FoE": "14",
         "G": "4",
         "P": "36",
@@ -55,6 +61,7 @@
     },
     {
         "Company": "Baidu",
+        "Description": "iCloud is a cloud storage and cloud computing service operated by Apple. It enables users to store files on remote servers, share and send data to other users, and manage lost or stolen Apple devices.",
         "FoE": "16",
         "G": "6",
         "P": "32",
@@ -64,6 +71,7 @@
     },
     {
         "Company": "Mail.Ru",
+        "Description": "Mail.Ru Cloud Solutions is a cloud-based storage and computing service operated by Russian internet company Mail.Ru. ",
         "FoE": "28",
         "G": "2",
         "P": "23",
