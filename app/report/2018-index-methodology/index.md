@@ -8,10 +8,10 @@ next:
   href: introduction
   text: Introduction
 footnotes: | 
-  <p class="footnotes">[9] For the full set of indicators, definitions, and research guidance please visit: &ldquo;2018 Indicators,&rdquo; Ranking Digital Rights,<a href="https://rankingdigitalrights.org/2018-indicators/">https://rankingdigitalrights.org/2018-indicators/</a>.</p><p class="footnotes">[10] &ldquo;2018 Indicators: Governance,&rdquo; Ranking Digital Rights, <a href="https://rankingdigitalrights.org/2018-indicators/#G">https://rankingdigitalrights.org/2018-indicators/#G</a>.</p><p class="footnotes">[11] &ldquo;2018 Indicators: Freedom of Expression,&rdquo; Ranking Digital Rights, <a href="https://rankingdigitalrights.org/2018-indicators/#F">https://rankingdigitalrights.org/2018-indicators/#F</a>.</p><p class="footnotes">[12] &ldquo;2018 Indicators: Privacy,&rdquo; Ranking Digital Rights, <a href="https://rankingdigitalrights.org/2018-indicators/#P">https://rankingdigitalrights.org/2018-indicators/#P</a>.</p>
+  <p class="footnotes">[9] For the full set of indicators, definitions, and research guidance please visit: &ldquo;2018 Indicators,&rdquo; Ranking Digital Rights,<a href="/2018-indicators/">https://rankingdigitalrights.org/2018-indicators/</a>.</p><p class="footnotes">[10] &ldquo;2018 Indicators: Governance,&rdquo; Ranking Digital Rights, <a href="/2018-indicators/#G">https://rankingdigitalrights.org/2018-indicators/#G</a>.</p><p class="footnotes">[11] &ldquo;2018 Indicators: Freedom of Expression,&rdquo; Ranking Digital Rights, <a href="/2018-indicators/#F">https://rankingdigitalrights.org/2018-indicators/#F</a>.</p><p class="footnotes">[12] &ldquo;2018 Indicators: Privacy,&rdquo; Ranking Digital Rights, <a href="/2018-indicators/#P">https://rankingdigitalrights.org/2018-indicators/#P</a>.</p>
 ---
-1.0 2018 Index Methodology xxx
-==============================
+1.0 2018 Index Methodology
+==========================
 
 The 2018 Index measures company disclosure of policies and practices affecting users’ freedom of expression and privacy. The Index methodology applies 35 indicators in three main categories: **[Governance](/categories/governance)**, **[Freedom of Expression](/categories/freedom-of-expression)**, and **[Privacy](/categories/privacy)**. Each category contains **indicators** measuring company disclosure for that category; each indicator is comprised of a series of **elements** that measure company disclosure for that indicator.[[9]](#footnotes)
 
@@ -21,7 +21,7 @@ The 2018 Index measures company disclosure of policies and practices affecting u
 - **Governance (G)**: This category contains six indicators measuring company disclosure of commitments to freedom of expression and privacy principles along with measures taken to implement those commitments across the company’s global operations.[[10]](#footnotes)
 - **Freedom of Expression (F)**: This category contains 11 indicators measuring company disclosure of policies that affect users’ freedom of expression.[[11]](#footnotes)
 - **Privacy (P)**: This category contains 18 indicators measuring company disclosure of policies and practices that affect users’ privacy rights.[[12]](#footnotes)
-
+ 
 1.2. Company types
 ------------------
 
@@ -43,7 +43,7 @@ For each internet and mobile ecosystem company we examined up to four services, 
 - **Tencent (China)** — QZone, QQ, WeChat
 - **Twitter (U.S.)** — Twitter, Periscope
 - **Yandex (Russia)** — Yandex Mail, Yandex Search, Yandex Disk
-
+ 
 **Telecommunications companies:** For these companies, we evaluated global group- level policies for relevant indicators, plus the home-country operating subsidiary’s pre-paid and post-paid mobile services, and fixed-line broadband service, where offered, as follows:
 
 - **América Móvil (Mexico)** — Telcel
@@ -56,7 +56,7 @@ For each internet and mobile ecosystem company we examined up to four services, 
 - **Orange (France)** — Orange France Mobile, Orange France Broadband
 - **Telefónica (Spain)** — Movistar Mobile, Movistar Broadband
 - **Vodafone (UK)** — Vodafone UK Mobile, Vodafone UK Broadband
-
+ 
 1.3. What the index measures
 ----------------------------
 
@@ -81,7 +81,7 @@ For each internet and mobile ecosystem company we examined up to four services, 
 
 **Research for the 2018 Index ran from January 13, 2017 to January 12, 2018. New information published by companies after January 12, 2018 was not evaluated for this Index.**
 
-**2017 Index score adjustments:** Some company scores from 2017 were adjusted for comparison with the 2018 evaluation. Scores were adjusted at the element level, in accordance with clarified evaluation standards that were applied in the 2018 Index, or to include information not located during the 2017 Index cycle, or as a result of a re-assessment of the company’s disclosure. These adjustments did not produce changes to any company position in the 2017 rankings or to any of the key findings highlighted in the 2017 Index. Each score adjustment, including a detailed explanation of the reason for each change, is recorded in each company’s final dataset, which is publicly available for download at: <https://rankingdigitalrights.org/index2018/download/>.
+**2017 Index score adjustments:** Some company scores from 2017 were adjusted for comparison with the 2018 evaluation. Scores were adjusted at the element level, in accordance with clarified evaluation standards that were applied in the 2018 Index, or to include information not located during the 2017 Index cycle, or as a result of a re-assessment of the company’s disclosure. These adjustments did not produce changes to any company position in the 2017 rankings or to any of the key findings highlighted in the 2017 Index. Each score adjustment, including a detailed explanation of the reason for each change, is recorded in each company’s final dataset, which is publicly available for download at: [https://rankingdigitalrights.org/index2018/download/](/index2018/download/).
 
 **Scoring:** The Index evaluates company disclosure at the overarching “parent,” or “group,” level as well as those of selected services and/or local operating companies (depending on company structure). The evaluation includes an assessment of disclosure for every element of each indicator, based on one of the following possible answers: “full disclosure,” “partial,” “no disclosure found,” “no,” or “N/A”.
 
@@ -94,5 +94,5 @@ Companies receive a cumulative score of their performance across all Index categ
 - No disclosure found = 0
 - No = 0
 - N/A excluded from the score and averages
-
+ 
 (For more information on company selection, and evaluation and scoring, see the Appendix, in Chapter 11 of this report).
