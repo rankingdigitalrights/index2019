@@ -27,23 +27,16 @@ governance_text: |
 summary_of_changes_governance:
 - markup: <a href='#' rel='summary_of_changes_governance' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
-<<<<<<< HEAD
-  change: true
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>
-freedom_value: 17
-=======
   change: 
   title: <p>No score changes.</p>
   body: ""
 freedom_value: 55
->>>>>>> development
 freedom_text: | 
   <p>Though it made some improvements, Microsoft's weakest performance in this year's Index was in the Freedom of Expression category, ranking fourth among its internet and mobile ecosystem company peers. Microsoft&rsquo;s terms of service were easy to find and easy to understand (F1). It clarified its policy for notifying users of changes to its terms of service for the Bing search engine, but failed to disclose a notification time frame for any of its services (F2).</p><p>Microsoft disclosed less than Twitter, Google, and Kakao but more than all other internet and mobile ecosystem companies about its rules and how they are enforced (F3, F4, F8). Microsoft disclosed the most information about its process for enforcing its rules (F3), but failed to disclose clear policies for notifying users of content or account restrictions (F8). Microsoft was one of four companies to publish any data about its terms of service enforcement (F4), specifically on content removed from Bing and OneDrive for violating its policy on &ldquo;non-consensual pornography.&rdquo; However, it should disclose data on other types of content it removes for terms of service violations.</p><p>Microsoft provided less information than Google, Verizon Media, Kakao, and Twitter about how it responds to government and private requests to remove content or restrict accounts (F5-F7).<sup>4</sup> It disclosed some information about the company&rsquo;s process for responding to government and private requests to remove content (F5), and some data about the number of these requests received and with which it complied (F6, F7).</p>
 summary_of_changes_freedom:
 - markup: <a href='#' rel='summary_of_changes_freedom' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
-  change: true
+  change: positive
   title: F2. Changes to terms of service
   body: "<p>Microsoft improved its disclosure of how it notifies Bing users of changes to its terms of service.</p>"
 privacy_value: 59
@@ -52,11 +45,6 @@ privacy_text: |
 summary_of_changes_privacy:
 - markup: <a href='#' rel='summary_of_changes_privacy' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
-<<<<<<< HEAD
-  change: true
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>
-=======
   title: P16. Encryption of user communication and private content (internet and mobile ecosystem companies)
   body: "<p>Microsoft improved its disclosure regarding the availability of end-to-end encryption for both Outlook and Skype.</p>"
   change: true
@@ -66,5 +54,4 @@ summary_of_changes_privacy:
   body: "<p>Microsoft improved disclosure about its process of notifying affected Outlook users in the event of a data breach.</p>"
 footnotes: | 
   <p>[1] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index.</p><p>[2] For Microsoft&rsquo;s performance in the 2018 Index, see: <a href="/index2018/companies/microsoft">https://rankingdigitalrights.org/index2018/companies/microsoft</a></p><p>[3] Bloomberg Markets, Accessed April 18, 2019, <a href="https://www.bloomberg.com/quote/MSFT:US" target="_blank" rel="noopener">https://www.bloomberg.com/quote/MSFT:US</a></p><p>[4] Oath, which provides a range of communications services including Yahoo Mail and Tumblr, updated its name to Verizon Media on January 7, 2019. See: <a href="https://www.oath.com/2019/01/07/oath-is-now-verizon-media/" target="_blank" rel="noopener">https://www.oath.com/2019/01/07/oath-is-now-verizon-media/</a>&nbsp;</p><p>[5] &ldquo;USA FREEDOM Act of 2015,&rdquo; Pub. L. No. 114&ndash;23 (2015), <a href="https://www.congress.gov/bill/114th-congress/house-bill/2048" target="_blank" rel="noopener">https://www.congress.gov/bill/114th-congress/house-bill/2048</a>&nbsp;</p>
->>>>>>> development
 ---
