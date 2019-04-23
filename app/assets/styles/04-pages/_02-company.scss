@@ -400,9 +400,11 @@
         margin: 0 2em;
         .dot{
           border: 0.5px solid white;
+          z-index: 10;
         }
         .highlight{
           background-color: $base-color;
+          z-index: 9;
         }
         .dotchart--label_highlight{
           display: none;

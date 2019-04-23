@@ -1,1 +1,1 @@
-module.exports = ['AT&T', 'Vodafone', 'Telefónica', 'Orange', 'América Móvil', 'MTN', 'Bharti Airtel', 'Axiata', 'Etisalat', 'Ooredoo'];
+module.exports = ['AT&T', 'Vodafone', 'Telefónica', 'Orange', 'América Móvil', 'MTN', 'Bharti Airtel', 'Axiata', 'Etisalat', 'Ooredoo', 'Telenor', 'Deutsche Telekom'];
