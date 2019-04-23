@@ -93,9 +93,9 @@ services:
     title: Messaging & VoIP
     href: messagingvoip
     companies:
-       - company:
-         name: Apple
-         service: iMessage
+        - company:
+          name: Apple
+          service: iMessage
         - company:
           name: Facebook
           service: Messenger
