@@ -31,7 +31,6 @@ services:
         - company:
           name: Yandex
           service: Yandex.Disk
-
   - item:
     title: Email
     href: emailservice
@@ -54,7 +53,6 @@ services:
         - company:
           name: Yandex
           service: Yandex.Mail
-
   - item:
     title: Fixed broadband
     href: fixedbroadband
