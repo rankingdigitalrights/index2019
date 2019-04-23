@@ -3,11 +3,11 @@ layout: narrative
 header: Narrative
 
 prev:
-  href: privacy-failures
-  text: Privacy failures
+  href: governance
+  text: Governance
 next:
-  href: telecommunications-disconnect
-  text: Telecommunications disconnect
+  href: privacy
+  text: Privacy
 footnotes:
   '<p class="footnotes"><span>[60]</span> “Universal Declaration of Human Rights” (United Nations, December 10, 1948), <a href="http://www.un.org/en/universal-declaration-human-rights/">http://www.un.org/en/universal-declaration-human-rights/</a> and “International Covenant on Civil and Political Rights” (United Nations, December 16, 1966), <a href="http://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx/">http://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx/</a>.</p>
   <p class="footnotes"><span>[61]</span> “2018 Indicators: Freedom of Expression,” see F3-F10: <a href="https://rankingdigitalrights.org/2018-indicators/#F">https://rankingdigitalrights.org/2018-indicators/#F</a>.</p>
@@ -35,7 +35,7 @@ footnotes:
   <p class="footnotes"><span>[83]</span> Tim Bradshaw, “Apple drops hundreds of VPN apps at Beijing’s request,” <i>Financial Times</i>, November 21, 2017, <a href="https://www.ft.com/content/ad42e536-cf36-11e7-b781-794ce08b24dc/">https://www.ft.com/content/ad42e536-cf36-11e7-b781-794ce08b24dc/</a>.</p>'
 ---
 
-# 6. Policing speech
+# Freedom of Expression
 
 **Users are in the dark about the role that governments, private parties, and companies themselves play in policing the flow of information online.**
 

@@ -10,7 +10,7 @@ next:
 footnotes: | 
   <p class="footnotes">[9] For the full set of indicators, definitions, and research guidance please visit: &ldquo;2018 Indicators,&rdquo; Ranking Digital Rights,<a href="/2018-indicators/">https://rankingdigitalrights.org/2018-indicators/</a>.</p><p class="footnotes">[10] &ldquo;2018 Indicators: Governance,&rdquo; Ranking Digital Rights, <a href="/2018-indicators/#G">https://rankingdigitalrights.org/2018-indicators/#G</a>.</p><p class="footnotes">[11] &ldquo;2018 Indicators: Freedom of Expression,&rdquo; Ranking Digital Rights, <a href="/2018-indicators/#F">https://rankingdigitalrights.org/2018-indicators/#F</a>.</p><p class="footnotes">[12] &ldquo;2018 Indicators: Privacy,&rdquo; Ranking Digital Rights, <a href="/2018-indicators/#P">https://rankingdigitalrights.org/2018-indicators/#P</a>.</p>
 ---
-1.0 2018 Index Methodology
+2019 RDR Index Methodology
 ==========================
 
 The 2018 Index measures company disclosure of policies and practices affecting users’ freedom of expression and privacy. The Index methodology applies 35 indicators in three main categories: **[Governance](/categories/governance)**, **[Freedom of Expression](/categories/freedom-of-expression)**, and **[Privacy](/categories/privacy)**. Each category contains **indicators** measuring company disclosure for that category; each indicator is comprised of a series of **elements** that measure company disclosure for that indicator.[[9]](#footnotes)
