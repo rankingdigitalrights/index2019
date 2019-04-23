@@ -2,13 +2,16 @@
 layout: narrative
 header: Narrative
 prev:
-  href: company-report-cards
-  text: Company Report Cards
+  href: questions-for-investors-to-aks
+  text: Questions for investors
+next:
+  href: acknowledgements
+  text: Acknowledgements
 footnotes: | 
   <p class="footnotes">[108] &ldquo;2018 Companies,&rdquo; Ranking Digital Rights, <a href="/wp-admin/">https://rankingdigitalrights.org/2018-companies/"</a>.</p><p class="footnotes">[109] Figures as of December 31, 2017. "World Internet Users Statistics and 2018 World Population Stats," Internet World Stats, accessed March 19, 2018, <a href="https://www.internetworldstats.com/stats.htm">https://www.internetworldstats.com/stats.htm</a>.</p>
 ---
-11. Appendix
-  ========
+Appendix
+========
  
 11.1 Index methodology development
 ----------------------------------

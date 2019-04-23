@@ -3,11 +3,11 @@ layout: narrative
 header: Narrative
 
 prev:
-    href: 2018-index-methodology
-    text: 2018 Index Methodology
+    href: index-methodology
+    text: 2019 Index Methodology
 next:
-    href: inadequate-disclosure
-    text: Inadequate disclosure
+    href: index-ranking
+    text: The 2019 RDR Index Ranking
 footnotes:
     '<p class="footnotes"><span>[13]</span> Julia Carrie Wong, "Mark Zuckerberg Apologises for Facebookʻs "mistakes" over Cambridge Analytica," <i>The Guardian</i>, March 22, 2018, <a href="https://www.theguardian.com/technology/2018/mar/21/mark-zuckerberg-response-facebook-cambridge-analytica">https://www.theguardian.com/technology/2018/mar/21/mark-zuckerberg-response-facebook-cambridge-analytica</a>.</p>
     <p class="footnotes"><span>[14]</span> Zack Whittaker, “Orbitz Says Hacker Stole Two Years’ Worth of Customer Data,” <i>ZDNet</i>, March 20, 2018, <a href="http://www.zdnet.com/article/orbitz-says-hacker-stole-customer-data/">http://www.zdnet.com/article/orbitz-says-hacker-stole-customer-data/</a>.</p>
@@ -16,7 +16,7 @@ footnotes:
     <p class="footnotes"><span>[17]</span> “Executive Summary - 2017 Internet Society Global Internet Report: Paths to Our Digital Future,” Internet Society, 2017, <a href="https://future.internetsociety.org/introduction/executive-summary/">https://future.internetsociety.org/introduction/executive-summary/</a>.</p>'
 ---
 
-# 2. Introduction
+# 1. Introduction
 
 The information and communication technology (ICT) sector faces a global crisis of confidence. As this report goes to press, Facebook is under fire for how user data was accessed and used by people whose goal was to manipulate democratic elections.[[13]](#footnotes) A major global travel website has had its systems broken into and customer data stolen.[[14]](#footnotes) A growing number of governments are shutting down internet access to entire regions for days on end to stop transmission of speech they do not like.[[15]](#footnotes) Blanket, pervasive surveillance in many countries makes it dangerous for activists and investigative journalists to work online.
 

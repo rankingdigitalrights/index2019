@@ -1,9 +1,6 @@
 ---
 layout: narrative
 header: Narrative
-prev:
-  href: acknowledgements
-  text: Acknowledgements
 next:
   href: about-index
   text: About the Index
@@ -12,9 +9,6 @@ footnotes: |
 ---
 Executive summary
 =================
-
-- - - - - -
-
 The Ranking Digital Rights 2018 Corporate Accountability Index evaluated 22 of the world’s most powerful internet, mobile, and telecommunications companies on their disclosed commitments and policies affecting freedom of expression and privacy. These companies held a combined market capitalization of approximately USD 4.7 trillion. Their products and services are used by a majority of the world’s 4.2 billion internet **<sup>1</sup>** users. There <sup>**2**</sup> is good news <sup>**3**</sup> and bad news:
 
 <span style="font-style: italic; font-weight: bold;">The</span><span style="font-style: italic; font-weight: bold;"> goo</span><span style="font-style: italic; font-weight: bold;">d</span><span style="font-style: italic; font-weight: bold;"> news:</span> **More than half of the companies evaluated in the 2018 Index improved disclosure in multiple areas affecting users’ freedom of expression and privacy.** In all, 17 of the 22 companies improved scores on at least one indicator. Even companies headquartered in the world’s toughest regulatory environments are making efforts to improve. Positive trends included:
