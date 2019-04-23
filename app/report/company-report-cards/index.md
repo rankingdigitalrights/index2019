@@ -7,6 +7,7 @@ prev:
 next:
   href: appendix
   text: Appendix
+include: _companies
 ---
 10 Company Report Cards
 =======================

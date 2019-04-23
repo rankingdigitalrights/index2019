@@ -1,53 +1,33 @@
 ---
 layout: narrative
 header: Narrative
-
 prev:
   href: introduction
   text: Introduction
 next:
   href: security-uncertainty
   text: Security uncertainty
-footnotes:
-  '<p class="footnotes"><span>[18]</span> “Chinese Internet Companies Show Room for Improvement,” Ranking Digital Rights, March 23, 2017, <a href="https://rankingdigitalrights.org/index2017/findings/china/">https://rankingdigitalrights.org/index2017/findings/china/</a>.</p>
-  <p class="footnotes"><span>[19]</span> “Guiding Principles on Business and Human Rights,” United Nations, 2011, <a href="http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf">http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf</a>.</p>
-  <p class="footnotes"><span>[20]</span> “GNI Principles on Freedom of Expression and Privacy,” Global Network Initiative, accessed February 27, 2017, <a href="https://globalnetworkinitiative.org/principles/index.php">https://globalnetworkinitiative.org/principles/index.php</a>.</p>
-  <p class="footnotes"><span>[21]</span> “Implementation Guidelines for the Principles on Freedom of Expression and Privacy,” Global Network Initiative, accessed March 26, 2018, <a href="http://globalnetworkinitiative.org/implementationguidelines/index.php">http://globalnetworkinitiative.org/implementationguidelines/index.php</a>.</p>
-  <p class="footnotes"><span>[22]</span> “Telecommunications Industry Dialogue Launches Final Annual Report,” Telecommunications Industry Dialogue, September 21, 2017, <a href="http://www.telecomindustrydialogue.org/telecommunications-industry-dialogue-launches-final-annual-report/">http://www.telecomindustrydialogue.org/telecommunications-industry-dialogue-launches-final-annual-report/</a>.</p>
-  <p class="footnotes"><span>[23]</span> Malachy Browne, “YouTube Removes Videos Showing Atrocities in Syria,” <i>The New York Times</i>, August 22, 2017, <a href="https://www.nytimes.com/2017/08/22/world/middleeast/syria-youtube-videos-isis.html">https://www.nytimes.com/2017/08/22/world/middleeast/syria-youtube-videos-isis.html</a>.</p>
-  <p class="footnotes"><span>[24]</span> Thant Sin, “Facebook Bans Racist Word ‘Kalar’ in Myanmar, Triggers Collateral Censorship,” Global Voices, June 2, 2017, <a href="https://advox.globalvoices.org/2017/06/02/facebook-bans-racist-word-kalar-in-myanmar-triggers-collateral-censorship/">https://advox.globalvoices.org/2017/06/02/facebook-bans-racist-word-kalar-in-myanmar-triggers-collateral-censorship/</a>.</p>
-  <p class="footnotes"><span>[25]</span> “Microsoft Salient Human Rights Issues: Report - FY17,” Microsoft, <a href="http://download.microsoft.com/download/6/9/2/692766EB-D542-49A2-AF27-CC8F9E6D3D54/Microsoft_Salient_Human_Rights_Issues_Report-FY17.pdf">http://download.microsoft.com/download/6/9/2/692766EB-D542-49A2-AF27-CC8F9E6D3D54/Microsoft_Salient_Human_Rights_Issues_Report-FY17.pdf</a>.</p>
-  <p class="footnotes"><span>[26]</span> For more information, see sections 252, 253, and 255(8) of the Investigatory Powers Act: <a href="http://www.legislation.gov.uk/ukpga/2016/25/section/253/enacted">http://www.legislation.gov.uk/ukpga/2016/25/section/253/enacted</a>.</p>
-  <p class="footnotes"><span>[27]</span> “Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the Protection of Natural Persons with Regard to the Processing of Personal Data and on the Free Movement of Such Data, and Repealing Directive 95/46/EC (General Data Protection Regulation),” (2016), <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679">https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679</a>.</p>
-  <p class="footnotes"><span>[28]</span> David Kaye, “How Europe’s New Internet Laws Threaten Freedom of Expression,” <i>Foreign Affairs</i>, December 18, 2017, <a href="https://www.foreignaffairs.com/articles/europe/2017-12-18/how-europes-new-internet-laws-threaten-freedom-expression">https://www.foreignaffairs.com/articles/europe/2017-12-18/how-europes-new-internet-laws-threaten-freedom-expression</a>.</p>
-  <p class="footnotes"><span>[29]</span> “Code of Conduct on Countering Illegal Hate Speech Online First Results on Implementation” (European Commission, December 2016)  <a href="https://ec.europa.eu/information_society/newsroom/image/document/2016-50/factsheet-code-conduct-8_40573.pdf">https://ec.europa.eu/information_society/newsroom/image/document/2016-50/factsheet-code-conduct-8_40573.pdf</a>.</p>
-  <p class="footnotes"><span>[30]</span> “Act to Improve Enforcement of the Law in Social Networks (Network Enforcement Act)” (2017), <a href="https://www.bmjv.de/SharedDocs/Gesetzgebungsverfahren/Dokumente/NetzDG_engl.pdf">https://www.bmjv.de/SharedDocs/Gesetzgebungsverfahren/Dokumente/NetzDG_engl.pdf</a> and and Ben Knight, “Germany Implements New Internet Hate Speech Crackdown,” <i>DW</i>, January 1, 2018, <a href="http://www.dw.com/en/germany-implements-new-internet-hate-speech-crackdown/a-41991590">http://www.dw.com/en/germany-implements-new-internet-hate-speech-crackdown/a-41991590</a>.</p>
-  <p class="footnotes"><span>[31]</span> “EU: European Commission’s Code of Conduct for Countering Illegal Hate Speech Online and the Framework Decision - Legal Analysis” (Article 19, June 2016), <a href="https://www.article19.org/data/files/medialibrary/38430/EU-Code-of-conduct-analysis-FINAL.pdf">https://www.article19.org/data/files/medialibrary/38430/EU-Code-of-conduct-analysis-FINAL.pdf</a>.</p>
-  <p class="footnotes"><span>[32]</span> Emma Lux, “Efforts to Curb Fraudulent News Have Repercussions around the Globe,” Reporters Committee for Freedom of the Press, December 6, 2017, <a href="https://www.rcfp.org/browse-media-law-resources/news/efforts-curb-fraudulent-news-have-repercussions-around-globe">https://www.rcfp.org/browse-media-law-resources/news/efforts-curb-fraudulent-news-have-repercussions-around-globe</a>.</p>
-  <p class="footnotes"><span>[33]</span> "Factsheet on the Code of Conduct – 3 round of monitoring" (European Commission, January 2018) document available here: <a href="http://ec.europa.eu/newsroom/just/item-detail.cfm?item_id=612086">http://ec.europa.eu/newsroom/just/item-detail.cfm?item_id=612086</a>.</p>
-  <p class="footnotes"><span>[34]</span> See for example Olivia Solon, “I Can’t Trust YouTube Any More’: Creators Speak out in Google Advertising Row,” <i>the Guardian</i>, March 21, 2017, <a href="https://www.theguardian.com/technology/2017/mar/21/youtube-google-advertising-policies-controversial-content">https://www.theguardian.com/technology/2017/mar/21/youtube-google-advertising-policies-controversial-content</a> and Thant Sin, “Facebook Bans Racist Word ‘Kalar’ in Myanmar, Triggers Collateral Censorship,” Global Voices, June 2, 2017, <a href="https://globalvoices.org/2017/06/02/facebook-bans-racist-word-kalar-in-myanmar-triggers-collateral-censorship/">https://globalvoices.org/2017/06/02/facebook-bans-racist-word-kalar-in-myanmar-triggers-collateral-censorship/</a>.</p>
-  <p class="footnotes"><span>[35]</span> “Working Group 3: Privacy and Transparency Online” (Freedom Online Coalition, November 2015), <a href="https://www.freedomonlinecoalition.com/wp-content/uploads/2015/10/FOC-WG3-Privacy-and-Transparency-Online-Report-November-2015.pdf">https://www.freedomonlinecoalition.com/wp-content/uploads/2015/10/FOC-WG3-Privacy-and-Transparency-Online-Report-November-2015.pdf</a>.</p>'
+footnotes: | 
+  <p>Lorem ipsum</p>
 ---
-
-# 3. Inadequate disclosure
-
+3. Inadequate disclosure
+  =====================
+ 
 **While more than half of the companies evaluated in the past two Indexes have made meaningful improvements, they still fall short in disclosing basic information to users about the design, management, and governance of the digital platforms and services that affect human rights.**
 
 The Ranking Digital Rights Corporate Accountability Index measures the minimum disclosure standards that companies should meet in order to demonstrate respect for users’ freedom of expression and privacy rights. Against the backdrop of geopolitical events of the past two years, the Index results highlight four areas of urgent concern:
 
 1. **Governance: Too few companies make users’ expression and privacy rights a central priority for corporate oversight, governance, and risk assessment.** Companies do not have adequate processes and mechanisms in place to identify and mitigate the full range of expression and privacy risks to users that may be caused not only by government censorship or surveillance, and by malicious non-state actors, but also by practices related to their own business models.
-
 2. **Security: Companies lack transparency about what they do to protect users’ information.** As a result, people do not know the security, privacy, and human rights risks they face when using a particular platform or service. As headlines of the past year have shown, security failures by companies have serious financial, political, and human rights consequences for people around the world.
-
 3. **Privacy: Companies offer weak disclosure of how user information is handled: what is collected and shared, with whom, and under what circumstances.** Companies do not adequately disclose how user information is shared for targeted advertising. Such opacity makes it easier for digital platforms and services to be abused and manipulated by a range of state and non-state actors including those seeking to attack not only individual users but also institutions and communities.
-
 4. **Expression: Companies keep the public in the dark about how content and information flows are policed and shaped through their platforms and services.** Despite revelations that the world’s most powerful social media platforms have been used to spread disinformation and manipulate political outcomes in a range of countries, companies’ efforts to police content lack accountability and transparency.
-
+ 
 The average score for all 22 companies evaluated in the 2018 Index was just 34 percent. The highest score of any company was 63 percent. It is an understatement to say there is room for improvement: Even companies with higher scores have significant shortcomings in their policies and disclosures.
 
 > Research for the 2018 Index was based on company policies that were active between January 13, 2017 and January 12, 2018. New information published by companies after January 12, 2018 was not evaluated in this Index. Note that some of the 2017 Index scores cited in the 2018 Index were adjusted to align with the 2018 evaluation, please see [Section 1.4 of this report for more information](/report/#evaluation).
 
-## 3.1 The 2018 Index ranking ## {#section-31}
+3.1 The 2018 Index ranking ## {#section-31}
+-------------------------------------------
 
 ![figure1](/assets/graphics/content/Figure 1. The 2018 Corporate Accountability Index ranking.png){:height="574px" width="949px" align="left"}
 
@@ -59,13 +39,14 @@ The average score for all 22 companies evaluated in the 2018 Index was just 34 p
 
 > See each company’s individual “report card” in [Chapter 10](/report/company-report-cards) of this report.
 
-## 3.2 Notable changes ## {#section-32}
+3.2 Notable changes ## {#section-32}
+------------------------------------
 
 Most companies evaluated in the Index made progress over the last year: 17 of the 22 companies showed improvement.
 
 **Apple saw the greatest score increase among internet and mobile ecosystem companies, gaining eight percentage points in the 2018 Index.** Much of this was due to improved transparency reporting. Apple also published information about policies and practices that were already known by industry insiders and experts but had not been disclosed on the official company website. Nonetheless, Apple still lagged behind most of its peers due to weak disclosure of corporate governance and accountability mechanisms, as well as poor disclosure of policies affecting freedom of expression.
 
-<img src="/assets/graphics/content/Figure 2. Year-on-year score changes (2017 to 2018).png" alt="figure2" title="figure2" align="left" />
+![figure2](/assets/graphics/content/Figure 2. Year-on-year score changes (2017 to 2018).png "figure2")
 
 **Baidu and Tencent, the Chinese internet companies in the Index, both made meaningful improvements.** Baidu made notable improvements to its disclosure of what user information it collects, shares, and retains. Tencent (which kept its substantial lead over Baidu) also made improvements to its disclosure of privacy, security, and terms of service policies. In the 2017 Index, we published an analysis of the Chinese company results and identified areas where these companies can improve even within their home country’s challenging regulatory and political environment.[[18]](#footnotes) The 2018 Index results showed that Chinese companies can and indeed do compete with one another to show respect for users’ rights in areas that do not involve government censorship and surveillance requirements.
 
@@ -77,7 +58,8 @@ Most companies evaluated in the Index made progress over the last year: 17 of th
 
 Despite these areas of progress, there is persistent lack of improvement in many areas. Chapters 4-7 focus on areas in which we have seen the least improvement: Chapter 4 examines the lack of transparency about security policies and practices; Chapter 5 highlights failure to disclose basic information about the collection, use, and sharing of user data by internet and mobile ecosystem companies; Chapter 6 examines continued opacity around the policing of content by internet platforms and mobile ecosystems; Chapter 7 analyzes the transparency shortfalls and challenges specific to telecommunications companies.
 
-## 3.3 Governance advances and gaps ## {#section-33}
+3.3 Governance advances and gaps ## {#section-33}
+-------------------------------------------------
 
 **Companies are inconsistent and uneven in anticipating and mitigating risks and harms to users.**
 
@@ -85,7 +67,7 @@ Strong governance and oversight are vital if companies are to anticipate and mit
 
 The Governance category of the Index evaluates whether companies demonstrate that they have processes and mechanisms in place to ensure that commitments to respect human rights, specifically freedom of expression and privacy, are made and implemented across their global business operations. In order to perform well in this section, a company’s disclosed commitments and measures taken to implement those commitments should at least follow, and ideally surpass, the UN Guiding Principles on Business and Human Rights[[19]](#footnotes) and other industry-specific human rights standards focused on freedom of expression and privacy such as the Global Network Initiative Principles.[[20]](#footnotes) Specifically, measures should include board and corporate-level oversight, internal accountability mechanisms, risk assessment, and grievance mechanisms.
 
-<img src="/assets/graphics/content/Figure 3. Governance scores.png" alt="figure3" title="figure3" align="left" />
+![figure3](/assets/graphics/content/Figure 3. Governance scores.png "figure3")
 
 Companies with governance scores of higher than 70 percent were all members of the Global Network Initiative (GNI), a multistakeholder initiative focused on upholding principles of freedom of expression and privacy in relation to government requests. GNI member companies commit to a set of principles and Implementation Guidelines, which include due diligence processes as well as transparency and accountability mechanisms.[[21]](#footnotes) GNI also requires members to undergo an independent third-party assessment to verify whether they are implementing commitments in a satisfactory manner. The assessment results must then be approved by a multi-stakeholder governing board that includes human rights organizations, responsible investors, and academics, in addition to company representatives.
 
@@ -95,11 +77,12 @@ Companies with the most improved governance scores were **Telefónica**, **Orang
 
 **AT&T** was the only non-GNI company with a governance score of more than 50 percent. However, the company’s score in this category declined due to its weakened commitment to engaging with stakeholders on digital rights issues as a result of its decision not to join GNI along with its European peers and other members of the now-defunct Telecommunications Industry Dialogue.[[22]](#footnotes) While **Apple** and **Twitter** made meaningful improvements in the Governance category, their disclosed oversight and due diligence mechanisms were uneven, with many more gaps in their policies than GNI-member companies.
 
-## 3.4 Spotlight: Human rights impact assessments ## {#section-34}
+3.4 Spotlight: Human rights impact assessments ## {#section-34}
+---------------------------------------------------------------
 
 The greatest disparity in governance scores between GNI and non-GNI companies could be seen on Indicator G4. This indicator examines whether companies carry out regular, comprehensive, and credible due diligence, such as human rights impact assessments, to identify how all aspects of their business affect freedom of expression and privacy and to mitigate any risks posed by those impacts. There is a precipitous drop in disclosure from the top seven companies on this indicator, all GNI members who have made due diligence commitments, and Apple, the highest scoring non-GNI member with only 17 percent.
 
-<img src="/assets/graphics/content/Figure 4. Comprehensiveness of human rights impact assessments (G4).png" alt="figure4" title="figure4" align="left" />
+![figure4](/assets/graphics/content/Figure 4. Comprehensiveness of human rights impact assessments (G4).png "figure4")
 
 Human rights impact assessments (HRIAs) are a systematic approach to due diligence. A company carries out these assessments to determine how its products, services, and business practices affect the freedom of expression and privacy of its users. Such assessments should be carried out regularly. More targeted assessments should also be conducted to inform decisions related to new products, features, and entry into new markets.
 
@@ -107,11 +90,12 @@ While many companies in the Index that conduct HRIAs have shown some improvement
 
 As discussed in Chapter 6, it is fair to expect companies to set rules prohibiting certain content or activities—like toxic speech or malicious behavior. However companies’ commercial practices can have human rights implications that companies have a responsibility to understand and mitigate. For example, human rights activists have complained that thousands of videos uploaded to Google’s YouTube by Syrian activists documenting alleged war crimes were removed removed because they violated rules against violent content.[[23]](#footnotes) In Myanmar, where access to Facebook via mobile phones is easier and less expensive than accessing other online websites and platforms, Rohingya activists fighting hate crimes and genocide have no alternative platform through which to reach their intended audience.[[24]](#footnotes) These companies should be conducting human rights impact assessments on how their terms of service enforcement mechanisms affect their users’ ability to exercise and advocate for their rights. Yet neither Facebook nor Google provides any evidence that they in fact carry out such due diligence, though they do disclose that they conduct HRIAs in relation to government censorship and surveillance demands.
 
-> For more information about human rights impact assessments and links to a list of resources with practical guidance for companies, please visit: [https://rankingdigitalrights.org/2018-indicators/#hria](https://rankingdigitalrights.org/2018-indicators/#hria).
+> For more information about human rights impact assessments and links to a list of resources with practical guidance for companies, please visit: [https://rankingdigitalrights.org/2018-indicators/#hria](/2018-indicators/#hria).
 
 The 2018 Index did not look for disclosure about HRIAs on other aspects of companies’ business models and product design, such as how user information is shared with advertisers and marketers, how targeted advertising is managed, how algorithms are used to organize and prioritize the display of content, or how artificial intelligence is deployed. When it becomes apparent that a process or technology has the potential to cause or facilitate violation of human rights, companies should be proactive in using HRIAs to identify and mitigate that harm. One laudable example not accounted for in the 2018 Index methodology is Microsoft’s HRIA process on artificial intelligence technology, launched in 2017.[[25]](#footnotes) Adjustments to the Index methodology will be considered for future iterations so that companies which are proactive in anticipating and mitigating risks of emerging technologies will be appropriately rewarded, while failures to assess and mitigate known harms stemming from business processes and design choices may also be taken into account as appropriate.
 
-## 3.5 Regulatory factors ## {#section-35}
+3.5 Regulatory factors ## {#section-35}
+---------------------------------------
 
 **Law, regulations, and political environments have a clear impact on companies’ Index performance.**
 
@@ -139,7 +123,8 @@ Without a strong commitment by companies to be more transparent about how they h
 
 Furthermore, in order for users to obtain remedy when their expression rights are violated, they need accessible and effective mechanisms to do so. The 2018 Index found no other substantive improvements in the disclosed grievance and remedy mechanisms by internet and mobile ecosystem companies, despite a steady stream of media reports of activists and journalists being censored on social media.[[34]](#footnotes)
 
-## 3.6 Recommendations for companies ## {#section-36}
+3.6 Recommendations for companies ## {#section-36}
+--------------------------------------------------
 
 The individual company report cards pinpoint how jurisdictional factors affect each company’s scores in specific ways. Despite seriously flawed regulatory regimes across the world, Index results pinpoint many specific ways that all companies can improve even with no changes to their legal and regulatory environments.
 
@@ -147,7 +132,7 @@ The individual company report cards pinpoint how jurisdictional factors affect e
 
 **Disclose evidence that the company has institutionalized its commitments.** It is certainly important for a company’s top executives to express their personal commitment to respect users’ rights. However, such commitments must be clearly institutionalized to ensure that policies are not being applied inconsistently, or do not depend on the tenure of specific individuals. There should be oversight at the board and executive level over how the company’s business operations affect privacy and freedom of expression. This oversight must be accompanied by other measures such as company-wide training and internal whistleblowing mechanisms.
 
-**Conduct regular impact assessments to determine how the company’s products, services, and business operations affect users’ expression and privacy.** Several companies in the Index conduct different types of human rights impact assessments (HRIAs),  a systematic approach to due diligence that enables companies to identify risks to users’ freedom of expression and privacy, and to enhance users’ enjoyment of those rights. While it may be counterproductive for companies to publish all details of their processes and findings in all circumstances, it is important to disclose information showing that the company conducts assessments and basic information about the scope, frequency, and use of these assessments. For such disclosures to be credible, companies’ assessments should be assured by an external third party that is accredited by an independent body whose own governance structure demonstrates strong commitment and accountability to human rights principles. As of 2018, only the Global Network Initiative meets the requirements for such an accrediting organization.
+**Conduct regular impact assessments to determine how the company’s products, services, and business operations affect users’ expression and privacy.** Several companies in the Index conduct different types of human rights impact assessments (HRIAs), a systematic approach to due diligence that enables companies to identify risks to users’ freedom of expression and privacy, and to enhance users’ enjoyment of those rights. While it may be counterproductive for companies to publish all details of their processes and findings in all circumstances, it is important to disclose information showing that the company conducts assessments and basic information about the scope, frequency, and use of these assessments. For such disclosures to be credible, companies’ assessments should be assured by an external third party that is accredited by an independent body whose own governance structure demonstrates strong commitment and accountability to human rights principles. As of 2018, only the Global Network Initiative meets the requirements for such an accrediting organization.
 
 **Establish effective grievance and remedy mechanisms.** Grievance mechanisms and remedy processes should be more prominently available to users. Companies should more clearly indicate that they accept concerns related to potential or actual violations of freedom of expression and privacy as part of these processes. Beyond this, disclosure pertaining to how complaints are processed, along with reporting on complaints and outcomes, would add considerable support to stakeholder perception that the mechanisms follow strong procedural principles, and that the company takes its grievance and remedy mechanisms seriously.
 

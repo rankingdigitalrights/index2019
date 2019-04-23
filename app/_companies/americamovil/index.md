@@ -5,15 +5,14 @@ layout: company
 name: americamovil
 id: americamovil
 company_type: Telecommunications company
-display: América Móvil, S.A.B. de C.V.
+display: América Móvil, S.A.B. de C.V.V.
 telco: true
 rank: 5
 basic_information: | 
   <p><strong>Headquarters</strong>: USA <br /><strong>Link</strong>: <a href="https://www.apple.com">https://www.apple.com </a><br /><strong>Download</strong>: <a href="https://www.apple.com">https://www.apple.com</a></p>
 key_findings: | 
   <ul><li>Am&eacute;rica M&oacute;vil failed to disclose sufficient information about its policies and practices affecting users&rsquo; freedom of expression and privacy.</li><li>The company lacked disclosure about how it responds to government requests to shut down networks.</li><li>The company did not clearly disclose how it handles government or private requests to restrict content or hand over user information.</li></ul>
-graph: | 
-  <p><img src="/index2019/app/assets/graphics/content/Ranking_Digital_Rights_2018_Corporate_Accountability_Index1.png" /></p>
+graph: 
 services_evaluated: | 
   <ul><li><label> </label>iMessage [<a href="http://google.com">Link</a>]<label></label></li><li>iCloud [<a href="http://google.com">Link</a>]</li><li>iOS [<a href="http://google.com">Link</a>]</li></ul>
 analysis_value: 21
@@ -39,9 +38,11 @@ summary_of_changes_privacy:
 - item:
   change: true
   title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>
+  body: "<p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>"
 - item:
   change: true
   title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>
+  body: "<p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>"
+footnotes: | 
+  <p>[1] Bloomberg Markets, Accessed January 15, 2019, <a href="https://www.bloomberg.com/quote/AAPL:US.">https://www.bloomberg.com/quote/AAPL:US. </a><br />[2] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index. <br />[3] For Apple&rsquo;s performance in the 2018 Index, see: <a href="/index2018/companies/apple.">https://rankingdigitalrights.org/index2018/companies/apple. </a><br />[4] "USA FREEDOM Act of 2015," Pub. L. No. 114&ndash;23 (2015), https://www.congress.gov/bill/114th-congress/house-bill/2048.</p>
 ---
