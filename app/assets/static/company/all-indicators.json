@@ -1833,15 +1833,15 @@
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "37.5",
+                "value": "50.00",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
-                "value": "23.75",
+                "value": "31.67",
                 "name": "F6. Data about government requests for content or account restriction"
             },
             {
-                "value": "29.17",
+                "value": "38.89",
                 "name": "F7. Data about private requests for content or account restriction"
             },
             {
@@ -1857,7 +1857,7 @@
                 "name": "F10. Network shutdown (telecommunications companies)"
             },
             {
-                "value": "75",
+                "value": "100",
                 "name": "F11. Identity policy"
             }
         ],
@@ -1927,7 +1927,7 @@
                 "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
             },
             {
-                "value": "70.83",
+                "value": "94.44",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {
