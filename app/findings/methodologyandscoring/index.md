@@ -44,7 +44,7 @@ The 2017 Index evaluates 22 companies. While every company examined has attribut
 - **Yahoo (U.S.):** Yahoo Mail, Flickr, Tumblr
 - **Yandex (Russia):** Yandex Mail, Yandex Search, Yandex Disk
 
-**Telecommunications companies** - For these companies we evaluated global group-level policies for relevant indicators plus the home-country operating subsidiary's pre-paid and post-paid mobile service, and fixed-line broadband service where offered, as follows:
+**Telecommunications companies** - For these companies we evaluated global group-level policies for relevant indicators plus the home-country operating subsidiary's Prepaid and postpaid mobile service, and fixed-line broadband service where offered, as follows:
 
 - **Ammérica Móvil (Mexico):** Telcel
 - **AT&T (U.S.):** AT&T Mobile, AT&T Broadband
@@ -130,7 +130,7 @@ Telecommunications companies were evaluated on 32 of the 35 indicators; internet
 The following list identifies which indicators or elements were N/A for certain companies or services:
 
 - F3, Element 2: N/A for search engines
-- F3, Elements 4-5: N/A for pre-paid and post-paid mobile services,
+- F3, Elements 4-5: N/A for Prepaid and postpaid mobile services,
 - F5-F7: N/A for e-mail services
 - F6, Element 2: N/A for search engines
 - F7, Element 2:N/A for search engines

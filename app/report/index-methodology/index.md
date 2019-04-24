@@ -44,7 +44,7 @@ For each internet and mobile ecosystem company we examined up to four services, 
 - **Twitter (U.S.)** — Twitter, Periscope
 - **Yandex (Russia)** — Yandex Mail, Yandex Search, Yandex Disk
  
-**Telecommunications companies:** For these companies, we evaluated global group- level policies for relevant indicators, plus the home-country operating subsidiary’s pre-paid and post-paid mobile services, and fixed-line broadband service, where offered, as follows:
+**Telecommunications companies:** For these companies, we evaluated global group- level policies for relevant indicators, plus the home-country operating subsidiary’s Prepaid and postpaid mobile services, and fixed-line broadband service, where offered, as follows:
 
 - **América Móvil (Mexico)** — Telcel
 - **AT&T (U.S.)** — AT&T Mobile, AT&T Broadband

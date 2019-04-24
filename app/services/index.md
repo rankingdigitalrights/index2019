@@ -31,6 +31,7 @@ services:
         - company:
           name: Yandex
           service: Yandex.Disk
+
   - item:
     title: Email
     href: emailservice
@@ -53,6 +54,7 @@ services:
         - company:
           name: Yandex
           service: Yandex.Mail
+
   - item:
     title: Fixed broadband
     href: fixedbroadband
@@ -220,7 +222,7 @@ services:
           name: Twitter
           service: Periscope
 
-intro: "The 2019 Index ranks 24 internet, mobile ecosystem, and telecommunications companies on their public commitments and disclosed policies affecting users’ freedom of expression and privacy. For each company, we selected up to four services to evaluate. For telecommunications companies, we evaluate prepaid and postpaid mobile, and in most cases (when offered by the company) fixed-line broadband services. For internet and mobile companies, we evaluate up to four of the following types of service depending on what the company offers: cloud, mail, messaging and VoIP, mobile ecosystems, search engines, and social networking and blog platforms. Read more about the <a href=\"https://rankingdigitalrights.org/methodology-development/\" target=\"_blank\">methodology development</a>, <a href=\"https://rankingdigitalrights.org/2018-research-process/\" target=\"_blank\">research process</a> and how we <a href=\"https://rankingdigitalrights.org/index2018/report/2018-index-methodology/#evaluation\" target=\"_blank\">score</a> each company.
+intro: "The 2018 Index ranks 22 internet, mobile, and telecommunications companies on their public commitments and disclosed policies affecting users’ freedom of expression and privacy. For each company, we selected up to four services to evaluate. For telecommunications companies, we evaluate prepaid and postpaid mobile, and in most cases (when offered by the company) fixed-line broadband services. For internet and mobile companies, we evaluate up to four of the following types of service depending on what the company offers: cloud, mail, messaging and VoIP, mobile ecosystems, search engines, and social networking and blog platforms. Read more about the <a href=\"https://rankingdigitalrights.org/methodology-development/\" target=\"_blank\">methodology development</a>, <a href=\"https://rankingdigitalrights.org/2018-research-process/\" target=\"_blank\">research process</a> and how we <a href=\"https://rankingdigitalrights.org/index2018/report/2018-index-methodology/#evaluation\" target=\"_blank\">score</a> each company.
 <br/><br/>
 To see how each service performed in comparison with those of other companies, click on a service category:"
 ---

@@ -127,7 +127,7 @@ Telecommunications companies were evaluated on 32 of the 35 indicators; internet
 The following list identifies which indicators or elements were N/A for certain companies or services:
 
 - F3, Element 2: N/A for search engines
-- F3, Elements 4-5: N/A for pre-paid and post-paid mobile services, Cloud services, email services, and messaging services.
+- F3, Elements 4-5: N/A for Prepaid and postpaid mobile services, Cloud services, email services, and messaging services.
 - F5-F7: N/A for email services
 - F6, Element 2: N/A for search engines
 - F7, Element 2: N/A for search engines
