@@ -38,11 +38,11 @@ summary_of_changes_privacy:
 - item:
   change: true
   title: F2. Changes to terms of service
-  body: "<p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>"
+  body: "<p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to prepaid and postpaid mobile users.</p>"
 - item:
   change: true
   title: F2. Changes to terms of service
-  body: "<p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>"
+  body: "<p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to prepaid and postpaid mobile users.</p>"
 footnotes: | 
   <p>[1] Bloomberg Markets, Accessed January 15, 2019, <a href="https://www.bloomberg.com/quote/AAPL:US.">https://www.bloomberg.com/quote/AAPL:US. </a><br />[2] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index. <br />[3] For Apple&rsquo;s performance in the 2018 Index, see: <a href="/index2018/companies/apple.">https://rankingdigitalrights.org/index2018/companies/apple. </a><br />[4] "USA FREEDOM Act of 2015," Pub. L. No. 114&ndash;23 (2015), https://www.congress.gov/bill/114th-congress/house-bill/2048.</p>
 ---
