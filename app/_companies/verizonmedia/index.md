@@ -1,53 +1,59 @@
 ---
-company_type_page: telecommunications-companies
+company_type_page: internet-and-mobile-companies
 entity: verizonmedia
 layout: company
 name: verizonmedia
 id: verizonmedia
-company_type: Telecommunications company
-display: Verizon Media
-telco: true
-rank: 6
+company_type: Internet and mobile ecosystem companies
+display: Verizon Media Inc.
+telco: false
+rank: 2
 basic_information: | 
-  <p><strong>Headquarters</strong>: USA <br /><strong>Link</strong>: <a href="https://www.apple.com">https://www.apple.com </a><br /><strong>Download</strong>: <a href="https://www.apple.com">https://www.apple.com</a></p>
+  <p><strong>Domicile:</strong> United States<br /><strong>Website:</strong> <a href="http://www.verizonmedia.com">www.verizonmedia.com</a>&nbsp;</p>
 key_findings: | 
-  <ul><li>Am&eacute;rica M&oacute;vil failed to disclose sufficient information about its policies and practices affecting users&rsquo; freedom of expression and privacy.</li><li>The company lacked disclosure about how it responds to government requests to shut down networks.</li><li>The company did not clearly disclose how it handles government or private requests to restrict content or hand over user information.</li></ul>
-graph: | 
-  <p><img src="/index2019/app/assets/graphics/content/Ranking_Digital_Rights_2018_Corporate_Accountability_Index1.png" /></p>
+  <ul><li>Verizon Media rose in the ranking to tie with Google for second place, and made a number of improvements to its disclosure.</li><li>Verizon Media disclosed less data than all other U.S. internet and mobile ecosystem companies about the government and private requests it received for user information.</li><li>Verizon Media was unclear about how it keeps user information secure, including how it handles data breaches.</li></ul>
+graph: 
 services_evaluated: | 
-  <ul><li><label> </label>iMessage [<a href="http://google.com">Link</a>]<label></label></li><li>iCloud [<a href="http://google.com">Link</a>]</li><li>iOS [<a href="http://google.com">Link</a>]</li></ul>
-analysis_value: 21
+  <ul><li><strong>Yahoo Mail (<a href="/index2019/services/emailservice/">Email</a>)</strong></li><li><strong>Tumblr (<a href="/index2019/services/socialnetworkblog/">Social networking &amp; blog</a>)</strong></li></ul>
+analysis_value: 61
 analysis_text: | 
-  <p>Am&eacute;rica M&oacute;vil ranked fifth out of the 10 telecommunications companies evaluated, disclosing little about policies and practices affecting freedom of expression and privacy. The company slightly improved its disclosure of policies affecting users&rsquo; freedom of expression in the 2018 Index. Although Freedom House rates Mexico&rsquo;s internet environment as <a href="https://freedomhouse.org/report/freedom-net/2017/mexico" target="_blank" rel="noopener">Partly Free,</a> the country&rsquo;s legal environment does not prevent the company from meeting basic benchmarks for transparency in key areas. For instance, the company did not disclose its process for responding to government or private requests to block content or accounts, although no laws in Mexico prevent companies from doing so. In addition, although companies are <a href="http://www.dof.gob.mx/nota_detalle.php?codigo=5418339&amp;fecha=02/12/2015" target="_blank" rel="noopener">required to report</a> to the telecommunications authority the number of government requests received for real-time location tracking or access to user metadata, Am&eacute;rica M&oacute;vil did not publish this data.</p>
+  <p>Verizon Media rose in the ranking to tie with Google for second place among the 12 internet and mobile ecosystem companies evaluated, falling slightly behind Microsoft. As a member of the Global Network Initiative (GNI), Verizon Media was among the top performers in the Governance category, disclosing strong human rights commitments and providing evidence of implementing those commitments. The company&rsquo;s overall score increased by three percentage points, mainly due to improved disclosures about its freedom of expression and privacy policies. Despite this progress, Verizon Media could still improve disclosure in key areas affecting users&rsquo; human rights. It should be more transparent about how content is policed on its platforms and about its security practices. Verizon Media disclosed less data than all other U.S. internet and mobile ecosystem companies about government and private requests it received for user information.<br /><br /></p><hr /><p><strong><br />Verizon Media Inc.</strong> (previously Oath, Inc.) is a subsidiary of Verizon Communications that provides a range of communication, sharing, and information and content services. Following the acquisition of Yahoo by Verizon Communications in June 2017, Verizon combined Yahoo and AOL branded services into a subsidiary called Oath. In January of 2019 Oath was renamed Verizon Media.</p><p><strong>Market cap:</strong> USD 238.7 billion <br /><strong>NasdaqGS:</strong> VZ</p>
 key_recommendation: | 
-  <div class="key-recommendation"><ul><li><strong>Be transparent about policies affecting users&rsquo; freedom of expression.</strong> The company should be more transparent about how it responds to government requests to block content, restrict user accounts, and shut down networks.</li><li><strong>Be transparent about external requests.</strong> The company should disclose data about the number of government and private requests it receives to remove content and accounts and to hand over user information.</li><li><strong>Disclose more about security practices.</strong> The company should clearly communicate its handling of data breaches to users.</li></ul></div><p><strong>Am&eacute;rica M&oacute;vil, S.A.B. de C.V.</strong> provides telecommunications services to Mexico and 35 countries in the Americas and Europe. It offers mobile and fixed-voice and data services for retail and business customers and is one of the largest operators globally.</p><div class="comp--industry"><strong><label>Industry: </label></strong>Diversified Telecommunication Services</div><div class="comp--mark"><strong><label>Market cap: </label></strong>USD 63.4 billion</div><div class="comp--sank"><strong><label>Stock symbol: </label></strong>AMX L</div>
-governance_value: 21
+  <ul><li><strong>Be more transparent about policing of content.</strong> Verizon Media should publish data on actions taken to restrict accounts and content that violate its rules.</li><li><strong>Communicate more clearly about security.</strong> Verizon Media should disclose how it responds to data breaches and be more forthcoming about how it keeps user information secure.</li><li><strong>Clarify grievance and remedy mechanisms.</strong> Verizon Media should clarify its grievance and remedy procedures for freedom of expression and privacy related concerns.</li></ul>
+governance_value: 84
 governance_text: | 
-  <p>Am&eacute;rica M&oacute;vil scored below most of its peers in the Governance category, but ahead of Bharti Airtel, Etisalat, Axiata, and Ooredoo. The company continued to lack clear disclosure of its commitments to human rights at the governance level, including whether it conducts human rights impact assessments (G4) or if it engages with a range of stakeholders on freedom of expression and privacy issues (G5). However, it disclosed more than most of its peers about remedy mechanisms addressing freedom of expression and privacy related complaints (G6). In Mexico <a href="http://www.diputados.gob.mx/LeyesBiblio/pdf/LFTR_311017.pdf" target="_blank" rel="noopener">companies are legally required to provide users with a complaint mechanism</a>.</p>
+  <p>Verizon Media received the second-highest governance score of all internet and mobile ecosystem companies, behind Microsoft. The company disclosed a clear commitment to respect freedom of expression and privacy in the context of international human rights frameworks (G1), evidence of senior leadership oversight of human rights issues (G2), and employee training and a whistleblower program addressing freedom of expression and privacy (G3). As a GNI member, it engages with stakeholders, including civil society, on freedom of expression and privacy issues (G5). It improved disclosure of its human rights impact assessments by clarifying that the board and senior executives oversee the results of such assessments (G4). However, like most companies, it failed to disclose whether it assesses risks to freedom of expression and privacy associated with the use of automated decision-making and targeted advertising.</p>
 summary_of_changes_governance:
 - markup: <a href='#' rel='summary_of_changes_governance' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
-  change: positive
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to prepaid and postpaid mobile users.</p>
-freedom_value: 17
+  change: true
+  title: G4. Impact assessment
+  body: "<p>Verizon Media improved its disclosure regarding senior-level oversight of its due diligence processes.</p>"
+freedom_value: 56
 freedom_text: | 
-  <p>But the company failed to clarify this (F11).</p>
+  <p>Verizon Media disclosed more than Microsoft, Facebook, and Apple about its policies affecting users&rsquo; freedom of expression, but still lacked transparency in key areas. It was less transparent about its process for enforcing its terms of service (F3) than all of its U.S. peers, other than Apple. Like most companies, it did not disclose any data about the volume or nature of actions it took to enforce its rules, such as removing content or restricting users&rsquo; accounts (F4). Its policies regarding whether or not users are notified of account and content restrictions lacked clarity (F8). Verizon Media published terms of service that were easy to find and understand (F1). Its commitment to directly notify users of changes to these terms was clear for Tumblr but not for Yahoo Mail (F2).</p><p>On a positive note, Verizon Media disclosed more than all of its peers about how it handles government and private requests to censor content or restrict accounts (F5-F7). While it provided less thorough disclosure of how it responds to requests filed through private processes than it did for government requests (F5), it provided more data about private requests (F7) than any other internet and mobile ecosystem company. It disclosed more data about government requests it received than any company aside from Google (F6).</p>
 summary_of_changes_freedom:
 - markup: <a href='#' rel='summary_of_changes_freedom' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
-- item:
-  change: positive
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to prepaid and postpaid mobile users.</p>
-privacy_value: 25
+privacy_value: 56
 privacy_text: | 
-  <p>Am&eacute;rica M&oacute;vil ranked fifth out of the 10 telecommunications companies evaluated in the Privacy category, ranking behind AT&amp;T, Orange, and several other companies.<br /><br /><strong>Handling of user information:</strong> Telcel disclosed less about how it handles user information than AT&amp;T, Vodafone UK, and Telef&oacute;nica Spain, but more than most other telecommunications companies evaluated (P3-P8). It disclosed little about what types of user information it collects (P3), shares (P4), and its reasons for doing so (P5). Like most of its peers, Telcel disclosed nothing about how long it retains user information (P6), although no law prohibits the company from doing so. It disclosed little about options users have to control what information is collected, including for targeted advertising (P7).<br /><br /><strong>Requests for user information:</strong> Like most telecommunications companies, Am&eacute;rica M&oacute;vil provided almost no information about how it handles government and private requests for user information (P10), and failed to disclose whether it informs users when their information is requested (P12). The company did not publish any data about such requests (P11), despite being required by law to report the number of government requests for real-time location tracking or user metadata to the country&rsquo;s telecommunications authority. <br /><br /><strong>Security:</strong> Telcel did not provide as much information about its security policies as Vodafone UK, AT&amp;T, and Telef&oacute;nica Spain, but was on par with Airtel India and Orange France (P13-P18). Telcel failed to disclose any information about how it addresses security vulnerabilities, including if it offers a bug bounty program for security researchers to submit vulnerabilities (P14). Like most companies in the Index, Telcel disclosed nothing about its policies for addressing data breaches (P15). Companies in Mexico are <a href="https://www.telcel.com/mundo_telcel/quienes-somos/corporativo/redes-sociales" target="_blank" rel="noopener">legally required</a> to notify users only if the data breach &ldquo;significantly affects&rdquo; their rights, however the company does not disclose this information to users.</p>
+  <p>Despite some improvements, Verizon Media did not disclose enough about its policies affecting users&rsquo; privacy, disclosing less than Microsoft, Apple, and Google. It disclosed more about what user information it collects and shares (P3, P4), and for what purposes (P5) than it did about how long it retains user information (P6). Since the previous RDR Index, the company clarified its purposes for combining user information (P5) and provided Yahoo Mail users with some options to control the collection of their data (P7). However, it provided less information than its U.S. peers about its tracking of users across the internet (P9), failing to disclose whether it respects user signals to opt out of tracking.</p><p>In contrast to improvements around how it handles user information, Verizon Media fell behind its U.S. peers for transparency around how it responds to third-party requests for user information (P10-P12). It clearly explained how it responds to government requests, (P10), but disclosed less data than its peers about the government and private requests it received for user information (P11). Like other U.S. companies, Verizon Media did not divulge the exact number of requests received for user data under Foreign Intelligence Surveillance Act (FISA) requests or National Security Letters (NSLs), or the actions it took in response to these requests, since it is prohibited by law from doing so</p><p>It was also less transparent than Apple, Microsoft, Kakao, Yandex, and Google about its security policies (P13-P18). While it disclosed that it has a security team that conducts audits, it provided no information about monitoring and limiting employee access to user information (P13). It was among seven internet and mobile ecosystem companies to disclose nothing about its policies for handling data breaches (P15).</p>
 summary_of_changes_privacy:
 - markup: <a href='#' rel='summary_of_changes_privacy' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
-  change: positive
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to prepaid and postpaid mobile users.</p>
-footnotes: | 
-  <p>[1] Bloomberg Markets, Accessed January 15, 2019, <a href="https://www.bloomberg.com/quote/AAPL:US.">https://www.bloomberg.com/quote/AAPL:US. </a><br />[2] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index. <br />[3] For Apple&rsquo;s performance in the 2018 Index, see: <a href="https://rankingdigitalrights.org/index2018/companies/apple.">https://rankingdigitalrights.org/index2018/companies/apple. </a><br />[4] "USA FREEDOM Act of 2015," Pub. L. No. 114&ndash;23 (2015), https://www.congress.gov/bill/114th-congress/house-bill/2048.</p>
+  change: false
+  title: P2. Changes to privacy policies
+  body: "<p>Verizon Media no longer disclosed information about how it will directly notify Yahoo Mail users of changes to its privacy policies.</p>"
+- item:
+  change: true
+  title: P5. Purpose for collecting and sharing user information
+  body: "<p>Verizon Media improved its disclosure regarding whether it combines user information across company services and why. </p>"
+- item:
+  change: true
+  title: P7. Users’ control over their own user information
+  body: "<p>Verizon Media improved its disclosure of the options Yahoo Mail users have to control the collection of some types of their information.+P5. Purpose for collecting and sharing user information<br />Verizon Media improved its disclosure regarding whether it combines user information across company services and why. </p>"
+- item:
+  change: true
+  title: P8. Users’ access to their own user information
+  body: "<p>Verizon Media improved the ability of Tumblr users to obtain a copy of their own information, although it made it less clear for Yahoo Mail users which of their information was available to download.</p>"
+footnotes: 
 ---

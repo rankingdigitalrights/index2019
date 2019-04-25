@@ -15,7 +15,7 @@ key_findings: |
 graph: | 
   <p>image</p>
 services_evaluated: | 
-  <ul><li>Baidu Search [Search engine]</li><li>Baidu Cloud [Cloud service]</li><li>Baidu PostBar [Social networking &amp; blog]</li></ul>
+  <ul><li><strong>Baidu Search [<a href="/index2019/services/search/">Search engine</a>]</strong></li><li><strong>Baidu Cloud [<a href="/index2019/services/cloudservices/">Cloud service</a>]</strong></li><li><strong>Baidu PostBar [<a href="/index2019/services/socialnetworkblog/">Social networking &amp; blog</a>]</strong></li></ul>
 analysis_value: 23
 analysis_text: | 
   <p>Baidu earned the second-lowest score of all internet and mobile ecosystem companies, outperforming only Mail.Ru.<sup>1</sup> However, Baidu significantly improved its disclosure of how it handles user information, and earned the second-highest score improvement of all companies evaluated.<sup>2</sup> Baidu improved the accessibility of its privacy policy, provided more detailed information on its data sharing policies&mdash;including the types of user information it shares and for what purposes&mdash;and improved its disclosure of options users have to obtain a copy of their own information. This progress could be attributed, in part, to new regulations requiring companies to be more transparent about their purposes for processing data.<sup>3</sup> However, the company still failed to meet basic standards for respecting users&rsquo; freedom of expression and privacy. While the Chinese internet environment is restrictive, there are no legal barriers to prevent Baidu from further improving its policies for handling and securing user information.<sup>4</sup></p><p>&nbsp;</p><hr /><p>&nbsp;</p><p><strong>Baidu, Inc.</strong> provides internet search, cloud storage, social networking, and other services in China and internationally.</p><p><strong>Market cap:</strong> USD 59.5 billion<sup>5</sup><br /><strong>NasdaqGS:</strong> BIDU</p>
@@ -45,6 +45,7 @@ privacy_text: |
 summary_of_changes_privacy:
 - markup: <a href='#' rel='summary_of_changes_privacy' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
+  change: true
   title: P4. Sharing of user information
   body: "<p>Baidu provided more detailed information on its data sharing policies, including the types of user information it shares and with whom.</p>"
 - item:
@@ -76,8 +77,8 @@ summary_of_changes_privacy:
   title: P15. Data breaches
   body: "<p>Baidu disclosed more information about its process to respond to data breaches that includes a commitment to notify users of such incidents.</p>"
 - item:
-  change: positive
-  title: P16. Encryption of user communication and private content (internet and mobile ecosystem companies)
+  change: true
+  title: P16. Encryption of user communication and private content
   body: "<p>Baidu disclosed that the company uses encryption technologies , although it did not specify what types of data are encrypted and in what way.</p>"
 footnotes: | 
   <p>[1] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index.<br />[2] For Baidu&rsquo;s performance in the 2018 Index, see: <a href="/index2018/companies/baidu">https://rankingdigitalrights.org/index2018/companies/baidu</a>&nbsp;<br />[3] &ldquo;Personal Information Security Specification,&rdquo; November 2017, <a href="https://www.tc260.org.cn/upload/2018-01-24/1516799764389090333.pdf" target="_blank" rel="noopener">https://www.tc260.org.cn/upload/2018-01-24/1516799764389090333.pdf</a>&nbsp;<br />[4] &ldquo;Freedom on the Net&rdquo; (Freedom House, November 2018), <a href="https://freedomhouse.org/report/freedom-net/2018/china" target="_blank" rel="noopener">https://freedomhouse.org/report/freedom-net/2018/china</a>&nbsp;<br />[5] Bloomberg Markets, Accessed April 18, 2019, <a href="https://www.bloomberg.com/quote/BIDU:US" target="_blank" rel="noopener">https://www.bloomberg.com/quote/BIDU:US</a>&nbsp;</p>
