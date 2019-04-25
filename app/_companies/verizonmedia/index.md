@@ -27,40 +27,19 @@ summary_of_changes_governance:
 - markup: <a href='#' rel='summary_of_changes_governance' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
   change: true
-<<<<<<< HEAD
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to prepaid and postpaid mobile users.</p>
-freedom_value: 17
-=======
   title: G4. Impact assessment
   body: "<p>Verizon Media improved its disclosure regarding senior-level oversight of its due diligence processes.</p>"
 freedom_value: 56
->>>>>>> development
 freedom_text: | 
   <p>Verizon Media disclosed more than Microsoft, Facebook, and Apple about its policies affecting users&rsquo; freedom of expression, but still lacked transparency in key areas. It was less transparent about its process for enforcing its terms of service (F3) than all of its U.S. peers, other than Apple. Like most companies, it did not disclose any data about the volume or nature of actions it took to enforce its rules, such as removing content or restricting users&rsquo; accounts (F4). Its policies regarding whether or not users are notified of account and content restrictions lacked clarity (F8). Verizon Media published terms of service that were easy to find and understand (F1). Its commitment to directly notify users of changes to these terms was clear for Tumblr but not for Yahoo Mail (F2).</p><p>On a positive note, Verizon Media disclosed more than all of its peers about how it handles government and private requests to censor content or restrict accounts (F5-F7). While it provided less thorough disclosure of how it responds to requests filed through private processes than it did for government requests (F5), it provided more data about private requests (F7) than any other internet and mobile ecosystem company. It disclosed more data about government requests it received than any company aside from Google (F6).</p>
 summary_of_changes_freedom:
 - markup: <a href='#' rel='summary_of_changes_freedom' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
-<<<<<<< HEAD
-- item:
-  change: true
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to prepaid and postpaid mobile users.</p>
-privacy_value: 25
-=======
 privacy_value: 56
->>>>>>> development
 privacy_text: | 
   <p>Despite some improvements, Verizon Media did not disclose enough about its policies affecting users&rsquo; privacy, disclosing less than Microsoft, Apple, and Google. It disclosed more about what user information it collects and shares (P3, P4), and for what purposes (P5) than it did about how long it retains user information (P6). Since the previous RDR Index, the company clarified its purposes for combining user information (P5) and provided Yahoo Mail users with some options to control the collection of their data (P7). However, it provided less information than its U.S. peers about its tracking of users across the internet (P9), failing to disclose whether it respects user signals to opt out of tracking.</p><p>In contrast to improvements around how it handles user information, Verizon Media fell behind its U.S. peers for transparency around how it responds to third-party requests for user information (P10-P12). It clearly explained how it responds to government requests, (P10), but disclosed less data than its peers about the government and private requests it received for user information (P11). Like other U.S. companies, Verizon Media did not divulge the exact number of requests received for user data under Foreign Intelligence Surveillance Act (FISA) requests or National Security Letters (NSLs), or the actions it took in response to these requests, since it is prohibited by law from doing so</p><p>It was also less transparent than Apple, Microsoft, Kakao, Yandex, and Google about its security policies (P13-P18). While it disclosed that it has a security team that conducts audits, it provided no information about monitoring and limiting employee access to user information (P13). It was among seven internet and mobile ecosystem companies to disclose nothing about its policies for handling data breaches (P15).</p>
 summary_of_changes_privacy:
 - markup: <a href='#' rel='summary_of_changes_privacy' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
-<<<<<<< HEAD
-  change: true
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to prepaid and postpaid mobile users.</p>
-footnotes: | 
-  <p>[1] Bloomberg Markets, Accessed January 15, 2019, <a href="https://www.bloomberg.com/quote/AAPL:US.">https://www.bloomberg.com/quote/AAPL:US. </a><br />[2] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index. <br />[3] For Apple&rsquo;s performance in the 2018 Index, see: <a href="https://rankingdigitalrights.org/index2018/companies/apple.">https://rankingdigitalrights.org/index2018/companies/apple. </a><br />[4] "USA FREEDOM Act of 2015," Pub. L. No. 114&ndash;23 (2015), https://www.congress.gov/bill/114th-congress/house-bill/2048.</p>
-=======
   change: false
   title: P2. Changes to privacy policies
   body: "<p>Verizon Media no longer disclosed information about how it will directly notify Yahoo Mail users of changes to its privacy policies.</p>"
@@ -77,5 +56,4 @@ footnotes: |
   title: P8. Users’ access to their own user information
   body: "<p>Verizon Media improved the ability of Tumblr users to obtain a copy of their own information, although it made it less clear for Yahoo Mail users which of their information was available to download.</p>"
 footnotes: 
->>>>>>> development
 ---

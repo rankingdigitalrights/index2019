@@ -26,39 +26,16 @@ governance_text: |
   <p>Tencent disclosed almost nothing about its governance and oversight over its impact on users&rsquo; human rights. While it committed to protect users&rsquo; privacy, it fell short of committing to protect privacy as a human right (G1). Tencent disclosed no evidence of conducting human rights impact assessments, including if it assesses risks associated with its use of automated decision-making and targeted advertising (G4). It also failed to disclose if it engages with a range of stakeholders on these issues (G5), and did not appear to offer any grievance and remedy mechanisms allowing users to submit grievances if they feel the company has violated their freedom of expression or privacy (G6). While the legal and political environment in China is not conducive to companies making strong human rights commitments, Tencent can still improve its grievance and remedy mechanisms (G6), even if there are no regulatory improvements.</p>
 summary_of_changes_governance:
 - markup: <a href='#' rel='summary_of_changes_governance' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
-<<<<<<< HEAD
-- item:
-  change: true
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to prepaid and postpaid mobile users.</p>
-freedom_value: 17
-=======
 freedom_value: 14
->>>>>>> development
 freedom_text: | 
   <p>Tencent hardly disclosed anything about policies affecting freedom of expression, receiving the second-lowest score of all internet and mobile ecosystem companies in this category, after Baidu. The company&rsquo;s terms for its different services were not always easy to find or understand (F1), and did not indicate if and how it notifies users when it introduces changes to these terms (F2). Tencent disclosed limited information about its rules and how they are enforced (F3), and revealed nothing about actions it takes&mdash;such as removing content or deactivating accounts&mdash;to enforce its rules (F4). It also did not commit to notify affected users when the company restricts content or accounts (F8).</p><p>Tencent earned minimal points for disclosing limited information about how it responds to private requests to hand over user data, but disclosed nothing about how it responds to such requests from governments (F5). It also did not publish any data about how many government or private requests for content or account restrictions it received or with which it complied (F6, F7).</p>
 summary_of_changes_freedom:
 - markup: <a href='#' rel='summary_of_changes_freedom' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
-<<<<<<< HEAD
-- item:
-  change: true
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to prepaid and postpaid mobile users.</p>
-privacy_value: 25
-=======
 privacy_value: 39
->>>>>>> development
 privacy_text: | 
   <p>Despite key improvements, Tencent still failed to publish sufficient information about policies affecting privacy. It disclosed a commitment to limit its collection of user information to what is directly relevant and necessary for QZone and QQ (P3) and that it will limit the use of user information to its original purpose, or otherwise obtain consent from users (P5). It improved its disclosure of options users have to control their own information by disclosing that QZone and QQ users can delete some types of user information (P7). However, the options users have to control and access their own information (P7, P8) remained insufficient. The company disclosed almost nothing about how long it retains user information, even though Chinese law does not prevent such disclosures (P6).</p><p>Tencent disclosed nothing about how it handles government and private requests for user information (P10-P12). While the Chinese legal and political environment makes it unrealistic to expect companies to disclose detailed information about government requests for user information, Tencent should be able to disclose if and when it shares user information via private requests and under what circumstances.</p><p>Tencent revealed less about its security policies than most other internet and mobile ecosystem companies. However, it improved its score by disclosing a policy of limiting employee access to user information (P13) for QZone and QQ, and a commitment to notify users in the event of a data breach (P15). While the company had one of the highest scores for disclosure on how it addresses security vulnerabilities (P14), it disclosed almost no information about encryption of user communications (P16), despite slightly improving its disclosure about the encryption of some user information on WeChat.</p>
 summary_of_changes_privacy:
 - markup: <a href='#' rel='summary_of_changes_privacy' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
-<<<<<<< HEAD
-- item:
-  change: true
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to prepaid and postpaid mobile users.</p>
-=======
->>>>>>> development
 footnotes: | 
   <p>[1] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index.<br />[2] For Tencent&rsquo;s performance in the 2018 Index, see: <a href="/index2018/companies/tencent">https://rankingdigitalrights.org/index2018/companies/tencent</a>&nbsp;<br />[3] &ldquo;Personal Information Security Specification,&rdquo; November 2017, <a href="https://www.tc260.org.cn/upload/2018-01-24/1516799764389090333.pdf">https://www.tc260.org.cn/upload/2018-01-24/1516799764389090333.pdf</a>&nbsp;<br />[4] &ldquo;Freedom on the Net&rdquo; (Freedom House, November 2018), <a href="https://freedomhouse.org/report/freedom-net/2018/china">https://freedomhouse.org/report/freedom-net/2018/china</a>&nbsp;<br />[5] Bloomberg Markets, Accessed April 18, 2019, <a href="https://www.bloomberg.com/quote/700:HK">https://www.bloomberg.com/quote/700:HK</a>&nbsp;</p>
 ---

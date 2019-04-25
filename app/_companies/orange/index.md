@@ -28,37 +28,20 @@ summary_of_changes_governance:
 - markup: <a href='#' rel='summary_of_changes_governance' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
   change: true
-<<<<<<< HEAD
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to prepaid and postpaid mobile users.</p>
-=======
   title: G4. Impact assessment
   body: "<p>Orange disclosed more information about its human rights impact assessments and due diligence processes.</p>"
->>>>>>> development
 freedom_value: 17
 freedom_text: | 
   <p>Orange disclosed less than all of its European peers, except Deutsche Telekom, about policies and practices affecting users&rsquo; freedom of expression. The terms of service for Orange France&rsquo;s mobile and broadband services were easily accessible, but not easy to understand (F1), and did not clearly indicate a policy of notifying users when these terms change (F2).<sup>5</sup> Orange disclosed no information about how it handles government and private requests to block content or restrict user accounts (F5-F7)&mdash;although there are no legal obstacles in France preventing Orange from disclosing this information.</p><p>Orange France disclosed nothing about its network management practices (F9), making it one of five companies, along with Deutsche Telekom, Etisalat UAE, MTN South Africa, and Ooredoo Qatar, to receive no credit on this indicator (F9). While Orange provided an example of pushing back on government requests to shut down networks, it still revealed little about its processes for responding to these requests, lagging behind Telef&oacute;nica, Telenor, and Vodafone (F10).</p>
 summary_of_changes_freedom:
 - markup: <a href='#' rel='summary_of_changes_freedom' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
-<<<<<<< HEAD
-- item:
-  change: true
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to prepaid and postpaid mobile users.</p>
-privacy_value: 25
-=======
 privacy_value: 31
->>>>>>> development
 privacy_text: | 
   <p>Despite some improvements, Orange still failed to disclose sufficient information about policies and practices affecting the privacy and security of its users&mdash;disclosing less overall across indicators in this category than all of its European peers and AT&amp;T. The privacy policy covering Orange France&rsquo;s mobile and broadband services was easy to find and understand (P1), but did not specify if users are notified of policy changes (P2). It clarified the different types of user information it collects (P3), and provided some information about the purposes for collection and sharing user data (P5). However, it failed to disclose if it shares data across company services (P5), disclosed very little information about what data is shared (P4) and did not give users clear options to control what information is collected and shared, including for the purposes of targeted advertising (P7).</p><p>Orange disclosed far less than its European peers and AT&amp;T about how it handles government and private demands for user data (P10, P11). It revealed the legal basis for complying with the French government&rsquo;s requests, but gave no information about how it responds to these requests or those submitted by foreign governments (P10). It published some data about its compliance with government requests in France but not about those in other countries in which it operates (P11). If there are laws barring Orange from publishing this data, it should specify them. Like all the other telecommunications companies, Orange did not disclose if it notifies users about government requests for their data (P12).</p><p>Orange France also disclosed less than its European peers, AT&amp;T, and Am&eacute;rica M&oacute;vil&rsquo;s Telcel about its security policies (P13-P18). It offered some information about its internal mechanisms to keep user information secure (P13), but revealed nothing about what it does to address security vulnerabilities (P14), or about it processes for responding to data breaches (P15).</p>
 summary_of_changes_privacy:
 - markup: <a href='#' rel='summary_of_changes_privacy' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
   change: true
-<<<<<<< HEAD
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to prepaid and postpaid mobile users.</p>
-=======
   title: P3. Collection of user information
   body: "<p>Orange France improved its disclosure of the types of user information it collects and how it collects them.</p>"
 - item:
@@ -69,7 +52,6 @@ summary_of_changes_privacy:
   change: true
   title: P6. Retention of user information
   body: "<p>Orange France disclosed a time frame in which it will delete some types of user information after users terminate their account.</p>"
->>>>>>> development
 footnotes: | 
   <p>[1] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index.<br />[2] For Orange&rsquo;s performance in the 2018 Index, see: <a href="/index2018/companies/orange/">https://rankingdigitalrights.org/index2018/companies/orange/</a>&nbsp;<br />[3] Bloomberg Markets, Accessed April 18, 2019, <a href="https://www.bloomberg.com/quote/ORA:FP">https://www.bloomberg.com/quote/ORA:FP</a>&nbsp;<br />[4] &ldquo;The French Duty of Vigilance Law: What You Need to Know,&rdquo; Corporate Social Responsibility and the Law, Foley &amp; Hoag, <a href="https://www.csrandthelaw.com/2017/08/03/the-french-duty-of-vigilance-law-what-you-need-to-know/">https://www.csrandthelaw.com/2017/08/03/the-french-duty-of-vigilance-law-what-you-need-to-know/</a>&nbsp;<br />[5] For most indicators in the Freedom of Expression and Privacy categories, RDR evaluates the operating company of the home market, in this case Orange France.</p>
 ---

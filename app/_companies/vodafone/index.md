@@ -26,25 +26,13 @@ governance_text: |
   <p>Vodafone&rsquo;s strongest performance in this year&rsquo;s RDR Index was in the Governance category, where it received the third-best score among telecommunications companies. It disclosed a clear commitment to respect freedom of expression and privacy as human rights (G1) but fell behind many of its GNI peers for weak disclosure of human rights due diligence practices (G4). Vodafone disclosed that it conducts human rights impact assessments when entering new markets, but not whether it does so on existing products and services, the impacts of its terms of service enforcement, its use of automated decision making, or its targeted advertising policies or practices (G4). Vodafone earned the second highest score after Telef&oacute;nica for disclosure of its grievance and remedy mechanisms (G6) although gaps remained. While Vodafone provided users with several options to submit complaints, including those related to freedom of expression and privacy, it offered no information about the number of complaints it received or any evidence that it provides users with remedy.</p>
 summary_of_changes_governance:
 - markup: <a href='#' rel='summary_of_changes_governance' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
-<<<<<<< HEAD
-- item:
-  change: true
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to prepaid and postpaid mobile users.</p>
-freedom_value: 17
-=======
 freedom_value: 45
->>>>>>> development
 freedom_text: | 
   <p>Vodafone received the second-highest score in the Freedom of Expression category among telecommunications companies, behind Telef&oacute;nica&mdash;but its disclosure of policies affecting users&rsquo; freedom of expression was inadequate in key areas. While Vodafone UK&rsquo;s terms of service for mobile and broadband were easy to understand (F1) it was not clear whether users are notified of changes (F2).<sup>5</sup> Vodafone disclosed less than AT&amp;T and Telef&oacute;nica about how it handles government and private requests to block content or restrict accounts, but it was one of the few telecommunications companies to disclose any information about its handling of these types of requests (F5-F7). While the company had strong disclosure of its process for handling government requests, it was less clear about how it handles similar private requests (F5). It also disclosed no data about the number of requests it received or with which it complied (F6, F7). <br /><br />Vodafone UK tied with Telef&oacute;nica Spain for the highest score on disclosure of network management policies, and disclosed a clear commitment to net neutrality (F9). It disclosed more than most of its peers, aside from Telef&oacute;nica and Telenor, about its process for responding to network shutdown demands, although it did not disclose how many shutdown requests it received or with which it complied (F10).</p>
 summary_of_changes_freedom:
 - markup: <a href='#' rel='summary_of_changes_freedom' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
-<<<<<<< HEAD
-  change: true
-=======
   change: false
->>>>>>> development
   title: F2. Changes to terms of service
   body: "<p>Vodafone UK no longer disclosed a timeframe for notifying users of changes to its postpaid mobile terms.</p>"
 - item:
@@ -58,10 +46,6 @@ summary_of_changes_privacy:
 - markup: <a href='#' rel='summary_of_changes_privacy' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
   change: true
-<<<<<<< HEAD
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to prepaid and postpaid mobile users.</p>
-=======
   title: P3. Collection of user information
   body: "<p>Vodafone UK improved its disclosure of the types of user information it collects.</p>"
 - item:
@@ -72,7 +56,6 @@ summary_of_changes_privacy:
   change: false
   title: P13. Security oversight
   body: "<p>Vodafone UK was less transparent about whether it limits and monitors employee access to user information.</p>"
->>>>>>> development
 footnotes: | 
   <p>[1] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index.<br />[2] For Vodafone&rsquo;s performance in the 2018 Index, see: <a href="/index2018/companies/vodafone">https://rankingdigitalrights.org/index2018/companies/vodafone</a>&nbsp;<br />[3] 2018 Vodafone Group Plc Annual Report, <a href="https://www.vodafone.com/content/annualreport/annual_report18/downloads/Vodafone-full-annual-report-2018.pdf">https://www.vodafone.com/content/annualreport/annual_report18/downloads/Vodafone-full-annual-report-2018.pdf</a>&nbsp;<br />[4] Bloomberg Markets, Accessed April 18, 2019, <a href="https://www.bloomberg.com/quote/VOD:LN">https://www.bloomberg.com/quote/VOD:LN</a>&nbsp;<br />[5] For most indicators in the Freedom of Expression and Privacy categories, RDR evaluates the operating company of the home market, in this case Vodafone UK.</p>
 ---
