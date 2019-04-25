@@ -7,7 +7,7 @@ id: mtn
 company_type: Telecommunications company
 display: MTN Group Limited
 telco: true
-rank: 6
+rank: 9
 basic_information: | 
   <p><strong>Headquarters</strong>: USA <br /><strong>Link</strong>: <a href="https://www.apple.com">https://www.apple.com </a><br /><strong>Download</strong>: <a href="https://www.apple.com">https://www.apple.com</a></p>
 key_findings: | 
