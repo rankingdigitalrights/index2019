@@ -232,12 +232,12 @@ $maincolor:  #231f20;
         }
     }
     h1 {
-      border-bottom: 2px solid #e2dad1;
+      /*border-bottom: 2px solid #e2dad1;*/
       padding-bottom: 15px;
       margin-bottom: 40px;
       font-size: 3em;
       line-height: 1em;
-      color: $link-color;
+      color: $black-pure;
         @include media(small-up) {
           font-size: 2em;
           line-height: 1em;
