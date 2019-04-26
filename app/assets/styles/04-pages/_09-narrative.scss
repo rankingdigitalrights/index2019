@@ -18,7 +18,7 @@ $maincolor:  #231f20;
 #narrative-page-content{
   display: flex;
   @media(max-width: 1365px){
-    margin: 0 5%;
+    margin: 0 10%;
   }
 
   ul,ol{
@@ -50,7 +50,7 @@ $maincolor:  #231f20;
   .sidebar{
     text-align: left;
     padding: 0 20px 0 0;
-    border-right: 2px solid $border-gray-color;
+    /*border-right: 2px solid $border-gray-color;*/
     margin: 0;
     width: 30%;
     position: absolute;
@@ -235,7 +235,7 @@ $maincolor:  #231f20;
       border-bottom: 2px solid #e2dad1;
       padding-bottom: 15px;
       margin-bottom: 40px;
-      font-size: 2em;
+      font-size: 3em;
       line-height: 1em;
       color: $link-color;
         @include media(small-up) {
@@ -247,7 +247,7 @@ $maincolor:  #231f20;
           line-height: 1em;
         }
       @include media(large-up) {
-        font-size: 2.5em;
+        font-size: 3em;
         line-height: 1em;
       }
     }
@@ -308,7 +308,7 @@ $maincolor:  #231f20;
     p{
       font-size: 1em;
       line-height: 1.4em;
-      font-family: $simplon-light;
+      font-family: $simplon-regular;
       color: $black-narrative;
       @include media(small-up) {
         font-size: 1em;
