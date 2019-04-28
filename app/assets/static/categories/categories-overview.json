@@ -50,7 +50,7 @@
         "telco": "false",
         "total": {
             "val": "60.97",
-            "rank": "3"
+            "rank": "2"
         },
         "governance": {
             "val": "84.05",
@@ -98,7 +98,7 @@
         },
         "governance": {
             "val": "77.97",
-            "rank": "7"
+            "rank": "6"
         },
         "freedom": {
             "val": "46.58",
@@ -106,7 +106,7 @@
         },
         "privacy": {
             "val": "54.54",
-            "rank": "6"
+            "rank": "5"
         }
     },
     {
@@ -194,7 +194,7 @@
         },
         "privacy": {
             "val": "48.66",
-            "rank": "3"
+            "rank": "2"
         }
     },
     {
@@ -208,7 +208,7 @@
         },
         "governance": {
             "val": "31.72",
-            "rank": "16"
+            "rank": "15"
         },
         "freedom": {
             "val": "32.95",
@@ -216,7 +216,7 @@
         },
         "privacy": {
             "val": "57.8",
-            "rank": "3"
+            "rank": "2"
         }
     },
     {
@@ -278,7 +278,7 @@
         },
         "freedom": {
             "val": "17.33",
-            "rank": "6"
+            "rank": "5"
         },
         "privacy": {
             "val": "30.96",
@@ -432,7 +432,7 @@
         },
         "freedom": {
             "val": "8.94",
-            "rank": "12"
+            "rank": "11"
         },
         "privacy": {
             "val": "18.89",
@@ -446,7 +446,7 @@
         "telco": "true",
         "total": {
             "val": "16.17",
-            "rank": "21"
+            "rank": "20"
         },
         "governance": {
             "val": "39.09",
@@ -476,7 +476,7 @@
         },
         "freedom": {
             "val": "12.99",
-            "rank": "10"
+            "rank": "9"
         },
         "privacy": {
             "val": "15.83",
@@ -498,7 +498,7 @@
         },
         "freedom": {
             "val": "14.9",
-            "rank": "8"
+            "rank": "7"
         },
         "privacy": {
             "val": "3.89",
