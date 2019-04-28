@@ -249,6 +249,50 @@
             ]
         },
         {
+            "id": "deutschetelekom",
+            "name": "Duetsche Telekom",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "N/A"
+                },
+                {
+                    "value": "N/A"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "etisalat",
             "name": "Etisalat",
             "headers": [
@@ -718,6 +762,50 @@
         {
             "id": "telefonica",
             "name": "Telefónica",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "N/A"
+                },
+                {
+                    "value": "N/A"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "telenor",
+            "name": "Telenor",
             "headers": [
                 {
                     "text": "Prepaid Mobile"
