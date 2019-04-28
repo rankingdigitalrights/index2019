@@ -1,15 +1,27 @@
 .col-6 {
-	@include media(medium-up) {
-    	@include span-columns(6);
-  	}
+  @include media(medium-up) {
+      @include span-columns(6);
+    }
 }
 $maincolor:  #231f20;
 
 
+.narrative--banner {
+  background: url(/assets/graphics/content/report_background.png) repeat-x;
+  padding: 0;
+  height: 400px;
+  max-height: 400px;
+  margin-bottom: 2em;
+  text-align: center;
+  img {
+    max-height: 400px;
+  }
+}
+
 #narrative-page-content{
   display: flex;
   @media(max-width: 1365px){
-    margin: 0 5%;
+    margin: 0 10%;
   }
 
   ul,ol{
@@ -21,12 +33,12 @@ $maincolor:  #231f20;
     }
   }
   .expand {
-  		float: right;
-  		display: inline;
-  		transition: all .2s ease;
-  		-webkit-transition: all .2s ease;
-  		margin: 0 10px;
-  	}
+      float: right;
+      display: inline;
+      transition: all .2s ease;
+      -webkit-transition: all .2s ease;
+      margin: 0 10px;
+    }
   .open:before {
     animation: turn-plus;
     animation-duration: .3s;
@@ -41,7 +53,7 @@ $maincolor:  #231f20;
   .sidebar{
     text-align: left;
     padding: 0 20px 0 0;
-    border-right: 2px solid $border-gray-color;
+    /*border-right: 2px solid $border-gray-color;*/
     margin: 0;
     width: 30%;
     position: absolute;
@@ -167,8 +179,8 @@ $maincolor:  #231f20;
   }
   .fixed{
     position: fixed;
-    top: 50px;
-    height: calc(90% - 50px);
+    top: 30px;
+    height: calc(90% - 30px);
     overflow: auto;
   }
 
@@ -223,12 +235,12 @@ $maincolor:  #231f20;
         }
     }
     h1 {
-      border-bottom: 2px solid #e2dad1;
+      /*border-bottom: 2px solid #e2dad1;*/
       padding-bottom: 15px;
       margin-bottom: 40px;
-      font-size: 2em;
+      font-size: 3em;
       line-height: 1em;
-      color: $link-color;
+      color: $black-pure;
         @include media(small-up) {
           font-size: 2em;
           line-height: 1em;
@@ -238,7 +250,7 @@ $maincolor:  #231f20;
           line-height: 1em;
         }
       @include media(large-up) {
-        font-size: 2.5em;
+        font-size: 3em;
         line-height: 1em;
       }
     }
@@ -299,7 +311,7 @@ $maincolor:  #231f20;
     p{
       font-size: 1em;
       line-height: 1.4em;
-      font-family: $simplon-light;
+      font-family: $simplon-regular;
       color: $black-narrative;
       @include media(small-up) {
         font-size: 1em;
@@ -448,7 +460,7 @@ $maincolor:  #231f20;
     .pagination{
       font-size: 20px;
       margin: 40px 0;
-      	a{
+        a{
           cursor: pointer;
           color: $black-lighter ;
           font-family: $simplon-light;
@@ -480,13 +492,13 @@ $maincolor:  #231f20;
             //top: -2px;
           }
 
-      	}
+        }
         a:hover {
           border-bottom: 2px solid #E5DCD2;
         }
-      	.next{
-      		float:right;
-      	}
+        .next{
+          float:right;
+        }
       }
      footnotes{
       h2{
