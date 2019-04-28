@@ -13,7 +13,7 @@ basic_information: |
 key_findings: | 
   <ul><li>Apple earned the largest score improvement of any company in the Index, but still lagged behind most of its U.S. peers due to its failure to disclose policies affecting users&rsquo; freedom of expression.</li><li>Apple improved its commitments to users&rsquo; privacy in a number of areas, including its disclosure of options users have to control how their information is used for targeted advertising. It was also the only company in the Index to clearly disclose that it does not track users across third-party websites.</li><li>Apple improved its disclosure of its policies for responding to data breaches, but its disclosure of other security policies and practices still fell short.</li></ul>
 graph: | 
-  <p><img src="/index2019/app/assets/graphics/content/Ranking_Digital_Rights_2018_Corporate_Accountability_Index(1).png" /></p>
+  <p><img src="/index2018/assets/graphics/content/scores_company2_google.jpg" /></p>
 services_evaluated: | 
   <div class="container--right"><div class="comp--services_evaluated"><div class="comp--instant_mess-wrapper"><ul><li class="comp--instant_mess"><label> </label>iMessage<label></label></li><li class="comp--instant_mess">iCloud</li><li class="comp--instant_mess">iOS</li></ul></div></div></div>
 analysis_value: 21
