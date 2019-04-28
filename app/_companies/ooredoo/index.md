@@ -13,7 +13,7 @@ basic_information: |
 key_findings: | 
   <ul><li>Am&eacute;rica M&oacute;vil failed to disclose sufficient information about its policies and practices affecting users&rsquo; freedom of expression and privacy.</li><li>The company lacked disclosure about how it responds to government requests to shut down networks.</li><li>The company did not clearly disclose how it handles government or private requests to restrict content or hand over user information.</li></ul>
 graph: | 
-  <p><img src="/index2019/app/assets/graphics/content/Ranking_Digital_Rights_2018_Corporate_Accountability_Index1.png" /></p>
+  <p><img src="/index2018/assets/graphics/content/scores_company24_ooredo.jpg" /></p>
 services_evaluated: | 
   <ul><li><label> </label>iMessage [<a href="http://google.com">Link</a>]<label></label></li><li>iCloud [<a href="http://google.com">Link</a>]</li><li>iOS [<a href="http://google.com">Link</a>]</li></ul>
 analysis_value: 21

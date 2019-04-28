@@ -9,11 +9,11 @@ display: Facebook, Inc.
 telco: false
 rank: 4
 basic_information: | 
-  <p><strong>Market cap</strong>: USD 418.4 billion[1]<br /><strong>NasdaqGS</strong>: FB<br /><strong>Domicile</strong>: United States<br /><strong>Website</strong>: www.facebook.com</p>
+  <p><strong>Market cap</strong>: USD 418.4 billion<sup>1</sup><br /><strong>NasdaqGS</strong>: FB<br /><strong>Domicile</strong>: United States<br /><strong>Website</strong>: www.facebook.com</p>
 key_findings: | 
   <ul><li>Despite improvements, Facebook failed to disclose enough about its policies affecting users&rsquo; freedom of expression and privacy.</li><li>While it improved disclosure of how it enforces its own rules, it disclosed less than in previous years about how it responds to government requests to remove content or deactivate accounts.</li><li>Facebook lacked clarity about its handling of user information and about what it does to keep user data secure&mdash;including policies limiting employee access to user data and for handling data breaches.</li></ul>
 graph: | 
-  <p><img src="/index2019/app/assets/graphics/content/Ranking_Digital_Rights_2018_Corporate_Accountability_Index3.png" /></p>
+  <p><img src="/index2018/assets/graphics/content/scores_company4_facebook.jpg" /></p>
 services_evaluated: | 
   <ul><li>Facebook (Social networking &amp; blog)</li><li>Instagram (Video &amp; photo sharing)</li><li>Messenger (Messaging &amp; VoIP)</li><li>WhatsApp (Messaging &amp; VoIP)</li></ul>
 analysis_value: 21
@@ -37,5 +37,5 @@ privacy_text: |
 summary_of_changes_privacy:
 - markup: <a href='#' rel='summary_of_changes_privacy' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 footnotes: | 
-  <p>[1] Bloomberg Markets, Accessed January 15, 2019, <a href="https://www.bloomberg.com/quote/AAPL:US.">https://www.bloomberg.com/quote/AAPL:US. </a><br />[2] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index. <br />[3] For Apple&rsquo;s performance in the 2018 Index, see: <a href="https://rankingdigitalrights.org/index2018/companies/apple.">https://rankingdigitalrights.org/index2018/companies/apple. </a><br />[4] "USA FREEDOM Act of 2015," Pub. L. No. 114&ndash;23 (2015), https://www.congress.gov/bill/114th-congress/house-bill/2048.</p>
+  <p>[1] Bloomberg Markets, Accessed January 15, 2019, <a href="https://www.bloomberg.com/quote/AAPL:US.">https://www.bloomberg.com/quote/AAPL:US. </a><br />[2] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index. <br />[3] For Apple&rsquo;s performance in the 2018 Index, see: <a href="/index2018/companies/apple.">https://rankingdigitalrights.org/index2018/companies/apple. </a><br />[4] "USA FREEDOM Act of 2015," Pub. L. No. 114&ndash;23 (2015), https://www.congress.gov/bill/114th-congress/house-bill/2048.</p>
 ---

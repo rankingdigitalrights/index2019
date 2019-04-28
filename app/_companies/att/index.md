@@ -9,10 +9,11 @@ display: AT&T, Inc.
 telco: true
 rank: 3
 basic_information: | 
-  <p><strong>Headquarters</strong>: USA <br /><strong>Link</strong>: <a href="https://www.apple.com">https://www.apple.com </a><br /><strong>Download</strong>: <a href="https://www.apple.com">https://www.apple.com</a></p>
+  <p><strong>Headquarters</strong>: test &nbsp;<br /><strong>Link</strong>: <a href="https://www.apple.com">https://www.apple.com </a><br /><strong>Download</strong>: <a href="https://www.apple.com">https://www.apple.com</a></p>
 key_findings: | 
   <ul><li>Am&eacute;rica M&oacute;vil failed to disclose sufficient information about its policies and practices affecting users&rsquo; freedom of expression and privacy.</li><li>The company lacked disclosure about how it responds to government requests to shut down networks.</li><li>The company did not clearly disclose how it handles government or private requests to restrict content or hand over user information.</li></ul>
-graph: 
+graph: | 
+  <p><img src="/index2018/assets/graphics/content/scores_company15_att.jpg" /></p>
 services_evaluated: | 
   <ul><li><label> </label>iMessage [<a href="http://google.com">Link</a>]<label></label></li><li>iCloud [<a href="http://google.com">Link</a>]</li><li>iOS [<a href="http://google.com">Link</a>]</li></ul>
 analysis_value: 21
