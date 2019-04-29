@@ -229,19 +229,19 @@ $maincolor:  #231f20;
           transform: rotate(-60deg);
           @include media(small-up) {
             font-size: 11px;
-            transform: rotate(-55deg);
+            transform: rotate(-60deg);
           }
           @include media(medium-up) {
             font-size: 12px;
-            transform: rotate(-55deg);          
+            transform: rotate(-60deg);          
           }
           @include media(large-up) {
             font-size: 13px;
-            transform: rotate(-55deg);
+            transform: rotate(-60deg);
           }
           @include media(xlarge-up) {
             font-size: 13px;
-            transform: rotate(-55deg);
+            transform: rotate(-60deg);
           }           
         }
       }
