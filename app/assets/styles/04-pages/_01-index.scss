@@ -205,7 +205,7 @@
 
 		text {
 			font-size: 7px !important;
-			font-weight: normal !important;
+			font-weight: bold !important;
 			@include media(small-up) {
 				font-size: inherit !important;
 			}
