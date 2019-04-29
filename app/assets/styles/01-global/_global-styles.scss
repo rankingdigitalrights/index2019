@@ -21,6 +21,7 @@ height: 100%; /* because of footer */
 .main-content-with-padding{
   padding-left: 0;
   padding-right: 0;
+  padding-bottom: 2.5em;
   top: 5px;
   position: relative;
   @include media(medium-up) {

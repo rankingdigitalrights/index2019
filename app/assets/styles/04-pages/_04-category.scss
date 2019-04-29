@@ -135,13 +135,13 @@
 						        transform: rotate(-45deg);	
 						        }
 						        @include media(medium-up) {
-								transform: rotate(-35deg) translate(-5px, 25px);				  
+								transform: rotate(-55deg) translate(-16px, 15px);				  
 						        }
 						        @include media(large-up) {
-								transform: rotate(-35deg) translate(-5px, 25px);
+								transform: rotate(-55deg) translate(-16px, 15px);
 						        }
 						        @include media(xlarge-up) {
-								transform: rotate(-35deg) translate(-5px, 25px);				 
+								transform: rotate(-55deg) translate(-16px, 15px);				 
 						        }						
 							} 														
 						}						
