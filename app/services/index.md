@@ -165,6 +165,9 @@ services:
           name: Telefónica
           service: Movistar
         - company:
+          name: Telenor
+          service: Telenor Norway
+        - company:
           name: Vodafone
           service: Vodafone UK
   - item:
