@@ -23,13 +23,13 @@ $maincolor:  #231f20;
         font-size: 15px;
       }
       @include media(medium-up) {
-        font-size: 1.12em;
+        font-size: 1em;
       }
       @include media(large-up) {
-        font-size: 1.12em;
+        font-size: 1em;
       }
       @include media(xlarge-up) {
-        font-size: 1.12em;
+        font-size: 1em;
       }
     }
   }
@@ -120,7 +120,7 @@ $maincolor:  #231f20;
         padding: 0;
         counter-reset: item;
         li{
-          padding: 5px 0 0 20px;
+          padding: 3px 0 0 20px;
           background: none;
           color: #5E5E5E;
           display: block;
@@ -142,7 +142,7 @@ $maincolor:  #231f20;
 
             }
             i {
-              font-size: 14px;
+              font-size: 12px;
               line-height: 1;
               margin-right: 7px;
             }
