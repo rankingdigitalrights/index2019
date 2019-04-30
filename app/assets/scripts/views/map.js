@@ -109,7 +109,7 @@ module.exports = Backbone.View.extend({
             if(difference){
               var total_difference = difference.attributes.total_difference;
               
-              var total_difference_class = 'fa fa-window-minimize minimize-grey';
+              var total_difference_class = 'fa fa-minus minimize-grey';
               if(total_difference > 0) {
                 total_difference_class = 'fa fa-chevron-up up-arrow-green';
               }
