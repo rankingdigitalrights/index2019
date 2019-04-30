@@ -4,7 +4,7 @@ entity: baidu
 layout: company
 name: baidu
 id: baidu
-company_type: Internet and mobile ecosystem companies
+company_type: Internet and Mobile Ecosystem Company
 display: Baidu, Inc.
 telco: false
 rank: 11
@@ -36,9 +36,8 @@ freedom_text: |
 summary_of_changes_freedom:
 - markup: <a href='#' rel='summary_of_changes_freedom' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
-  change: 
-  title: 
-  body: "<p>No score changes.</p>"
+  title: No score changes
+  body: ""
 privacy_value: 33
 privacy_text: | 
   <p>Baidu disclosed less than most of the internet and mobile ecosystem companies in this category, despite improvements. It disclosed minimal information about how it handles user data (P3-P9), disclosing nothing about how long it retains user information (P6) or whether it tracks users across third-party websites and apps (P9). However, it improved its disclosure of its data sharing policies, including the types of user information it shares and with whom (P4) and for what purposes (P5), and of options users have to obtain a copy of their user information (P8).</p><p>Baidu disclosed little about how it handles government and private requests for user information (P10, P11), but disclosed more than Tencent. It improved disclosure of its policies of notifying users of third-party requests for user data (P12) by disclosing the circumstances under which it may not notify users, but failed to reveal any data about such requests (P11). Although the Chinese legal and political environment makes it unrealistic to expect companies to disclose detailed information about government requests, Baidu should be able to reveal if and when it shares user information via private requests and under what circumstances.</p><p>Baidu disclosed less information about its security policies (P13-P18) than all internet and mobile ecosystem companies aside from Samsung. It significantly improved its disclosure of how it responds to data breaches (P15) and improved its disclosure of limits on employees&rsquo; access to user data (P13), but still failed to disclose any other information about its measures to keep user data secure (P13). It disclosed a bug bounty program through which security researchers can report vulnerabilities, but not a time frame in which it will review these reports (P14). It also disclosed that it uses encryption technologies (P16), but did not specify what types of data are encrypted and how.</p>
@@ -46,40 +45,20 @@ summary_of_changes_privacy:
 - markup: <a href='#' rel='summary_of_changes_privacy' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
   change: true
-  title: P4. Sharing of user information
-  body: "<p>Baidu provided more detailed information on its data sharing policies, including the types of user information it shares and with whom.</p>"
-- item:
-  change: true
-  title: P5. Purpose for collecting and sharing user information
-  body: "<p>Baidu&rsquo;s revised privacy policy provided more detailed information about the purposes for collecting and sharing user information.</p>"
+  title: P4, P5, P8 Handling of user information
+  body: "<p>Baidu provided more detailed information about the types of user information it shares, with whom, and why. It also disclosed it may provide users with a copy of some of their user information.</p>"
 - item:
   change: false
-  title: P6. Retention of user information
-  body: "<p>Baidu no longer specified what types of personal information it deletes or anonymizes after a user deletes their account.</p>"
-- item:
-  change: false
-  title: P7. Users’ control over their own user information
-  body: "<p>Baidu made it less clear whether users can control the company's collection of their user information for the purposes of targeted advertising.</p>"
-- item:
-  change: true
-  title: P8. Users’ access to their own user information
-  body: "<p>Baidu&rsquo;s revised privacy policy suggests Baidu may provide a copy of some user information but perhaps not all or not in every case.</p>"
+  title: P6 & P7 Handling of user information
+  body: "<p>Baidu no longer specified what types of personal information it deletes or anonymizes after a user deletes their account, and made it less clear whether users can control the company's collection of their user information for the purposes of targeted advertising.</p>"
 - item:
   change: true
   title: P12. User notification about third-party requests for user information
   body: "<p>Baidu provided some information about situations in which it would not notify users of third-party requests for their data.</p>"
 - item:
   change: true
-  title: P13. Security oversight
-  body: "<p>Baidu revealed more information about its security policies, including limits on employees to access user data.</p>"
-- item:
-  change: true
-  title: P15. Data breaches
-  body: "<p>Baidu disclosed more information about its process to respond to data breaches that includes a commitment to notify users of such incidents.</p>"
-- item:
-  change: true
-  title: P16. Encryption of user communication and private content
-  body: "<p>Baidu disclosed that the company uses encryption technologies , although it did not specify what types of data are encrypted and in what way.</p>"
+  title: P13, P15, P16 Security
+  body: "<p>Baidu revealed more information about its security policies, including limits on employees&rsquo; access to user data, its process for responding to data breaches, and its use of encryption technologies.</p>"
 footnotes: | 
   <p><a id="fn1"></a>[1] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index.<br /><a id="fn2"></a>[2] For Baidu&rsquo;s performance in the 2018 Index, see: <a href="/index2018/companies/baidu">rankingdigitalrights.org/index2018/companies/baidu</a>&nbsp;<br /><a id="fn3"></a>[3] &ldquo;Personal Information Security Specification,&rdquo; December 2017, <a href="http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=4FFAA51D63BA21B9EE40C51DD3CC40BE">www.gb688.cn/bzgk/gb/newGbInfo?hcno=4FFAA51D63BA21B9EE40C51DD3CC40BE</a><br /><a id="fn4"></a>[4] &ldquo;Freedom on the Net&rdquo; (Freedom House, November 2018), <a href="https://freedomhouse.org/report/freedom-net/2018/china" target="_blank" rel="noopener">freedomhouse.org/report/freedom-net/2018/china</a>&nbsp;<br /><a id="fn5"></a>[5] Bloomberg Markets, Accessed April 18, 2019, <a href="https://www.bloomberg.com/quote/BIDU:US" target="_blank" rel="noopener">www.bloomberg.com/quote/BIDU:US</a>&nbsp;</p>
 ---
