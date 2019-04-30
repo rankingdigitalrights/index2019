@@ -34,7 +34,7 @@ The Index results also highlight how government policy and regulation can either
 
 **Find more details on the website:** Despite its length, this report provides only highlights from the Index data. To view full comparative results of how every company scored on every indicator, and to see how different services within each company were evaluated, please explore the rest of the 2018 Index website.
 
-The raw data can also be downloaded at: [https://rankingdigitalrights.org/index2018/download/](https://rankingdigitalrights.org/index2018/download/).
+The raw data can also be downloaded at: [https://rankingdigitalrights.org/index2019/download/](https://rankingdigitalrights.org/index2019/download/).
 
 **Beyond the Index:** The 2018 Index covers 22 of the world’s most powerful internet, mobile, and telecommunications companies. But that inevitably excludes companies and services that are important to people in specific countries and regions. Because our methodology and indicators are openly available, researchers in a range of countries and cities have begun to apply RDR’s methodology to companies that are most relevant to them. We have compiled a list of the projects that have so far published their results on our website at: [https://rankingdigitalrights.org/adaptations](https://rankingdigitalrights.org/adaptations).
 
