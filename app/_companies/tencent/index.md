@@ -4,7 +4,7 @@ entity: tencent
 layout: company
 name: tencent
 id: tencent
-company_type: Internet and mobile ecosystem companies
+company_type: Internet and Mobile Ecosystem Company
 display: Tencent Holdings Limited
 telco: false
 rank: 10

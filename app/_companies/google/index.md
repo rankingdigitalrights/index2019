@@ -4,7 +4,7 @@ entity: google
 layout: company
 name: google
 id: google
-company_type: Internet and Mobile Ecosystem Companies
+company_type: Internet and Mobile Ecosystem Company
 display: Google Inc.
 telco: false
 rank: 2

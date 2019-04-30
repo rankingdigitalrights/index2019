@@ -4,7 +4,7 @@ entity: mailru
 layout: company
 name: mailru
 id: mailru
-company_type: Internet and mobile ecosystem companies
+company_type: Internet and Mobile Ecosystem Company
 display: Mail.Ru Group Limited
 telco: false
 rank: 12

@@ -4,7 +4,7 @@ entity: apple
 layout: company
 name: apple
 id: apple
-company_type: Internet and mobile ecosystem companies
+company_type: Internet and Mobile Ecosystem Company
 display: Apple, Inc.
 telco: false
 rank: 7
