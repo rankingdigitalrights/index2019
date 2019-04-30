@@ -997,16 +997,16 @@
             "América Móvil": "N/A",
             "Apple": "83.33",
             "Axiata": "N/A",
-            "Baidu": "22.22",
+            "Baidu": "33.33",
             "Bharti Airtel": "N/A",
             "Deutsche Telekom": "N/A",
             "Etisalat": "N/A",
             "Facebook": "58.33",
-            "Google": "80",
-            "Kakao": "50",
+            "Google": "100",
+            "Kakao": "75",
             "MTN": "N/A",
             "Mail.Ru": "66.67",
-            "Microsoft": "70.83",
+            "Microsoft": "94.44",
             "Ooredoo": "N/A",
             "Orange": "N/A",
             "Samsung": "33.33",
@@ -1016,7 +1016,7 @@
             "Twitter": "58.33",
             "Verizon Media": "91.67",
             "Vodafone": "N/A",
-            "Yandex": "66.67"
+            "Yandex": "100"
         }
     },
     {
