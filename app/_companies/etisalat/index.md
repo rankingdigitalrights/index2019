@@ -4,7 +4,7 @@ entity: etisalat
 layout: company
 name: etisalat
 id: etisalat
-company_type: Telecommunications companies
+company_type: Telecommunications company
 display: Etisalat Limited
 telco: true
 rank: 11
@@ -13,7 +13,7 @@ basic_information: |
 key_findings: | 
   <ul><li>Etisalat was the second-lowest scoring telecommunications company in the Index, disclosing almost nothing about policies and practices affecting users' freedom of expression and privacy.</li><li>Etisalat did not publish a privacy policy, making it impossible for users to understand what the company does with their information, including what it collects and for what purposes.</li><li>Etisalat disclosed nothing about how it handles government and private requests to hand over user information.</li></ul>
 graph: | 
-  <p><img src="/index2018/assets/graphics/content/scores_company23_etisalat.jpg" /></p>
+  <p><img src="/index2018/assets/graphics/content/scores_company23_etisalat1.jpg" /></p>
 services_evaluated: | 
   <ul><li><strong>Etisalat UAE (<a href="/index2019/services/prepostpaidmobile/">Prepaid mobile</a>)</strong></li><li><strong>Etisalat UAE (<a href="/index2019/services/prepostpaidmobile/">Postpaid mobile</a>)</strong></li><li><strong>Etisalat UAE (<a href="/index2019/services/fixedbroadband/">Fixed-line broadband</a>)</strong></li></ul>
 analysis_value: 8

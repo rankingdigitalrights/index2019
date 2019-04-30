@@ -4,7 +4,7 @@ entity: deutschetelekom
 layout: company
 name: deutschetelekom
 id: deutschetelekom
-company_type: Telecommunications companies
+company_type: Telecommunications company
 display: Deutsche Telekom AG
 telco: true
 rank: 5
@@ -13,7 +13,7 @@ basic_information: |
 key_findings: | 
   <ul><li>Deutsche Telekom earned the highest privacy score in the Index, disclosing significantly more than other telecommunications companies about policies affecting users&rsquo; privacy.</li><li>It failed to disclose adequate information about policies and practices affecting users&rsquo; freedom of expression, including how it handles government demands to block or filter content or deactivate accounts.</li><li>It also lacked strong governance and oversight over human rights issues relative to its European telecommunications peers.</li></ul>
 graph: | 
-  <p><img src="/index2018/assets/graphics/content/scores_company171.jpg" /></p>
+  <p><img src="/index2018/assets/graphics/content/scores_company17_dt.jpg" /></p>
 services_evaluated: | 
   <ul><li><strong>Deutsche Telekom Germany (<a href="/index2019/services/prepostpaidmobile/">Prepaid mobile</a>)</strong></li><li><strong>Deutsche Telekom Germany (<a href="/index2019/services/prepostpaidmobile/">Postpaid mobile</a>)</strong></li><li><strong>Deutsche Telekom Germany (<a href="/index2019/services/fixedbroadband/">Fixed-line broadband</a>)</strong></li></ul>
 analysis_value: 44
