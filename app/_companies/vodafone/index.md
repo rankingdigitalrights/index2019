@@ -4,7 +4,7 @@ entity: vodafone
 layout: company
 name: vodafone
 id: vodafone
-company_type: Telecommunications company
+company_type: Telecommunications companies
 display: Vodafone Group Plc
 telco: true
 rank: 2

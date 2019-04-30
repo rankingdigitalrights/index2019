@@ -4,7 +4,7 @@ entity: americamovil
 layout: company
 name: americamovil
 id: americamovil
-company_type: Telecommunications company
+company_type: Telecommunications companies
 display: América Móvil, S.A.B. de C.V.
 telco: true
 rank: 7

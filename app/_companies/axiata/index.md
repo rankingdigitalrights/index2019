@@ -4,7 +4,7 @@ entity: axiata
 layout: company
 name: axiata
 id: axiata
-company_type: Telecommunications company
+company_type: Telecommunications companies
 display: Axiata Group Berhad
 telco: true
 rank: 10

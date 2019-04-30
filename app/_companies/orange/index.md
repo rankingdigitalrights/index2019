@@ -4,7 +4,7 @@ entity: orange
 layout: company
 name: orange
 id: orange
-company_type: Telecommunications company
+company_type: Telecommunications companies
 display: Orange S.A.
 telco: true
 rank: 6

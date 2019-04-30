@@ -4,7 +4,7 @@ entity: etisalat
 layout: company
 name: etisalat
 id: etisalat
-company_type: Telecommunications company
+company_type: Telecommunications companies
 display: Etisalat Limited
 telco: true
 rank: 11

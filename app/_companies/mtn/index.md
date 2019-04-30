@@ -4,7 +4,7 @@ entity: mtn
 layout: company
 name: mtn
 id: mtn
-company_type: Telecommunications company
+company_type: Telecommunications companies
 display: MTN Group Limited
 telco: true
 rank: 8

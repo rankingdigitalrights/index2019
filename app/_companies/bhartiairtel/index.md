@@ -4,7 +4,7 @@ entity: bhartiairtel
 layout: company
 name: bhartiairtel
 id: bhartiairtel
-company_type: Telecommunications company
+company_type: Telecommunications companies
 display: Bharti Airtel Limited
 telco: true
 rank: 8

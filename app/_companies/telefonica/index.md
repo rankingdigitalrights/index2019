@@ -4,7 +4,7 @@ entity: telefonica
 layout: company
 name: telefonica
 id: telefonica
-company_type: Telecommunications company
+company_type: Telecommunications companies
 display: Telefónica, S.A.
 telco: true
 rank: 1

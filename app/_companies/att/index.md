@@ -4,7 +4,7 @@ entity: att
 layout: company
 name: att
 id: att
-company_type: Telecommunications company
+company_type: Telecommunications companies
 display: AT&T, Inc.
 telco: true
 rank: 3

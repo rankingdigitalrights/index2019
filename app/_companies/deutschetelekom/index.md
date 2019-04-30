@@ -4,7 +4,7 @@ entity: deutschetelekom
 layout: company
 name: deutschetelekom
 id: deutschetelekom
-company_type: Telecommunications company
+company_type: Telecommunications companies
 display: Deutsche Telekom AG
 telco: true
 rank: 5
