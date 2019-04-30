@@ -13,7 +13,7 @@ basic_information: |
 key_findings: | 
   <ul><li>Orange disclosed strong governance and oversight over human rights issues, but failed to disclose adequate information about policies and practices affecting freedom of expression and privacy.</li><li>Orange lacked transparency about how it handles government demands to hand over user data, to block or filter content, or to deactivate user accounts.</li><li>It improved disclosure of how it handles user information, but disclosed less than its European peers about its security policies, including how it addresses vulnerabilities and responds to data breaches.</li></ul>
 graph: | 
-  <p><img src="/index2018/assets/graphics/content/scores_company181.jpg" /></p>
+  <p><img src="/index2018/assets/graphics/content/scores_company18_orange.jpg" /></p>
 services_evaluated: | 
   <ul><li><strong>Orange France (<a href="/index2019/services/prepostpaidmobile/">Prepaid mobile</a>)</strong></li><li><strong>Orange France (<a href="/index2019/services/prepostpaidmobile/">Postpaid mobile</a>) </strong></li><li><strong>Orange France (<a href="/index2019/services/fixedbroadband/">Fixed-line broadband</a>)</strong></li></ul>
 analysis_value: 36

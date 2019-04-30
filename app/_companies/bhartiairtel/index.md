@@ -13,7 +13,7 @@ basic_information: |
 key_findings: | 
   <ul><li>Bharti Airtel disclosed little about its policies and practices affecting freedom of expression and privacy, and lacked disclosure of governance and oversight over human rights issues.</li><li>It disclosed minimal information about how it enforces its rules, and no information about its process for responding to government or other types of third-party requests to restrict content or accounts.</li><li>While it revealed some information about its policies for collecting and sharing user information, it revealed few details about how it responds to third-party requests for user data, and nothing about how it addresses security vulnerabilities or responds to data breaches.</li></ul>
 graph: | 
-  <p><img src="/index2018/assets/graphics/content/scores_company20_bhartiairtel.jpg" /></p>
+  <p><img src="/index2018/assets/graphics/content/scores_company20_bhartiairte.jpg" /></p>
 services_evaluated: | 
   <ul><li><strong>Airtel India (<a href="/index2019/services/prepostpaidmobile/">Prepaid mobile</a>)</strong></li><li><strong>Airtel India (<a href="/index2019/services/prepostpaidmobile/">Postpaid mobile</a>)</strong></li><li><strong>Airtel India (<a href="/index2019/services/fixedbroadband/">Fixed-line broadband</a>)</strong></li></ul>
 analysis_value: 16
@@ -33,7 +33,7 @@ summary_of_changes_governance:
 - item:
   change: true
   title: G1. Policy commitment
-  body: "<p>Bharti Airtel disclosed a commitment to respect human rights in accordance with national law, but did not reference international human rights principles. </p>"
+  body: "<p>Bharti Airtel disclosed a commitment to respect human rights in accordance with national law, but did not reference international human rights principles.</p>"
 - item:
   change: true
   title: G3. Internal implementation

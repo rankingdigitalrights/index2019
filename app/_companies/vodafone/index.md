@@ -13,7 +13,7 @@ basic_information: |
 key_findings: | 
   <ul><li>Vodafone continued to be among the most transparent telecommunications companies in the RDR Index about its policies and practices that affect users' human rights.</li><li>It was the only company to disclose comprehensive information about policies for handling data breaches.</li><li>While it improved disclosure of what data it collects and for how long it is stored, Vodafone should be more transparent about how it handles and secures user information.</li></ul>
 graph: | 
-  <p><img src="/index2018/assets/graphics/content/scores_company14_vodafone.jpg" /></p>
+  <p><img src="/index2018/assets/graphics/content/scores_company14_vodafone1.jpg" /></p>
 services_evaluated: | 
   <ul><li><strong>Vodafone UK (<a href="/index2019/services/prepostpaidmobile/">Prepaid mobile</a>)</strong></li><li><strong>Vodafone UK (<a href="/index2019/services/prepostpaidmobile/">Postpaid mobile</a>)</strong></li><li><strong>Vodafone UK (<a href="/index2019/services/fixedbroadband/">Fixed-line broadband</a>)</strong></li></ul>
 analysis_value: 52

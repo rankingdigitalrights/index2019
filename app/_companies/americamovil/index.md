@@ -13,7 +13,7 @@ basic_information: |
 key_findings: | 
   <ul><li>Despite some key improvements, Am&eacute;rica M&oacute;vil disclosed little about policies and practices affecting freedom of expression and privacy.</li><li>Am&eacute;rica M&oacute;vil was unclear about its rules and how they are enforced, as well as how it responds to government requests to shut down networks.</li><li>Am&eacute;rica M&oacute;vil did not clearly disclose how it handles government or private requests to block content or to hand over user information.</li></ul>
 graph: | 
-  <p><img src="/index2018/assets/graphics/content/scores_company19.jpg" /></p>
+  <p><img src="/index2018/assets/graphics/content/scores_company19_ammob.jpg" /></p>
 services_evaluated: | 
   <ul><li><strong>Telcel (<a href="/index2019/services/prepostpaidmobile/">Prepaid mobile</a>)</strong></li><li><strong>Telcel (<a href="/index2019/services/prepostpaidmobile/">Postpaid mobile</a>)</strong></li></ul>
 analysis_value: 25

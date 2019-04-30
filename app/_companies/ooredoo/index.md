@@ -4,7 +4,7 @@ entity: ooredoo
 layout: company
 name: ooredoo
 id: ooredoo
-company_type: Telecommunications company
+company_type: Telecommunications companies
 display: Ooredoo Q.S.C.
 telco: true
 rank: 12

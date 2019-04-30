@@ -4,7 +4,7 @@ entity: telenor
 layout: company
 name: telenor
 id: telenor
-company_type: Telecommunications company
+company_type: Telecommunications companies
 display: Telenor
 telco: true
 rank: 4

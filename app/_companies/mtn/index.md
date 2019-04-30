@@ -13,7 +13,7 @@ basic_information: |
 key_findings: | 
   <ul><li>MTN failed to disclose enough about policies and practices affecting users&rsquo; freedom of expression and privacy.</li><li>It lacked strong governance and oversight over human rights issues, and disclosed almost nothing about policies affecting freedom of expression.</li><li>MTN disclosed very little about how it handles user information, particularly its policies around sharing and retaining user information, as well as what steps it takes to keep user information secure.</li></ul>
 graph: | 
-  <p><img src="/index2018/assets/graphics/content/scores_company21_mtn.jpg" /></p>
+  <p><img src="/index2018/assets/graphics/content/scores_company21_mtn1.jpg" /></p>
 services_evaluated: | 
   <ul><li><strong>MTN South Africa (<a href="/index2019/services/prepostpaidmobile/">Prepaid mobile</a>)</strong></li><li><strong>MTN South Africa (<a href="/index2019/services/prepostpaidmobile/">Postpaid mobile</a>)</strong></li><li><strong>MTN South Africa (<a href="/index2019/services/fixedbroadband/">Fixed line broadband</a>)</strong></li></ul>
 analysis_value: 16
@@ -33,7 +33,7 @@ summary_of_changes_governance:
 - item:
   change: false
   title: G4. Impact assessment
-  body: "<p>MTN no longer disclosed whether or not it conducts human rights impact assessments on a regular basis. </p>"
+  body: "<p>MTN no longer disclosed whether or not it conducts human rights impact assessments on a regular basis.</p>"
 freedom_value: 9
 freedom_text: | 
   <p>MTN disclosed almost nothing about policies and practices affecting freedom of expression, tying with Bharti Airtel for the lowest score of all telecommunications companies in this category. It provided no information at all about how it handles external requests to block content or deactivate accounts&mdash;it disclosed nothing about its process for handling government and private requests to block content or restrict user accounts (F5-F7). South African law does not prevent companies from disclosing information about how they handle these requests, nor does it prohibit them from publishing this data.</p><p>It also lacked transparency about its own internal processes for enforcing its rules: The terms for MTN South Africa&rsquo;s mobile and broadband services were not easy to find or understand (F1), and the company did not commit to notifying users of changes to these services (F2).<a href="#fn5"><sup>5</sup></a> In addition, the operator revealed nothing about its network management policies and did not publish a clear commitment to uphold net neutrality (F9). Although it clarified reasons why it may shut down its networks, MTN still did not sufficiently disclose its policies for handling government network shutdown orders (F10).</p>
@@ -46,11 +46,11 @@ summary_of_changes_freedom:
 - item:
   change: true
   title: F2. Changes to terms of service
-  body: "<p>MTN South Africa improved its disclosure on maintaining an archive of past changes made to the terms of service of its prepaid mobile service. </p>"
+  body: "<p>MTN South Africa improved its disclosure on maintaining an archive of past changes made to the terms of service of its prepaid mobile service.</p>"
 - item:
   change: true
   title: F10. Network shutdown (telecommunications companies)
-  body: "<p>MTN improved its disclosure of how it responds to government requests to shut down networks. </p>"
+  body: "<p>MTN improved its disclosure of how it responds to government requests to shut down networks.</p>"
 - item:
   change: false
   title: F10. Network shutdown (telecommunications companies)

@@ -13,7 +13,7 @@ basic_information: |
 key_findings: | 
   <ul><li>Axiata made modest improvements but remained one of the lowest-ranking companies in the entire Index.</li><li>Axiata disclosed nothing about how it responds to government or private requests to block content, restrict accounts, or hand over user information.</li><li>While Axiata made minor improvements to its privacy policies, it was less transparent than previously about its security policies.</li></ul>
 graph: | 
-  <p><img src="/index2018/assets/graphics/content/scores_company22_axiata1.jpg" /></p>
+  <p><img src="/index2018/assets/graphics/content/scores_company22_axiata2.jpg" /></p>
 services_evaluated: | 
   <ul><li><strong>Celcom (<a href="/index2019/services/prepostpaidmobile/">Prepaid mobile</a>)</strong></li><li><strong>Celcom (<a href="/index2019/services/prepostpaidmobile/">Postpaid mobile</a>)</strong></li></ul>
 analysis_value: 14
