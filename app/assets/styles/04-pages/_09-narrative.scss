@@ -329,7 +329,9 @@ $maincolor:  #231f20;
         font-size: 1.250em;
       }
       span{
-        font-size: inherit;
+        @include media(xlarge-up) {
+        font-size: 1.250em;
+       }
       }
     }
     img{
