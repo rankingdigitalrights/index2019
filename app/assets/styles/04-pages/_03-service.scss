@@ -234,7 +234,7 @@
 							display: block;
 							text {
 							text-anchor: end !important;
-						        transform: rotate(-30deg)translate(-67px, 170px);
+						        transform: rotate(-31deg) translate(-81px, 168px);
 							}
 						}
 					}
@@ -248,7 +248,7 @@
 						.tick{
 							text{
 								text-anchor: end !important;
-						        	transform: rotate(-55deg);
+						        	transform: rotate(-30deg)translate(-31px, 31px);
 								@media (max-width: 767px){
 									-webkit-transform: rotate(-35deg) translate(-70px, 17px);
 									-moz-transform: rotate(-35deg) translate(-70px, 17px);
