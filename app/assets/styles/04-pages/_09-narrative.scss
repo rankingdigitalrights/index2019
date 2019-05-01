@@ -329,9 +329,7 @@ $maincolor:  #231f20;
         font-size: 1.250em;
       }
       span{
-        @include media(xlarge-up) {
-        font-size: 1.250em;
-       }
+        font-size: inherit;
       }
     }
     img{
@@ -371,7 +369,7 @@ $maincolor:  #231f20;
         font-size: 1.75em;
       }
       span{
-        font-size: 1.75em;
+        font-size: inherit;
       }
     }
     .highlihted-section-div{
