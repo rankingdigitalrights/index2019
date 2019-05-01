@@ -58,10 +58,10 @@ Governance
 
 <span style="font-weight: 400;">On the positive side, a handful of non-GNI-member companies took concrete steps to improve their corporate governance and oversight of human rights issues:</span>
 
-- <span style="font-weight: 400;">**Yandex** took a notable step forward by publishing a clear commitment to respect the freedom of expression and privacy rights of its users. </span>
-- <span style="font-weight: 400;">**América Móvil** published a formal commitment to respect users’ freedom of expression and privacy, and disclosed a whistleblowing program for employees to report concerns, including those related to freedom of expression and privacy violations. </span>
-- <span style="font-weight: 400;">**Axiata** improved its disclosure of executive-level management over privacy issues at the group level and disclosed that it has a whistleblowing mechanism for employees to report privacy violations. </span>
-- <span style="font-weight: 400;">**Bharti Airtel** disclosed a commitment to protect users’ human rights—although not freedom of expression or privacy specifically—and disclosed a board-level commitment to oversee privacy issues. In addition, the company improved its disclosure about its whistleblower program by clarifying that its employees can use it to report concerns over privacy related issues. </span>
+- **Yandex** took a notable step forward by publishing a clear commitment to respect the freedom of expression and privacy rights of its users. 
+- **América Móvil** published a formal commitment to respect users’ freedom of expression and privacy, and disclosed a whistleblowing program for employees to report concerns, including those related to freedom of expression and privacy violations. 
+- **Axiata** improved its disclosure of executive-level management over privacy issues at the group level and disclosed that it has a whistleblowing mechanism for employees to report privacy violations. 
+- **Bharti Airtel** disclosed a commitment to protect users’ human rights—although not freedom of expression or privacy specifically—and disclosed a board-level commitment to oversee privacy issues. In addition, the company improved its disclosure about its whistleblower program by clarifying that its employees can use it to report concerns over privacy related issues. 
  
 <a id="section-32"></a>3.2 Governance gap: Expression and privacy
 -----------------------------------------------------------------
