@@ -92,16 +92,16 @@
 				.bar--chart {
 				height: 260px;
 			        @include media(small-up) {
-					height: 350px;
+					height: 310px;
 			        }
 			        @include media(medium-up) {
-					height: 350px;
+					height: 310px;
 			        }
 			        @include media(large-up) {
-					height: 350px;
+					height: 310px;
 			        }
 			        @include media(xlarge-up) {
-					height: 350px;			 
+					height: 310px;			 
 			        }				
 
 					.bar--axis_x {
