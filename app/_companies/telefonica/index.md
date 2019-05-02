@@ -66,28 +66,16 @@ summary_of_changes_privacy:
 - markup: <a href='#' rel='summary_of_changes_privacy' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
   change: true
-  title: P3. Collection of user information
-  body: "<p>Telef&oacute;nica improved its disclosure of the types of user information it collects and clarified its commitment to minimize data collection.</p>"
+  title: P1 & P2. Privacy policies 
+  body: "<p>Telef&oacute;nica improved the clarity of its privacy policies and its commitment to notify users of changes</p>"
 - item:
   change: true
-  title: P4. Sharing of user information
-  body: "<p>Telef&oacute;nica disclosed that it may share user information with legal authorities.</p>"
-- item:
-  change: true
-  title: P6. Retention of user information
-  body: "<p>Telef&oacute;nica improved its disclosure of how long it retains user information.</p>"
-- item:
-  change: true
-  title: P8. Users’ access to their own user information
-  body: "<p>Telef&oacute;nica disclosed that users can obtain a copy of their own information.</p>"
+  title: P3, P4, P6, P8. Handling of user information
+  body: "<p>Telef&oacute;nica disclosed more about the types of user information it collects, provided commitment to minimize data collection, clarified some aspects of its data retention policies, and clarified options users have to obtain a copy of their user information .</p>"
 - item:
   change: true
   title: P10. Process for responding to third-party requests for user information
   body: "<p>Telef&oacute;nica improved its disclosure of how it responds to government requests for user information.</p>"
-- item:
-  change: true
-  title: P11. Data about third-party requests for user information
-  body: "<p>Telef&oacute;nica provided data about third-party requests for user information in a structured data format.</p>"
 - item:
   change: true
   title: P14. Addressing security vulnerabilities

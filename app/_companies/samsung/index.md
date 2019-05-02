@@ -4,7 +4,7 @@ entity: samsung
 layout: company
 name: samsung
 id: samsung
-company_type: Internet and Mobile Ecosystem Company
+company_type: Internet and mobile ecosystem companies
 display: Samsung Electronics Co., Ltd.
 telco: false
 rank: 9

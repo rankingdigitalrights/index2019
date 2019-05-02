@@ -4,7 +4,7 @@ entity: yandex
 layout: company
 name: yandex
 id: yandex
-company_type: Internet and Mobile Ecosystem Company
+company_type: Internet and mobile ecosystem companies
 display: Yandex N. V.
 telco: false
 rank: 8

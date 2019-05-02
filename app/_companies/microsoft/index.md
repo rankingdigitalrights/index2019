@@ -4,7 +4,7 @@ entity: microsoft
 layout: company
 name: microsoft
 id: microsoft
-company_type: Internet and Mobile Ecosystem Company
+company_type: Internet and mobile ecosystem companies
 display: Microsoft Corp.
 telco: false
 rank: 1

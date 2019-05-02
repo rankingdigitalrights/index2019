@@ -4,7 +4,7 @@ entity: kakao
 layout: company
 name: kakao
 id: kakao
-company_type: Internet and Mobile Ecosystem Company
+company_type: Internet and mobile ecosystem companies
 display: Kakao Corp.
 telco: false
 rank: 6

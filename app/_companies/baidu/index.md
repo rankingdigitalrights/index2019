@@ -4,12 +4,12 @@ entity: baidu
 layout: company
 name: baidu
 id: baidu
-company_type: Internet and Mobile Ecosystem Company
+company_type: Internet and mobile ecosystem companies
 display: Baidu, Inc.
 telco: false
 rank: 11
 basic_information: | 
-  <p><strong>Domicile</strong>: China <br /><strong>Link</strong>: <a href="https://www.baidu.com" target="_blank" rel="noopener">https://www.baidu.com</a></p>
+  <p><strong>Domicile</strong>: China <br /><strong>Link</strong>: <a href="https://www.baidu.com" target="_blank" rel="noopener">www.baidu.com</a></p>
 key_findings: | 
   <ul><li>Despite having the second highest score-improvement of all companies in the 2019 RDR Index, Baidu had the second-lowest overall score among internet and mobile ecosystem companies.</li><li>Baidu disclosed little about how it safeguards users&rsquo; right to freedom of expression, but made significant strides in disclosures regarding its respect of users&rsquo; privacy rights.</li><li>Baidu disclosed nothing about its process for responding to third-party requests to restrict access to content or accounts, and published no data about these types of restrictions.</li></ul>
 graph: | 
@@ -18,7 +18,7 @@ services_evaluated: |
   <ul><li><strong>Baidu Search [<a href="/index2019/services/search/">Search engine</a>]</strong></li><li><strong>Baidu Cloud [<a href="/index2019/services/cloudservices/">Cloud service</a>]</strong></li><li><strong>Baidu PostBar [<a href="/index2019/services/socialnetworkblog/">Social networking &amp; blog</a>]</strong></li></ul>
 analysis_value: 23
 analysis_text: | 
-  <p>Baidu earned the second-lowest score of all internet and mobile ecosystem companies, outperforming only Mail.Ru.<a href="#fn1"><sup>1</sup></a> However, Baidu significantly improved its disclosure of how it handles user information, and earned the second-highest score improvement of all companies evaluated.<a href="#fn2"><sup>2</sup></a> Baidu improved the accessibility of its privacy policy, provided more detailed information on its data sharing policies&mdash;including the types of user information it shares and for what purposes&mdash;and improved its disclosure of options users have to obtain a copy of their own information. This progress could be attributed, in part, to new regulations requiring companies to be more transparent about their purposes for processing data.<a href="#fn3"><sup>3</sup></a> However, the company still failed to meet basic standards for respecting users&rsquo; freedom of expression and privacy. While the Chinese internet environment is restrictive, there are no legal barriers to prevent Baidu from further improving its policies for handling and securing user information.<a href="#fn4"><sup>4</sup></a></p><p>&nbsp;</p><hr /><p>&nbsp;</p><p><strong>Baidu, Inc.</strong> provides internet search, cloud storage, social networking, and other services in China and internationally.</p><p><strong>Market cap:</strong> USD 59.5 billion<a href="#fn1"><sup>1</sup></a><br /><strong>NasdaqGS:</strong> BIDU</p>
+  <p>Baidu earned the second-lowest score of all internet and mobile ecosystem companies, outperforming only Mail.Ru.<a href="#fn1"><sup>1</sup></a> However, Baidu significantly improved its disclosure of how it handles user information, and earned the second-highest score improvement of all companies evaluated.<a href="#fn2"><sup>2</sup></a> Baidu improved the accessibility of its privacy policy, provided more detailed information on its data sharing policies&mdash;including the types of user information it shares and for what purposes&mdash;and improved its disclosure of options users have to obtain a copy of their own information. This progress could be attributed, in part, to new regulations requiring companies to be more transparent about their purposes for processing data.<a href="#fn3"><sup>3</sup></a> However, the company still failed to meet basic standards for respecting users&rsquo; freedom of expression and privacy. While the Chinese internet environment is restrictive, there are no legal barriers to prevent Baidu from further improving its policies for handling and securing user information.<a href="#fn4"><sup>4</sup></a></p><p>&nbsp;</p><hr /><p>&nbsp;</p><p><strong>Baidu, Inc.</strong> provides internet search, cloud storage, social networking, and other services in China and internationally.</p><p><strong>Market cap:</strong> USD 59.5 billion<a href="#fn5"><sup>5</sup></a><br /><strong>NasdaqGS:</strong> BIDU</p>
 key_recommendation: | 
   <ul><li><strong>Improve disclosure of human rights due diligence.</strong> Baidu should disclose more information about its human rights due diligence, including whether it conducts human rights risk assessments on new and existing services and when entering new markets.</li><li><strong>Increase transparency about private requests.</strong> Baidu should publish data about private requests to restrict content or accounts and for user information.</li><li><strong>Improve user control of personal data.</strong> Baidu should improve users&rsquo; options to control and access their own information, including how that information is used for targeted advertising.</li></ul>
 governance_value: 7
@@ -27,7 +27,7 @@ governance_text: |
 summary_of_changes_governance:
 - markup: <a href='#' rel='summary_of_changes_governance' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
-  change: positive
+  change: true
   title: G3. Internal implementation
   body: "<p>Baidu improved its disclosure of employee training on privacy and data security issues.</p>"
 freedom_value: 13
