@@ -398,12 +398,12 @@ $maincolor:  #231f20;
         margin-left: 20px;
         li{
           list-style: disc;
-          font-size: 1em;
+          /*font-size: 1em;*/
           line-height: 1.4em;
-          font-family: $simplon-light;
+          font-family: $simplon-regular;
           color: $black-narrative;
-          
-          p{
+          /*here it was p */
+          li{
             font-size: 1em;
             line-height: 1.4em;
             font-family: $simplon-light;
