@@ -108,12 +108,24 @@ module.exports = Backbone.View.extend({
             var difference = compare.findWhere({ id: data.compURL });
             if(difference){
               var total_difference = difference.attributes.total_difference;
-              var total_difference_class = (total_difference >= 0) ? 'fa fa-chevron-up up-arrow-green' : 'fa fa-chevron-down down-arrow-red';  
-              $('#company--difference').html('<i class="'+total_difference_class+'" aria-hidden="true"></i>');
+              
+              var total_difference_class = 'fa fa-minus minimize-grey';
+              if(total_difference > 0) {
+                total_difference_class = 'fa fa-chevron-up up-arrow-green';
+              }
+              if(total_difference < 0) {
+                total_difference_class = 'fa fa-chevron-down down-arrow-red';  
+              }
+
+              if(!isNaN(total_difference)) {
+                $('#company--difference').html('<i class="'+total_difference_class+'" aria-hidden="true"></i><span>'+total_difference+'</span>');
+              } else {
+                $('#company--difference').html('');
+              }
             }
             var is_telco = company.attributes.telco;
             var total = company.attributes.total;
-            var company_type = (is_telco) ? 'Telecommunications company' : 'Internet and Mobile Ecosystem Companies';
+            var company_type = (is_telco) ? 'Telecommunications company' : 'Internet and mobile ecosystem companies';
             $('#company--type').html('<i class="fa fa-circle '+is_telco+'"></i>'+company_type);
             $('#company--name').text(data.company);
             $('#company--domicile').html('Domicile: '+data.country);

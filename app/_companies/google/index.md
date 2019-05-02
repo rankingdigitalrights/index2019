@@ -4,16 +4,16 @@ entity: google
 layout: company
 name: google
 id: google
-company_type: Internet and Mobile Ecosystem Companies
+company_type: Internet and Mobile Ecosystem Company
 display: Google Inc.
 telco: false
-rank: 1
+rank: 2
 basic_information: | 
   <p>Headquarters: USA <br />Link: <a href="https://www.apple.com">https://www.apple.com </a><br />Download: <a href="https://www.apple.com">https://www.apple.com</a></p>
 key_findings: | 
   <ul><li>Apple earned the largest score improvement of any company in the Index, but still lagged behind most of its U.S. peers due to its failure to disclose policies affecting users&rsquo; freedom of expression.</li><li>Apple improved its commitments to users&rsquo; privacy in a number of areas, including its disclosure of options users have to control how their information is used for targeted advertising. It was also the only company in the Index to clearly disclose that it does not track users across third-party websites.</li><li>Apple improved its disclosure of its policies for responding to data breaches, but its disclosure of other security policies and practices still fell short.</li></ul>
 graph: | 
-  <p><img src="/index2019/app/assets/graphics/content/Ranking_Digital_Rights_2018_Corporate_Accountability_Index(1).png" /></p>
+  <p><img src="/index2018/assets/graphics/content/scores_company2_google.jpg" /></p>
 services_evaluated: | 
   <div class="container--right"><div class="comp--services_evaluated"><div class="comp--instant_mess-wrapper"><ul><li class="comp--instant_mess"><label> </label>iMessage<label></label></li><li class="comp--instant_mess">iCloud</li><li class="comp--instant_mess">iOS</li></ul></div></div></div>
 analysis_value: 21
@@ -29,7 +29,7 @@ summary_of_changes_governance:
 - item:
   change: true
   title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>
+  body: "<p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>"
 freedom_value: 17
 freedom_text: | 
   <p>But the company failed to clarify this (F11).</p>
@@ -38,7 +38,7 @@ summary_of_changes_freedom:
 - item:
   change: true
   title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>
+  body: "<p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>"
 privacy_value: 25
 privacy_text: | 
   <p>Am&eacute;rica M&oacute;vil ranked fifth out of the 10 telecommunications companies evaluated in the Privacy category, ranking behind AT&amp;T, Orange, and several other companies.<br /><br /><strong>Handling of user information:</strong> Telcel disclosed less about how it handles user information than AT&amp;T, Vodafone UK, and Telef&oacute;nica Spain, but more than most other telecommunications companies evaluated (P3-P8). It disclosed little about what types of user information it collects (P3), shares (P4), and its reasons for doing so (P5). Like most of its peers, Telcel disclosed nothing about how long it retains user information (P6), although no law prohibits the company from doing so. It disclosed little about options users have to control what information is collected, including for targeted advertising (P7).<br /><br /><strong>Requests for user information:</strong> Like most telecommunications companies, Am&eacute;rica M&oacute;vil provided almost no information about how it handles government and private requests for user information (P10), and failed to disclose whether it informs users when their information is requested (P12). The company did not publish any data about such requests (P11), despite being required by law to report the number of government requests for real-time location tracking or user metadata to the country&rsquo;s telecommunications authority. <br /><br /><strong>Security:</strong> Telcel did not provide as much information about its security policies as Vodafone UK, AT&amp;T, and Telef&oacute;nica Spain, but was on par with Airtel India and Orange France (P13-P18). Telcel failed to disclose any information about how it addresses security vulnerabilities, including if it offers a bug bounty program for security researchers to submit vulnerabilities (P14). Like most companies in the Index, Telcel disclosed nothing about its policies for addressing data breaches (P15). Companies in Mexico are <a href="https://www.telcel.com/mundo_telcel/quienes-somos/corporativo/redes-sociales" target="_blank" rel="noopener">legally required</a> to notify users only if the data breach &ldquo;significantly affects&rdquo; their rights, however the company does not disclose this information to users.</p>
@@ -47,5 +47,7 @@ summary_of_changes_privacy:
 - item:
   change: true
   title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>
+  body: "<p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>"
+footnotes: | 
+  <p>[1] Bloomberg Markets, Accessed January 15, 2019, <a href="https://www.bloomberg.com/quote/AAPL:US.">https://www.bloomberg.com/quote/AAPL:US. </a><br />[2] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index. <br />[3] For Apple&rsquo;s performance in the 2018 Index, see: <a href="/index2018/companies/apple.">https://rankingdigitalrights.org/index2018/companies/apple. </a><br />[4] "USA FREEDOM Act of 2015," Pub. L. No. 114&ndash;23 (2015), https://www.congress.gov/bill/114th-congress/house-bill/2048.</p>
 ---

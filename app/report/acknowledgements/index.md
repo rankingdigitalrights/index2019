@@ -1,12 +1,12 @@
 ---
 layout: narrative
 header: Narrative
-next:
-  href: executive-summary
-  text: Executive summary
+prev:
+  href: appendix
+  text: Appendix
 ---
 Acknowledgments
-===============
+===================
 
 **Ranking Digital Rights (RDR) staff:**
 

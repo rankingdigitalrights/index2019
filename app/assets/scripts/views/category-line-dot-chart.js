@@ -20,6 +20,7 @@ module.exports = BaseChart.extend({
     } else {
       var isTelco = activeModel.get('telco');
       filtered = this.collection.where({ telco: isTelco });
+      console.info(filtered);
     }
 
     var values = filtered.map(function (model) {

@@ -66,7 +66,7 @@
         "total_difference": 0
     },
     {
-        "freedom_of_expression_2019": 12,
+        "freedom_of_expression_2019": 13,
         "freedom_of_expression_2018": 12,
         "freedom_of_expression_difference": 0,
         "governance_2018": 5,
@@ -296,7 +296,7 @@
         "governance_2018": 76,
         "governance_2019": 94,
         "governance_difference": 17.68,
-        "id":"telefónica",
+        "id":"telefonica",
         "name":"Telefónica",
         "privacy_2018": 32,
         "privacy_2019": 49,
@@ -329,7 +329,7 @@
         "governance_2019": 4,
         "governance_difference": 0,
         "id":"tencent",
-        "name":"TenCent",
+        "name":"Tencent",
         "privacy_2018": 32,
         "privacy_2019": 39,
         "privacy_difference": 7.64,

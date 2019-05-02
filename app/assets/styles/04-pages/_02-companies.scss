@@ -4,6 +4,8 @@
 
     .page--companies--content--column {
 
+      padding-bottom: 2em;
+
       @include media(medium-up) {
       @include span-columns(6);
       }

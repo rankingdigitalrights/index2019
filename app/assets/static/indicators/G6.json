@@ -2994,7 +2994,7 @@
             ]
         },
         {
-            "id": "telefónica",
+            "id": "telefonica",
             "name": "Telefónica",
             "headers": [
                 {
@@ -3337,7 +3337,7 @@
         },
         {
             "id": "tencent",
-            "name": "TenCent",
+            "name": "Tencent",
             "headers": [
                 {
                     "text": "QZone - Freedom of Expression"

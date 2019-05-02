@@ -2,14 +2,17 @@
 layout: narrative
 header: Narrative
 prev:
-  href: company-report-cards
-  text: Company Report Cards
+  href: questions-for-investors-to-aks
+  text: Questions for investors
+next:
+  href: acknowledgements
+  text: Acknowledgements
 footnotes: | 
   <p class="footnotes">[108] &ldquo;2018 Companies,&rdquo; Ranking Digital Rights, <a href="/wp-admin/">https://rankingdigitalrights.org/2018-companies/"</a>.</p><p class="footnotes">[109] Figures as of December 31, 2017. "World Internet Users Statistics and 2018 World Population Stats," Internet World Stats, accessed March 19, 2018, <a href="https://www.internetworldstats.com/stats.htm">https://www.internetworldstats.com/stats.htm</a>.</p>
 ---
-11. Appendixxxxxxxxxx
-  =================
-
+Appendix
+========
+ 
 11.1 Index methodology development
 ----------------------------------
 
@@ -21,9 +24,9 @@ For the 2017 Index, launched in March 2017, we expanded the ranking to cover add
 
 The 2018 Index applies the same methodology to evaluate the same 22 companies as in the 2017 Index.[[108]](#footnotes) This enabled us to produce comparative analyses of each company’s performance and to track overall trends.
 
-We encourage stakeholders to read more about our methodology development: <https://rankingdigitalrights.org/methodology-development/>
+We encourage stakeholders to read more about our methodology development: [https://rankingdigitalrights.org/methodology-development/](/methodology-development/)
 
-To view or download the full 2018 methodology, visit: <https://rankingdigitalrights.org/2018-indicators/>
+To view or download the full 2018 methodology, visit: [https://rankingdigitalrights.org/2018-indicators/](/2018-indicators/)
 
 11.2 Company selection ## {#section-112}
 ----------------------------------------
@@ -35,7 +38,7 @@ All companies evaluated in the Index are multinational corporations listed on a 
 - **User base:** The companies in the Index have a significant footprint in the areas where they operate. The telecommunications companies have a substantial user base in their home markets, and the internet companies have a large number of global users as identified by established global traffic rankings such as Alexa. The policies and practices of the selected companies, and their potential to improve, thus affect a large percentage of the world’s 4.2 billion internet users.[[109]](#footnotes)
 - **Geographic reach and distribution:** The Index includes companies that are headquartered in North America, Europe, Africa, Asia, and the Middle East, and collectively, the companies in the Index have users in many regions around the world.
 - **Relevance to users’ freedom of expression and privacy rights:** Most of the companies in the Index operate in, or have a significant user base in, countries where human rights are not universally respected. This is based on relevant research from such organizations as Freedom House, the Web Foundation, and Reporters Without Borders, as well as stakeholder feedback.
-
+ 
 11.3 Selection of services ## {#section-113}
 --------------------------------------------
 
@@ -44,7 +47,7 @@ The following factors guided the selection of services:
 - Telecommunications services: These operators provide a breadth of services. To keep the scope of the Index manageable while still evaluating services that directly affect freedom of expression and privacy, the Index focused on: 1) post-paid and pre-paid mobile services, including the reasonable expected mobile offerings of voice, text, and data services; and, 2) fixed-line broadband, in cases where it was available in the company’s home operating market. Only consumer services were included.
 - Internet services: Two or three discrete services were selected based on their comparability across companies, the size of their user base, and their ability to paint a fuller picture of the overall company approach to freedom of expression and privacy. This enabled researchers to discern whether company commitments, policies, and practices applied to the entire corporate entity or only to specific services.
 - Mobile ecosystems: In 2016 most of the world’s mobile devices were running either Apple’s iOS operating system, or some version of Google’s Android mobile operating system. Thus we evaluated Apple’s iOS ecosystem plus two different variants of the Android ecosystem: Android on devices controlled directly by Google (the Nexus smartphone and Pixel tablet product lines), and Android on devices controlled by Samsung, which in 2016 held the largest worldwide market share for Android devices.
-
+ 
 For a full list of company services evaluated in the Index, see Section 1.2.
 
 11.4 Levels of disclosure ## {#section-114}
@@ -59,7 +62,7 @@ For telecommunications companies, with the exception of AT&T, the parent company
 11.5 Research process and steps ## {#section-115}
 -------------------------------------------------
 
-RDR works with a network of international researchers to collect data on each company, and to evaluate company policies in the language of the company’s operating market. RDR’s external research team for the 2018 Index consisted of 28 researchers from or based in 18 countries. A list of our partners and contributors can be found at: <https://rankingdigitalrights.org/who/affiliates/>.
+RDR works with a network of international researchers to collect data on each company, and to evaluate company policies in the language of the company’s operating market. RDR’s external research team for the 2018 Index consisted of 28 researchers from or based in 18 countries. A list of our partners and contributors can be found at: [https://rankingdigitalrights.org/who/affiliates/](/who/affiliates/).
 
 The research process for the 2018 Index consisted of several steps involving rigorous cross-checking and internal and external review, as follows:
 
@@ -70,7 +73,7 @@ The research process for the 2018 Index consisted of several steps involving rig
 - **Step 5: Company Feedback.** Initial results were sent to companies for comment and feedback. All feedback received from companies by the agreed upon deadline was reviewed by RDR staff who made decisions about score changes or adjustments.
 - **Step 6: Second Horizontal Review.** Research staff conducted a second horizontal review, cross-checking the indicators for consistency and quality control.
 - **Step 7: Final Scoring.** The RDR team calculated final scores.
-
+ 
 11.6 Company engagement ## {#section-116}
 -----------------------------------------
 
@@ -85,7 +88,7 @@ Proactive and open stakeholder engagement has been a critical component of the I
 
 **Research for the 2018 Index was based on company policies that were active between January 13, 2017 and January 12, 2018.** New information published by companies after January 12, 2018 was not evaluated.
 
-**2017 Index score adjustments:** Some company scores from 2017 were adjusted for comparison with the 2018 evaluation. Scores were adjusted at the element level, in accordance with clarified evaluation standards that were applied in the 2018 Index, or to include information not located during the 2017 Index cycle, or as a result of a re-assessment of the company’s disclosure. These adjustments did not produce changes to any company position in the 2017 rankings or to any of the key findings highlighted in the 2017 Index. Each score adjustment, including a detailed explanation of the reason for each change, is recorded in each company’s final dataset, which is publicly available for download [here](https://www.rankingdigitalrights.org/index2018/download/).
+**2017 Index score adjustments:** Some company scores from 2017 were adjusted for comparison with the 2018 evaluation. Scores were adjusted at the element level, in accordance with clarified evaluation standards that were applied in the 2018 Index, or to include information not located during the 2017 Index cycle, or as a result of a re-assessment of the company’s disclosure. These adjustments did not produce changes to any company position in the 2017 rankings or to any of the key findings highlighted in the 2017 Index. Each score adjustment, including a detailed explanation of the reason for each change, is recorded in each company’s final dataset, which is publicly available for download [here](https://www.rankingdigitalrights.org/index2019/download/).
 
 **How companies are scored:** The Index evaluates company disclosure of the overarching “parent,” or “group,” level, as well as those of selected services and/or local operating companies (depending on company structure). Each indicator has a list of elements, and companies receive credit (full, partial, or no credit) for each element they fulfill. The evaluation includes an assessment of disclosure for every element of each indicator, based on one of the following possible answers:
 
@@ -94,7 +97,7 @@ Proactive and open stakeholder engagement has been a critical component of the I
 - “No disclosure found” — Researchers were not able to find information provided by the company on their website that answers the element question.
 - “No” — Company disclosure exists, but it does not disclose to users what the element is asking. This is distinct from the option of “no disclosure found,” although both result in no credit.
 - “N/A” — Not applicable. This element does not apply to the company or service. Elements marked as N/A will not be counted for or against a company in the scoring process.
-
+ 
 **Points**
 
 - Yes/full disclosure = 100
@@ -102,7 +105,7 @@ Proactive and open stakeholder engagement has been a critical component of the I
 - No = 0
 - No disclosure found = 0
 - N/A excluded from the score and averages
-
+ 
 Companies receive a cumulative score of their performance across all Index categories, and results show how companies performed by each category and indicator. Scores for the Freedom of Expression and Privacy categories are calculated by averaging scores for each individual service. Scores for the Governance category indicators include group-, operating-, and service(s)-level performance (depending on indicator and company type, see below).
 
 **Governance category scoring**
@@ -116,7 +119,7 @@ Companies receive a cumulative score of their performance across all Index categ
 - **G6:**
 - Internet and mobile ecosystem companies: average of service-level scores.
 - Telecommunications companies: average of service-level scores.
-
+ 
 **Indicator and element scoring**
 
 Telecommunications companies were evaluated on 32 of the 35 indicators; internet and mobile ecosystem companies were evaluated on 33 of the 35 indicators. Some elements within indicators were not applicable to certain services.
@@ -124,7 +127,7 @@ Telecommunications companies were evaluated on 32 of the 35 indicators; internet
 The following list identifies which indicators or elements were N/A for certain companies or services:
 
 - F3, Element 2: N/A for search engines
-- F3, Elements 4-5: N/A for pre-paid and post-paid mobile services, Cloud services, email services, and messaging services.
+- F3, Elements 4-5: N/A for Prepaid and postpaid mobile services, Cloud services, email services, and messaging services.
 - F5-F7: N/A for email services
 - F6, Element 2: N/A for search engines
 - F7, Element 2: N/A for search engines
@@ -141,7 +144,7 @@ The following list identifies which indicators or elements were N/A for certain 
 - P16: N/A for telecommunications companies
 - P16, Elements 3-4: N/A for internet services without private messaging functions
 - P17: N/A for telecommunications companies; search engines
-
+ 
 The following elements apply only to mobile ecosystems:
 
 - P1, Element 4
@@ -152,16 +155,16 @@ The following elements apply only to mobile ecosystems:
 - P7, Element 5
 - P8, Element 5
 - P14, Elements 4, 7-8
-
+ 
 11.8 For further information: ## {#section-118}
 -----------------------------------------------
 
-- For more information about RDR’s methodology development, see: <https://rankingdigitalrights.org/methodology-development/>.
-- The 2015 Index can be viewed here: <https://rankingdigitalrights.org/index2015/>.
-- The 2017 Index can be viewed here: <https://rankingdigitalrights.org/index2017/>.
-- For more details about differences between the 2015 and 2017 methodology, see: <https://rankingdigitalrights.org/2016/09/15/rdr-launches-2017-research/>.
-- For more information about the project please see our “frequently asked questions” page: <https://rankingdigitalrights.org/who/frequently-asked-questions/>.
-
+- For more information about RDR’s methodology development, see: [https://rankingdigitalrights.org/methodology-development/](/methodology-development/).
+- The 2015 Index can be viewed here: [https://rankingdigitalrights.org/index2015/](/index2015/).
+- The 2017 Index can be viewed here: [https://rankingdigitalrights.org/index2017/](/index2017/).
+- For more details about differences between the 2015 and 2017 methodology, see: [https://rankingdigitalrights.org/2016/09/15/rdr-launches-2017-research/](/2016/09/15/rdr-launches-2017-research/).
+- For more information about the project please see our “frequently asked questions” page: [https://rankingdigitalrights.org/who/frequently-asked-questions/](/who/frequently-asked-questions/).
+ 
 11.9 Charts and tables ## {#section-119}
 ----------------------------------------
 

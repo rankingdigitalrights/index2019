@@ -7,45 +7,83 @@ id: telefonica
 company_type: Telecommunications company
 display: Telefónica, S.A.
 telco: true
-rank: 3
+rank: 1
 basic_information: | 
-  <p><strong>Headquarters</strong>: USA <br /><strong>Link</strong>: <a href="https://www.apple.com">https://www.apple.com </a><br /><strong>Download</strong>: <a href="https://www.apple.com">https://www.apple.com</a></p>
+  <p><strong>Domicile:</strong> Spain<br /><strong>Website:</strong> <a href="http://www.telefonica.com">www.telefonica.com</a>&nbsp;</p>
 key_findings: | 
-  <ul><li>Am&eacute;rica M&oacute;vil failed to disclose sufficient information about its policies and practices affecting users&rsquo; freedom of expression and privacy.</li><li>The company lacked disclosure about how it responds to government requests to shut down networks.</li><li>The company did not clearly disclose how it handles government or private requests to restrict content or hand over user information.</li></ul>
+  <ul><li>Telef&oacute;nica received the top score among telecommunications companies, and made the most improvements to its disclosure of policies affecting freedom of expression and privacy of any company evaluated.</li><li>Telef&oacute;nica disclosed more than all other companies about its governance and oversight over human rights issues, and was one of only three companies to disclose that it conducts human rights risk assessments on its use of automated decision-making technologies.</li><li>Telef&oacute;nica disclosed more than any telecommunications company about policies affecting freedom of expression, but still failed to disclose enough about how it handles government requests to block content and restrict user accounts.</li></ul>
 graph: | 
-  <p><img src="/index2019/app/assets/graphics/content/Ranking_Digital_Rights_2018_Corporate_Accountability_Index1.png" /></p>
+  <p><img src="/index2018/assets/graphics/content/scores_company13_telefonica.jpg" /></p>
 services_evaluated: | 
-  <ul><li><label> </label>iMessage [<a href="http://google.com">Link</a>]<label></label></li><li>iCloud [<a href="http://google.com">Link</a>]</li><li>iOS [<a href="http://google.com">Link</a>]</li></ul>
-analysis_value: 21
+  <ul><li><strong>Movistar (<a href="/index2019/services/prepostpaidmobile/">Prepaid mobile</a>)</strong></li><li><strong>Movistar (<a href="/index2019/services/prepostpaidmobile/">Postpaid mobile</a>)</strong></li><li><strong>Movistar (<a href="/index2019/services/fixedbroadband/">Fixed-line broadband</a>)</strong></li></ul>
+analysis_value: 57
 analysis_text: | 
-  <p>Am&eacute;rica M&oacute;vil ranked fifth out of the 10 telecommunications companies evaluated, disclosing little about policies and practices affecting freedom of expression and privacy. The company slightly improved its disclosure of policies affecting users&rsquo; freedom of expression in the 2018 Index. Although Freedom House rates Mexico&rsquo;s internet environment as <a href="https://freedomhouse.org/report/freedom-net/2017/mexico" target="_blank" rel="noopener">Partly Free,</a> the country&rsquo;s legal environment does not prevent the company from meeting basic benchmarks for transparency in key areas. For instance, the company did not disclose its process for responding to government or private requests to block content or accounts, although no laws in Mexico prevent companies from doing so. In addition, although companies are <a href="http://www.dof.gob.mx/nota_detalle.php?codigo=5418339&amp;fecha=02/12/2015" target="_blank" rel="noopener">required to report</a> to the telecommunications authority the number of government requests received for real-time location tracking or access to user metadata, Am&eacute;rica M&oacute;vil did not publish this data.</p>
+  <p>Telef&oacute;nica received the highest score among telecommunications companies in the 2019 RDR Index, disclosing more about its commitments, policies, and practices affecting freedom of expression and privacy than any of its peers.<a href="#fn1"><sup>1</sup></a> It made the most improvements of any company evaluated this year, topping Vodafone for the number one spot in this year&rsquo;s ranking.<a href="#fn2"><sup>2</sup></a> It improved its disclosure of policies affecting users&rsquo; freedom of expression and privacy, including how it handles government requests to restrict content and accounts, to shut down its networks, and to hand over user data. Still, there is room for improvement. Telef&oacute;nica should publish data about actions it takes to restrict content and accounts that violate its rules. It should also publish more information about its security policies, including how it addresses security vulnerabilities and data breaches.</p><p>&nbsp;</p><hr /><p><br /><strong>Telef&oacute;nica, S.A.</strong> provides mobile, fixed-line broadband, and other services to more than 272 million mobile customers in Spain, Latin America, and internationally.<a href="#fn3"><sup>3</sup></a></p><p><strong>Market cap:</strong> USD 44.0 billion<a href="#fn4"><sup>4</sup></a><br /><strong>BME:</strong> TEF</p>
 key_recommendation: | 
-  <div class="key-recommendation"><ul><li><strong>Be transparent about policies affecting users&rsquo; freedom of expression.</strong> The company should be more transparent about how it responds to government requests to block content, restrict user accounts, and shut down networks.</li><li><strong>Be transparent about external requests.</strong> The company should disclose data about the number of government and private requests it receives to remove content and accounts and to hand over user information.</li><li><strong>Disclose more about security practices.</strong> The company should clearly communicate its handling of data breaches to users.</li></ul></div><p><strong>Am&eacute;rica M&oacute;vil, S.A.B. de C.V.</strong> provides telecommunications services to Mexico and 35 countries in the Americas and Europe. It offers mobile and fixed-voice and data services for retail and business customers and is one of the largest operators globally.</p><div class="comp--industry"><strong><label>Industry: </label></strong>Diversified Telecommunication Services</div><div class="comp--mark"><strong><label>Market cap: </label></strong>USD 63.4 billion</div><div class="comp--sank"><strong><label>Stock symbol: </label></strong>AMX L</div>
-governance_value: 21
+  <ul><li><strong>Clarify security policies.</strong> Telef&oacute;nica should be more transparent about its security policies, including how it responds to data breaches and how it addresses security vulnerabilities.</li><li><strong>Clarify handling of user information.</strong> Telef&oacute;nica should disclose more about its handling of user information, including its data retention policies and practices.</li><li><strong>Disclose more about third-party requests.</strong> Telef&oacute;nica should disclose more comprehensive data about how it responds to government and private requests to restrict access to content or accounts and to hand over user data.</li></ul>
+governance_value: 94
 governance_text: | 
-  <p>Am&eacute;rica M&oacute;vil scored below most of its peers in the Governance category, but ahead of Bharti Airtel, Etisalat, Axiata, and Ooredoo. The company continued to lack clear disclosure of its commitments to human rights at the governance level, including whether it conducts human rights impact assessments (G4) or if it engages with a range of stakeholders on freedom of expression and privacy issues (G5). However, it disclosed more than most of its peers about remedy mechanisms addressing freedom of expression and privacy related complaints (G6). In Mexico <a href="http://www.diputados.gob.mx/LeyesBiblio/pdf/LFTR_311017.pdf" target="_blank" rel="noopener">companies are legally required to provide users with a complaint mechanism</a>.</p>
+  <p>Telef&oacute;nica significantly improved disclosure of its governance and oversight over human rights issues, earning the highest score in this category of any company in the 2019 RDR Index. It earned the highest score on all six indicators in the Governance category, and stood out for disclosing the clearest grievance and remedy mechanism of any company in the entire Index (G6). Notably, Telef&oacute;nica was among the few companies evaluated to disclose that it assesses freedom of expression and privacy risks associated with enforcing its terms of service and its use of automated decision making technologies. However, it failed to disclose if it assesses risks associated with its targeted advertising practices and policies (G4).</p>
 summary_of_changes_governance:
 - markup: <a href='#' rel='summary_of_changes_governance' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
   change: true
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>
-freedom_value: 17
+  title: G2. Governance and management oversight
+  body: "<p>Telef&oacute;nica disclosed management-level oversight over how its policies and practices affect freedom of expression and privacy.</p>"
+- item:
+  change: true
+  title: G4. Impact assessment
+  body: "<p>Telef&oacute;nica disclosed more information about the human rights impact assessments it conducts.</p>"
+- item:
+  change: true
+  title: G6. Remedy
+  body: "<p>Telef&oacute;nica clarified the number of freedom of expression related complaints it received.</p>"
+freedom_value: 47
 freedom_text: | 
-  <p>But the company failed to clarify this (F11).</p>
+  <p>Although Telef&oacute;nica disclosed more about policies affecting freedom of expression than any other telecommunications company evaluated, it still fell short in key areas. The operating company Telef&oacute;nica Spain&rsquo;s terms of service were somewhat difficult to find and understand (F1), and it was not clear whether users would be directly notified of changes (F2).<a href="#fn5"><sup>5</sup></a> Telef&oacute;nica improved its disclosure of how it responds to government requests, including those submitted by governments in foreign jurisdictions, but was less transparent about how it responds to requests it receives through private processes (F5). Telef&oacute;nica provided some data about government requests it received and complied with (F6), but no data about requests received through private processes (F7).</p><p>Telef&oacute;nica Spain was one of only two companies to commit to upholding net neutrality principles (F9). The company only partially disclosed the reasons why it may shut down or restrict access to its networks or certain protocols, though it was the only company to disclose both the number of requests it received and with which it complied (F10).</p>
 summary_of_changes_freedom:
 - markup: <a href='#' rel='summary_of_changes_freedom' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
   change: true
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>
-privacy_value: 25
+  title: F5. Process for responding to third-party requests for content or account restriction
+  body: "<p>Telef&oacute;nica improved its disclosure of how it responds to government requests to restrict access to content or accounts.</p>"
+- item:
+  change: true
+  title: F6. Data about government requests for content or account restriction
+  body: "<p>Telef&oacute;nica improved the data it publishes about government requests to restrict access to content and accounts.</p>"
+- item:
+  change: true
+  title: F9. Network management (telecommunications companies)
+  body: "<p>Telef&oacute;nica disclosed that it does not engage in network management practices for reasons beyond assuring the quality of service and reliability of the network.</p>"
+- item:
+  change: true
+  title: F10. Network shutdown (telecommunications companies)
+  body: "<p>Telef&oacute;nica improved its disclosure of how it responds to government requests to shut down its networks.</p>"
+privacy_value: 49
 privacy_text: | 
-  <p>Am&eacute;rica M&oacute;vil ranked fifth out of the 10 telecommunications companies evaluated in the Privacy category, ranking behind AT&amp;T, Orange, and several other companies.<br /><br /><strong>Handling of user information:</strong> Telcel disclosed less about how it handles user information than AT&amp;T, Vodafone UK, and Telef&oacute;nica Spain, but more than most other telecommunications companies evaluated (P3-P8). It disclosed little about what types of user information it collects (P3), shares (P4), and its reasons for doing so (P5). Like most of its peers, Telcel disclosed nothing about how long it retains user information (P6), although no law prohibits the company from doing so. It disclosed little about options users have to control what information is collected, including for targeted advertising (P7).<br /><br /><strong>Requests for user information:</strong> Like most telecommunications companies, Am&eacute;rica M&oacute;vil provided almost no information about how it handles government and private requests for user information (P10), and failed to disclose whether it informs users when their information is requested (P12). The company did not publish any data about such requests (P11), despite being required by law to report the number of government requests for real-time location tracking or user metadata to the country&rsquo;s telecommunications authority. <br /><br /><strong>Security:</strong> Telcel did not provide as much information about its security policies as Vodafone UK, AT&amp;T, and Telef&oacute;nica Spain, but was on par with Airtel India and Orange France (P13-P18). Telcel failed to disclose any information about how it addresses security vulnerabilities, including if it offers a bug bounty program for security researchers to submit vulnerabilities (P14). Like most companies in the Index, Telcel disclosed nothing about its policies for addressing data breaches (P15). Companies in Mexico are <a href="https://www.telcel.com/mundo_telcel/quienes-somos/corporativo/redes-sociales" target="_blank" rel="noopener">legally required</a> to notify users only if the data breach &ldquo;significantly affects&rdquo; their rights, however the company does not disclose this information to users.</p>
+  <p>Telef&oacute;nica made a number of improvements to its policies affecting privacy, but still lacked disclosure in a number of areas. Telef&oacute;nica Spain revealed more than most of its peers about how it handles user information (P3-P8)&mdash;and made some key improvements&mdash;but could do more to clearly explain what user data it shares with third parties (P4), and options users have to control what data it collects and uses, including for purposes of targeted advertising (P7). It disclosed some information about its data retention policies, but did not disclose how long it retains personal data once users terminate their accounts (P6).</p><p>Telef&oacute;nica was more transparent than most of its peers about how it handles government and private requests for user information (P10-P11). It clarified its process for responding to government requests for user data, including those submitted by foreign governments (P10), and provided some data on government requests for user information, though this data could be more comprehensive (P11). But like most companies in the Index, it lacked transparency about how it handles private requests for user information (P10, P11)&mdash;and did not disclose if it notifies users when government entities or other types of third parties request information (P12).</p><p>Telef&oacute;nica Spain disclosed less than Deutsche Telekom, Vodafone UK, and AT&amp;T about its security policies and practices (P13-P18). It disclosed that it has an internal security audit team, but failed to clearly disclose whether it limits or monitors employee access to user data (P13). It improved its disclosure of how it addresses security vulnerabilities by disclosing a program allowing researchers to report vulnerabilities (P14). However, the company lost points in this year&rsquo;s Index for disclosing less clear information about its policies for responding to data breaches (P15).</p>
 summary_of_changes_privacy:
 - markup: <a href='#' rel='summary_of_changes_privacy' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
   change: true
-  title: F2. Changes to terms of service
-  body: <p>Am&eacute;rica M&oacute;vil improved its disclosure of changes to its terms of service by providing an archived version of the terms that apply to pre- and post-paid mobile users.</p>
+  title: P1 & P2. Privacy policies 
+  body: "<p>Telef&oacute;nica improved the clarity of its privacy policies and its commitment to notify users of changes</p>"
+- item:
+  change: true
+  title: P3, P4, P6, P8. Handling of user information
+  body: "<p>Telef&oacute;nica disclosed more about the types of user information it collects, provided commitment to minimize data collection, clarified some aspects of its data retention policies, and clarified options users have to obtain a copy of their user information .</p>"
+- item:
+  change: true
+  title: P10. Process for responding to third-party requests for user information
+  body: "<p>Telef&oacute;nica improved its disclosure of how it responds to government requests for user information.</p>"
+- item:
+  change: true
+  title: P14. Addressing security vulnerabilities
+  body: "<p>Telef&oacute;nica disclosed a mechanism for researchers to submit security vulnerabilities.</p>"
+- item:
+  change: false
+  title: P15. Data breaches
+  body: "<p>Telef&oacute;nica was less transparent about when it will notify data subjects in the event of a data breach.</p>"
+footnotes: | 
+  <p><a id="fn1"></a>[1] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index.<br /><a id="fn2"></a>[2] For Telef&oacute;nica&rsquo;s performance in the 2018 Index, see: <a href="/index2018/companies/telefonica">https://rankingdigitalrights.org/index2018/companies/telefonica</a>&nbsp;<br /><a id="fn3"></a>[3] &ldquo;Telef&oacute;nica in Numbers - FY2017&rdquo; (Telef&oacute;nica), Accessed January 15, 2019, <a href="https://www.telefonica.com/documents/153952/142035615/Telefonica-in-numbers-FY-2017.pdf/83eb9de4-42e5-a285-dfdb-581307080a4f">https://www.telefonica.com/documents/153952/142035615/Telefonica-in-numbers-FY-2017.pdf/83eb9de4-42e5-a285-dfdb-581307080a4f</a>&nbsp;<br /><a id="fn4"></a>[4] Bloomberg Markets, Accessed April 18, 2019, <a href="https://www.bloomberg.com/quote/TEF:SM">https://www.bloomberg.com/quote/TEF:SM</a>&nbsp;<br /><a id="fn5"></a>[5] For most indicators in the Freedom of Expression and Privacy categories, RDR evaluates the operating company of the home market, in this case Telef&oacute;nica Spain.</p>
 ---
