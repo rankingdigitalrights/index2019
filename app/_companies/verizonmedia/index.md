@@ -4,7 +4,7 @@ entity: verizonmedia
 layout: company
 name: verizonmedia
 id: verizonmedia
-company_type: Internet and Mobile Ecosystem Company
+company_type: Internet and mobile ecosystem companies
 display: Verizon Media Inc.
 telco: false
 rank: 2

@@ -4,7 +4,7 @@ entity: mailru
 layout: company
 name: mailru
 id: mailru
-company_type: Internet and Mobile Ecosystem Company
+company_type: Internet and mobile ecosystem companies
 display: Mail.Ru Group Limited
 telco: false
 rank: 12
@@ -51,5 +51,5 @@ summary_of_changes_privacy:
   title: P9. Collection of user information from third parties (internet companies)
   body: "<p>VKontakte&rsquo;s privacy policy was more transparent about how it collects user information from third-party websites using cookies.</p>"
 footnotes: | 
-  <p><a id="fn1"></a>[1] For Maul.Ru&rsquo;s performance in the 2018 Index, see: <a href="/index2018/companies/mailru">rankingdigitalrights.org/index2018/companies/mailru</a>&nbsp;<br /><a id="fn2"></a>[2] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index.<br /><a id="fn3"></a>[3] &ldquo;Freedom on the Net&rdquo; (Freedom House, November 2018), <a href="https://freedomhouse.org/report/freedom-net/2018/russia">freedomhouse.org/report/freedom-net/2018/russia</a>&nbsp;<br /><a id="fn4"></a>[4] Bloomberg Markets, Accessed April 18, 2019, <a href="https://www.bloomberg.com/quote/MAIL:LI">www.bloomberg.com/quote/MAIL:LI</a>&nbsp;<br /><a id="fn5"></a>[5] Andrei Soldatov and Irina Borogan, &ldquo;Inside the Red Web: Russia&rsquo;s Back Door onto the Internet &ndash; Extract,&rdquo; The Guardian, September 8, 2015, <a href="http://www.theguardian.com/world/2015/sep/08/red-web-book-russia-internet">www.theguardian.com/world/2015/sep/08/red-web-book-russia-internet</a>&nbsp;</p>
+  <p><a id="fn1"></a>[1] For Mail.Ru&rsquo;s performance in the 2018 Index, see: <a href="/index2018/companies/mailru">rankingdigitalrights.org/index2018/companies/mailru</a>&nbsp;<br /><a id="fn2"></a>[2] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index.<br /><a id="fn3"></a>[3] &ldquo;Freedom on the Net&rdquo; (Freedom House, November 2018), <a href="https://freedomhouse.org/report/freedom-net/2018/russia">freedomhouse.org/report/freedom-net/2018/russia</a>&nbsp;<br /><a id="fn4"></a>[4] Bloomberg Markets, Accessed April 18, 2019, <a href="https://www.bloomberg.com/quote/MAIL:LI">www.bloomberg.com/quote/MAIL:LI</a>&nbsp;<br /><a id="fn5"></a>[5] Andrei Soldatov and Irina Borogan, &ldquo;Inside the Red Web: Russia&rsquo;s Back Door onto the Internet &ndash; Extract,&rdquo; The Guardian, September 8, 2015, <a href="http://www.theguardian.com/world/2015/sep/08/red-web-book-russia-internet">www.theguardian.com/world/2015/sep/08/red-web-book-russia-internet</a>&nbsp;</p>
 ---
