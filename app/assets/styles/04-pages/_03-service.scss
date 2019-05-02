@@ -1,4 +1,20 @@
 #page--service {
+	.bar--chart {
+		height: 260px;
+		@include media(small-up) {
+			height: 310px;
+			}
+		@include media(medium-up) {
+			height: 310px;
+			}
+		@include media(large-up) {
+			height: 310px;
+			}
+		@include media(xlarge-up) {
+			height: 310px;			 
+			}
+	
+		}
 	.container--right {
 		.rank--section {
 			@include media(small-up) {
@@ -161,7 +177,7 @@
 						  }
 						  @include media(xlarge-up) {
 						  font-size: 14px;  
-						  }							
+						  }
 						}
 					}
 					.bar--axis_x_rank {
@@ -207,6 +223,8 @@
 					  text {
 					  fill: $black;
 						  text-transform: capitalize;
+						  text-anchor: end !important;
+						  transform: rotate(-55deg);
 					  }
 					}
 
@@ -214,6 +232,10 @@
 						display: none;
 						@include media(large-up) {
 							display: block;
+							text {
+							text-anchor: end !important;
+						        transform: rotate(-31deg) translate(-81px, 168px);
+							}
 						}
 					}
 					.bar--axis_x_percent{
@@ -225,6 +247,8 @@
 					.bar--axis_x_service{
 						.tick{
 							text{
+								text-anchor: end !important;
+						        	transform: rotate(-30deg)translate(-31px, 31px);
 								@media (max-width: 767px){
 									-webkit-transform: rotate(-35deg) translate(-70px, 17px);
 									-moz-transform: rotate(-35deg) translate(-70px, 17px);
