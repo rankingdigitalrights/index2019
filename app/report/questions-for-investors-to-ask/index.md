@@ -8,10 +8,10 @@ next:
   href: appendix
   text: Appendix
 footnotes: | 
-  <p class="footnotes">[107] Ben Eisen, &ldquo;Facebook Stock Decline Knocks It Out of S&amp;P 500&prime;s Big Five,&rdquo; WSJ, March 19, 2018, <a href="https://blogs.wsj.com/moneybeat/2018/03/19/facebook-stock-decline-knocks-it-out-of-sp-500s-big-five/">https://blogs.wsj.com/moneybeat/2018/03/19/facebook-stock-decline-knocks-it-out-of-sp-500s-big-five/</a>.</p>
+  <p class="footnotes"><span style="font-weight: 400;">[114]</span> See the 2019 RDR Index methodology at: <a href="/2019-indicators" target="_blank" rel="noopener">rankingdigitalrights.org/2019-indicators</a>/.</p>
 ---
 Questions for investors
-===========================
+=======================
 
 1 The Ranking Digital Rights Corporate Accountability Index data and methodology offer a useful framework for investors to evaluate whether companies have made best efforts to mitigate risks to their business by working to anticipate and reduce potential harms to those who use their technologies, platforms, and services. Such risks are not limited to traditional “cybersecurity” threats related to hacking and data breaches. Shareholder value is also put at risk when companies fail to identify and mitigate broader risks to user privacy across their business operations, or fail to anticipate and address content-related issues spanning from hate speech and disinformation to government censorship and network shutdowns.**<sup>[107](#footnotes)</sup>**
 
