@@ -29,7 +29,7 @@ expression for these companies to abide by, so long as those limitations are law
 
 It is fair to expect companies to set rules prohibiting certain content or activities—like toxic speech or malicious behavior. However, when companies develop and enforce rules about what people can do and say on the internet—
 
-![Figure 14 | How have companies improved their disclosure of how they handle user information (P3-P9)?](/index2018/assets/graphics/content/fig_14.png)
+![Figure 14 : How have companies improved their disclosure of how they handle user information (P3-P9)?](/index2019/assets/graphics/content/fig_14.png)
 
 or whether they can access a service at all—they must do so in a way that is transparent and accountable.
 
@@ -38,22 +38,22 @@ or whether they can access a service at all—they must do so in a way that is t
 
 It is fair to expect companies to set rules prohibiting certain content or activities—like toxic speech or malicious behavior. However, when companies develop and enforce rules about what people can do and say on the internet—or whether they can access a service at all—they must do so in a way that is transparent and accountable. It is also fair to expect governments to set limits on freedom of
 
-![Figure 15 | How transparent are companies about options users have to control their own information (P7)?](/index2018/assets/graphics/content/fig_15.png)
+![Figure 15 : How transparent are companies about options users have to control their own information (P7)?](/index2019/assets/graphics/content/fig_15.png)
 
 expression for these companies to abide by, so long as those limitations are lawful, proportionate, and for a justifiable purpose, as outlined in international human rights instruments.[[60]](#footnotes) But people have a right to know how and why their speech or access to information may be restricted or otherwise shaped by companies—whether at the behest of governments, in compliance with laws, or for the companies’ own commercial reasons.
 
-![Figure 16 | How transparent are companies about their data retention policies and practices (P6)?](/index2018/assets/graphics/content/fig_16.png)
+![Figure 16 : How transparent are companies about their data retention policies and practices (P6)?](/index2019/assets/graphics/content/fig_16.png)
 
 <a id="section-54"></a>5.4 Government demands
 ---------------------------------------------
 
 It is fair to expect companies to set rules prohibiting certain content or activities—like toxic speech or malicious behavior. However, when companies develop and enforce rules about what people can do and say on the internet—or whether they can access a service at all—they must do so in a way that is transparent and accountable. It is also fair to expect governments to set limits on freedom of
 
-![Figure 17 | How transparent are companies about how they handle government demands for user information (P10, P11)?](/index2018/assets/graphics/content/fig_17.png)
+![Figure 17 : How transparent are companies about how they handle government demands for user information (P10, P11)?](/index2019/assets/graphics/content/fig_17.png)
 
 expression for these companies to abide by, so long as those limitations are lawful, proportionate, and for a justifiable purpose, as outlined in international human rights instruments.[[60]](#footnotes) But people have a
 
-![Figure 18 | Do companies commit to notify users when governments request their data (P12)?](/index2018/assets/graphics/content/fig_18.png)
+![Figure 18 : Do companies commit to notify users when governments request their data (P12)?](/index2019/assets/graphics/content/fig_18.png)
 
 right to know how and why their speech or access to information may be restricted or otherwise shaped by companies—whether at the behest of governments, in compliance with laws, or for the companies’ own commercial reasons.
 
@@ -62,13 +62,13 @@ right to know how and why their speech or access to information may be restricte
 
 It is fair to expect companies to set rules prohibiting certain content or activities—like toxic speech or malicious behavior. However, when companies develop and enforce rules about what people can do and say on the internet—or whether they can access a service at all—they must do so in a way that is transparent and accountable. It is also fair to expect governments to set limits on freedom of
 
-![Figure 19 | How transparent are companies about policies and practices for securing user information (P13-P18)?](/index2018/assets/graphics/content/fig_19.png)expression for these companies to abide by, so long as those limitations are lawful, proportionate, and for a justifiable purpose, as outlined in international human rights instruments.[[60]](#footnotes) But people have a
+![Figure 19 : How transparent are companies about policies and practices for securing user information (P13-P18)?](/index2019/assets/graphics/content/fig_19.png)expression for these companies to abide by, so long as those limitations are lawful, proportionate, and for a justifiable purpose, as outlined in international human rights instruments.[[60]](#footnotes) But people have a
 
-![Figure 20 | How transparent are companies about their processes for handling data breaches (P15)?](/index2018/assets/graphics/content/fig_20.png)
+![Figure 20 : How transparent are companies about their processes for handling data breaches (P15)?](/index2019/assets/graphics/content/fig_20.png)
 
 right to know how and why their speech or access to information may be restricted or otherwise shaped
 
-![Figure 21 | How transparent are internet and mobile ecosystem companies about encryption standards (P16)?](/index2018/assets/graphics/content/fig_21.png)
+![Figure 21 : How transparent are internet and mobile ecosystem companies about encryption standards (P16)?](/index2019/assets/graphics/content/fig_21.png)
 
 by companies—whether at the behest of governments, in compliance with laws, or for the companies’ own commercial reasons.
 
