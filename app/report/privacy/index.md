@@ -20,7 +20,7 @@ Privacy
 
 It is fair to expect companies to set rules prohibiting certain content or activities—like toxic speech or malicious behavior. However, when companies develop and enforce rules about what people can do and say on the internet—or whether they can access a service at all—they must do so in a way that is transparent and accountable. It is also fair to expect governments to set limits on freedom of
 
-![igure 13 | How transparent are companies about policies and practices affecting users' privacy and security (P1-P18)?](/index2018/assets/graphics/content/fig_13.png)
+!Figure 13 : How transparent are companies about policies and practices affecting users' privacy and security (P1-P18)?](/index2018/assets/graphics/content/fig_13.png)
 
 expression for these companies to abide by, so long as those limitations are lawful, proportionate, and for a justifiable purpose, as outlined in international human rights instruments.[[60]](#footnotes) But people have a right to know how and why their speech or access to information may be restricted or otherwise shaped by companies—whether at the behest of governments, in compliance with laws, or for the companies’ own commercial reasons.
 
