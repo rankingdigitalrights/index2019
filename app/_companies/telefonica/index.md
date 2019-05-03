@@ -20,7 +20,7 @@ analysis_value: 57
 analysis_text: | 
   <p>Telef&oacute;nica received the highest score among telecommunications companies in the 2019 RDR Index, disclosing more about its commitments, policies, and practices affecting freedom of expression and privacy than any of its peers.<a href="#fn1"><sup>1</sup></a> It made the most improvements of any company evaluated this year, topping Vodafone for the number one spot in this year&rsquo;s ranking.<a href="#fn2"><sup>2</sup></a> It improved its disclosure of policies affecting users&rsquo; freedom of expression and privacy, including how it handles government requests to restrict content and accounts, to shut down its networks, and to hand over user data. Still, there is room for improvement. Telef&oacute;nica should publish data about actions it takes to restrict content and accounts that violate its rules. It should also publish more information about its security policies, including how it addresses security vulnerabilities and data breaches.</p><p>&nbsp;</p><hr /><p><br /><strong>Telef&oacute;nica, S.A.</strong> provides mobile, fixed-line broadband, and other services to more than 272 million mobile customers in Spain, Latin America, and internationally.<a href="#fn3"><sup>3</sup></a></p><p><strong>Market cap:</strong> USD 44.0 billion<a href="#fn4"><sup>4</sup></a><br /><strong>BME:</strong> TEF</p>
 key_recommendation: | 
-  <ul><li><strong>Clarify security policies.</strong> Telef&oacute;nica should be more transparent about its security policies, including how it responds to data breaches and how it addresses security vulnerabilities.</li><li><strong>Clarify handling of user information.</strong> Telef&oacute;nica should disclose more about its handling of user information, including its data retention policies and practices.</li><li><strong>Disclose more about third-party requests.</strong> Telef&oacute;nica should disclose more comprehensive data about how it responds to government and private requests to restrict access to content or accounts and to hand over user data.</li></ul>
+  <ul><li><strong>Clarify security policies:</strong>&nbsp;Telef&oacute;nica should be more transparent about its security policies, including how it responds to data breaches and how it addresses security vulnerabilities.</li><li><strong>Clarify handling of user information:</strong>&nbsp;Telef&oacute;nica should disclose more about its handling of user information, including its data retention policies and practices.</li><li><strong>Disclose more about third-party requests:</strong>&nbsp;Telef&oacute;nica should disclose more comprehensive data about how it responds to government and private requests to restrict access to content or accounts and to hand over user data.</li></ul>
 governance_value: 94
 governance_text: | 
   <p>Telef&oacute;nica significantly improved disclosure of its governance and oversight over human rights issues, earning the highest score in this category of any company in the 2019 RDR Index. It earned the highest score on all six indicators in the Governance category, and stood out for disclosing the clearest grievance and remedy mechanism of any company in the entire Index (G6). Notably, Telef&oacute;nica was among the few companies evaluated to disclose that it assesses freedom of expression and privacy risks associated with enforcing its terms of service and its use of automated decision making technologies. However, it failed to disclose if it assesses risks associated with its targeted advertising practices and policies (G4).</p>
@@ -53,11 +53,11 @@ summary_of_changes_freedom:
   body: "<p>Telef&oacute;nica improved the data it publishes about government requests to restrict access to content and accounts.</p>"
 - item:
   change: true
-  title: F9. Network management (telecommunications companies)
+  title: F9. Network management
   body: "<p>Telef&oacute;nica disclosed that it does not engage in network management practices for reasons beyond assuring the quality of service and reliability of the network.</p>"
 - item:
   change: true
-  title: F10. Network shutdown (telecommunications companies)
+  title: F10. Network shutdowns
   body: "<p>Telef&oacute;nica improved its disclosure of how it responds to government requests to shut down its networks.</p>"
 privacy_value: 49
 privacy_text: | 
@@ -66,12 +66,12 @@ summary_of_changes_privacy:
 - markup: <a href='#' rel='summary_of_changes_privacy' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
   change: true
-  title: P1 & P2. Privacy policies 
-  body: "<p>Telef&oacute;nica improved the clarity of its privacy policies and its commitment to notify users of changes</p>"
+  title: P1 & P2. Privacy policies
+  body: "<p>Telef&oacute;nica improved the clarity of its privacy policies and its commitment to notify users of changes.</p>"
 - item:
   change: true
   title: P3, P4, P6, P8. Handling of user information
-  body: "<p>Telef&oacute;nica disclosed more about the types of user information it collects, provided commitment to minimize data collection, clarified some aspects of its data retention policies, and clarified options users have to obtain a copy of their user information .</p>"
+  body: "<p>Telef&oacute;nica disclosed more about the types of user information it collects, provided commitment to minimize data collection, clarified some aspects of its data retention policies, and clarified options users have to obtain a copy of their user information.</p>"
 - item:
   change: true
   title: P10. Process for responding to third-party requests for user information
@@ -85,5 +85,5 @@ summary_of_changes_privacy:
   title: P15. Data breaches
   body: "<p>Telef&oacute;nica was less transparent about when it will notify data subjects in the event of a data breach.</p>"
 footnotes: | 
-  <p><a id="fn1"></a>[1] The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index.<br /><a id="fn2"></a>[2] For Telef&oacute;nica&rsquo;s performance in the 2018 Index, see: <a href="/index2018/companies/telefonica">https://rankingdigitalrights.org/index2018/companies/telefonica</a>&nbsp;<br /><a id="fn3"></a>[3] &ldquo;Telef&oacute;nica in Numbers - FY2017&rdquo; (Telef&oacute;nica), Accessed January 15, 2019, <a href="https://www.telefonica.com/documents/153952/142035615/Telefonica-in-numbers-FY-2017.pdf/83eb9de4-42e5-a285-dfdb-581307080a4f">https://www.telefonica.com/documents/153952/142035615/Telefonica-in-numbers-FY-2017.pdf/83eb9de4-42e5-a285-dfdb-581307080a4f</a>&nbsp;<br /><a id="fn4"></a>[4] Bloomberg Markets, Accessed April 18, 2019, <a href="https://www.bloomberg.com/quote/TEF:SM">https://www.bloomberg.com/quote/TEF:SM</a>&nbsp;<br /><a id="fn5"></a>[5] For most indicators in the Freedom of Expression and Privacy categories, RDR evaluates the operating company of the home market, in this case Telef&oacute;nica Spain.</p>
+  <p class="footnotes"><a id="fn1"></a><span style="font-weight: 400;">[1]</span> The research period for the 2019 Index ran from January 13, 2018 to February 8, 2019. Policies that came into effect after February 8, 2019 were not evaluated in this Index.</p><p class="footnotes"><a id="fn2"></a><span style="font-weight: 400;">[2]</span> For Telef&oacute;nica&rsquo;s performance in the 2018 Index, see: <a href="/index2018/companies/telefonica">https://rankingdigitalrights.org/index2018/companies/telefonica</a>&nbsp;</p><p class="footnotes"><a id="fn3"></a><span style="font-weight: 400;">[3]</span> &ldquo;Telef&oacute;nica in Numbers - FY2017&rdquo; (Telef&oacute;nica), Accessed January 15, 2019, <a href="https://www.telefonica.com/documents/153952/142035615/Telefonica-in-numbers-FY-2017.pdf/83eb9de4-42e5-a285-dfdb-581307080a4f">https://www.telefonica.com/documents/153952/142035615/Telefonica-in-numbers-FY-2017.pdf/83eb9de4-42e5-a285-dfdb-581307080a4f</a>&nbsp;</p><p class="footnotes"><a id="fn4"></a><span style="font-weight: 400;">[4]</span> Bloomberg Markets, Accessed April 18, 2019, <a href="https://www.bloomberg.com/quote/TEF:SM">https://www.bloomberg.com/quote/TEF:SM</a>&nbsp;</p><p class="footnotes"><a id="fn5"></a><span style="font-weight: 400;">[5]</span> For most indicators in the Freedom of Expression and Privacy categories, RDR evaluates the operating company of the home market, in this case Telef&oacute;nica Spain.</p>
 ---
