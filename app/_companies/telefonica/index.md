@@ -13,7 +13,7 @@ basic_information: |
 key_findings: | 
   <ul><li>Telef&oacute;nica received the top score among telecommunications companies, and made the most improvements to its disclosure of policies affecting freedom of expression and privacy of any company evaluated.</li><li>Telef&oacute;nica disclosed more than all other companies about its governance and oversight over human rights issues, and was one of only three companies to disclose that it conducts human rights risk assessments on its use of automated decision-making technologies.</li><li>Telef&oacute;nica disclosed more than any telecommunications company about policies affecting freedom of expression, but still failed to disclose enough about how it handles government requests to block content and restrict user accounts.</li></ul>
 graph: | 
-  <p><img src="/index2018/assets/graphics/content/scores_company13_telefonica.jpg" /></p>
+  <p><img src="/index2018/assets/graphics/content/scores_company13.png" /></p>
 services_evaluated: | 
   <ul><li><strong>Movistar (<a href="/index2019/services/prepostpaidmobile/">Prepaid mobile</a>)</strong></li><li><strong>Movistar (<a href="/index2019/services/prepostpaidmobile/">Postpaid mobile</a>)</strong></li><li><strong>Movistar (<a href="/index2019/services/fixedbroadband/">Fixed-line broadband</a>)</strong></li></ul>
 analysis_value: 57
@@ -45,12 +45,8 @@ summary_of_changes_freedom:
 - markup: <a href='#' rel='summary_of_changes_freedom' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
   change: true
-  title: F5. Process for responding to third-party requests for content or account restriction
-  body: "<p>Telef&oacute;nica improved its disclosure of how it responds to government requests to restrict access to content or accounts.</p>"
-- item:
-  change: true
-  title: F6. Data about government requests for content or account restriction
-  body: "<p>Telef&oacute;nica improved the data it publishes about government requests to restrict access to content and accounts.</p>"
+  title: F5, F6. Requests for content or account restriction
+  body: "<p>Telef&oacute;nica improved its disclosure of how it responds to government requests to restrict access to content or accounts, and disclosed more comprehensive data about such requests.</p>"
 - item:
   change: true
   title: F9. Network management
