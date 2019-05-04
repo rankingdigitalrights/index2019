@@ -13,7 +13,7 @@ basic_information: |
 key_findings: | 
   <ul><li>Tencent revealed more information about its handling of user information than in the past, but still failed to publish sufficient information about policies affecting privacy.</li><li>Tencent disclosed almost nothing&mdash;and less than all of its peers&mdash;about its governance processes to ensure respect for users&rsquo; freedom of expression and privacy.</li><li>Tencent disclosed nothing about how it responds to third-party requests to restrict user access to content and accounts, or to hand over user information.</li></ul>
 graph: | 
-  <p><img src="/index2018/assets/graphics/content/scores_company10_tencent.jpg" /></p>
+  <p><img src="/index2018/assets/graphics/content/scores_company10.png" /></p>
 services_evaluated: | 
   <ul><li><strong>QZone (<a href="/index2019/services/socialnetworkblog/">Social networking &amp; blog</a>)</strong></li><li><strong>QQ (<a href="/index2019/services/messagingvoip/">Messaging &amp; VoIP</a>)</strong></li><li><strong>WeChat (<a href="/index2019/services/messagingvoip/">Messaging &amp; VoIP</a>)</strong></li><li><strong>Tencent Cloud (<a href="/index2019/services/cloudservices/">Cloud service</a>)</strong></li></ul>
 analysis_value: 26
@@ -31,7 +31,7 @@ summary_of_changes_governance:
   body: ""
 freedom_value: 14
 freedom_text: | 
-  <p>Tencent disclosed little about policies affecting freedom of expression, receiving the second-lowest score of all internet and mobile ecosystem companies in this category, after Baidu. The company&rsquo;s terms for its different services were not always easy to find or understand (F1), and did not indicate if and how it notifies users when it introduces changes to these terms (F2). Tencent disclosed limited information about its rules and how they are enforced (F3), and revealed nothing about actions it takes&mdash;such as removing content or deactivating accounts&mdash;to enforce its rules (F4). It also did not commit to notify affected users when the company restricts content or accounts (F8).</p><p>Tencent earned minimal points for disclosing limited information about how it responds to private requests to hand over user data, but disclosed nothing about how it responds to such requests from governments (F5). It also did not publish any data about how many government or private requests for content or account restrictions it received or with which it complied (F6, F7).</p>
+  <p>Tencent disclosed little about policies affecting freedom of expression, receiving the second-lowest score of all internet and mobile ecosystem companies in this category, after Baidu. The company&rsquo;s terms for its different services were not always easy to find or understand (F1), and did not indicate if and how it notifies users when it introduces changes to these terms (F2). Tencent disclosed limited information about its rules and how they are enforced (F3), and revealed nothing about actions it takes&mdash;such as removing content or deactivating accounts&mdash;to enforce its rules (F4). It also did not commit to notify affected users when the company restricts content or accounts (F8).</p><p>Tencent earned minimal points for disclosing limited information about how it responds to private requests to restrict access to content or accounts, but disclosed nothing about how it responds to such requests from governments (F5). It also did not publish any data about how many government or private requests for content or account restrictions it received or with which it complied (F6, F7).</p>
 summary_of_changes_freedom:
 - markup: <a href='#' rel='summary_of_changes_freedom' class='add_fieldset dashicons-before dashicons-plus'><span>Add fieldset</span></a>
 - item:
@@ -56,7 +56,7 @@ summary_of_changes_privacy:
   body: "<p>Tencent disclosed that it deletes some types of user information after WeChat users terminate their accounts, and disclosed options for QZone and QQ users to delete some types of user information.</p>"
 - item:
   change: true
-  title: P9. Collection of user information from third parties (Internet companies)
+  title: P9. Collection of user information from third parties
   body: "<p>Tencent disclosed more about how and why it collects user information from third-party websites and apps through cookies, widgets, and other technical means.</p>"
 - item:
   change: true
