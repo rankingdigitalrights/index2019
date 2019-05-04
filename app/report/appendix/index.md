@@ -8,7 +8,7 @@ next:
   href: acknowledgements
   text: Acknowledgements
 footnotes: | 
-  <p class="footnotes"><span style="font-weight: 400;">[115]</span> Figures as of March 25, 2019. &ldquo;World Internet Users and 2019 Population Stats,&rdquo; Internet World Stats, accessed April 22, 2019, <a href="https://www.internetworldstats.com/stats.htm" target="_blank" rel="noopener">www.internetworldstats.com/stats.htm</a>.</p>
+  <p class="footnotes"><span style="font-weight: 400;"><a id="footnotes"></a>[115]</span> Figures as of March 25, 2019. &ldquo;World Internet Users and 2019 Population Stats,&rdquo; Internet World Stats, accessed April 22, 2019, <a href="https://www.internetworldstats.com/stats.htm" target="_blank" rel="noopener">www.internetworldstats.com/stats.htm</a>.</p>
 ---
 Appendix
 ========
@@ -18,20 +18,20 @@ Appendix
 
 The Ranking Digital Rights Corporate Accountability Index was developed over three years of research, testing, consultation, and revision. Since its inception, the project has engaged closely with researchers around the globe. For methodology development, pilot study, and the inaugural RDR Index we also partnered with Sustainalytics, a leading provider of ESG (environmental, social, and governance) research to investors.
 
-For more information about the RDR Index methodology development, see: [https://rankingdigitalrights.org/methodology-development/](/methodology-development/)
+For more information about the RDR Index methodology development, see: [rankingdigitalrights.org/methodology-development](/methodology-development/)
 
-To view or download the full 2019 RDR Index methodology, visit: [https://rankingdigitalrights.org/2019-indicators/](/2019-indicators/)
+To view or download the full 2019 RDR Index methodology, visit: [rankingdigitalrights.org/2019-indicators](/index2019/2019-indicators/)
 
 > **Looking ahead:** Following the launch of the 2019 RDR Index, we plan to expand our methodology to address human rights harms associated with targeted advertising, algorithms, and machine learning. We will also adapt the methodology to include more company types, like powerful global platforms with core e-commerce businesses such as Amazon and Alibaba. The fifth RDR Index, with the expanded methodology and scope, will be published in 2021.
 > 
-> To learn more about the 2021 RDR Index methodology development process, see: [https://rankingdigitalrights.org/methodology-development/2021-revisions ](/methodology-development/2021-revisions)
+> To learn more about the 2021 RDR Index methodology development process, see: [rankingdigitalrights.org/methodology-development/2021-revisions ](/methodology-development/2021-revisions)
 
 <a id="section-72"></a>7.2 Company selection
 --------------------------------------------
 
 The 2019 RDR Index evaluates 12 telecommunications companies and 12 internet and mobile ecosystem companies. All companies evaluated are multinational corporations listed on a major stock exchange. The following factors influenced company selection:
 
-- **User base:** The companies in the RDR Index have a significant footprint in the areas where they operate. The telecommunications companies have a substantial user base in their home markets, and the internet and mobile ecosystem companies have a large number of global users as identified by established global traffic rankings such as Alexa. The policies and practices of the selected companies, and their potential to improve, thus affect a large percentage of the world’s 4.3 billion internet users.
+- **User base:** The companies in the RDR Index have a significant footprint in the areas where they operate. The telecommunications companies have a substantial user base in their home markets, and the internet and mobile ecosystem companies have a large number of global users as identified by established global traffic rankings such as Alexa. The policies and practices of the selected companies, and their potential to improve, thus affect a large percentage of the world’s 4.3 billion internet users.[<sup>115</sup>](#footnotes)
 - **Geographic reach and distribution:** The RDR Index includes companies that are headquartered in North America, Europe, Africa, Asia, and the Middle East.
 - **Relevance to users’ freedom of expression and privacy rights:** Most of the companies in the RDR Index operate in or have a significant user base in countries where human rights are not universally respected. This is based on relevant research from such organizations as Freedom House, the Web Foundation, and Reporters Without Borders as well as stakeholder feedback.
  
@@ -58,7 +58,7 @@ For telecommunications companies, with the exception of AT&T, the parent company
 <a id="section-75"></a>7.5 Research process and steps
 -----------------------------------------------------
 
-RDR works with a network of international researchers to collect data on each company, and to evaluate company policies in the language of the company’s operating market. RDR’s external research team for the 2019 RDR Index consisted of 32 researchers from 17 countries. A list of our partners and contributors can be found at: [https://rankingdigitalrights.org/who/affiliates](/who/affiliates)
+RDR works with a network of international researchers to collect data on each company, and to evaluate company policies in the language of the company’s operating market. RDR’s external research team for the 2019 RDR Index consisted of 32 researchers from 17 countries. A list of our partners and contributors can be found at: [rankingdigitalrights.org/who/affiliates](/who/affiliates)
 
 The research process for the 2019 RDR Index consisted of several steps involving rigorous cross-checking and internal and external review, as follows:
 
@@ -96,7 +96,7 @@ The RDR Index evaluates company disclosure of the overarching “parent” or �
 - Partial = 50
 - No = 0
 - No disclosure found = 0
-- N/A excluded from the score and averages
+- N/A = excluded from the score and averages
  
 Companies receive a cumulative score of their performance across all Index categories, and results show how companies performed by each category and indicator. Scores for the Freedom of Expression and Privacy categories are calculated by averaging scores for each individual service. Scores for the Governance category indicators include group-, operating-, and service(s)-level performance (depending on indicator and company type, see below).
 
@@ -151,8 +151,8 @@ The following elements apply only to mobile ecosystems:
 <a id="section-77"></a>7.8 For further information
 --------------------------------------------------
 
-The 2015 RDR Index can be viewed here: [https://rankingdigitalrights.org/index2015](/index2015)
+The 2015 RDR Index can be viewed here: [rankingdigitalrights.org/index2015](/index2015)
 
-The 2017 RDR Index can be viewed here: [https://rankingdigitalrights.org/index2017](/index2017)
+The 2017 RDR Index can be viewed here: [rankingdigitalrights.org/index2017](/index2017)
 
-The 2018 RDR Index can be viewed here: [https://rankingdigitalrights.org/index2018](/index2018)
+The 2018 RDR Index can be viewed here: [rankingdigitalrights.org/index2018](/index2018)
