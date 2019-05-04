@@ -41,7 +41,7 @@ The 2019 RDR Index shows that despite persistent gaps, most companies continue t
 
 <span style="font-weight: 400;">As in previous iterations of the RDR Index, the top governance scores this year all went to companies that are members of GNI, a multistakeholder organization that focuses on upholding principles of freedom of expression and privacy, primarily in relation to government requests. GNI-member companies commit to a set of principles and Implementation Guidelines, including implementing human rights due diligence processes as well as transparency and accountability mechanisms. Members also undergo an independent third-party assessment to verify if they are implementing these commitments, the results of which are then approved by a multistakeholder governing board made up of human rights organizations, investors, and academics, in addition to company representatives.</span>
 
-![Figure 3: How transparent are companies about their governance and oversight over freedom of expression and privacy?](/index2018/assets/graphics/content/fig_03.png)
+![Figure 3: How transparent are companies about their governance and oversight over freedom of expression and privacy?](https://rankingdigitalrights.org/index2019/assets/graphics/content/fig_03.png)
 
 As Figure 3 above shows, **Telefónica** earned a solid “A” in governance. The company received the top score on all six indicators in this category, disclosing more than any other company in the RDR Index about its governance and oversight over human rights issues across its global business operations. Among other areas, Telefónica stood out for its especially strong remedy mechanisms in comparison to other companies in the RDR Index (see section 3.4).
 
@@ -69,7 +69,7 @@ On the positive side, a handful of non-GNI-member companies took concrete steps 
 
 Freedom of expression and privacy are interdependent and complementary rights. Privacy is a “gateway” to freedom of expression: it enables people to organize and discuss opinions and ideas, or to conduct research and interview sources to determine the facts of a situation prior to reporting it, without fear of retribution prior to publication. Once information is shared publicly, or as it is being uploaded to a platform or transmitted through a service provider or device, it is at risk of censorship. Corporate commitment to both rights is therefore equally important. Yet most companies in the RDR Index displayed a weaker commitment to respect users’ freedom of expression than to users’ privacy, disclosing less oversight, due diligence, or other processes to identify and mitigate threats to users’ freedom of expression.
 
-![Figure 4: What do companies disclose about their governance and oversight over freedom of expression and privacy rights?](/index2018/assets/graphics/content/fig_04.png)
+![Figure 4: What do companies disclose about their governance and oversight over freedom of expression and privacy rights?](https://rankingdigitalrights.org/index2019/assets/graphics/content/fig_04.png)
 
 As Figure 4 above indicates, most companies in the RDR Index—15 out of 24—did commit to respect both freedom of expression and privacy. However, four companies—**Apple, Baidu, Kakao,** and **Tencent**—made a formal public commitment to respect users’ privacy but made no similar commitment to protect freedom of expression.
 
@@ -123,7 +123,7 @@ Results showed that:
 - Just three companies—**Microsoft, Telefónica**, and **Verizon Media**—disclosed that the scope of their risk assessments include evaluating the impact of their terms of service enforcement on users’ freedom of expression and privacy. Both Verizon Media and Telefónica explicitly state that they assess risks related to their terms of service as part of their formal impact assessment processes.
 - No other company in the RDR Index, including **Facebook** and **Google**, offered any evidence that they conduct any sort of assessments that would enable them to identify and manage the possible adverse effects of rules enforcement on users’ freedom of expression and privacy rights. Given that these two companies run platforms that regularly make headlines for issues related to whether and how they police content on their services, this gap in impact assessments has serious human rights implications.
  
-![Figure 7: What do companies disclose about their human rights due diligence (G4)?](/index2018/assets/graphics/content/fig_07.png)
+![Figure 7: What do companies disclose about their human rights due diligence (G4)?](https://rankingdigitalrights.org/index2019/assets/graphics/content/fig_07.png)
 
 <a id="section-34"></a>3.4 Grievance and remedy
 -----------------------------------------------
@@ -142,7 +142,7 @@ As Figure 8 shows, the four European telecommunications companies in the Index�
 
 **Telefónica** once again had the clearest disclosure of a grievance and remedy mechanism of any company in the RDR Index, with some improvements for 2019. The company’s “Responsible Business Channel”—an online portal that lets anyone file a complaint if they feel their rights have been violated—sets an example for how companies can offer a clear, accessible mechanism for users to submit human rights grievances. Telefónica also disclosed more about its processes for providing redress than any of its peers—and it was one of just five companies to disclose any evidence that it is actually responding to these complaints.
 
-![Figure 8: Do companies provide clear and accessible grievance and remedy mechanisms to address users' freedom of expression and privacy concerns (G6)?](/index2018/assets/graphics/content/fig_08.png)
+![Figure 8: Do companies provide clear and accessible grievance and remedy mechanisms to address users' freedom of expression and privacy concerns (G6)?](https://rankingdigitalrights.org/index2019/assets/graphics/content/fig_08.png)
 
 While GNI-member companies generally had stronger disclosure of governance and oversight over human rights issues—and therefore scored higher on this category of the Index in comparison to their non-GNI member peers—this is one area where GNI membership was not a predictor of strong performance. As Figure 8 shows, numerous non-GNI member companies—including **Kakao** and **América Móvil**—had more transparent appeals mechanisms than some GNI-member companies. Kakao’s stronger disclosure was largely due to requirements under South Korean law—although Kakao went beyond the legal requirements by providing users with an appeals mechanism for when content is removed in response to defamation claims.
 
