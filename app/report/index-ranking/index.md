@@ -17,7 +17,7 @@ Most companies covered by previous RDR Indexes have made tangible improvements s
 
 The Ranking Digital Rights Corporate Accountability Index measures companies’ public commitments and disclosures against standards for disclosure, policy, and practice that companies should meet in order to demonstrate respect for users’ freedom of expression and privacy rights. RDR Index scores represent the extent to which companies are meeting minimum standards. Only eight of the 24 companies evaluated scored 50 percent or higher. The highest score was just 62 percent. There is much room for improvement, even when laws are not in alignment with human rights standards, and especially when regulatory requirements lag behind marketplace realities and actual harms to users.
 
-![Figure 1: The 2019 RDR Corporate Accountability Index ranking ](/index2018/assets/graphics/content/fig_01.png)
+![Figure 1: The 2019 RDR Corporate Accountability Index ranking ](https://rankingdigitalrights.org/index2019/assets/graphics/content/fig_01.png)
 
 The highest scoring companies demonstrated relatively strong governance and oversight of human rights. They not only made clearer commitments to users’ freedom of expression as well as privacy, they also disclosed mechanisms for governance and oversight of ways that their businesses might pose risks to users’ rights. Nor is it a coincidence that the top-ranking companies are members of the Global Network Initiative (GNI), a multi-stakeholder initiative focused on upholding principles of freedom of expression and privacy in relation to government requests. GNI member companies commit to a set of principles and guidelines for their implementation, which include due diligence processes as well as transparency and accountability mechanisms.[<sup>23</sup>](#footnotes)
 
@@ -54,7 +54,7 @@ The Chinese companies’ sharp improvements—mainly on some of the Privacy cate
 
 [**Yandex’s**](/index2019/companies/yandex) improvements appeared unrelated to any Russian regulatory changes, reflecting the company’s own initiative to improve. Its overall score jumped by five points, due mainly to significant improvements in the Governance category: it published a formal commitment to protect users’ human rights and disclosed employee training on privacy issues. [**Mail.Ru**](/index2019/companies/mailru), the other Russian company, made no notable improvements.
 
-![Fig 2 – Year-on-year score changes (2018-2019)](/index2018/assets/graphics/content/fig_02.png)
+![Fig 2 – Year-on-year score changes (2018-2019)](https://rankingdigitalrights.org/index2019/assets/graphics/content/fig_02.png)
 
 While [**Apple**](/index2019/companies/apple) distinguished itself in the 2018 RDR Index as the most improved company by a wide margin, in 2019 it made limited changes, primarily focusing on improving the accessibility of data about government requests to restrict accounts or hand over user information, as well as improved disclosure about encryption practices.[<sup>27</sup>](#footnotes) In the Privacy category, Apple tied with Google for second place behind Microsoft among internet and mobile ecosystem companies. Most notably, Apple remains the only company in the entire RDR Index that clearly disclosed that it does not track users across the internet. As discussed in Chapters 3 and 4, Apple’s policies and disclosures related to freedom of expression continued to lag behind all other U.S.-based companies in the RDR Index.
 
