@@ -36,14 +36,14 @@ Internet and mobile ecosystem companies act as powerful gatekeepers of global co
 
 Internet and mobile ecosystem companies act as powerful gatekeepers of global communication flows. Companies police content and regulate access to services according to their own private rules, and also at the request of governments and other third parties.
 
-![Figure 9 : How transparent are companies about policies and practices affecting freedom of expression (F1 - F11)?](/index2019/assets/graphics/content/fig_09.png)
+![Figure 9 : How transparent are companies about policies and practices affecting freedom of expression (F1 - F11)?](https://rankingdigitalrights.org/index2019/assets/graphics/content/fig_09.png)
 
 <a id="section-42"></a>4.2 Terms of service and enforcement
 -----------------------------------------------------------
 
 Internet and mobile ecosystem companies act as powerful gatekeepers of global communication flows. Companies police content and regulate access to services according to their own private rules, and also at the request of governments and other third parties.
 
-![Figure 10 : How transparent are companies about terms of service enforcement (2015-2019)?](/index2019/assets/graphics/content/fig_10.png)
+![Figure 10 : How transparent are companies about terms of service enforcement (2015-2019)?](https://rankingdigitalrights.org/index2019/assets/graphics/content/fig_10.png)
 
 <a id="section-43"></a>4.3 External demands to restrict content or accounts
 ---------------------------------------------------------------------------
@@ -57,7 +57,7 @@ Internet and mobile ecosystem companies act as powerful gatekeepers of global co
 
 Internet and mobile ecosystem companies act as powerful gatekeepers of global communication flows. Companies police content and regulate access to services according to their own private rules, and also at the request of governments and other third parties.
 
-![Figure 12 : How transparent are telecommunications companies about how they handle government demands to shutdown networks (F10)?](/index2019/assets/graphics/content/fig_12.png)
+![Figure 12 : How transparent are telecommunications companies about how they handle government demands to shutdown networks (F10)?](https://rankingdigitalrights.org/index2019/assets/graphics/content/fig_12.png)
 
 <a id="section-45"></a>4.5 Regulatory developments and challenge
 ----------------------------------------------------------------
