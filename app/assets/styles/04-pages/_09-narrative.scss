@@ -21,7 +21,8 @@ $maincolor:  #231f20;
 #narrative-page-content{
   display: flex;
   @media(max-width: 1365px){
-    margin: 0 10%;
+   /* margin: 0 10%; */
+    margin: 0 5%;
   }
 
   ul,ol{
