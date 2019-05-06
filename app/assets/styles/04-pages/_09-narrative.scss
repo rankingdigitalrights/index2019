@@ -298,6 +298,7 @@ $maincolor:  #231f20;
 
       p{
         margin: 0;
+        margin-bottom: 10px;
       }
 
     }
@@ -403,6 +404,7 @@ $maincolor:  #231f20;
           font-family: $simplon-regular;
           font-size: 1.25em !important;
           margin-bottom: 10px;
+          letter-spacing: 1px;
           color: $black-narrative;
           /*here it was p */
           li{
