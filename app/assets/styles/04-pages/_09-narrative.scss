@@ -13,11 +13,10 @@ $maincolor:  #231f20;
   max-height: 400px;
   margin-bottom: 2em;
   text-align: center;
+	
   .report_mob {display:none
-	@media (min-width: 768px) {
-			display:block;
-		}  	
-	}
+	
+   }
   img {
     max-height: 400px;
 		@media (max-width: 768px) {
