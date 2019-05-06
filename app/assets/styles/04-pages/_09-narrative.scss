@@ -15,7 +15,7 @@ $maincolor:  #231f20;
   text-align: center;
   img {
     max-height: 400px;
-		@media (min-width: 768px) {
+		@media (max-width: 768px) {
 			display:none;
 		}    
   }
