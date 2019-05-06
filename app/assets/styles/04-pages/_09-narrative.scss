@@ -28,6 +28,7 @@ $maincolor:  #231f20;
 		}
 		@include media(large-up) {
 			display: block  !important;
+			width: 95%;
 		}
 		@include media(xlarge-up) {
 			display: block  !important;
