@@ -4,10 +4,7 @@ entity_type: category
 visualization: category
 layout: category
 display: Governance
-
-introduction: "The Governance category of the Corporate Accountability Index contains six indicators measuring whether and how companies demonstrate that they have governance processes in place to ensure that they respects the human rights to freedom of expression and privacy. Both rights are part of the <a href=\"http://www.un.org/en/universal-declaration-human-rights\" target=\"_blank\">Universal Declaration of Human Rights</a> and are enshrined in the <a href=\"http://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx\" target=\"_blank\">International Covenant on Civil and Political Rights</a>. They apply online as well as offline. In order for a company to perform well in this section, the company’s disclosure should at least follow, and ideally surpass, the <a href=\"http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf\" target=\"_blank\">UN Guiding Principles on Business and Human Rights</a> and other industry-specific human rights standards focused on freedom of expression and privacy such as the <a href=\"https://globalnetworkinitiative.org/principles/index.php\" target=\"_blank\">Global Network Initiative Principles.</a>"
+introduction: | 
+  <p>The Governance category contains six indicators that measure if and how companies disclose governance processes designed to ensure that they respect the human rights to freedom of expression and privacy. Both rights are part of the <a href="https://www.un.org/en/universal-declaration-human-rights/" target="_blank" rel="noopener">Universal Declaration of Human Rights</a> and are enshrined in the <a href="https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx" target="_blank" rel="noopener">International Covenant on Civil and Political Rights</a>. They apply online as well as offline. For the&nbsp;company to perform well in this section, disclosure should follow&mdash;and ideally surpass&mdash;the <a href="https://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf" target="_blank" rel="noopener">UN Guiding Principles on Business and Human Rights</a> and other industry-specific human rights standards for freedom of expression and privacy such as the <a href="https://globalnetworkinitiative.org/gni-principles/" target="_blank" rel="noopener">Global Network Initiative Principles</a>.</p>
 published: true
-
-
-
 ---
