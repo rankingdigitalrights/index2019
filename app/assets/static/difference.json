@@ -1,6 +1,6 @@
 [
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"América Móvil’s overall score improved mostly due to improved disclosure of governance and oversight over freedom of expression and privacy issues. The company made a formal commitment to respecting users’ freedom of expression and privacy (G1), and disclosed some information related to employee training on freedom of expression, and a whistleblowing program for reporting freedom of expression and privacy violations (G3). However, the company lost points in the Privacy category due to a change in the company’s Code of Ethics, which makes it less clear whether the company carries out due diligence before it responds to government requests for user information (P10).",
         "freedom_of_expression_2019": 17,
         "freedom_of_expression_2018": 17,
         "freedom_of_expression_difference": 0,
@@ -17,7 +17,7 @@
         "total_difference": 3.39
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Apple improved its policies affecting freedom of expression and privacy, including making its data about government requests for account restrictions and third-party requests for user information available in a structured data format (F6, P11), and improving its disclosure of its encryption policies for iMessage, the iOS mobile ecosystem, and iCloud (P16). It also improved its disclosure of its requirement that apps in its iOS App Store provide users with a privacy policy (P1).",
         "freedom_of_expression_2019": 33,
         "freedom_of_expression_2018": 32,
         "freedom_of_expression_difference": 1.15,
@@ -34,7 +34,7 @@
         "total_difference": 1.47
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"AT&T made no changes that resulted in score changes in the 2019 RDR Index.",
         "freedom_of_expression_2019": 40,
         "freedom_of_expression_2018": 40,
         "freedom_of_expression_difference": 0,
@@ -51,7 +51,7 @@
         "total_difference": 0
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"While Axiata’s net score did not change, the company made several key policy changes (both negative and positive) in this year’s Index. The company improved its disclosure of governance and oversight over privacy, including by strengthening its executive-level management over privacy issues at the group level (G2) and by disclosing that it has whistleblowing programs for employees related to some privacy issues (G3). Axiata’s prepaid mobile terms of service were more accessible (F1), it disclosed that it notifies users of changes to its privacy policy (P2), and it provided some information about whether it combines user information from across its services (P5). However, the company’s privacy policy for Celcom was less accessible (P1), and previously available information about its security policies could no longer be located (P13, P18).",
         "freedom_of_expression_2019": 13,
         "freedom_of_expression_2018": 12,
         "freedom_of_expression_difference": 0.76,
@@ -68,7 +68,7 @@
         "total_difference": 0
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Baidu made key improvements to disclosures of policies and practices affecting users’ privacy and security.  Along with it being easier to find (P1), the privacy policy provided more detail about Baidu’s data sharing policies—including the types of user information it shares and for what purposes (P4, P5)—and clarified options users have to obtain a copy of their information (P8). The company improved its disclosure of its process for responding to data breaches (P15), and disclosed some information about its encryption policies (P16). It also disclosed a policy of limiting employee access to user information (P13), and disclosed that it provides some employee training on privacy-related issues (G3). However, Baidu lost points for failing to disclose what de-identified user data it retains (P6) or options users have to control how their information is used for targeted advertising (P7).",
         "freedom_of_expression_2019": 13,
         "freedom_of_expression_2018": 12,
         "freedom_of_expression_difference": 0,
@@ -85,7 +85,7 @@
         "total_difference": 6.21
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Bharti Airtel made some improvements to its disclosure of governance and oversight over human rights, including the disclosure of a human rights policy (G1) and a board-level commitment to oversee privacy issues (G2). It also clarified that employees can use the company’s whistleblower program to report privacy-related concerns (G3), although it remained unclear if the program could be used to report freedom of expression related concerns. It slightly improved its disclosure of its privacy policies and practices by disclosing the reasons why it collects some types of user information (P5).",
         "freedom_of_expression_2019": 9,
         "freedom_of_expression_2018": 9,
         "freedom_of_expression_difference": 0,
@@ -102,24 +102,7 @@
         "total_difference": 2.86
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
-        "freedom_of_expression_2019": 15,
-        "freedom_of_expression_2018": "NA",
-        "freedom_of_expression_difference": "NA",
-        "governance_2018": "NA",
-        "governance_2019": 55,
-        "governance_difference": "NA",
-        "id":"deutschetelekom",
-        "name":"Deutsche Telekom",
-        "privacy_2018": "NA",
-        "privacy_2019": 60,
-        "privacy_difference": "NA",
-        "total_2018": "NA",
-        "total_2019": 44,
-        "total_difference": "NA"
-    },
-    {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Etisalat’s score declined slightly due to less clear disclosure on the circumstances under which the company may comply with requests through private processes to restrict access to content for its fixed-line broadband service (F5).",
         "freedom_of_expression_2019": 15,
         "freedom_of_expression_2018": 15,
         "freedom_of_expression_difference": -0.38,
@@ -136,7 +119,7 @@
         "total_difference": -0.13
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Facebook registered a net score gain in this year’s Index, primarily for improvements it made to its disclosure of policies affecting privacy—although it became less transparent about policies affecting users’ freedom of expression. While it made numerous revisions to its privacy policies, which helped clarify different aspects of how it handles user data (P5-P9), these steps still fell short of giving users a clear picture of its data collection and sharing policies—or clear options to control what is being collected and shared. Facebook also lacked clarity about what it does to keep user data secure, including whether it monitors employee access to user data and its policies for handling data breaches (P15). On policies affecting users’ freedom of expression, Facebook took some steps forward and some steps back. It disclosed more about its process for enforcing its rules (F3)—and was one of just a few companies to publish any data on the actions it took to enforce its rules (F4). But it was less transparent about its process for responding to external (government or other types of third party) requests to restrict content or accounts for WhatsApp and Messenger (F5)—nor did it publish any data about the requests it received or complied with for these services (F6).",
         "freedom_of_expression_2019": 47,
         "freedom_of_expression_2018": 48,
         "freedom_of_expression_difference": -1.07,
@@ -153,7 +136,7 @@
         "total_difference": 2.53
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Google’s overall score improved slightly due to improved disclosure of governance and oversight over human rights issues and improved disclosure of its policies affecting freedom of expression. Google clarified that there is board-level oversight over privacy issues at the company (G2). In April 2018, YouTube released its first Community Standards Enforcement report, which contains more comprehensive data regarding the nature and volume of removals due to terms of service enforcement (F4) and provides clear disclosure about whether YouTube gives government agencies special status when flagging content that violates YouTube's rules (F3). The company also improved its disclosure of its commitment to notify users when it removes content or restricts accounts (F8). But Google lost points in the Privacy category overall after revising its disclosure about whether Android users can turn off their location data (P7). The company previously stated that Android users could control whether the company collected location data through a setting at the device level. However, Google’s revised policy on managing location history stated that some location data may still be collected even when location history is turned off.",
         "freedom_of_expression_2019": 61,
         "freedom_of_expression_2018": 58,
         "freedom_of_expression_difference": 4.88,
@@ -170,7 +153,7 @@
         "total_difference": 1.85
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Kakao improved its disclosure in the Privacy category by disclosing some information about how the company responds to data breaches, including information about notifying the relevant authorities and affected data subjects, and steps to mitigate the impact of the breach (P15).",
         "freedom_of_expression_2019": 53,
         "freedom_of_expression_2018": 53,
         "freedom_of_expression_difference": 0,
@@ -187,7 +170,7 @@
         "total_difference": 1.52
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Mail.Ru’s overall score increased slightly, due to improved disclosure regarding how VKontakte collects user information from third parties using technical means (P9). However, while it improved its disclosure for VKontakte regarding the reasons it collects different types of user information, its previous commitment to only use user information for the purposes for which it was collected could no longer be found in the company’s disclosure (P5).",
         "freedom_of_expression_2019": 24,
         "freedom_of_expression_2018": 22,
         "freedom_of_expression_difference": 0,
@@ -204,7 +187,7 @@
         "total_difference": 0.08
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Microsoft improved its disclosure in the Privacy category by disclosing more information regarding users’ access to their own information (P8), disclosing end-to-end encryption options for Outlook and Skype (P16), and improving its disclosure of its policies for handling data breaches that might affect Outlook users (P15). It also improved its disclosure of its policies for notifying Bing users of changes to its terms of service (F2).",
         "freedom_of_expression_2019": 55,
         "freedom_of_expression_2018": 51,
         "freedom_of_expression_difference": 0.46,
@@ -221,7 +204,7 @@
         "total_difference": 1.26
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"MTN improved its disclosure of management-level oversight of freedom of expression and privacy issues (G2). It made it easier for users to access its prepaid mobile terms of service (F1), and published a log of some changes to its prepaid mobile terms (F2). The company improved its disclosure of the reasons why it may shut down networks and provided some information about its process for responding to government shutdown requests; however, it no longer disclosed a commitment to push back on shutdown requests (F10). In the Privacy category, MTN’s score improved due to a change in the location of the privacy policy which is now easier to find (P1).  However, it failed to update a previous commitment to push back on overbroad government requests for user information (P10). In addition, the company no longer disclosed information about whether it conducts human rights impact assessments on a regular basis (G4).",
         "freedom_of_expression_2019": 9,
         "freedom_of_expression_2018": 10,
         "freedom_of_expression_difference": 1.89,
@@ -238,7 +221,7 @@
         "total_difference": 1.35
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Verizon Media—formerly called Oath and originally Yahoo—made several notable improvements, including disclosing evidence of senior-level oversight over human rights due diligence processes (G4). It also made Tumblr’s terms available in Spanish—one of the primary languages of the company’s home market (U.S.) (F1)—and clarified its policy of notifying Yahoo! Mail users of changes to its terms (F2). It also made key improvements to its disclosure of its handling of user information: it clarified its purpose for combining user information (P5), options Yahoo! Mail users have to control the collection of some types of information (P7), and options Tumblr users have to obtain copies of their data from their blog(s) (P8). However, the revised privacy policy for Yahoo! Mail was actually less clear than previously about how it directly notifies users when that policy changes (P2).",
         "freedom_of_expression_2019": 56,
         "freedom_of_expression_2018": 49,
         "freedom_of_expression_difference": 6.85,
@@ -255,7 +238,7 @@
         "total_difference": 3.23
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Ooredoo’s score declined slightly in the 2019 Index because one of its terms of service documents that applied to the fixed-line broadband service is no longer available in Arabic (F1).",
         "freedom_of_expression_2019": 13,
         "freedom_of_expression_2018": 14,
         "freedom_of_expression_difference": -0.76,
@@ -272,7 +255,7 @@
         "total_difference": -0.26
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Orange’s overall score in the Index increased slightly due to improved disclosure in the Governance and Privacy categories. Orange revealed more information about its human rights impact assessments (G4). It also improved its disclosure of the types of user information it collects and how (P3), and disclosed a commitment to limit its use of user information to the purposes for which it was collected, however, it no longer disclosed whether it combines user information from various company services (P5).",
         "freedom_of_expression_2019": 17,
         "freedom_of_expression_2018": 17,
         "freedom_of_expression_difference": 0,
@@ -289,7 +272,7 @@
         "total_difference": 1.72
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Samsung lost points for disclosing less information about the company’s policies to address security vulnerabilities (P14), and for no longer providing users with information to protect themselves from cyber related risks (P18). However, the company improved its disclosure regarding its identity verification policies for its mobile ecosystem users and app developers (F11).",
         "freedom_of_expression_2019": 30,
         "freedom_of_expression_2018": 22,
         "freedom_of_expression_difference": 5.56,
@@ -306,7 +289,7 @@
         "total_difference": -0.17
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Telefónica earned the largest score improvement of any company in the 2019 RDR Index. It made numerous and significant improvements to disclosure of its governance and oversight over freedom of expression and privacy issues, including clearly disclosing that it evaluates risks associated with its enforcement of its own terms of service (G4). It also improved its disclosure of the number of freedom of expression-related complaints it received through its grievance and remedy mechanisms (G6). Telefónica improved its transparency of how it handles user information—clarifying what user data it collects (P3), shares (P4), how long it retains it (P6), and options users have to obtain their information (P8)—and improved its disclosure of its handling of government and other third-party requests for user information (P10, P11). It disclosed more about its process for responding to government requests to restrict content or accounts (F5), and disclosed more data about requests it received and complied with (F6). It also disclosed more about network management policies and practices (F9) and its processes for responding to government network shutdown demands (F10). However, Telefónica lost points in the 2019 Index for being less transparent about how it responds to data breaches (P15).",
         "freedom_of_expression_2019": 47,
         "freedom_of_expression_2018": 33,
         "freedom_of_expression_difference": 14.05,
@@ -323,24 +306,7 @@
         "total_difference": 16.19
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
-        "freedom_of_expression_2019": 34,
-        "freedom_of_expression_2018": "NA",
-        "freedom_of_expression_difference": "NA",
-        "governance_2018": "NA",
-        "governance_2019": 78,
-        "governance_difference": "NA",
-        "id":"telenor",
-        "name":"Telenor",
-        "privacy_2018": "NA",
-        "privacy_2019": 39,
-        "privacy_difference": "NA",
-        "total_2018": "NA",
-        "total_2019": 45,
-        "total_difference": "NA"
-    },
-    {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Tencent made key improvements to its disclosure of policies affecting privacy, but its performance in the Governance and Freedom of Expression categories remained the same as in the 2018 Index. In the 2019 Index, the company disclosed more information about its security policies (P13, P15, P16), its retention of user information (P6), and options users have to delete some of their information (P7). It disclosed a commitment to limit the collection of user information to what is directly relevant to the service (P3). However, its privacy policy for WeChat provided less clear disclosure about whether the company will share user information with government or legal authorities (P4).",
         "freedom_of_expression_2019": 14,
         "freedom_of_expression_2018": 14,
         "freedom_of_expression_difference": 0,
@@ -357,7 +323,7 @@
         "total_difference": 4.17
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Twitter improved its disclosure in the Governance category by disclosing an employee training program on privacy issues and a whistleblower policy allowing employees to submit privacy-related complaints (G3). It also disclosed more comprehensive data about the actions it took to enforce its own rules (F4)—although this data was not available in a structured format and it was unclear if it would be published on a regular basis. It also improved its disclosure of its process for responding to government requests to restrict content or accounts (F5) and its policies for notifying users who attempt to access restricted content (F8). Twitter clarified its reasons for tracking users across the internet using cookies, widgets, or other types of tracking tools (P9). The company, however, revealed less information than previously about the content or account removal requests it received from governments (F6) and its data retention policies (P6).",
         "freedom_of_expression_2019": 60,
         "freedom_of_expression_2018": 60,
         "freedom_of_expression_difference": -0.28,
@@ -374,7 +340,7 @@
         "total_difference": 1.89
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Vodafone improved its disclosure of the types of information it collects (P3) and for how long it retains some types of information after users terminate their accounts (P6). It also improved its disclosure of its policies for notifying users of changes to its privacy policy (P2). However, the company’s disclosure in the Freedom of Expression category declined due to less clear policies for notifying users of changes to its postpaid mobile terms of service (F2), and of the types of content and activities that are prohibited by the company’s rules (F3).  Vodafone also revealed less information on how it limits and monitors employee access to user information than in the 2018 Index (P13).",
         "freedom_of_expression_2019": 45,
         "freedom_of_expression_2018": 46,
         "freedom_of_expression_difference": -1.06,
@@ -391,7 +357,7 @@
         "total_difference": 0.34
     },
     {
-        "description":"TODO DUMMY COMPANY XY made a slight improvement to its disclosure of policies affecting users’ freedom of expression by publishing an archive of some previous terms of service policies, enabling users to see and understand changes to the terms of service over time (<a href='https://rankingdigitalrights.org/index2018/indicators/f2'>F2</a>). <a href='https://rankingdigitalrights.org/index2018/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"Yandex made key improvements to disclosure of governance and oversight over human rights issues: it published a formal commitment to respect users’ freedom of expression and privacy (G1), and provided information about a whistleblower policy allowing employees to report concerns related to these rights (G3). It also disclosed more information about its process for enforcing its rules (F3) and published a commitment to notify users of restrictions to their accounts (F8). However, the terms of service for Yandex Mail were less accessible than previously (F2) and it no longer published up-to-date data about its compliance with requests to restrict content under Russia’s “right to be forgotten” law (F7). Yandex made several improvements in the Privacy category by clarifying if and how it notifies users of changes to its privacy policy (P2) and how it responds to government requests for user data (P10).",
         "freedom_of_expression_2019": 22,
         "freedom_of_expression_2018": 20,
         "freedom_of_expression_difference": 1.82,
