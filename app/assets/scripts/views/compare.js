@@ -14,7 +14,7 @@ module.exports = Backbone.View.extend({
     var $data = [];
     data.forEach(function (i) {
       if(!isNaN(i.attributes.total_difference)) {
-        $data.push({ name: i.attributes.name, total_difference: i.attributes.total_difference, description: i.attributes.description });
+        $data.push({ name: i.attributes.name, total_difference: i.attributes.total_difference, description: i.attributes.description, id: i.attributes.id  });
       }
     });
     $data.sort(function (a, b) {
@@ -31,7 +31,7 @@ module.exports = Backbone.View.extend({
 
     $data.forEach(function (i) {
       $('#compare--overview_list').append(
-        template({ name: i.name, total_difference: i.total_difference, description: i.description })
+        template({ name: i.name, total_difference: i.total_difference, description: i.description, id: i.id })
       );
     });
   }
