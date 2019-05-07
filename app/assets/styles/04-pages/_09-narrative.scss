@@ -13,9 +13,47 @@ $maincolor:  #231f20;
   max-height: 400px;
   margin-bottom: 2em;
   text-align: center;
-  img {
+	 img {
     max-height: 400px;
-  }
+	margin: 0 auto;
+  	}
+
+	.report_head{
+		display: block !important;
+		@include media(small-up) {
+			display: none !important;
+		}
+		@include media(medium-up) {
+			display: none  !important;
+		}
+		@include media(large-up) {
+			display: block  !important;
+		}
+		@include media(xlarge-up) {
+			display: block  !important;
+		}	
+	}	
+	
+	.report_head_mob{
+		display: block !important;
+		@include media(small-up) {
+			display: block !important;
+		}
+		@include media(medium-up) {
+			display: block !important;
+		}
+		@include media(large-up) {
+			display: none !important;
+		}
+		@include media(xlarge-up) {
+			display: none !important;
+		}	
+	}
+	
+	
+	
+	
+ 
 }
 
 #narrative-page-content{
@@ -298,6 +336,7 @@ $maincolor:  #231f20;
 
       p{
         margin: 0;
+        margin-bottom: 10px;
       }
 
     }
@@ -403,6 +442,7 @@ $maincolor:  #231f20;
           font-family: $simplon-regular;
           font-size: 1.25em !important;
           margin-bottom: 10px;
+          letter-spacing: 1px;
           color: $black-narrative;
           /*here it was p */
           li{
