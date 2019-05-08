@@ -486,6 +486,7 @@ $maincolor:  #231f20;
             font-size: 1em;
             position: absolute;
             left: -20px;
+	    color: #4D9ECF;
             @include media(large-up) {
               font-size: 1.12em;
             }
