@@ -6,7 +6,7 @@ prev:
   text: Executive summary
 next:
   href: index-methodology
-  text: 2019 Index methodology
+  text: 2019 RDR Index methodology
 footnotes: | 
   <p class="footnotes"><span style="font-weight: 400;"><a id="footnotes"></a>[6]</span> &ldquo;Principles,&rdquo; Global Network Initiative, accessed February 27, 2017, <a href="https://globalnetworkinitiative.org/gni-principles/">globalnetworkinitiative.org/gni-principles</a></p><p class="footnotes"><span style="font-weight: 400;">[7]</span> &ldquo;Implementation Guidelines,&rdquo; Global Network Initiative, accessed February 28, 2017, <a href="https://globalnetworkinitiative.org/implementation-guidelines/">globalnetworkinitiative.org/implementation-guidelines</a></p><p class="footnotes"><span style="font-weight: 400;">[8]</span> &ldquo;RDR Launches 2017 Corporate Accountability Index Research Cycle,&rdquo; Ranking Digital Rights, September 15, 2016, <a href="/2016/09/15/rdr-launches-2017-research/">rankingdigitalrights.org/2016/09/15/rdr-launches-2017-research</a></p>
 ---
