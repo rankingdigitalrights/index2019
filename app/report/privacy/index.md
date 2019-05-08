@@ -43,7 +43,7 @@ As in previous years, the answer to these questions is: *not enough*. Despite so
 
 While nearly all companies in the 2019 RDR Index made some improvements over the last year, no company scored higher than 60 percent in the Privacy category—and most earned a score of just 50 percent or lower (see Figure 13 below). This means no company in the RDR Index disclosed enough about their policies and practices for their users to fully understand the full range of privacy and security risks they face when using their services.
 
-![igure 13: How transparent are companies about policies and practices affecting users' privacy and security (P1-P18)?](/index2018/assets/graphics/content/fig_13.png)
+![igure 13: How transparent are companies about policies and practices affecting users' privacy and security (P1-P18)?](/assets/graphics/content/fig_13.png)
 
 As Figure 13 above shows, German telecommunications company [**Deutsche Telekom**](/index2019/companies/deutschetelekom) earned the highest average privacy score of all companies—including internet and mobile ecosystem companies. This is the first time since publishing our inaugural ranking in 2015 that a telecommunications company topped the Privacy category.<sup>[71](#footnotes)</sup> The company’s high score on privacy-related policies and disclosures was due to its stronger disclosure of its handling of user data, and of its security policies, relative to its peers.
 
@@ -78,7 +78,7 @@ Nearly every company evaluated in this year’s RDR Index updated their privacy 
 
 Results were mixed. Figure 14 below shows improvements and declines by companies across all indicators evaluating disclosure of how they handle user information. A majority of companies—13 of the 22 companies evaluated in the 2018 RDR Index—made some improvements by clarifying different aspects of how they handle user information. But there were also key areas where companies made little progress—or in some cases, disclosed even less about their handling of user data than they had previously.
 
-![Figure 14: How have companies improved their disclosure of how they handle user information (P3-P9)?](/index2018/assets/graphics/content/fig_14.png)
+![Figure 14: How have companies improved their disclosure of how they handle user information (P3-P9)?](/assets/graphics/content/fig_14.png)
 
 Notable trends include:
 
@@ -99,7 +99,7 @@ Indicator [P7](/index2019/indicators/p7) evaluates if companies give users clear
 
 The 2018 RDR Index showed that most companies gave unclear options for users to control what is collected and shared about them, and how that data is used for the purposes of targeted advertising.<sup>[75](#footnotes)</sup> Results of the 2019 RDR Index show that companies made little progress in this area. Just three companies—[**Facebook**](/index2019/companies/facebook), [**Tencent**](/index2019/companies/tencent), and [**Verizon Media**](/index2019/companies/verizonmedia)—improved their disclosure of options users have to control what information is collected and shared about them.
 
-![Figure 15: How transparent are companies about options users have to control their own information (P7)?](/index2018/assets/graphics/content/fig_15.png)
+![Figure 15: How transparent are companies about options users have to control their own information (P7)?](/assets/graphics/content/fig_15.png)
 
 [**Deutsche Telekom**](/index2019/companies/deutschetelekom) was the most transparent of all companies about giving users options to control what information is collected and shared about them, including for the purposes of targeted advertising. In addition to disclosing user options to control what information is collected, and to delete some of this data, Deutsche Telekom was the only company evaluated in the RDR Index to disclose that targeted advertising is off by default: users must opt-in in order for their data to be used for this purpose—and they can revoke their consent at any time.
 
@@ -121,7 +121,7 @@ Indicator [P6](/index2019/indicators/p6) evaluates how transparent companies are
 
 As with other indicators in the RDR Index evaluating disclosure of data handling policies, [**Deutsche Telekom** ](/index2019/companies/deutschetelekom)earned the top score on Indicator [P6](/index2019/indicators/p6), disclosing more about its data retention policies than any other company evaluated. The company provided time frames for retaining some types of user data it collects, and revealed more about what de-identified user data it retains than any of its peers.
 
-![Figure 16: How transparent are companies about their data retention policies and practices (P6)?](/index2018/assets/graphics/content/fig_16.png)
+![Figure 16: How transparent are companies about their data retention policies and practices (P6)?](/assets/graphics/content/fig_16.png)
 
 As Figure 16 above shows, half of the 12 telecommunications companies evaluated in the 2019 RDR Index received no points on Indicator P6 because they provided no information about any aspect of their data retention policies evaluated in this indicator. Among European telecommunications companies, [**Telefónica**](/index2019/companies/telefonica), [**Telenor**](/index2019/companies/telenor), and [**Vodafone**](/index2019/companies/vodafone) each disclosed some information about how long they retain user data, but revealed nothing further about policies for de-identifying user information, or if they delete all user information after the account is terminated. Notably, although [**Orange**](/index2019/companies/orange) improved its disclosure by providing a time frame for deleting some types of data after users terminate their account, it still earned one of the lowest scores among telecommunications companies on this indicator.
 
@@ -150,7 +150,7 @@ In an era of pervasive state surveillance, companies need to be fully transparen
 
 As in previous years, results from the 2019 RDR Index show that internet and mobile ecosystem companies disclosed more than telecommunications companies about their processes for handling government demands, and published more data about their compliance with these requests (see Figure 17 below).
 
-![Figure 17: How transparent are companies about how they handle government demands for user information (P10, P11)?](/index2018/assets/graphics/content/fig_17_2.png)
+![Figure 17: How transparent are companies about how they handle government demands for user information (P10, P11)?](/assets/graphics/content/fig_17_2.png)
 
 Notably, a handful of U.S.-based companies—[**Apple**](/index2019/companies/apple), [**Google**](/index2019/companies/google), [**Microsoft**](/index2019/companies/microsoft), [**Verizon Media**](/index2019/companies/verizonmedia), and [**AT&T**](/index2019/companies/att)—all earned full credit for comprehensive disclosure of their processes for handling government requests, including those from foreign jurisdictions, and for publishing a clear commitment to push back on overly broad requests [(P10)](/index2019/indicators/p10). But these companies were less transparent about the actions they took as a result of these demands [(P11)](/index2019/indicators/p11), due at least in part to legal restrictions: U.S. law prohibits companies from disclosing exact numbers of government requests received for stored and real-time user information under Foreign Intelligence Surveillance Act (FISA) requests or National Security Letters (NSLs), which prevented U.S. companies from being fully transparent in this area.<sup>[77](#footnotes)</sup> As in the 2018 RDR Index, Verizon Media disclosed less data than all other U.S. internet and mobile ecosystem companies about government demands for user information.
 
@@ -160,7 +160,7 @@ While these are positive steps forward, European telecommunications companies st
 
 The biggest gap in disclosure between internet and mobile ecosystem companies and telecommunications companies was around user notification policies. Indicator [P12](/index2019/indicators/p12) of the RDR Index asks if companies clearly disclose if they notify users when government entities, including courts or other judicial bodies, request their data. It also asks companies to disclose circumstances when they might *not* notify users, and to explain the types of government requests they are legally prohibited from disclosing.
 
-![Figure 18: Do companies commit to notify users when governments request their data (P12)?](/index2018/assets/graphics/content/fig_18_2.png)
+![Figure 18: Do companies commit to notify users when governments request their data (P12)?](/assets/graphics/content/fig_18_2.png)
 
 As Figure 18 above shows, all U.S.-based internet and mobile ecosystem companies—[**Apple**](/index2019/companies/apple), [**Google**](/index2019/companies/google), [**Microsoft**](/index2019/companies/microsoft), [**Verizon Media**](/index2019/companies/verizonmedia), [**Twitter**](/index2019/companies/twitter), and [**Facebook**](/index2019/companies/facebook)—published a clear commitment to notify users when governmental entities request their data, and offered clear explanations about when they might not notify them, including the types of government requests they are prohibited by law from disclosing. Notably, Chinese internet company [**Baidu**](/index2019/companies/baidu) earned some credit on this indicator this year for disclosing that it may hand over user data to officials or courts without notifying users in cases of national security or criminal proceedings.
 
@@ -190,7 +190,7 @@ The RDR Index has six indicators evaluating company disclosure of security polic
 
 As Figure 19 below shows, [**Apple**](/index2019/companies/apple) received the best average score across the security indicators of any company in the RDR Index. It stood out for its strong encryption policies [(P16)](/index2019/indicators/p16)—which it improved over the last year. [**Deutsche Telekom**](/index2019/companies/deutschetelekom) received the highest score among telecommunications companies, and stood out for its strong disclosure of its security oversight systems [(P13)](/index2019/indicators/p13), and of its data breach policies [(P15)](/index2019/indicators/p15) relative to many of its peers.
 
-![Figure 19: How transparent are companies about policies and practices for securing user information (P13-P18)?](/index2018/assets/graphics/content/fig_19.png)
+![Figure 19: How transparent are companies about policies and practices for securing user information (P13-P18)?](/assets/graphics/content/fig_19.png)
 
 [**Baidu**](/index2018/companies/baidu) and [**Tencent**](/index2018/companies/tencent) both made notable improvements in a number of areas—although both companies still scored poorly across these indicators overall. Both revealed more information about security oversight policies, including limits on employees’ access to user data [(P13)](/index2019/indicators/p13), clarified their procedures for responding to data breaches [(P15)](/index2019/indicators/p15), and revealed that they use encryption for some of their services [(P16)](/index2019/indicators/p16).
 
@@ -222,7 +222,7 @@ Results over the past three RDR Indexes indicate that companies are making stead
 
 In this year’s Index, 10 of the 24 companies evaluated earned some points on Indicator [P15](/index2019/indicators/p15)—a trend that appears to be driven by new regulations in various jurisdictions requiring companies to be more accountable for how they handle data breaches. As Figure 20 below shows, [**Vodafone**](/index2019/companies/vodafone) was again the only company to receive a full score on this indicator. It disclosed a clear commitment to notify the relevant authorities without undue delay when a data breach occurs, provided details about its process for notifying data subjects who might be affected by a data breach, and explained what kinds of steps it will take to address the impact of a data breach on its users.<sup>[85](#footnotes)</sup>
 
-![Figure 20: How transparent are companies about their processes for handling data breaches (P15)?](/index2018/assets/graphics/content/fig_20.png)
+![Figure 20: How transparent are companies about their processes for handling data breaches (P15)?](/assets/graphics/content/fig_20.png)
 
 Both Chinese internet companies, [**Baidu**](/index2019/companies/baidu) and [**Tencent**](/index2019/companies/tencent), received some credit on this indicator this year, likely due to stricter regulations in China requiring companies to have cybersecurity response plans that include user notification procedures.<sup>[86](#footnotes)</sup> Baidu received the highest score on this indicator among internet and mobile ecosystem companies, disclosing more than [**Apple**](/index2019/companies/apple), [**Kakao**](/index2019/companies/kakao), [**Tencent**](/index2019/companies/tencent), and[ **Microsoft**](/index2019/companies/microsoft). Tencent tied with Apple and Kakao for the second-best score on this indicator, and disclosed more than Microsoft.
 
@@ -252,7 +252,7 @@ The RDR Index has one indicator [(P16)](/index2019/indicators/p16) that evaluate
 
 As Figure 21 below shows, [**Apple**](/index2019/companies/apple) had the strongest encryption policies of any internet and mobile ecosystem company evaluated. It improved its disclosure of its encryption policies for iMessage and the iOS operating system, and clarified that it stores some user information in its iCloud cloud data service using end-to-end encryption so that even the company cannot access this data. As in previous years, the Russian internet company [**Yandex**](/index2019/companies/yandex) stood out for earning one of the top scores on this indicator, especially compared to the other Russian company in the RDR Index, [**Mail.Ru**](/index2019/companies/mailru), which hardly disclosed any information about its encryption policies.
 
-![Figure 21: How transparent are internet and mobile ecosystem companies about encryption standards (P16)?](/index2018/assets/graphics/content/fig_21_2.png)
+![Figure 21: How transparent are internet and mobile ecosystem companies about encryption standards (P16)?](/assets/graphics/content/fig_21_2.png)
 
 [**Google**](/index2019/companies/google) earned the third-best score on this indicator, after [**Apple**](/index2019/companies/apple) and [**Yandex**](/index2019/companies/yandex): it disclosed that it encrypts user traffic by default, but did not provide an option for users to end-to-end encrypt their private content or communications for Gmail, YouTube, or Google Drive. In 2018, [**Microsoft**](/index2019/companies/microsoft) rolled out end-to-end encryption for Outlook and Skype, giving users the option to end-to-end encrypt their private communications, although it is not enabled by default. It also provided OneDrive cloud service users with the option to end-to-end encrypt their private content. However, Microsoft failed to disclose whether the transmissions of data are encrypted with unique keys for Bing and Skype. [**Facebook**](/index2019/companies/facebook) provided end-to-end encryption by default for WhatsApp, and gave Messenger users the option to enable end-to-end encryption, although it is not on by default. In contrast, it failed to disclose any information about its encryption practices for Instagram.
 
