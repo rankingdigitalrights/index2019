@@ -474,6 +474,7 @@ $maincolor:  #231f20;
       counter-reset: item;
         li{
           margin: 0;
+	  counter-reset: section;
           counter-increment: item;
           list-style-type: none;
           position: relative;
