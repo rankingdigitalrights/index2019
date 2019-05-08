@@ -11,7 +11,7 @@ footnotes: |
   <p class="footnotes"><span style="font-weight: 400;"><a id="footnotes"></a>[115]</span> Figures as of March 25, 2019. &ldquo;World Internet Users and 2019 Population Stats,&rdquo; Internet World Stats, accessed April 22, 2019, <a href="https://www.internetworldstats.com/stats.htm" target="_blank" rel="noopener">www.internetworldstats.com/stats.htm</a>.</p>
 ---
 7 Appendix
-============
+==========
  
 <a id="section-71"></a>7.1 RDR Index methodology development
 ------------------------------------------------------------
