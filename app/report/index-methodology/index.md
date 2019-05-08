@@ -13,7 +13,7 @@ footnotes: |
 2019 RDR Index methodology
 ==========================
 
-The 2019 Index measures company disclosure of policies and practices affecting users’ freedom of expression and privacy. The Index methodology applies 35 indicators in three main categories: **[Governance](/index2019/categories/governance)**, **[Freedom of Expression](/index2019/categories/freedom-of-expression)**, and **[Privacy](/index2019/categories/privacy)**. Each category contains **indicators** measuring company disclosure for that category. Each indicator is comprised of a series of **elements** that measure company disclosure for that indicator.[<sup>9</sup>](#footnotes)
+The 2019 RDR Index measures company disclosure of policies and practices affecting users’ freedom of expression and privacy. The Index methodology applies 35 indicators in three main categories: [**Governance**](/index2019/categories/governance), [**Freedom of Expression**](/index2019/categories/freedom-of-expression), and [**Privacy**](/index2019/categories/privacy). Each category contains **indicators** measuring company disclosure for that category. Each indicator is comprised of a series of **elements** that measure company disclosure for that indicator.[<sup>9</sup>](#footnotes)
 
 RDR Index categories <a id="index-categories"></a>
 --------------------------------------------------
@@ -60,7 +60,7 @@ For each internet and mobile ecosystem company, we evaluated global group-level 
 - **Vodafone (UK):** Vodafone UK (pre- and postpaid mobile, broadband)
  
 > For more information and service level comparisons, see:  
-> [rankingdigitalrights.org/index2019/services](/index2019/services/%20)
+> [rankingdigitalrights.org/index2019/services](/index2019/services/)
 
 What the RDR Index evaluates <a id="index-measures"></a>
 --------------------------------------------------------
@@ -88,7 +88,7 @@ Evaluation and scoring<a id="evaluation"></a>
 
 **2018 RDR Index score adjustments:** Some company scores from 2018 were adjusted for comparison with their 2019 evaluation. Scores were adjusted at the element level, in accordance with clarified evaluation standards that were applied in the 2018 RDR Index, or to include information not located during the 2018 RDR Index cycle, or as a result of a re-assessment of the company’s disclosure. These adjustments did not produce changes to any company position in the 2018 rankings or to any of the key findings highlighted in the 2018 RDR Index. Each score adjustment, including a detailed explanation of the reason for each change, is recorded in each company’s final dataset, which is publicly available for download at: [rankingdigitalrights.org/index2019/download](/index2019/download).
 
-**Scoring:** The RDR Index evaluates company disclosure at the overarching “parent,” or “group,” level as well as those of selected services and or local operating companies (depending on company structure). The evaluation includes an assessment of disclosure for every element of each indicator, based on one of the following possible answers: “full disclosure,” “partial,” “no disclosure found,” “no,” or “N/A.”
+**Scoring:** The RDR Index evaluates company disclosure at the overarching “parent” or “group” level as well as those of selected services and or local operating companies (depending on company structure). The evaluation includes an assessment of disclosure for every element of each indicator, based on one of the following possible answers: “full disclosure,” “partial,” “no disclosure found,” “no,” or “N/A.”
 
 Companies receive a cumulative score of their performance across all RDR Index categories, and results show how companies performed by each category and indicator. Scores for the Freedom of Expression and Privacy categories are calculated by averaging scores for each service. Scores for the Governance category indicators include parent- and operating-level performance (depending on company type).
 
@@ -98,6 +98,6 @@ Companies receive a cumulative score of their performance across all RDR Index c
 - Partial = 50
 - No disclosure found = 0
 - No = 0
-- N/A excluded from the score and averages
+- N/A = excluded from the score and averages
  
 > For more information on scoring, see the Appendix: [rankingdigitalrights.org/index2019/report/appendix](/index2019/report/appendix/)

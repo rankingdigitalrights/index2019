@@ -10,9 +10,9 @@ next:
 footnotes: | 
   <p class="footnotes"><span style="font-weight: 400;">[114]</span> See the 2019 RDR Index methodology at: <a href="/2019-indicators" target="_blank" rel="noopener">rankingdigitalrights.org/2019-indicators</a>/.</p>
 ---
-Questions for investors
-=======================
-
+6. Questions for investors
+  =======================
+ 
 The RDR Index methodology provides a clear standard for investors to use in evaluating company respect for users’ digital rights.[<sup>114</sup>](#footnotes) How comprehensive are companies’ efforts to mitigate risks to their business? How clearly do they show that they are working to anticipate and reduce potential privacy or freedom of expression risks faced by those who use their technologies, platforms, and services?
 
 Shareholder value is put at risk not only by security breaches, but also when companies fail to identify and mitigate broader risks to user privacy across their business operations. Companies also face risks when they fail to anticipate and address content-related issues spanning from incitement to violence and targeted disinformation campaigns, to government censorship and network shutdowns.
@@ -47,5 +47,5 @@ The following 12 categories of questions are offered as guidance for investor du
 
 **12. Telecommunications transparency about network management:** Do telecommunications companies disclose whether they prioritize, block, or delay applications, protocols, or content for reasons beyond assuring quality of service and reliability of the network? If yes, do they disclose the purpose for doing so? (Indicator [F9](/index2019/indicators/f9))
 
-> To view each company’s “report card”:   
+> To view each company’s “report card”:  
 > [rankingdigitalrights.org/index2019/companies ](/index2019/companies%20)
