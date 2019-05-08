@@ -483,10 +483,14 @@ $maincolor:  #231f20;
             content: counter(item) ".";
             padding-right:0.5em;
             float: left;
-            font-size: 1em;
-            position: absolute;
-            left: -20px;
-	    color: #4D9ECF;
+            color: #4D9ECF;
+	    position: absolute;
+            left: -30px;
+            bottom: 5px;
+            font-size: 2.5em !important;
+            font-family: 'simplon-bold';		  
+		  
+		  
             @include media(large-up) {
               font-size: 1.12em;
             }
