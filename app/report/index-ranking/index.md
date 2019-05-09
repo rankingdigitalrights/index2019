@@ -17,7 +17,7 @@ Most companies covered by previous RDR Indexes have made tangible improvements s
 
 The Ranking Digital Rights Corporate Accountability Index measures companies’ public commitments and disclosures against standards for disclosure, policy, and practice that companies should meet in order to demonstrate respect for users’ freedom of expression and privacy rights. RDR Index scores represent the extent to which companies are meeting minimum standards. Only eight of the 24 companies evaluated scored 50 percent or higher. The highest score was just 62 percent. There is much room for improvement, even when laws are not in alignment with human rights standards, and especially when regulatory requirements lag behind marketplace realities and actual harms to users.
 
-![Figure 1: The 2019 RDR Corporate Accountability Index ranking ](/assets/graphics/content/fig_01_copy.png)
+![Figure 1: The 2019 RDR Corporate Accountability Index ranking ](/assets/graphics/content/fig_01_2.png)
 
 The highest scoring companies demonstrated relatively strong governance and oversight of human rights. They not only made clearer commitments to users’ freedom of expression as well as privacy, they also disclosed mechanisms for governance and oversight of ways that their businesses might pose risks to users’ rights. Nor is it a coincidence that the top-ranking companies are members of the Global Network Initiative (GNI), a multi-stakeholder initiative focused on upholding principles of freedom of expression and privacy in relation to government requests. GNI member companies commit to a set of principles and guidelines for their implementation, which include due diligence processes as well as transparency and accountability mechanisms.[<sup>23</sup>](#footnotes)
 
