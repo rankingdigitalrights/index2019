@@ -4268,7 +4268,7 @@
         },
         {
             "id": "tencent",
-            "name": "Tencent",
+            "name": "TenCent",
             "headers": [
                 {
                     "text": "QZone"
@@ -4280,7 +4280,7 @@
                     "text": "WeChat"
                 },
                 {
-                    "text": "Tencent Cloud"
+                    "text": "TenCent Cloud"
                 }
             ],
             "average": [

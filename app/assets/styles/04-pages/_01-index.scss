@@ -74,10 +74,6 @@
 
 
 	/* World map */
-	.datamaps-bubble {
-		fill-opacity: 1 !important;
-	}
-	
 	.company--tooltip {
 		background-color: #000000;
 		//color: #A1A3A4;
@@ -219,7 +215,7 @@
 
 		text {
 			font-size: 7px !important;
-			font-weight: bold !important;
+			font-weight: normal !important;
 			@include media(small-up) {
 				font-size: inherit !important;
 			}
@@ -238,10 +234,8 @@
 			//font-size: 20px;
 			//font-weight: bold;
 			text-decoration: none;
-			font-size: 1.05em;
 			text {
 				font-weight: bold !important;
-
 			}
 		}
 
