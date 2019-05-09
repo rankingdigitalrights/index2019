@@ -83,7 +83,7 @@ module.exports = Backbone.View.extend({
         var $end = self.latLngToXY(data.x2, data.y2);
         layer.append('a')
           .attr('class', 'company--name')
-          .attr('xlink:href', baseurl + '/companies/' + data.compURL + '/index')
+          .attr('xlink:href', baseurl + '/companies/' + data.compURL)
           .append('text')
           .attr('x', company_position[0])
           .attr('y', company_position[1])

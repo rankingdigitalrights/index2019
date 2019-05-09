@@ -1,6 +1,6 @@
 <div class="vis--row" id="<%= id %>">
 	<span class="vis--row_title">
-		<a href="<%= baseurl %>/companies/<%= href %>/index">
+		<a href="<%= baseurl %>/companies/<%= href %>">
 		<%= name %>
 		</a>
 	</span>
