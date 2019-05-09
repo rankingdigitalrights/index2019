@@ -333,6 +333,7 @@ $maincolor:  #231f20;
 
       p{
         margin: 0;
+	margin-bottom: 10px;
       }
 
     }
@@ -434,12 +435,14 @@ $maincolor:  #231f20;
         margin-left: 20px;
         li{
           list-style: disc;
-          font-size: 1em;
           line-height: 1.4em;
-          font-family: $simplon-light;
+          font-family: $simplon-regular;
+          font-size: 1.25em !important;
+          margin-bottom: 10px;
+          letter-spacing: 1px;
           color: $black-narrative;
-          
-          p{
+          /*here it was p */
+          li{
             font-size: 1em;
             line-height: 1.4em;
             font-family: $simplon-light;
