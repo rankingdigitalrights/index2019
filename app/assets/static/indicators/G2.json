@@ -2880,10 +2880,10 @@
                     "text": "Group - Telefónica - Privacy"
                 },
                 {
-                    "text": "OperatingCo - Telefónica de España - Freedom of Expression"
+                    "text": "OperatingCo - Telefónica de Espa�a - Freedom of Expression"
                 },
                 {
-                    "text": "OperatingCo - Telefónica de España - Privacy"
+                    "text": "OperatingCo - Telefónica de Espa�a - Privacy"
                 },
                 {
                     "text": "Prepaid Mobile - Freedom of Expression"
@@ -3233,13 +3233,13 @@
         },
         {
             "id": "tencent",
-            "name": "Tencent",
+            "name": "TenCent",
             "headers": [
                 {
-                    "text": "Group - Tencent - Freedom of Expression "
+                    "text": "Group - TenCent - Freedom of Expression "
                 },
                 {
-                    "text": "Group - Tencent - Privacy"
+                    "text": "Group - TenCent - Privacy"
                 },
                 {
                     "text": "QZone - Freedom of Expression"
@@ -3260,10 +3260,10 @@
                     "text": "WeChat - Privacy"
                 },
                 {
-                    "text": "Tencent Cloud - Freedom of Expression"
+                    "text": "TenCent Cloud - Freedom of Expression"
                 },
                 {
-                    "text": "Tencent Cloud - Privacy"
+                    "text": "TenCent Cloud - Privacy"
                 }
             ],
             "average": [
