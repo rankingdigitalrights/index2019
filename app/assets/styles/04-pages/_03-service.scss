@@ -1,4 +1,20 @@
 #page--service {
+	.bar--chart {
+		height: 260px;
+		@include media(small-up) {
+			height: 310px;
+			}
+		@include media(medium-up) {
+			height: 310px;
+			}
+		@include media(large-up) {
+			height: 310px;
+			}
+		@include media(xlarge-up) {
+			height: 310px;			 
+			}
+
+		}
 	.container--right {
 		.rank--section {
 			@include media(small-up) {
