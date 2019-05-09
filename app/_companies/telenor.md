@@ -5,7 +5,7 @@ layout: company
 name: telenor
 id: telenor
 company_type: Telecommunications company
-display: Telenor
+display: Telenor ASA
 telco: true
 rank: 4
 basic_information: | 

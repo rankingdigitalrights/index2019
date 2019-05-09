@@ -19,13 +19,12 @@ The 2019 Ranking Digital Rights Corporate Accountability Index evaluated 24 of t
  
 **People have a right to know. Companies have a responsibility to show.** The 2019 RDR Index evaluated 24 companies on 35 indicators examining disclosed commitments, policies, and practices affecting freedom of expression and privacy, including corporate governance and accountability mechanisms. RDR Index scores represent the extent to which companies are meeting minimum standards. Yet few companies scored above 50 percent. While the results reveal some progress, many problems have persisted since the first RDR Index was launched in 2015.
 
-**<u>Progress:</u>** **Most companies have made meaningful efforts to improve.** Of the 22 companies evaluated in the previous Index, 19 companies disclosed more about their commitments, policies, and practices affecting users’ freedom of expression and privacy.
+**<u>Progress:</u>** **Most companies have made meaningful efforts to improve.** Of the 22 companies evaluated in the previous RDR Index, 19 companies disclosed more about their commitments, policies, and practices affecting users’ freedom of expression and privacy.
 
-- **Many companies improved their privacy-related policies.**New privacy regulations in the European Union and elsewhere drove many companies to improve disclosures about their handling of user information.
+- **Many companies improved their privacy-related policies.** New privacy regulations in the European Union and elsewhere drove many companies to improve disclosures about their handling of user information.
 - **Some companies improved their governance and oversight of risks to users.** More companies improved their public commitment to respect users’ human rights, and took steps to demonstrate oversight and accountability around risks to freedom of expression and privacy.
  
-**<u>  
-Persistent problems:</u>** People around the world still lack basic information about who controls their ability to connect, speak online, or access information, or who has the ability to access their personal information under what circumstances. Governments are responding to serious threats perpetrated through networked communications technologies. While some regulations have improved company disclosures, policies, and practices, other regulations have made it harder for companies to meet global human rights standards for transparency, responsible practice, and accountability in relation to freedom of expression and privacy. Even when faced with challenging regulatory environments in many countries, companies must take more affirmative steps to respect users’ rights.
+**<u>Persistent problems:</u>** People around the world still lack basic information about who controls their ability to connect, speak online, or access information, or who has the ability to access their personal information under what circumstances. Governments are responding to serious threats perpetrated through networked communications technologies. While some regulations have improved company disclosures, policies, and practices, other regulations have made it harder for companies to meet global human rights standards for transparency, responsible practice, and accountability in relation to freedom of expression and privacy. Even when faced with challenging regulatory environments in many countries, companies must take more affirmative steps to respect users’ rights.
 
 - **PRIVACY: Most companies still fail to disclose important aspects of how they handle and secure personal data.** Despite new regulations in the EU and elsewhere, most of the world’s internet users are still deprived of basic facts about who can access their personal information under what circumstances, and how to control its collection and use. Few companies were found to disclose more than required by law.
 - **GOVERNANCE: Threats to users caused or exacerbated by companies’ business models and deployment of new technologies are not well understood or managed.** Most companies are not prepared to identify and mitigate risks such as those associated with targeted advertising and automated decision-making. Nor do companies offer adequate grievance and remedy mechanisms to ensure that harms can be reported and rectified.
@@ -38,7 +37,8 @@ If the internet is to be designed, operated, and governed in a way that protects
 
 Below are our top-line recommendations for companies and governments. More detailed recommendations can be found at the end of Chapters 3, 4, and 5. Chapter 6 proposes questions for investors to ask companies.
 
-### **Recommendations for companies**
+**Recommendations for companies**
+---------------------------------
 
 <span style="font-weight: 400;">Regardless of the legal environment, companies are responsible for the impact of their products, services, and business operations on human rights.[<sup>3</sup>](#footnotes)</span><span style="font-weight: 400;"> All companies evaluated in the RDR Index can make many improvements immediately, even in the absence of legal and policy reform. </span>
 
@@ -52,7 +52,8 @@ Below are our top-line recommendations for companies and governments. More detai
 
 **5. Innovate for better governance of data and speech:** Work with civil society, investors, and governments to create new approaches for addressing threats to individuals and societies while also protecting users’ rights.
 
-### **Recommendations for governments**
+**Recommendations for governments**
+-----------------------------------
 
 Governments should uphold their duty to protect human rights if companies are to fully respect human rights, consistent with the U.N. Guiding Principles on Business and Human Rights.[<sup>5</sup>](#footnotes) Citizens must be able to hold government accountable for how it exercises power over online speech and personal data.
 

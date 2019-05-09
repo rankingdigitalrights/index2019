@@ -10,9 +10,9 @@ next:
 footnotes: | 
   <p class="footnotes"><span style="font-weight: 400;"><a id="footnotes"></a>[115]</span> Figures as of March 25, 2019. &ldquo;World Internet Users and 2019 Population Stats,&rdquo; Internet World Stats, accessed April 22, 2019, <a href="https://www.internetworldstats.com/stats.htm" target="_blank" rel="noopener">www.internetworldstats.com/stats.htm</a>.</p>
 ---
-Appendix
-========
-
+7 . Appendix
+==========
+ 
 <a id="section-71"></a>7.1 RDR Index methodology development
 ------------------------------------------------------------
 
@@ -75,7 +75,7 @@ The research process for the 2019 RDR Index consisted of several steps involving
 
 Proactive and open stakeholder engagement has been a critical component of RDR’s work and of the RDR Index methodology. As such, we communicated with companies throughout the research process.
 
-**Open dialogue and communication.** Before the research began, we contacted all 24 companies and informed them that they were included in this year’s Index, describing our research process and timeline. Following several stages of research and review, we shared each company’s initial results with them. We invited companies to provide written feedback as well as additional source documents. In many cases, the research team conducted conference calls or meetings with companies that requested them to discuss the initial findings as well as broader questions about the RDR Index and its methodology.
+**Open dialogue and communication.** Before the research began, we contacted all 24 companies and informed them that they were included in this year’s RDR Index, describing our research process and timeline. Following several stages of research and review, we shared each company’s initial results with them. We invited companies to provide written feedback as well as additional source documents. In many cases, the research team conducted conference calls or meetings with companies that requested them to discuss the initial findings as well as broader questions about the RDR Index and its methodology.
 
 **Incorporating company feedback into the RDR Index.** While engagement with the companies was critical to understand company positions and ensure the research reviewed relevant disclosures, the RDR Index evaluates information that companies disclose publicly. Therefore, we did not consider a score change unless companies identified publicly available documentation that supported a change. Absent that, the research team reviewed company feedback and considered it as context for potential inclusion in the narrative report, but did not use it for scoring purposes.
 
@@ -103,14 +103,14 @@ Companies receive a cumulative score of their performance across all Index categ
 **Governance category scoring**
 
 - G1, G5: 
-  - Internet and mobile ecosystem companies: scores were based on the “group” level scores.
-  - Telecommunications companies: scores based on average “group” and operating company scores.
+  - Internet and mobile ecosystem companies' scores were based on the group-level scores.
+  - Telecommunications companies' scores were based on average group-level and operating company scores.
 - G2, G3, G4: 
-  - Internet and mobile ecosystem companies: scores based on average of “group”-level and services scores.
-  - Telecommunications companies: average of group, operating, and services scores.
+  - Internet and mobile ecosystem companies' scores were based on average of group-level and services scores.
+  - Telecommunications companies' scores were based on average of group-level, operating, and services scores.
 - G6: 
-  - Internet and mobile ecosystem companies: average of service-level scores.
-  - Telecommunications companies: average of service-level scores.
+  - Internet and mobile ecosystem companies's scores were based on average of service-level scores.
+  - Telecommunications companies's scores were based on average of service-level scores.
  
 **Indicator and element scoring**
 
