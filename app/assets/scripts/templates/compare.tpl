@@ -23,7 +23,7 @@
         <h2><%= name %></h2>
       </div>
       <div class="container--body">
-        <p><%= description %></p>
+        <p><%= description %> <a href="../companies/<%= id %>">Read <%= name %>’s report card for more.</a></p>
         <a href="#top"><i class="fa fa-angle-double-up" aria-hidden="true"></i></a>
       </div>
     </div>
