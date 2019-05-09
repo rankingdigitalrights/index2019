@@ -8,10 +8,10 @@ next:
   href: acknowledgements
   text: Acknowledgements
 footnotes: | 
-  <p class="footnotes"><span style="font-weight: 400;"><a id="footnotes"></a>[115]</span> Figures as of March 25, 2019. &ldquo;World Internet Users and 2019 Population Stats,&rdquo; Internet World Stats, accessed April 22, 2019, <a href="https://www.internetworldstats.com/stats.htm" target="_blank" rel="noopener">www.internetworldstats.com/stats.htm</a>.</p>
+  <p class="footnotes"><span style="font-weight: 400;"><a id="footnotes"></a>[115]</span> Figures as of March 25, 2019. &ldquo;World Internet Users and 2019 Population Stats,&rdquo; Internet World Stats, accessed April 22, 2019, <a href="https://www.internetworldstats.com/stats.htm" target="_blank" rel="noopener">www.internetworldstats.com/stats.htm</a></p>
 ---
-7. Appendix
-  ========
+7 . Appendix
+============
  
 <a id="section-71"></a>7.1 RDR Index methodology development
 ------------------------------------------------------------
@@ -65,7 +65,7 @@ The research process for the 2019 RDR Index consisted of several steps involving
 - **Step 1: Data collection.** A primary research team collected data for each company and provided a preliminary assessment of company performance across all indicators.
 - **Step 2: Secondary review.** A second team of researchers conducted a fact-check of the assessment provided by primary researchers in Step 1.
 - **Step 3: Review and reconciliation**. RDR research staff examined the results from Steps 1 and 2 and resolved any differences that arose.
-- **Step 4: First horizontal review.**<span style="font-weight: 400;"> Research staff cross-checked the indicators to ensure they had been evaluated consistently for each company.</span>
+- **Step 4: First horizontal review.** Research staff cross-checked the indicators to ensure they had been evaluated consistently for each company.
 - **Step 5: Company feedback.** Initial results were sent to companies for comment and feedback. All feedback received from companies by the agreed upon deadline was reviewed by RDR staff who made decisions about score changes or adjustments.
 - **Step 6: Second horizontal review.** Research staff conducted a second horizontal review, cross-checking the indicators for consistency and quality control.
 - **Step 7: Final scoring.** The RDR team calculated final scores.
@@ -116,7 +116,7 @@ Companies receive a cumulative score of their performance across all Index categ
 
 Telecommunications companies were evaluated on 32 of the 35 indicators; internet and mobile ecosystem companies were evaluated on 33 of the 35 indicators. Some elements within indicators were not applicable to certain services.
 
-The following list identifies which indicators or elements were N/A for certain companies or services:F3, Element 2: N/A for search engines
+The following list identifies which indicators or elements were N/A for certain companies or services: F3, Element 2: N/A for search engines
 
 - F3, Elements 4-5: N/A for prepaid and postpaid mobile services, cloud service, email services, and messaging services
 - F5-F7: N/A for email services
