@@ -9,7 +9,7 @@ display: Yandex N. V.
 telco: false
 rank: 8
 basic_information: | 
-  <p><strong>Domicile:</strong> Russia<br /><strong>Website:</strong> <a href="http://www.yandex.com">www.yandex.com</a>&nbsp;</p>
+  <p><strong>Domicile:</strong> Russia<br /><strong>Website:</strong> <a href="https://www.yandex.com">www.yandex.com</a>&nbsp;</p>
 key_findings: | 
   <ul><li>Despite key improvements, Yandex failed to disclose enough about policies affecting users&rsquo; freedom of expression and privacy.</li><li>It made notable strides by publishing a formal commitment to respect users&rsquo; freedom of expression and privacy rights, but otherwise lacked evidence of strong governance and oversight over human rights commitments across the company&rsquo;s operations.</li><li>Yandex disclosed almost nothing about how it handles government demands to restrict content or to hand over user data, although there are no legal barriers to disclosing at least some information about its processes for responding to these types of requests.</li></ul>
 graph: | 

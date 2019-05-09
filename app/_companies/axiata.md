@@ -9,7 +9,7 @@ display: Axiata Group Berhad
 telco: true
 rank: 10
 basic_information: | 
-  <p><strong>Domicile:</strong> Malaysia<br /><strong>Website:</strong> <a href="http://www.axiata.com">www.axiata.com</a>&nbsp;</p>
+  <p><strong>Domicile:</strong> Malaysia<br /><strong>Website:</strong> <a href="https://www.axiata.com">www.axiata.com</a>&nbsp;</p>
 key_findings: | 
   <ul><li>Axiata made modest improvements but remained one of the lowest-ranking companies in the entire Index.</li><li>Axiata disclosed nothing about how it responds to government or private requests to block content, restrict accounts, or hand over user information.</li><li>While Axiata made minor improvements to its privacy policies, it was less transparent than previously about its security policies.</li></ul>
 graph: | 

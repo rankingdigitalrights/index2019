@@ -9,7 +9,7 @@ display: Verizon Media Inc.
 telco: false
 rank: 2
 basic_information: | 
-  <p><strong>Domicile:</strong> United States<br /><strong>Website:</strong> <a href="http://www.verizonmedia.com">www.verizonmedia.com</a>&nbsp;</p>
+  <p><strong>Domicile:</strong> United States<br /><strong>Website:</strong> <a href="https://www.verizonmedia.com">www.verizonmedia.com</a>&nbsp;</p>
 key_findings: | 
   <ul><li>Verizon Media rose in the ranking to tie with Google for second place, and made a number of improvements to its disclosures.</li><li>Verizon Media disclosed less data than all other U.S. internet and mobile ecosystem companies about the government and private requests it received for user information.</li><li>Verizon Media was unclear about how it keeps user information secure, including how it handles data breaches.</li></ul>
 graph: | 
