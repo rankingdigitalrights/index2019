@@ -6,5 +6,5 @@ entity_type: compare
 header: Year-on-year Comparison 2019
 published: 1
 introduction: | 
-  <p><strong>The 2019 </strong>Corporate Accountability Index applied the same methodology to evaluate the same 22 companies as in the 2017 Index. This enabled us to produce comparative analyses of each company’s performance and to track overall trends. See how each company’s score and Index performance changed.</p>
+  The 2019 RDR Corporate Accountability Index methodology included limited changes to just two of the 35 indicators evaluating company disclosure of commitments, policies, and practices affecting freedom of expression and privacy.  This enabled us to produce comparative analyses of each company’s performance since 2018 and to track overall trends. Below are summaries of how each company’s score and Index performance changed.
 ---
