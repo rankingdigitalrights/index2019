@@ -735,7 +735,7 @@
                 "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
             },
             {
-                "value": "22.22",
+                "value": "33.33",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {
@@ -1386,15 +1386,15 @@
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "68.33",
+                "value": "85.42",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
-                "value": "65.78",
+                "value": "82.22",
                 "name": "F6. Data about government requests for content or account restriction"
             },
             {
-                "value": "15.56",
+                "value": "19.44",
                 "name": "F7. Data about private requests for content or account restriction"
             },
             {
@@ -1410,7 +1410,7 @@
                 "name": "F10. Network shutdown (telecommunications companies)"
             },
             {
-                "value": "80",
+                "value": "100",
                 "name": "F11. Identity policy"
             }
         ],
@@ -1480,7 +1480,7 @@
                 "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
             },
             {
-                "value": "80",
+                "value": "100",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {
@@ -1535,15 +1535,15 @@
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "33.33",
+                "value": "50",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
-                "value": "25.93",
+                "value": "38.82",
                 "name": "F6. Data about government requests for content or account restriction"
             },
             {
-                "value": "29.63",
+                "value": "44.44",
                 "name": "F7. Data about private requests for content or account restriction"
             },
             {
@@ -1559,7 +1559,7 @@
                 "name": "F10. Network shutdown (telecommunications companies)"
             },
             {
-                "value": "33.33",
+                "value": "50",
                 "name": "F11. Identity policy"
             }
         ],
@@ -1629,7 +1629,7 @@
                 "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
             },
             {
-                "value": "50",
+                "value": "75",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {
@@ -1684,7 +1684,7 @@
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "2.08",
+                "value": "2.78",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
@@ -3178,11 +3178,11 @@
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
-                "value": "25",
+                "value": "50",
                 "name": "F6. Data about government requests for content or account restriction"
             },
             {
-                "value": "32.5",
+                "value": "65",
                 "name": "F7. Data about private requests for content or account restriction"
             },
             {
@@ -3347,7 +3347,7 @@
                 "name": "F10. Network shutdown (telecommunications companies)"
             },
             {
-                "value": "50",
+                "value": "100",
                 "name": "F11. Identity policy"
             }
         ],
@@ -3472,7 +3472,7 @@
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "16.67",
+                "value": "25",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
@@ -3566,7 +3566,7 @@
                 "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
             },
             {
-                "value": "66.67",
+                "value": "100",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {
