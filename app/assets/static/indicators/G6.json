@@ -1309,10 +1309,10 @@
                     "text": "WhatsApp - Privacy"
                 },
                 {
-                    "text": "Messenger ecosystem - Freedom of Expression"
+                    "text": "Messenger - Freedom of Expression"
                 },
                 {
-                    "text": "Messenger ecosystem - Privacy"
+                    "text": "Messenger - Privacy"
                 }
             ],
             "average": [
@@ -3337,7 +3337,7 @@
         },
         {
             "id": "tencent",
-            "name": "TenCent",
+            "name": "Tencent",
             "headers": [
                 {
                     "text": "QZone - Freedom of Expression"
