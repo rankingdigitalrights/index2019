@@ -249,6 +249,50 @@
             ]
         },
         {
+            "id": "deutschetelekom",
+            "name": "Deutsche Telekom",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "N/A"
+                },
+                {
+                    "value": "N/A"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "etisalat",
             "name": "Etisalat",
             "headers": [
@@ -306,7 +350,7 @@
                     "text": "WhatsApp"
                 },
                 {
-                    "text": "Messenger ecosystem"
+                    "text": "Messenger"
                 }
             ],
             "average": [
@@ -360,6 +404,9 @@
                 },
                 {
                     "text": "Android mobile ecosystem"
+                },
+                {
+                    "text": "Google Drive"
                 }
             ],
             "average": [
@@ -373,7 +420,10 @@
                     "value": "100"
                 },
                 {
-                    "value": "50"
+                    "value": "100"
+                },
+                {
+                    "value": "100"
                 }
             ],
             "rows": [
@@ -392,7 +442,10 @@
                             "value": "100"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 }
@@ -414,7 +467,7 @@
             ],
             "average": [
                 {
-                    "value": "50"
+                    "value": "N/A"
                 },
                 {
                     "value": "50"
@@ -430,7 +483,7 @@
                             "value": "1. Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
                         },
                         {
-                            "value": "50"
+                            "value": "exclude"
                         },
                         {
                             "value": "50"
@@ -454,11 +507,17 @@
                 },
                 {
                     "text": "Mail.ru Agent"
+                },
+                {
+                    "text": "Mail.ru Cloud Solutions"
                 }
             ],
             "average": [
                 {
                     "value": "0"
+                },
+                {
+                    "value": "100"
                 },
                 {
                     "value": "100"
@@ -475,6 +534,9 @@
                         },
                         {
                             "value": "0"
+                        },
+                        {
+                            "value": "100"
                         },
                         {
                             "value": "100"
@@ -498,11 +560,17 @@
                 },
                 {
                     "text": "Skype"
+                },
+                {
+                    "text": "OneDrive"
                 }
             ],
             "average": [
                 {
                     "value": "N/A"
+                },
+                {
+                    "value": "100"
                 },
                 {
                     "value": "100"
@@ -519,6 +587,9 @@
                         },
                         {
                             "value": "exclude"
+                        },
+                        {
+                            "value": "100"
                         },
                         {
                             "value": "100"
@@ -560,50 +631,6 @@
                         },
                         {
                             "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "oath",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail"
-                },
-                {
-                    "text": "Flickr"
-                },
-                {
-                    "text": "Tumblr"
-                }
-            ],
-            "average": [
-                {
-                    "value": "0"
-                },
-                {
-                    "value": "0"
-                },
-                {
-                    "value": "100"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
                         }
                     ]
                 }
@@ -703,11 +730,17 @@
             "headers": [
                 {
                     "text": "Samsung"
+                },
+                {
+                    "text": "Samsung Cloud"
                 }
             ],
             "average": [
                 {
-                    "value": "0"
+                    "value": "50"
+                },
+                {
+                    "value": "50"
                 }
             ],
             "rows": [
@@ -717,7 +750,10 @@
                             "value": "1. Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
                         }
                     ]
                 }
@@ -768,8 +804,52 @@
             ]
         },
         {
+            "id": "telenor",
+            "name": "Telenor",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "N/A"
+                },
+                {
+                    "value": "N/A"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "tencent",
-            "name": "TenCent",
+            "name": "Tencent",
             "headers": [
                 {
                     "text": "QZone"
@@ -838,6 +918,41 @@
                         },
                         {
                             "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "verizonmedia",
+            "name": "Verizon Media",
+            "headers": [
+                {
+                    "text": "Yahoo Mail"
+                },
+                {
+                    "text": "Tumblr"
+                }
+            ],
+            "average": [
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "100"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
                         },
                         {
                             "value": "100"

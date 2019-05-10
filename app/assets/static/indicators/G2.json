@@ -1329,10 +1329,10 @@
                     "text": "WhatsApp - Privacy"
                 },
                 {
-                    "text": "Messenger ecosystem - Freedom of Expression"
+                    "text": "Messenger - Freedom of Expression"
                 },
                 {
-                    "text": "Messenger ecosystem - Privacy"
+                    "text": "Messenger - Privacy"
                 }
             ],
             "average": [
@@ -3233,13 +3233,13 @@
         },
         {
             "id": "tencent",
-            "name": "TenCent",
+            "name": "Tencent",
             "headers": [
                 {
-                    "text": "Group - TenCent - Freedom of Expression "
+                    "text": "Group - Tencent - Freedom of Expression "
                 },
                 {
-                    "text": "Group - TenCent - Privacy"
+                    "text": "Group - Tencent - Privacy"
                 },
                 {
                     "text": "QZone - Freedom of Expression"
@@ -3260,10 +3260,10 @@
                     "text": "WeChat - Privacy"
                 },
                 {
-                    "text": "TenCent Cloud - Freedom of Expression"
+                    "text": "Tencent Cloud - Freedom of Expression"
                 },
                 {
-                    "text": "TenCent Cloud - Privacy"
+                    "text": "Tencent Cloud - Privacy"
                 }
             ],
             "average": [

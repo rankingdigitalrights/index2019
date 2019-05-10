@@ -838,7 +838,7 @@
                     "text": "WhatsApp"
                 },
                 {
-                    "text": "Messenger ecosystem"
+                    "text": "Messenger"
                 }
             ],
             "average": [
@@ -2098,7 +2098,7 @@
         },
         {
             "id": "tencent",
-            "name": "TenCent",
+            "name": "Tencent",
             "headers": [
                 {
                     "text": "QZone"
@@ -2110,7 +2110,7 @@
                     "text": "WeChat"
                 },
                 {
-                    "text": "TenCent Cloud"
+                    "text": "Tencent Cloud"
                 }
             ],
             "average": [

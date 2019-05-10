@@ -7,7 +7,7 @@
         "P": "4",
         "Service": "Etisalat UAE",
         "Total": "8",
-        "rank": "1"
+        "rank": "9"
     },
     {
         "Company": "Telefónica",
@@ -17,7 +17,7 @@
         "P": "50",
         "Service": "Movistar",
         "Total": "59",
-        "rank": "2"
+        "rank": "1"
     },
     {
         "Company": "Vodafone",
@@ -27,7 +27,7 @@
         "P": "45",
         "Service": "Vodafone UK",
         "Total": "50",
-        "rank": "3"
+        "rank": "2"
     },
     {
         "Company": "AT&T",
@@ -37,7 +37,7 @@
         "P": "50",
         "Service": "AT&T",
         "Total": "46",
-        "rank": "4"
+        "rank": "3"
     },
     {
         "Company": "Telenor",
@@ -47,7 +47,7 @@
         "P": "39",
         "Service": "Telenor Norway",
         "Total": "46",
-        "rank": "5"
+        "rank": "3"
     },
     {
         "Company": "Deutsche Telekom",
@@ -57,7 +57,7 @@
         "P": "60",
         "Service": "Deutsche Telekom",
         "Total": "45",
-        "rank": "6"
+        "rank": "5"
     },
     {
         "Company": "Ooredoo",
@@ -67,7 +67,7 @@
         "P": "0",
         "Service": "Ooredoo Qatar",
         "Total": "4",
-        "rank": "7"
+        "rank": "10"
     },
     {
         "Company": "Orange",
@@ -77,7 +77,7 @@
         "P": "31",
         "Service": "Orange France",
         "Total": "38",
-        "rank": "8"
+        "rank": "6"
     },
     {
         "Company": "Bharti Airtel",
@@ -87,16 +87,16 @@
         "P": "19",
         "Service": "Airtel India",
         "Total": "17",
-        "rank": "9"
+        "rank": "7"
     },
     {
         "Company": "MTN",
-        "Description": "MTN South Africa offers fixed-line broadband services in South Africa. It is a subsidiary of MTN Group, a South Africa-based multinational mobile telecommunications company, operating in many African, European, and Asian countries.",
+        "Description": "MN South Africa offers fixed-line broadband services in South Africa. It is a subsidiary of MTN Group, a South Africa-based multinational mobile telecommunications company, operating in many African, European, and Asian countries.",
         "FoE": "7",
         "G": "39",
         "P": "12",
         "Service": "MTN South Africa",
         "Total": "16",
-        "rank": "10"
+        "rank": "8"
     }
 ]
