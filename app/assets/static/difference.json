@@ -102,6 +102,22 @@
         "total_difference": 2.86
     },
     {
+    "freedom_of_expression_2019": 15,
+    "freedom_of_expression_2018": "NA",
+    "freedom_of_expression_difference": "NA",
+    "governance_2018": "NA",
+    "governance_2019": 55,
+    "governance_difference": "NA",
+    "id":"deutschetelekom",
+    "name":"Deutsche Telekom",
+    "privacy_2018": "NA",
+    "privacy_2019": 60,
+    "privacy_difference": "NA",
+    "total_2018": "NA",
+    "total_2019": 44,
+    "total_difference": "NA"
+  },
+    {
         "description":"Etisalat’s score declined slightly due to less clear disclosure on the circumstances under which the company may comply with requests through private processes to restrict access to content for its fixed-line broadband service (F5).",
         "freedom_of_expression_2019": 15,
         "freedom_of_expression_2018": 15,
@@ -304,6 +320,22 @@
         "total_2018": 40,
         "total_2019": 57,
         "total_difference": 16.19
+    },    
+    {
+        "freedom_of_expression_2019": 34,
+        "freedom_of_expression_2018": "NA",
+        "freedom_of_expression_difference": "NA",
+        "governance_2018": "NA",
+        "governance_2019": 78,
+        "governance_difference": "NA",
+        "id":"telenor",
+        "name":"Telenor",
+        "privacy_2018": "NA",
+        "privacy_2019": 39,
+        "privacy_difference": "NA",
+        "total_2018": "NA",
+        "total_2019": 45,
+        "total_difference": "NA"
     },
     {
         "description":"Tencent made key improvements to its disclosure of policies affecting privacy, but its performance in the Governance and Freedom of Expression categories remained the same as in the 2018 Index. In the 2019 Index, the company disclosed more information about its security policies (P13, P15, P16), its retention of user information (P6), and options users have to delete some of their information (P7). It disclosed a commitment to limit the collection of user information to what is directly relevant to the service (P3). However, its privacy policy for WeChat provided less clear disclosure about whether the company will share user information with government or legal authorities (P4).",
