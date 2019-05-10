@@ -163,7 +163,7 @@ module.exports = Backbone.View.extend({
       company_info.append('div').attr('id', 'company--total');
       company_info.append('div').attr('id', 'company--difference');
 
-      tooltip.append('div').attr('id', 'company--chart--title').text('Service Evaluated');
+      tooltip.append('div').attr('id', 'company--chart--title').text('Service evaluated');
       tooltip.append('ul').attr('id', 'service--evaluated');
 
       // tooltip.append('div').attr('id', 'company--chart--title').text('Position Among Other Companies');
