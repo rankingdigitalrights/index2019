@@ -9,11 +9,11 @@ display: MTN Group Limited
 telco: true
 rank: 8
 basic_information: | 
-  <p><strong>Domicile:</strong> South Africa<br /><strong>Website:</strong> <a href="http://www.mtn.com">www.mtn.com</a>&nbsp;</p>
+  <p><strong>Domicile:</strong> South Africa<br /><strong>Website:</strong> <a href="http://www.mtn.com">www.mtn.com</a>&nbsp;<br /><strong>Operating company evaluated:</strong> MTN South Africa</p>
 key_findings: | 
   <ul><li>MTN failed to disclose enough about policies and practices affecting users&rsquo; freedom of expression and privacy.</li><li>It lacked strong governance and oversight over human rights issues, and disclosed almost nothing about policies affecting freedom of expression.</li><li>MTN disclosed very little about how it handles user information, particularly its policies around sharing and retaining user information, as well as what steps it takes to keep user information secure.</li></ul>
 graph: | 
-  <p><img style="margin: 0px;" src="/index2018/assets/graphics/content/scores_company201.png" /></p>
+  <p><img style="margin: 0px;" src="/index2018/assets/graphics/content/test02.png" /></p>
 services_evaluated: | 
   <ul><li><strong>MTN South Africa (<a href="/index2019/services/prepostpaidmobile/">Prepaid mobile</a>)</strong></li><li><strong>MTN South Africa (<a href="/index2019/services/prepostpaidmobile/">Postpaid mobile</a>)</strong></li><li><strong>MTN South Africa (<a href="/index2019/services/fixedbroadband/">Fixed line broadband</a>)</strong></li></ul>
 analysis_value: 16
