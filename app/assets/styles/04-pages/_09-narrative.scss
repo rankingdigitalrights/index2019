@@ -7,16 +7,49 @@ $maincolor:  #231f20;
 
 
 .narrative--banner {
-  background: url(/index2019/assets/graphics/content/report_background.png) repeat-x;
+  background: url(/assets/graphics/content/report_background.png) repeat-x;
   padding: 0;
   height: 400px;
   max-height: 400px;
   margin-bottom: 2em;
   text-align: center;
   img {
-    max-height: 400px;
-  }
+  max-height: 400px;
+	margin: 0 auto;
+  	}
+	.report_head{
+		display: block !important;
+		@include media(small-up) {
+			display: none !important;
+		}
+		@include media(medium-up) {
+			display: none  !important;
+		}
+		@include media(large-up) {
+			display: block  !important;
+		}
+		@include media(xlarge-up) {
+			display: block  !important;
+		}	
+	}	
+	
+	.report_head_mob{
+		display: block !important;
+		@include media(small-up) {
+			display: block !important;
+		}
+		@include media(medium-up) {
+			display: block !important;
+		}
+		@include media(large-up) {
+			display: none !important;
+		}
+		@include media(xlarge-up) {
+			display: none !important;
+		}	
+	}
 }
+
 
 #narrative-page-content{
   display: flex;
@@ -241,7 +274,7 @@ $maincolor:  #231f20;
       margin-bottom: 40px;
       font-size: 3em;
       line-height: 1em;
-      color: $black-pure;
+
         @include media(small-up) {
           font-size: 2em;
           line-height: 1em;
@@ -251,7 +284,7 @@ $maincolor:  #231f20;
           line-height: 1em;
         }
       @include media(large-up) {
-        font-size: 3em;
+        font-size: 2.5em;
         line-height: 1em;
       }
     }
@@ -298,6 +331,7 @@ $maincolor:  #231f20;
 
       p{
         margin: 0;
+	margin-bottom: 10px;
       }
 
     }
@@ -399,12 +433,14 @@ $maincolor:  #231f20;
         margin-left: 20px;
         li{
           list-style: disc;
-          font-size: 1em;
           line-height: 1.4em;
-          font-family: $simplon-light;
+          font-family: $simplon-regular;
+          font-size: 1.25em !important;
+          margin-bottom: 10px;
+          letter-spacing: 1px;
           color: $black-narrative;
-          
-          p{
+          /*here it was p */
+          li{
             font-size: 1em;
             line-height: 1.4em;
             font-family: $simplon-light;

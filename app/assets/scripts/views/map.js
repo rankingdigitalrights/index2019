@@ -125,7 +125,7 @@ module.exports = Backbone.View.extend({
             }
             var is_telco = company.attributes.telco;
             var total = company.attributes.total;
-            var company_type = (is_telco) ? 'Telecommunications company' : 'Internet and mobile ecosystem companies';
+            var company_type = (is_telco) ? 'Telecommunications company' : 'Internet and mobile ecosystem company';
             $('#company--type').html('<i class="fa fa-circle '+is_telco+'"></i>'+company_type);
             $('#company--name').text(data.company);
             $('#company--domicile').html('Domicile: '+data.country);
@@ -163,7 +163,7 @@ module.exports = Backbone.View.extend({
       company_info.append('div').attr('id', 'company--total');
       company_info.append('div').attr('id', 'company--difference');
 
-      tooltip.append('div').attr('id', 'company--chart--title').text('Service Evaluated');
+      tooltip.append('div').attr('id', 'company--chart--title').text('Service evaluated');
       tooltip.append('ul').attr('id', 'service--evaluated');
 
       // tooltip.append('div').attr('id', 'company--chart--title').text('Position Among Other Companies');
