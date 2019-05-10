@@ -849,13 +849,13 @@
         },
         {
             "id": "tencent",
-            "name": "TenCent",
+            "name": "Tencent",
             "headers": [
                 {
-                    "text": "Group - TenCent - Freedom of Expression "
+                    "text": "Group - Tencent - Freedom of Expression "
                 },
                 {
-                    "text": "Group - TenCent - Privacy"
+                    "text": "Group - Tencent - Privacy"
                 }
             ],
             "average": [
