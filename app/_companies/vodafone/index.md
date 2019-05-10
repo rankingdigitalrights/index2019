@@ -9,7 +9,7 @@ display: Vodafone Group Plc
 telco: true
 rank: 2
 basic_information: | 
-  <p><strong>Domicile:</strong> United Kingdom<br /><strong>Website:</strong> <a href="http://www.vodafone.com">www.vodafone.com</a>&nbsp;</p>
+  <p><strong>Domicile:</strong> United Kingdom<br /><strong>Website:</strong> <a href="http://www.vodafone.com">www.vodafone.com</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Vodafone UK</p>
 key_findings: | 
   <ul><li>Vodafone continued to be among the most transparent telecommunications companies in the RDR Index about its policies and practices that affect users' human rights.</li><li>It was the only company to disclose comprehensive information about policies for handling data breaches.</li><li>While it improved disclosure of what data it collects and for how long it is stored, Vodafone should be more transparent about how it handles and secures user information.</li></ul>
 graph: | 

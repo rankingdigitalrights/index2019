@@ -5,11 +5,11 @@ layout: company
 name: etisalat
 id: etisalat
 company_type: Telecommunications company
-display: Etisalat Limited
+display: Etisalat Group
 telco: true
 rank: 11
 basic_information: | 
-  <p><strong>Domicile:</strong> United Arab Emirates (UAE)<br /><strong>Website:</strong> <a href="http://www.etisalat.com">www.etisalat.com</a>&nbsp;</p>
+  <p><strong>Domicile:</strong> United Arab Emirates (UAE)<br /><strong>Website:</strong> <a href="http://www.etisalat.com">www.etisalat.com</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Etisalat UAE</p>
 key_findings: | 
   <ul><li>Etisalat was the second-lowest scoring telecommunications company in the Index, disclosing almost nothing about policies and practices affecting users' freedom of expression and privacy.</li><li>Etisalat did not publish a privacy policy, making it impossible for users to understand what the company does with their information, including what it collects and for what purposes.</li><li>Etisalat disclosed nothing about how it handles government and private requests to hand over user information.</li></ul>
 graph: | 
