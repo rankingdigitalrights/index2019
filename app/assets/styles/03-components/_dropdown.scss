@@ -51,11 +51,11 @@ position: absolute;
 box-shadow: 0 0 2px $gray;
 background: $white-pure;
   &.dropdown-companies {
-  width: 397px;
+  width: 415px;
     .dropdown--item-wrapper {
       @include media(medium-up) {
       @include span-columns(6);
-      padding-left: 1em;
+      padding-left: 0.5em;
       }      
       .internet-and-mobile-companies {
         .dropdown--item {
