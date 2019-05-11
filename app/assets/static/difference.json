@@ -1,6 +1,6 @@
-[
+()[
     {
-        "description":"América Móvil’s overall score improved mostly due to improved disclosure of governance and oversight over freedom of expression and privacy issues. The company made a formal commitment to respecting users’ freedom of expression and privacy <a href='https://rankingdigitalrights.org/index2019/indicators/g1'>G1</a>, and disclosed some information related to employee training on freedom of expression, and a whistleblowing program for reporting freedom of expression and privacy violations G3. However, the company lost points in the Privacy category due to a change in the company’s Code of Ethics, which makes it less clear whether the company carries out due diligence before it responds to government requests for user information <a href='https://rankingdigitalrights.org/index2019/indicators/p10'>P10</a>. <a href='https://rankingdigitalrights.org/index2019/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
+        "description":"América Móvil’s overall score improved mostly due to improved disclosure of governance and oversight over freedom of expression and privacy issues. The company made a formal commitment to respecting users’ freedom of expression and privacy (<a href='https://rankingdigitalrights.org/index2019/indicators/g1'>G1</a>), and disclosed some information related to employee training on freedom of expression, and a whistleblowing program for reporting freedom of expression and privacy violations G3. However, the company lost points in the Privacy category due to a change in the company’s Code of Ethics, which makes it less clear whether the company carries out due diligence before it responds to government requests for user information (<a href='https://rankingdigitalrights.org/index2019/indicators/p10'>P10</a>). <a href='https://rankingdigitalrights.org/index2019/companies/americamovil/'>Read América Móvil’s report card for more</a>.",
         "freedom_of_expression_2019": 17,
         "freedom_of_expression_2018": 17,
         "freedom_of_expression_difference": 0,
@@ -17,7 +17,7 @@
         "total_difference": 3.39
     },
     {
-        "description":"Apple improved its policies affecting freedom of expression and privacy, including making its data about government requests for account restrictions and third-party requests for user information available in a structured data format (<a href='https://rankingdigitalrights.org/index2019/indicators/f6'>F6</a>, <a href='https://rankingdigitalrights.org/index2019/indicators/p11'>P11)</a>, and improving its disclosure of its encryption policies for iMessage, the iOS mobile ecosystem, and iCloud (<a href='https://rankingdigitalrights.org/index2019/indicators/p16'>P16</a>). It also improved its disclosure of its requirement that apps in its iOS App Store provide users with a privacy policy ()<a href='https://rankingdigitalrights.org/index2019/indicators/p1'>P1</a>). <a href='https://rankingdigitalrights.org/index2019/companies/apple/'>Read Apple’s report card for more</a>.",
+        "description":"Apple improved its policies affecting freedom of expression and privacy, including making its data about government requests for account restrictions and third-party requests for user information available in a structured data format (<a href='https://rankingdigitalrights.org/index2019/indicators/f6'>F6</a>), (<a href='https://rankingdigitalrights.org/index2019/indicators/p11'>P11)</a>, and improving its disclosure of its encryption policies for iMessage, the iOS mobile ecosystem, and iCloud (<a href='https://rankingdigitalrights.org/index2019/indicators/p16'>P16</a>). It also improved its disclosure of its requirement that apps in its iOS App Store provide users with a privacy policy (<a href='https://rankingdigitalrights.org/index2019/indicators/p1'>P1</a>). <a href='https://rankingdigitalrights.org/index2019/companies/apple/'>Read Apple’s report card for more</a>.",
         "freedom_of_expression_2019": 33,
         "freedom_of_expression_2018": 32,
         "freedom_of_expression_difference": 1.15,
@@ -51,7 +51,7 @@
         "total_difference": 0
     },
     {
-        "description":"While Axiata’s net score did not change, the company made several key policy changes (both negative and positive) in this year’s Index. The company improved its disclosure of governance and oversight over privacy, including by strengthening its executive-level management over privacy issues at the group level <a href='https://rankingdigitalrights/index2019/indicators/g2'>G2</a> and by disclosing that it has whistleblowing programs for employees related to some privacy issues <a href='https://rankingdigitalrights/index2019/indicators/g3'>G3</a>. Axiata’s prepaid mobile terms of service were more accessible <a href='https://rankingdigitalrights/index2019/indicators/f1'>F1</a>, it disclosed that it notifies users of changes to its privacy policy <a href='https://rankingdigitalrights/index2019/indicators/p2'>P2</a>, and it provided some information about whether it combines user information from across its services <a href='https://rankingdigitalrights/index2019/indicators/p5'>P5</a>. However, the company’s privacy policy for Celcom was less accessible <a href='https://rankingdigitalrights/index2019/indicators/p1'>P1</a>, and previously available information about its security policies could no longer be located (<a href='https://rankingdigitalrights/index2019/indicators/p13'>P13</a>, <a href='https://rankingdigitalrights/index2019/indicators/p18'>P18</a>). <a href='https://rankingdigitalrights.org/index2019/companies/axiata/'>Read Axiata’s report card for more</a>.",
+        "description":"While Axiata’s net score did not change, the company made several key policy changes (both negative and positive) in this year’s Index. The company improved its disclosure of governance and oversight over privacy, including by strengthening its executive-level management over privacy issues at the group level (<a href='https://rankingdigitalrights.org/index2019/indicators/g2'>G2</a>) and by disclosing that it has whistleblowing programs for employees related to some privacy issues (<a href='https://rankingdigitalrights.org/index2019/indicators/g3'>G3</a>). Axiata’s prepaid mobile terms of service were more accessible (<a href='https://rankingdigitalrights.org/index2019/indicators/f1'>F1</a>), it disclosed that it notifies users of changes to its privacy policy (<a href='https://rankingdigitalrights.org/index2019/indicators/p2'>P2</a>), and it provided some information about whether it combines user information from across its services (<a href='https://rankingdigitalrights.org/index2019/indicators/p5'>P5</a>). However, the company’s privacy policy for Celcom was less accessible (<a href='https://rankingdigitalrights.org/index2019/indicators/p1'>P1</a>), and previously available information about its security policies could no longer be located (<a href='https://rankingdigitalrights.org/index2019/indicators/p13'>P13</a>), (<a href='https://rankingdigitalrights.org/index2019/indicators/p18'>P18</a>). <a href='https://rankingdigitalrights.org/index2019/companies/axiata/'>Read Axiata’s report card for more</a>.",
         "freedom_of_expression_2019": 13,
         "freedom_of_expression_2018": 12,
         "freedom_of_expression_difference": 0.76,
@@ -68,7 +68,7 @@
         "total_difference": 0
     },
     {
-        "description":"Baidu made key improvements to disclosures of policies and practices affecting users’ privacy and security.  Along with it being easier to find <a href='https://rankingdigitalrights/index2019/indicators/p1'>P1</a>, the privacy policy provided more detail about Baidu’s data sharing policies—including the types of user information it shares and for what purposes (<a href='https://rankingdigitalrights/index2019/indicators/p4'>P4</a>, <a href='https://rankingdigitalrights/index2019/indicators/p5'>P5</a>)—and clarified options users have to obtain a copy of their information <a href='https://rankingdigitalrights/index2019/indicators/p8'>P8</a>. The company improved its disclosure of its process for responding to data breaches <a href='https://rankingdigitalrights/index2019/indicators/p15'>P15</a>, and disclosed some information about its encryption policies <a href='https://rankingdigitalrights/index2019/indicators/p16'>P16</a>. It also disclosed a policy of limiting employee access to user information <a href='https://rankingdigitalrights/index2019/indicators/p13'>P13</a>, and disclosed that it provides some employee training on privacy-related issues <a href='/indicators/g3'>G3</a>. However, Baidu lost points for failing to disclose what de-identified user data it retains <a href='https://rankingdigitalrights/index2019/indicators/p6'>P6</a> or options users have to control how their information is used for targeted advertising <a href='https://rankingdigitalrights/index2019/indicators/p7'>P7</a>. <a href='https://rankingdigitalrights.org/index2019/companies/baidu/'>Read Baidu’s report card for more</a>.",
+        "description":"Baidu made key improvements to disclosures of policies and practices affecting users’ privacy and security.  Along with it being easier to find (<a href='https://rankingdigitalrights.org/index2019/indicators/p1'>P1</a>), the privacy policy provided more detail about Baidu’s data sharing policies—including the types of user information it shares and for what purposes (<a href='https://rankingdigitalrights.org/index2019/indicators/p4'>P4</a>), (<a href='https://rankingdigitalrights.org/index2019/indicators/p5'>P5</a>)—and clarified options users have to obtain a copy of their information (<a href='https://rankingdigitalrights.org/index2019/indicators/p8'>P8</a>). The company improved its disclosure of its process for responding to data breaches (<a href='https://rankingdigitalrights.org/index2019/indicators/p15'>P15</a>), and disclosed some information about its encryption policies (<a href='https://rankingdigitalrights.org/index2019/indicators/p16'>P16</a>). It also disclosed a policy of limiting employee access to user information (<a href='https://rankingdigitalrights.org/index2019/indicators/p13'>P13</a>), and disclosed that it provides some employee training on privacy-related issues (<a href='/indicators/g3'>G3</a>). However, Baidu lost points for failing to disclose what de-identified user data it retains (<a href='https://rankingdigitalrights.org/index2019/indicators/p6'>P6</a>) or options users have to control how their information is used for targeted advertising (<a href='https://rankingdigitalrights.org/index2019/indicators/p7'>P7</a>). <a href='https://rankingdigitalrights.org/index2019/companies/baidu/'>Read Baidu’s report card for more</a>.",
         "freedom_of_expression_2019": 13,
         "freedom_of_expression_2018": 12,
         "freedom_of_expression_difference": 0,
@@ -85,7 +85,7 @@
         "total_difference": 6.21
     },
     {
-        "description":"Bharti Airtel made some improvements to its disclosure of governance and oversight over human rights, including the disclosure of a human rights policy <a href='/indicators/g1'>G1</a> and a board-level commitment to oversee privacy issues <a href='/indicators/g2'>G2</a>. It also clarified that employees can use the company’s whistleblower program to report privacy-related concerns <a href='/indicators/g3'>G3</a>, although it remained unclear if the program could be used to report freedom of expression related concerns. It slightly improved its disclosure of its privacy policies and practices by disclosing the reasons why it collects some types of user information <a href='/indicators/p5'>P5</a>.",
+        "description":"Bharti Airtel made some improvements to its disclosure of governance and oversight over human rights, including the disclosure of a human rights policy (<a href='/index2019/indicators/g1'>G1</a>) and a board-level commitment to oversee privacy issues <a href='/indicators/g2'>G2</a>. It also clarified that employees can use the company’s whistleblower program to report privacy-related concerns <a href='/indicators/g3'>G3</a>, although it remained unclear if the program could be used to report freedom of expression related concerns. It slightly improved its disclosure of its privacy policies and practices by disclosing the reasons why it collects some types of user information (<a href='/index2019/indicators/p5'>P5</a>). <a href='https://rankingdigitalrights.org/index2019/companies/bhartiairtel/'>Read Bharti Airtel’s report card for more</a>.",
         "freedom_of_expression_2019": 9,
         "freedom_of_expression_2018": 9,
         "freedom_of_expression_difference": 0,
@@ -102,23 +102,23 @@
         "total_difference": 2.86
     },
     {
-    "freedom_of_expression_2019": 15,
-    "freedom_of_expression_2018": "NA",
-    "freedom_of_expression_difference": "NA",
-    "governance_2018": "NA",
-    "governance_2019": 55,
-    "governance_difference": "NA",
-    "id":"deutschetelekom",
-    "name":"Deutsche Telekom",
-    "privacy_2018": "NA",
-    "privacy_2019": 60,
-    "privacy_difference": "NA",
-    "total_2018": "NA",
-    "total_2019": 44,
-    "total_difference": "NA"
-  },
+        "freedom_of_expression_2019": 15,
+        "freedom_of_expression_2018": "NA",
+        "freedom_of_expression_difference": "NA",
+        "governance_2018": "NA",
+        "governance_2019": 55,
+        "governance_difference": "NA",
+        "id":"deutschetelekom",
+        "name":"Deutsche Telekom",
+        "privacy_2018": "NA",
+        "privacy_2019": 60,
+        "privacy_difference": "NA",
+        "total_2018": "NA",
+        "total_2019": 44,
+        "total_difference": "NA"
+    },
     {
-        "description":"Etisalat’s score declined slightly due to less clear disclosure on the circumstances under which the company may comply with requests through private processes to restrict access to content for its fixed-line broadband service <a href='/indicators/f5'>F5</a>.",
+        "description":"Etisalat’s score declined slightly due to less clear disclosure on the circumstances under which the company may comply with requests through private processes to restrict access to content for its fixed-line broadband service (<a href='/index2019/indicators/f5'>F5</a>).  <a href='https://rankingdigitalrights.org/index2019/companies/etisalat/'>Read Etisalat’s report card for more</a>.",
         "freedom_of_expression_2019": 15,
         "freedom_of_expression_2018": 15,
         "freedom_of_expression_difference": -0.38,
