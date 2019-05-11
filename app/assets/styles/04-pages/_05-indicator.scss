@@ -56,7 +56,7 @@ $maincolor:  #231f20;
     padding: 0 20px 0 0;
     border-right: 2px solid $border-gray-color;
     margin: 0;
-    width: 30%;
+    width: 25%;
     position: absolute;
     display: block;
     @media(min-width: 992px){
@@ -120,7 +120,7 @@ $maincolor:  #231f20;
         padding: 0;
         counter-reset: item;
         li{
-          padding: 5px 0 0 20px;
+          padding: 3px 0 0 20px;
           background: none;
           color: #5E5E5E;
           display: block;
@@ -142,7 +142,7 @@ $maincolor:  #231f20;
 
             }
             i {
-              font-size: 14px;
+              font-size: 12px;
               line-height: 1;
               margin-right: 7px;
             }
@@ -166,7 +166,7 @@ $maincolor:  #231f20;
   }
   .fixed{
     position: fixed;
-    top: 50px;
+    top: 00px;
     height: calc(90% - 50px);
     overflow: auto;
   }
@@ -179,11 +179,11 @@ $maincolor:  #231f20;
     }
     @media(min-width: 768px){
       width: 63%;
-      margin-left: 37%;
+      margin-left: 35%;
     }
     @media(min-width: 992px){
       width: 67%;
-      margin-left: 33%;
+      margin-left: 30%;
     }
     @media(min-width: 1366px){
       width: 73%;
