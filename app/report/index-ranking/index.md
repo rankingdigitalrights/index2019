@@ -56,7 +56,7 @@ The Chinese companies’ sharp improvements—mainly on some of the Privacy cate
 
 > For details of year-on-year score changes for each company, see: [rankingdigitalrights.org/index2019/compare](/index2019/compare)
 
-![Fig 2 – Year-on-year score changes (2018-2019)](/index2018/assets/graphics/content/fig_02.png)
+![Fig 2 – Year-on-year score changes (2018-2019)](/index2019/assets/graphics/content/fig_02.png)
 
 While [**Apple**](/index2019/companies/apple) distinguished itself in the 2018 RDR Index as the most improved company by a wide margin, in 2019 it made limited changes, primarily focusing on improving the accessibility of data about government requests to restrict accounts or hand over user information, as well as improved disclosure about encryption practices.[<sup>27</sup>](#footnotes) In the Privacy category, Apple tied with Google for second place behind Microsoft among internet and mobile ecosystem companies. Most notably, Apple remains the only company in the entire RDR Index that clearly disclosed that it does not track users across the internet. As discussed in Chapters 3 and 4, Apple’s policies and disclosures related to freedom of expression continued to lag behind all other U.S.-based companies in the RDR Index.
 
