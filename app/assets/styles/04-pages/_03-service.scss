@@ -1,6 +1,6 @@
 #page--service {
 	.bar--chart {
-		height: 260px;
+		height: 290px;
 		@include media(small-up) {
 			height: 310px;
 			}
@@ -248,10 +248,10 @@
 								text-anchor: end !important;
 								transform: rotate(-30deg)translate(-31px, 31px);
 								@media (max-width: 767px){
-									-webkit-transform: rotate(-35deg) translate(-70px, 17px);
-									-moz-transform: rotate(-35deg) translate(-70px, 17px);
-									-o-transform: rotate(-35deg) translate(-70px, 17px);
-									transform: rotate(-35deg) translate(-70px, 17px);
+									-webkit-transform: rotate(-35deg) translate(-40px, 22px);
+									-moz-transform: rotate(-35deg) translate(-40px, 22px);
+									-o-transform: rotate(-35deg) translate(-40px, 22px);
+									transform: rotate(-35deg) translate(-40px, 22px);
 								}
 
 							}
