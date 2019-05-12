@@ -329,6 +329,6 @@ Meanwhile, the proposed e-Privacy Regulation (ePR) may address at least some of 
 
 **4. Support encryption:** Governments should not weaken or undermine encryption standards, ban or limit users’ access to encryption, or enact legislation requiring companies to provide “backdoors” or vulnerabilities that allow for third-party access to unencrypted data, or to hand over encryption keys.
 
-**5. Require strong corporate governance:** As described in Chapter 3, governments should require companies to carry out credible due diligence, assessing the impact and risks of their operations and policies on users’ privacy. Companies should also be required to provide meaningful grievance and remedy mechanisms, and to ensure that the law enables meaningful legal recourse and remedy for violations of privacy.
+**5. Require strong corporate governance:** As described in [Chapter 3](/index2019/report/governance), governments should require companies to carry out credible due diligence, assessing the impact and risks of their operations and policies on users’ privacy. Companies should also be required to provide meaningful grievance and remedy mechanisms, and to ensure that the law enables meaningful legal recourse and remedy for violations of privacy.
 
 **6. Engage with stakeholders:** Work with civil society, companies, and other governments to develop and enforce effective, constructive regulation that prioritizes the human rights of all internet users.
