@@ -25,7 +25,7 @@ The highest scoring companies demonstrated relatively strong governance and over
 > 
 > For more about how companies are scored, see: [rankingdigitalrights.org/index2019/report/2019-index-methodology/#evaluation](/index2019/report/2019-index-methodology/#evaluation%20)
 
-<a id="section-21"></a>2.1 Internet and mobile ecosystem highlights
+<a id="section-21"></a>2.1 Internet and mobile ecosystem highlights 
 --------------------------------------------
 
 [**Microsoft**](/index2019/companies/microsoft) earned first place in this year’s ranking, un-seating [**Google**](/index2019/companies/google), which previously held a diminishing lead since the first RDR Index was published in 2015. Microsoft’s overall score of 62 out of a possible 100 was primarily due to strong policies and disclosures in the Governance and Privacy categories, including a number of improvements. Microsoft’s policies and disclosures related to its governance and oversight of risks affecting users’ freedom of expression and privacy topped all other internet and mobile ecosystem companies, beating Google’s governance score by 14 percentage points. Consistent application of privacy policies across all evaluated services also earned Microsoft the highest privacy score among internet and mobile ecosystem companies, edging out Google and Apple.
