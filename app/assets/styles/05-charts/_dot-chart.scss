@@ -46,9 +46,9 @@ $dc-active-dot-top: $dc-height / 2 - $dc-active-dot-height / 2;
 
 .dotchart--baseline {
   position: absolute;
-  width: 100%;
+  width: 98%;
   height: 0px;
-  left: 0;
+  left: 2px;
   top: 2em;
   border-bottom: 2px solid $gray;
   @include media(small-up) {
