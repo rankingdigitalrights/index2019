@@ -11,9 +11,11 @@ published: true
 <!-- TODO: final 2019 files -->
 
   - The 2019 report [pdf]({{ site.baseurl }}/assets/static/download/RDRindex2019report.pdf)
+ - The 2019 Company Reports [pdf]({{ site.baseurl }}/assets/static/download/RDRCompanyReports2019.pdf)
  - 2019 Full data [excel]({{ site.baseurl }}/assets/static/download/RDRindex2019data.xlsx) / [zipped csv]({{ site.baseurl }}/assets/static/download/RDRindex2019data_csv.zip)
  - Indicators and research guidance [pdf]({{ site.baseurl }}/assets/static/download/RDRindex2019indicators.pdf)
  - 4-page highlights [pdf]({{ site.baseurl }}/assets/static/download/RDR-4Pager2019.pdf)
+
 
 2018 Data and Report:
 
