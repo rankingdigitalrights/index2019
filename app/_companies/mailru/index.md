@@ -9,7 +9,7 @@ display: Mail.Ru Group Limited
 telco: false
 rank: 12
 basic_information: | 
-  <p><strong>Domicile:</strong> Russia<br /><strong>Website:</strong> <a href="http://corp.mail.ru">corp.mail.ru</a>&nbsp;</p>
+  <p><strong>Domicile:</strong> Russia<br /><strong>Website:</strong> <a href="http://corp.mail.ru">corp.mail.ru</a><br /><strong>Download Company Report:</strong> <a href="/index2019/assets/static/download/MailRu2019.pdf">English</a>&nbsp;</p>
 key_findings: | 
   <ul><li>Mail.Ru earned the lowest score of all internet and mobile ecosystem companies in the Index, disclosing less about policies affecting users&rsquo; freedom of expression and privacy than any of its peers, including Yandex, the other Russian internet company evaluated.</li><li>Mail.Ru disclosed almost nothing about how it handles government demands to remove content or hand over user data, although there are no legal barriers to disclosing at least some information about its processes for responding to these types of requests.</li><li>Mail.Ru lacked transparency about options users have to control and access their own information and the measures it takes to keep that information secure.</li></ul>
 graph: | 
