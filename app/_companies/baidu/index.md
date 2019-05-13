@@ -9,7 +9,7 @@ display: Baidu, Inc.
 telco: false
 rank: 11
 basic_information: | 
-  <p><strong>Domicile</strong>: China <br /><strong>Link</strong>: <a href="https://www.baidu.com" target="_blank" rel="noopener">www.baidu.com</a><br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/Baidu2019">English</a></p>
+  <p><strong>Domicile</strong>: China <br /><strong>Link</strong>: <a href="https://www.baidu.com" target="_blank" rel="noopener">www.baidu.com</a><br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/Baidu2019.pdf">English</a></p>
 key_findings: | 
   <ul><li>Despite having the second highest score-improvement of all companies in the 2019 RDR Index, Baidu had the second-lowest overall score among internet and mobile ecosystem companies.</li><li>Baidu disclosed little about how it safeguards users&rsquo; right to freedom of expression, but made significant strides in disclosures regarding its respect of users&rsquo; privacy rights.</li><li>Baidu disclosed nothing about its process for responding to third-party requests to restrict access to content or accounts, and published no data about these types of restrictions.</li></ul>
 graph: | 
