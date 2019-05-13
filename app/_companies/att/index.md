@@ -9,7 +9,7 @@ display: AT&T Inc.
 telco: true
 rank: 3
 basic_information: | 
-  <p><strong>Domicile:</strong> United States<br /><strong>Website:</strong> <a href="http://www.att.com">www.att.com</a>&nbsp;</p>
+  <p><strong>Domicile:</strong> United States<br /><strong>Website:</strong> <a href="http://www.att.com">www.att.com</a><br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/ATT2019">English</a>&nbsp;</p>
 key_findings: | 
   <ul><li>AT&amp;T had weak governance and oversight over human rights issues and ranked third among telecommunications companies, disclosing less about policies affecting privacy and freedom of expression than Telef&oacute;nica and Vodafone.</li><li>It had especially unclear disclosure of its network management policies, and offered zero-rating programs that undermine net neutrality.</li><li>AT&amp;T had relatively strong disclosure of policies affecting privacy but still did not disclose enough about its handling of user information.</li></ul>
 graph: | 
