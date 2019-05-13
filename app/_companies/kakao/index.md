@@ -9,7 +9,7 @@ display: Kakao Corp.
 telco: false
 rank: 6
 basic_information: | 
-  <p><strong>Domicile:</strong> South Korea<br /><strong>Website:</strong> <a href="http://www.kakaocorp.com">www.kakaocorp.com</a>&nbsp;</p>
+  <p><strong>Domicile:</strong> South Korea<br /><strong>Website:</strong> <a href="https://www.kakaocorp.com">www.kakaocorp.com</a><br /><strong>Download Company Report:</strong> <a href="/index2019/assets/static/download/Kakao2019.pdf">English</a>&nbsp;</p>
 key_findings: | 
   <ul><li>Kakao failed to publish a strong commitment to respect users&rsquo; freedom of expression and privacy rights, but disclosed more about its policies affecting freedom of expression than many of its peers.</li><li>Kakao disclosed more than many of its peers about how it handles government requests to restrict content or accounts or hand over user information, but did not disclose information or data about government requests received from outside of South Korea.</li><li>While Kakao improved its disclosure of how it handles data breaches, it disclosed little information about its handling of security vulnerabilities.</li></ul>
 graph: | 
