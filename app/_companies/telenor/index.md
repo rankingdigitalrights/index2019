@@ -9,7 +9,7 @@ display: Telenor ASA
 telco: true
 rank: 4
 basic_information: | 
-  <p><strong>Domicile</strong>: Norway<br /><strong>Website:</strong> <a href="http://www.telenor.com">www.telenor.com</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Telenor Norway</p>
+  <p><strong>Domicile</strong>: Norway<br /><strong>Website:</strong> <a href="https://www.telenor.com">www.telenor.com</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Telenor Norway<br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/Telenor2019.pdf">English</a></p>
 key_findings: | 
   <ul><li>Telenor disclosed strong corporate governance and oversight over human rights issues across its global operations, but still lacked transparency about its policies and practices affecting freedom of expression and privacy in key areas.</li><li>Telenor lacked disclosure about how it handles government demands for user data or to block or filter content, although there are no legal barriers preventing it from being more transparent.</li><li>The company did not reveal enough about what types of user data it collects and shares&mdash;or give clear enough options for users to control what is collected and shared about them.</li></ul>
 graph: | 
