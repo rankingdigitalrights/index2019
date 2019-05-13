@@ -37,7 +37,7 @@ If the internet is to be designed, operated, and governed in a way that protects
 
 Below are our top-line recommendations for companies and governments. More detailed recommendations can be found at the end of Chapters 3, 4, and 5. Chapter 6 proposes questions for investors to ask companies.
 
-**Recommendations for companies**
+<a id="recommendations"></a>**Recommendations for companies**
 ---------------------------------
 
 <span style="font-weight: 400;">Regardless of the legal environment, companies are responsible for the impact of their products, services, and business operations on human rights.[<sup>3</sup>](#footnotes)</span><span style="font-weight: 400;"> All companies evaluated in the RDR Index can make many improvements immediately, even in the absence of legal and policy reform. </span>
