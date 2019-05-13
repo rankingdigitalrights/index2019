@@ -9,7 +9,7 @@ display: Orange S.A.
 telco: true
 rank: 6
 basic_information: | 
-  <p><strong>Domicile:</strong> France<br /><strong>Website:</strong> <a href="https://www.orange.com">www.orange.com</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Orange France<br /><strong>Download Company Report:</strong> <a href="/index2019/assets/static/download/Orange2019.pdf">English</a></p>
+  <p><strong>Domicile:</strong> France<br /><strong>Website:</strong> <a href="https://www.orange.com">www.orange.com</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Orange France<br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/Orange2019.pdf">English</a></p>
 key_findings: | 
   <ul><li>Orange disclosed strong governance and oversight over human rights issues, but failed to disclose adequate information about policies and practices affecting freedom of expression and privacy.</li><li>Orange lacked transparency about how it handles government demands to hand over user data, to block or filter content, or to deactivate user accounts.</li><li>It improved disclosure of how it handles user information, but disclosed less than its European peers about its security policies, including how it addresses vulnerabilities and responds to data breaches.</li></ul>
 graph: | 
