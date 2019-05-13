@@ -9,7 +9,7 @@ display: América Móvil, S.A.B. de C.V.
 telco: true
 rank: 7
 basic_information: |
-  <p><strong>Domicile:</strong> Mexico<br /><strong>Website:</strong> <a href="https://www.americamovil.com">www.americamovil.com</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Telcel (Mexico)<br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/AmericaMovil2019">English</a></p><p>&nbsp;</p>
+  <p><strong>Domicile:</strong> Mexico<br /><strong>Website:</strong> <a href="https://www.americamovil.com">www.americamovil.com</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Telcel (Mexico)<br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/AmericaMovil2019.pdf">English</a></p><p>&nbsp;</p>
 key_findings: |
   <ul><li>Despite some key improvements, Am&eacute;rica M&oacute;vil disclosed little about policies and practices affecting freedom of expression and privacy.</li><li>Am&eacute;rica M&oacute;vil was unclear about its rules and how they are enforced, as well as how it responds to government requests to shut down networks.</li><li>Am&eacute;rica M&oacute;vil did not clearly disclose how it handles government or private requests to block content or to hand over user information.</li></ul>
 graph: |
