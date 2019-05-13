@@ -9,7 +9,7 @@ display: Google LLC
 telco: false
 rank: 2
 basic_information: | 
-  <p><strong>Domicile:</strong> United States<br /><strong>Website:</strong> <a href="https://www.google.com">www.google.com</a><br /><strong>Download Company Report:</strong> <a href="/index2019/assets/static/download/Google2019.pdf">English</a>&nbsp;</p>
+  <p><strong>Domicile:</strong> United States<br /><strong>Website:</strong> <a href="https://www.google.com">www.google.com</a><br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/Google2019.pdf">English</a>&nbsp;</p>
 key_findings: | 
   <ul><li>Google disclosed more than all other internet and mobile ecosystem companies evaluated&mdash;apart from top-ranked Microsoft&mdash;about policies and practices affecting privacy and freedom of expression, but still fell short in key areas.</li><li>The company continued to lag behind its peers for weak governance and oversight over its impact on human rights, including freedom of expression and privacy.</li><li>Google was less transparent about its security policies than many of its peers, and failed to disclose anything about its policies for handling data breaches.</li></ul>
 graph: | 
