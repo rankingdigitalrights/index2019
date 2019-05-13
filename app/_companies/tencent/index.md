@@ -9,7 +9,7 @@ display: Tencent Holdings Limited
 telco: false
 rank: 10
 basic_information: | 
-  <p><strong>Domicile:</strong> China<br /><strong>Website:</strong> <a href="http://www.tencent.com">www.tencent.com</a>&nbsp;</p>
+  <p><strong>Domicile:</strong> China<br /><strong>Website:</strong> <a href="https://www.tencent.com">www.tencent.com</a><br /><strong>Download Company Report:</strong> <a href="/index2019/assets/static/download/Tencent2019.pdf">English</a>&nbsp;</p>
 key_findings: | 
   <ul><li>Tencent revealed more information about its handling of user information than in the past, but still failed to publish sufficient information about policies affecting privacy.</li><li>Tencent disclosed almost nothing&mdash;and less than all of its peers&mdash;about its governance processes to ensure respect for users&rsquo; freedom of expression and privacy.</li><li>Tencent disclosed nothing about how it responds to third-party requests to restrict user access to content and accounts, or to hand over user information.</li></ul>
 graph: | 
