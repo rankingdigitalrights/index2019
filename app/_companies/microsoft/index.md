@@ -9,7 +9,7 @@ display: Microsoft Corp.
 telco: false
 rank: 1
 basic_information: | 
-  <p><strong>Domicile:</strong> United States<br /><strong>Website:</strong> <a href="https://www.microsoft.com/" target="_blank" rel="noopener">www.microsoft.com</a></p>
+  <p><strong>Domicile:</strong> United States<br /><strong>Website:</strong> <a href="https://www.microsoft.com/" target="_blank" rel="noopener">www.microsoft.com</a><<br /><strong>Download Company Report:</strong> <a href="/index2019/assets/static/download/Microsoft2019.pdf">English</a>/p>
 key_findings: | 
   <ul><li>Microsoft earned the top score among internet and mobile ecosystem companies in the 2019 Index for disclosing more about its commitments and policies affecting users&rsquo; human rights than all other ranked companies.&nbsp;</li><li>It was the most transparent of all internet and mobile ecosystem companies about its privacy policies and practices, although it disclosed less than some of its peers about how it handles user data.</li><li>It was less transparent than many of its peers about policies affecting freedom of expression, including how it handles third-party requests to remove content or restrict accounts, as well as its policies for notifying users of such restrictions.</li></ul>
 graph: | 
