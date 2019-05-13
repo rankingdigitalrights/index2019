@@ -9,7 +9,7 @@ display: Facebook, Inc.
 telco: false
 rank: 4
 basic_information: | 
-  <p><strong>Domicile:</strong> United States<br /><strong>Website:</strong> <a href="https://www.facebook.com">www.facebook.com</a>&nbsp;<br /><strong>Download Company Report:</strong> <a href="/index2019/assets/static/download/Facebook2019.pdf">English</a></p>
+  <p><strong>Domicile:</strong> United States<br /><strong>Website:</strong> <a href="https://www.facebook.com">www.facebook.com</a>&nbsp;<br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/Facebook2019.pdf">English</a></p>
 key_findings: | 
   <ul><li>Facebook lacked clarity about its handling of user information and about what it does to keep user data secure&mdash;including policies limiting employee access to user data and for handling data breaches.</li><li>Facebook improved disclosure of how it enforces its own rules, but it disclosed less than in previous years about how it responds to government requests to remove content or deactivate accounts.</li><li>While Facebook failed to disclose enough about its policies and practices affecting users&rsquo; freedom of expression and privacy, its relatively high place in the ranking was due, in part, to greater transparency about policies related to government demands.</li></ul>
 graph: | 
