@@ -9,7 +9,7 @@ display: Twitter, Inc.
 telco: false
 rank: 5
 basic_information: | 
-  <p><strong>Domicile:</strong> United States<br /><strong>Website:</strong> <a href="http://twitter.com/">twitter.com</a></p>
+  <p><strong>Domicile:</strong> United States<br /><strong>Website:</strong> <a href="https://twitter.com/">twitter.com</a><br /><strong>Download Company Report:</strong> <a href="/index2019/assets/static/download/Twitter2019.pdf">English</a></p>
 key_findings: | 
   <ul><li>Twitter was less transparent about policies and practices affecting freedom of expression and privacy than most of the U.S. internet and mobile ecosystem companies evaluated in the Index.</li><li>It improved its disclosure of how it responds to government requests to restrict content or accounts by committing to carry out due diligence on such requests, but published limited data about the requests it received.</li><li>Twitter failed to disclose sufficient information about its security policies, earning the second-lowest score on these indicators.</li></ul>
 graph: | 
