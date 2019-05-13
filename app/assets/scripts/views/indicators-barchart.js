@@ -5,7 +5,7 @@ var baseurl = require('../util/base-url');
 
 module.exports = BaseChart.extend({
 
-  margin: { top: 40, right: 20, bottom: 120, left: 40 },
+  margin: { top: 40, right: 20, bottom: 120, left: 50 },
 
   initialize: function (options) {
     /* options
