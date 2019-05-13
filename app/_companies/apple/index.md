@@ -9,7 +9,7 @@ display: Apple, Inc.
 telco: false
 rank: 7
 basic_information: | 
-  <p><strong>Domicile</strong>: United States <br /><strong>Website</strong>: <a href="http://www.apple.com">www.apple.com</a>&nbsp;</p>
+  <p><strong>Domicile</strong>: United States <br /><strong>Website</strong>: <a href="http://www.apple.com">www.apple.com</a><br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/Apple2019">English</a>&nbsp;</p>
 key_findings: | 
   <ul><li>Apple had strong disclosure of privacy and security policies, but only limited disclosure of policies and practices affecting freedom of expression.</li><li>Apple disclosed little about its rules and how they are enforced, and revealed no data about content removed&mdash;including apps removed from its App Store&mdash;as a result of government requests.</li><li>It was the only company in the Index to clearly disclose it does not track users across third-party websites, and disclosed more about its encryption policies than all of its peers.</li></ul>
 graph: | 
