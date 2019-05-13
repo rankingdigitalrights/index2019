@@ -9,7 +9,7 @@ display: Bharti Airtel Limited
 telco: true
 rank: 8
 basic_information: | 
-  <p><strong>Domicile:</strong> India<br /><strong>Website:</strong> <a href="http://www.airtel.in">www.airtel.in</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Airtel India</p><p>&nbsp;</p>
+  <p><strong>Domicile:</strong> India<br /><strong>Website:</strong> <a href="https://www.airtel.in">www.airtel.in</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Airtel India<br /><strong>Download Company Report:</strong> <a href="/index2019/assets/static/download/BhartiAirtel2019.pdf">English</a></p><p>&nbsp;</p>
 key_findings: | 
   <ul><li>Bharti Airtel disclosed little about its policies and practices affecting freedom of expression and privacy, and lacked disclosure of governance and oversight over human rights issues.</li><li>It disclosed minimal information about how it enforces its rules, and no information about its process for responding to government or other types of third-party requests to restrict content or accounts.</li><li>While it revealed some information about its policies for collecting and sharing user information, it revealed few details about how it responds to third-party requests for user data, and nothing about how it addresses security vulnerabilities or responds to data breaches.</li></ul>
 graph: | 
