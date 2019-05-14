@@ -2,7 +2,7 @@
 layout: narrative
 header: Narrative
 prev:
-  href: questions-for-investors-to-aks
+  href: questions-for-investors-to-ask
   text: Questions for investors
 next:
   href: acknowledgements

@@ -9,7 +9,7 @@ display: Telefónica, S.A.
 telco: true
 rank: 1
 basic_information: | 
-  <p><strong>Domicile:</strong> Spain<br /><strong>Website:</strong> <a href="https://www.telefonica.com">www.telefonica.com</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Telef&oacute;nica Spain<br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/telefonica2019.pdf">English</a></p>
+  <p><strong>Domicile:</strong> Spain<br /><strong>Website:</strong> <a href="https://www.telefonica.com">www.telefonica.com</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Telef&oacute;nica Spain<br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/Telefonica2019.pdf">English</a></p>
 key_findings: | 
   <ul><li>Telef&oacute;nica received the top score among telecommunications companies, and made the most improvements to its disclosure of policies affecting freedom of expression and privacy of any company evaluated.</li><li>Telef&oacute;nica disclosed more than all other companies about its governance and oversight over human rights issues, and was one of only three companies to disclose that it conducts human rights risk assessments on its use of automated decision-making technologies.</li><li>Telef&oacute;nica disclosed more than any telecommunications company about policies affecting freedom of expression, but still failed to disclose enough about how it handles government requests to block content and restrict user accounts.</li></ul>
 graph: | 
