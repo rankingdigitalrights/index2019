@@ -113,9 +113,9 @@
 						font-weight: 600;
 						font-family: $simplon-regular;
 						text-transform: capitalize;
-						font-size: 9px;
+						font-size: 10px;
 							@include media(small-up) {
-							font-size: 9px;
+							font-size: 10px;
 							}
 							@include media(medium-up) {
 							font-size: 10px;  
@@ -135,13 +135,13 @@
 						        transform: rotate(-45deg);	
 						        }
 						        @include media(medium-up) {
-								transform: rotate(-55deg) translate(-5px, 25px);				  
+								transform: rotate(-55deg) translate(-18px, 18px);				  
 						        }
 						        @include media(large-up) {
-								transform: rotate(-55deg) translate(-5px, 25px);
+								transform: rotate(-55deg) translate(-18px, 18px);
 						        }
 						        @include media(xlarge-up) {
-								transform: rotate(-55deg) translate(-5px, 25px);				 
+								transform: rotate(-55deg) translate(-18px, 18px);				 
 						        }						
 							} 														
 						}						
