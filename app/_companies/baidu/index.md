@@ -30,7 +30,7 @@ summary_of_changes_governance:
   change: true
   title: G3. Internal implementation
   body: "<p>Baidu improved its disclosure of employee training on privacy and data security issues.</p>"
-freedom_value: 13
+freedom_value: 12
 freedom_text: | 
   <p>Baidu disclosed little about policies and practices affecting freedom of expression, revealing less than any other internet and mobile ecosystem company evaluated, including its Chinese peer, Tencent. While Baidu published terms for its services that were easy to find and relatively easy to understand (F1), it failed to disclose if and how it notifies users when it introduces changes to these terms (F2). It disclosed limited information about what types of content and activities are prohibited on its services (F3) and offered no data about the volume and nature of content or accounts it restricted for violating these rules (F4). It also did not commit to notify users when it restricts their access to content or accounts (F8).</p><p>Along with Samsung, Baidu was one of only two internet and mobile ecosystem companies that did not disclose any information about content and account restrictions in response to third party requests (F5-F7). It did not disclose any information about its process for responding to government or private requests to restrict content or accounts (F5), nor did it publish data about the requests it received and with which it complied (F6, F7).</p>
 summary_of_changes_freedom:
