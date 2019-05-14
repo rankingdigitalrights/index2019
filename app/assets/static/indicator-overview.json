@@ -751,7 +751,7 @@
     },
     {
         "id": "P9",
-        "name": "P9. Collection of user information from third parties (Internet companies)",
+        "name": "P9. Collection of user information from third parties (internet companies)",
         "scores": {
             "AT&T": "N/A",
             "América Móvil": "N/A",
@@ -961,7 +961,7 @@
     },
     {
         "id": "P16",
-        "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+        "name": "P16. Encryption of user communication and private content (internet, software, and device companies)",
         "scores": {
             "AT&T": "N/A",
             "América Móvil": "N/A",
@@ -991,7 +991,7 @@
     },
     {
         "id": "P17",
-        "name": "P17. Account Security (Internet, software, and device companies)",
+        "name": "P17. Account Security (internet, software, and device companies)",
         "scores": {
             "AT&T": "N/A",
             "América Móvil": "N/A",
