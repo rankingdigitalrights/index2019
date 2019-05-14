@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>04_privacy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="04_privacy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M63.290606,49.5 C57.8787103,42.6946868 51.9634656,39.35 45.5,39.35 C39.0365344,39.35 33.1212897,42.6946868 27.709394,49.5 C33.1212897,56.3053132 39.0365344,59.65 45.5,59.65 C51.9634656,59.65 57.8787103,56.3053132 63.290606,49.5 Z" id="Oval" stroke="#4D9ECF" stroke-width="2.7" fill-rule="nonzero"></path>
+        <path d="M75.35,68.65 L78.1,68.65 C79.3426407,68.65 80.35,69.6573593 80.35,70.9 L80.35,74 C80.35,76.9547234 77.9547234,79.35 75,79.35 L16,79.35 C13.0452766,79.35 10.65,76.9547234 10.65,74 L10.65,70.9 C10.65,69.6573593 11.6573593,68.65 12.9,68.65 L16.65,68.65 L16.65,35.8 C16.65,34.060303 18.060303,32.65 19.8,32.65 L72.2,32.65 C73.939697,32.65 75.35,34.060303 75.35,35.8 L75.35,68.65 Z" id="Combined-Shape-Copy" stroke="#214C68" stroke-width="2.7" fill-rule="nonzero"></path>
+        <path d="M24,70 L40.5167377,70 L40.5167377,70 C43.3820097,72.8304726 47.9341831,73.0051212 51.007901,70.4025039 L51.4832623,70 L68,70" id="Line-Copy" stroke="#214C68" stroke-width="2.7" stroke-linecap="round" fill-rule="nonzero"></path>
+        <circle id="Oval" stroke="#214C68" stroke-width="2.7" fill-rule="nonzero" cx="45" cy="49" r="3.65"></circle>
+    </g>
+</svg>
