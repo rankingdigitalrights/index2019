@@ -159,6 +159,13 @@
   }
 }
 
+.services-ranking-mob-image {
+ display: block;
+  @media (min-width: 768px){
+    display: none;
+  }
+}
+
 #compare--overview_chart {
   display: none;
   @media (min-width: 768px){
