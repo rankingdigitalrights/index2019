@@ -18,7 +18,7 @@ $maincolor:  #231f20;
 	margin: 0 auto;
   	}
 	.report_head{
-		display: block !important;
+		display: none !important;
 		@include media(small-up) {
 			display: none !important;
 		}
