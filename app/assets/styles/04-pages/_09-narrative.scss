@@ -15,16 +15,16 @@ $maincolor:  #231f20;
   text-align: center;
   display: block;
   	@include media(small-up) {
-  		display: none !important;
+  		display: block !important;
   	}
   	@include media(medium-up) {
-  		display: none !important;
+  		display: block !important;
   	}
 	@include media(large-up) {
-		display: block  !important;
+		display: none  !important;
 	}
 	@include media(xlarge-up) {
-		display: block  !important;
+		display: none  !important;
 	}
   img {
     max-height: 400px;
