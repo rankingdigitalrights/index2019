@@ -20,6 +20,12 @@ $maincolor:  #231f20;
   	@include media(medium-up) {
   		display: none !important;
   	}
+	@include media(large-up) {
+		display: block  !important;
+	}
+	@include media(xlarge-up) {
+		display: block  !important;
+	}
   img {
     max-height: 400px;
   	margin: 0 auto;
