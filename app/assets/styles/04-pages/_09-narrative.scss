@@ -556,7 +556,7 @@ $maincolor:  #231f20;
       width: 50%;
     }
     .footnotes{
-      font-size: 1em;
+      font-size: 0.75em;
       margin: 0 0 20px 15px;
       color: $black;
       position: relative;
@@ -570,6 +570,7 @@ $maincolor:  #231f20;
       }
       p,a{
         font-family: Simplon-Regular;
+	    
       }
     }
 
