@@ -337,7 +337,7 @@ $maincolor:  #231f20;
       font-family: $simplon-regular;
       color: $black-narrative;
       @include media(small-up) {
-        font-size: 1.250em;
+        font-size: 1em !important;
         margin-bottom: 10px ;
       }
       @include media(medium-up) {
