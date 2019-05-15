@@ -102,15 +102,15 @@ Companies receive a cumulative score of their performance across all Index categ
 
 **Governance category scoring**
 
-- G1, G5: 
-  - Internet and mobile ecosystem companies' scores were based on the group-level scores.
-  - Telecommunications companies' scores were based on average group-level and operating company scores.
-- G2, G3, G4: 
-  - Internet and mobile ecosystem companies' scores were based on average of group-level and services scores.
-  - Telecommunications companies' scores were based on average of group-level, operating, and services scores.
-- G6: 
-  - Internet and mobile ecosystem companies's scores were based on average of service-level scores.
-  - Telecommunications companies's scores were based on average of service-level scores.
+- **G1, G5:**
+- Internet and mobile ecosystem companies' scores were based on the group-level scores.
+- Telecommunications companies' scores were based on average group-level and operating company scores.
+- **G2, G3, G4:**
+- Internet and mobile ecosystem companies' scores were based on average of group-level and services scores.
+- Telecommunications companies' scores were based on average of group-level, operating, and services scores.
+- **G6:**
+- Internet and mobile ecosystem companies's scores were based on average of service-level scores.
+- Telecommunications companies's scores were based on average of service-level scores.
  
 **Indicator and element scoring**
 
