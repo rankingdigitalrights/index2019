@@ -279,7 +279,7 @@ $maincolor:  #231f20;
     h2{
       color: $base-color;
       margin-bottom: 0;
-      font-size: 2em;
+      font-size: 1.8em;
       text-transform: none;
       margin: 30px 0;
         @include media(small-up) {
@@ -292,7 +292,7 @@ $maincolor:  #231f20;
         }
     }
     h3{
-      font-size: 2em;
+      font-size: 1.8em;
       text-transform: none;
       margin: 30px 0;
           @include media(small-up) {
