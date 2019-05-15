@@ -428,12 +428,8 @@ $maincolor:  #231f20;
           margin-bottom: 10px;
           letter-spacing: 1px;
           color: $black-narrative;
-          /*here it was p */
-          li{
-            font-size: 1em;
-            line-height: 1.4em;
-            font-family: $simplon-light;
-            color: $black-narrative;
+
+
             @include media(small-up) {
               font-size: 1em !important;
               margin-bottom: 10px;
@@ -449,7 +445,7 @@ $maincolor:  #231f20;
             @include media(xlarge-up) {
               font-size: 1.250em !important;
             }
-          }
+          
         }
       }
     ol{
