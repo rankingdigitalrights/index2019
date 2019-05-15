@@ -347,16 +347,16 @@ $maincolor:  #231f20;
         }
     }
     p{
-      font-size: 1.25em;
+      font-size: 1.250em;
       line-height: 1.4em;
       font-family: $simplon-regular;
       color: $black-narrative;
       @include media(small-up) {
-        font-size: 1em !important;
-        margin-bottom: 10px !important;
+        font-size: 1.250em;
+        margin-bottom: 10px ;
       }
       @include media(medium-up) {
-        font-size: 1em;
+        font-size: 1.250em;
         margin-bottom: 10px;
       }
       @include media(large-up) {
