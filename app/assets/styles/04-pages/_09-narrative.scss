@@ -13,6 +13,7 @@ $maincolor:  #231f20;
   max-height: 400px;
   margin-bottom: 2em;
   text-align: center;
+  display: block;
   	@include media(small-up) {
   		display: none !important;
   	}
