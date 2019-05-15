@@ -13,44 +13,16 @@ $maincolor:  #231f20;
   max-height: 400px;
   margin-bottom: 2em;
   text-align: center;
-  img {
-  max-height: 400px;
-	margin: 0 auto;
+  	@include media(small-up) {
+  		display: none !important;
   	}
-	.report_head{
-		display: none !important;
-		@include media(small-up) {
-			display: none !important;
-		}
-		@include media(medium-up) {
-			display: none  !important;
-		}
-		@include media(large-up) {
-			display: block  !important;
-		}
-		@include media(xlarge-up) {
-			display: block  !important;
-		}	
-	}	
-	
-	.report_head_mob{
-		display: block !important;
-		width: 100%;
-		@include media(small-up) {
-			display: block !important;
-			width: 100%;
-		}
-		@include media(medium-up) {
-			display: block !important;
-			width: 100%;
-		}
-		@include media(large-up) {
-			display: none !important;
-		}
-		@include media(xlarge-up) {
-			display: none !important;
-		}	
-	}
+  	@include media(medium-up) {
+  		display: none !important;
+  	}
+  img {
+    max-height: 400px;
+  	margin: 0 auto;
+  	}
 }
 
 
