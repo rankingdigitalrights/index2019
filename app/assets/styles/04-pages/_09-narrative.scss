@@ -35,6 +35,7 @@ $maincolor:  #231f20;
 	
 	.report_head_mob{
 		display: block !important;
+		width: 100%;
 		@include media(small-up) {
 			display: block !important;
 			width: 100%;
