@@ -160,10 +160,21 @@
 }
 
 #compare--overview_chart {
+  display: none;
+  @media (min-width: 768px){
+    display: block;
+  }
   padding: 0;
   @include media(medium-up){
     // padding: 0 2em;
   }
+  
+  .services-ranking-mob-image{
+		display: block;
+		@media (min-width: 768px){
+			display: none;
+		}
+	}
 
   .chart rect {
     fill: #D0DBCB;
