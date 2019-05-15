@@ -347,7 +347,7 @@ $maincolor:  #231f20;
         }
     }
     p{
-      font-size: 1em;
+      font-size: 1.25em;
       line-height: 1.4em;
       font-family: $simplon-regular;
       color: $black-narrative;
@@ -438,8 +438,7 @@ $maincolor:  #231f20;
           list-style: disc;
           line-height: 1.4em;
           font-family: $simplon-regular;
-	  font-size: 1em !important;
-          /*font-size: 1.25em !important;*/
+          font-size: 1.25em !important;
           margin-bottom: 10px;
           letter-spacing: 1px;
           color: $black-narrative;
