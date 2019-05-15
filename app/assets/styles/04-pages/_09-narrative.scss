@@ -37,9 +37,11 @@ $maincolor:  #231f20;
 		display: block !important;
 		@include media(small-up) {
 			display: block !important;
+			width: 100%;
 		}
 		@include media(medium-up) {
 			display: block !important;
+			width: 100%;
 		}
 		@include media(large-up) {
 			display: none !important;
