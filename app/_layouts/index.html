@@ -1,7 +1,7 @@
 <!doctype html>
 
 <!--[if lt IE 10]> <html class="lt-ie10 no-js"  lang=""> <![endif]-->
-<!--[if gt IE 9]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 
 {% include head.html %}
 
@@ -37,7 +37,7 @@
 
           <div id="container"></div>
 
-          <img id="map_placeholder" style="display:none" class="img-responsive" src="assets/graphics/content/map_mobile.png">
+          <img id="map_placeholder" style="display:none" class="img-responsive" src="assets/graphics/content/map_mobile.png" alt="Static world map that shows the 24 companies evaluated in the 2019 Ranking Digital Rights Corporate Accountability Index.">
 
             <div class="graph-legend">
               <div class="graph-legend-content">
@@ -153,7 +153,7 @@
             <h1 class="page--subtitle">Year-on-year comparison</h1>
             <p>Which companies improved the most? To read how each company fared in comparison to the 2018 RDR Index go to the "<a href="{{ site.baseurl }}/compare/">Compare</a>" page.</p>
             <div id="compare--overview_chart" class="compare-chart"></div>
-            <div class="services-ranking-mob-image"><img src="{{ site.baseurl }}/assets/graphics/content/index-compare-year.svg"></div>
+            <div class="services-ranking-mob-image"><img src="{{ site.baseurl }}/assets/graphics/content/index-compare-year.svg" alt="Barchart that shows the year-on-year score changes in comparison to the 2018 Ranking Digital Rights Corporate Accountability Index. Most companies were able to improve their policies and therefore their total scores."></div>
           </div>
         </div>
       </section>
@@ -258,7 +258,7 @@
     <script src="{{ site.baseurl }}/assets/scripts/bundle.js"></script>
 
     <!-- Tabs JS -->
-    <script type="text/javascript">
+    <script>
       // Equal heghts
       var tabsFn = (function () {
         function init() {
@@ -296,7 +296,7 @@
     </script>
 
     <!-- Go to top JS -->
-    <script type="text/javascript">
+    <script>
       jQuery(document).ready(function($){
         // browser window scroll (in pixels) after which the "back to top" link is shown
         var offset = 300,
@@ -326,11 +326,11 @@
 
 
     <!-- Map -->
-    <script type="text/javascript">
+    <!-- <script>
         jQuery(document).ready(function($){
             //$('#container').css({"position":"relative","padding-bottom":"48%"});
         });
-    </script>
+    </script> -->
 
 </body>
 
