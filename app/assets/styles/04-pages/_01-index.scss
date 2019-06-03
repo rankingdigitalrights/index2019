@@ -25,7 +25,7 @@
 		  }
 		  @include media(xlarge-up) {
 		  	text-align: left;
-		  }   
+		  }
 		}
 		a.read--more,
 		a.download--full--report {
@@ -74,7 +74,7 @@
 
 
 	/* World map */
-	
+
 	.datamaps-bubble {
 		fill-opacity: 0 !important;
 		fill-opacity: 1 !important;
@@ -285,7 +285,7 @@
 		}
 		@include media(xlarge-up) {
 			display: block !important;
-		}	
+		}
 	}
 
 	#map_placeholder {
@@ -302,7 +302,7 @@
 		}
 		@include media(xlarge-up) {
 			display: none !important;
-		}	
+		}
 	}
 
 	.world-map {
@@ -326,16 +326,16 @@
 		padding-top: 0;
 		margin-top: 0em;
 		@include media(small-up) {
-		margin-top: 0em;	
+		margin-top: 0em;
 		}
 		@include media(medium-up) {
-		margin-top: 0em;	
+		margin-top: 0em;
 		}
 		@include media(large-up) {
-		margin-top: 0em;	
+		margin-top: 0em;
 		}
 		@include media(xlarge-up) {
-		margin-top: 0em;	
+		margin-top: 0em;
 		}
 
 		.row {
@@ -356,7 +356,7 @@
 			@include media(xlarge-up) {
 			padding-left: 1rem;
 			padding-right: 1rem;
-			} 	  	
+			}
 		}
 
 		.names {
@@ -396,7 +396,7 @@
     		color: #EC2227;
   			}
 		/* Creates a small triangle extender for the tooltip */
-  		.d3-tip:after {      
+  		.d3-tip:after {
     		box-sizing: border-box;
     		display: inline;
     		font-size: 8px;
@@ -404,7 +404,7 @@
     		line-height: 1.5;
     		color: rgba(0, 0, 0, 1);
     		position: absolute;
-    		pointer-events: none; 
+    		pointer-events: none;
   			}
 		/* Northward tooltips */
   		.d3-tip.n:after {
@@ -463,11 +463,11 @@
                     }
                     @include media(xlarge-up) {
                     padding-left: 15px;
-                    }					
+                    }
 					li {
 					list-style-type: disc !important;
 
-                    line-height: 1.3; 
+                    line-height: 1.3;
                     letter-spacing: 1px;
                     margin-bottom: 5px;
 						p{
@@ -490,25 +490,25 @@
                       margin-bottom: 10px;
                       }
 					}
-				}				
+				}
 			}
 			.description--text + .description--text {
 			margin-right: 0;
 		    margin-top: 0.75em;
 		      @include media(small-up) {
-		      margin-top: 1em;  
+		      margin-top: 1em;
 		      }
 		      @include media(medium-up) {
 		      margin-top: 0;
 		      }
 		      @include media(large-up) {
 		      margin-top: 0;
-		      }  
+		      }
 			}
 			.action-links {
 			clear: both;
 			margin-top: 1.5em;
-			}			
+			}
 		}
 	}
 
@@ -518,11 +518,11 @@
 		.company-ranking-chart {
 
 		    label {
-		    font-family: $simplon-light;  
+		    font-family: $simplon-light;
 		    text-transform: uppercase;
 		    color: $black;
 		    font-size: 19px;
-		    line-height: 1.3; 
+		    line-height: 1.3;
 		    letter-spacing: 1px;
 		    margin-bottom: 0px;
 				@include media(small-up) {
@@ -538,14 +538,14 @@
 				font-size: 21px;
 				}
 				i {
-				padding-right: 5px;	
-				}         
-		    } 
+				padding-right: 5px;
+				}
+		    }
 
 			#category--internet--home {
 		        i {
-		        color: $red;  
-		        }		
+		        color: $red;
+		        }
 			}
 
 			#category--telco--home {
@@ -566,9 +566,9 @@
 				@include media(xlarge-up) {
 				margin-top: 2.5em;
 				margin-bottom: 0em;
-				}		
+				}
 		        i {
-		        color: $orange;  
+		        color: $orange;
 		        }
 			}
 
@@ -614,7 +614,7 @@
 				}
 				@include media(xlarge-up) {
 				margin-top: 1em;
-				}  
+				}
 			}
 
 			#category--internet .vis--header {
@@ -622,10 +622,10 @@
 			}
 
 			.vis--header_item {
-			font-family: $simplon-regular; 
+			font-family: $simplon-regular;
 			color: $black;
 			font-size: 15px;
-			line-height: 1; 
+			line-height: 1;
 			letter-spacing: 0px;
 			text-transform: uppercase;
 			overflow: hidden;
@@ -635,28 +635,28 @@
 				@include media(small-up) {
 				font-size: 18px;
 				padding: 5px 0;
-				letter-spacing: 0px;	
+				letter-spacing: 0px;
 				}
 				@include media(medium-up) {
 				font-size: 16px;
 				padding: 5px 0;
-				letter-spacing: 0px;	
+				letter-spacing: 0px;
 				}
 				@include media(large-up) {
 				font-size: 19px;
 				padding: 10px 0;
-				letter-spacing: 0px;	
+				letter-spacing: 0px;
 				}
 				@include media(xlarge-up) {
 				font-size: 19px;
-				padding: 10px 0;	
+				padding: 10px 0;
 				letter-spacing: 0px;
-				}  		
+				}
 				> a {
 				font-family: $simplon-light;
 				font-size: 15px;
 				color: $black;
-				line-height: 1; 
+				line-height: 1;
 				letter-spacing: 0;
 				text-decoration: none;
 				transition: color .2s ease-out;
@@ -673,22 +673,22 @@
 					}
 					@include media(xlarge-up) {
 					font-size: 19px;
-					}  
+					}
 				}
 				.collecticon {
-				font-size: 12px;	
+				font-size: 12px;
 					@include media(small-up) {
-					font-size: 12px;	
+					font-size: 12px;
 					}
 					@include media(medium-up) {
-					font-size: 10px;	
+					font-size: 10px;
 					}
 					@include media(large-up) {
-					font-size: 10px;	
+					font-size: 10px;
 					}
 					@include media(xlarge-up) {
-					font-size: 14px;	
-					} 			
+					font-size: 14px;
+					}
 				}
 
 			  &.vis--row_title {
@@ -699,24 +699,24 @@
 				text-align: left;
 				@include media(small-up) {
 				font-size: 18px;
-				padding: 5px 0;	
+				padding: 5px 0;
 				}
 				@include media(medium-up) {
 				font-size: 16px;
-				padding: 5px 0;	
+				padding: 5px 0;
 				}
 				@include media(large-up) {
 				font-size: 19px;
-				padding: 10px 0;	
+				padding: 10px 0;
 				}
 				@include media(xlarge-up) {
 				font-size: 19px;
 				padding: 10px 0;
-				}	   
-			    > a { 
+				}
+			    > a {
 			    font-size: 13px;
 			    font-weight: 500;
-			    line-height: 1;	    
+			    line-height: 1;
 			     	@include media(small-up) {
 					font-size: 13px;
 					}
@@ -729,8 +729,8 @@
 					@include media(xlarge-up) {
 					font-size: 13px;
 					}
-			    }    
-			  }  
+			    }
+			  }
 
 			}
 
@@ -806,10 +806,10 @@
 
 			.vis--header_score,
 			.vis--category_score {
-			text-align: center;  
+			text-align: center;
 			width: $index-score-width-xs;
 			  @include media(small-up) {
-			  width: $index-score-width-sm;    
+			  width: $index-score-width-sm;
 			  }
 			  @include media(medium-up) {
 			  width: $index-score-width-md;
@@ -819,25 +819,25 @@
 			  }
 			  @include media(xlarge-up) {
 			  width: $index-score-width-xlg;
-			  }   
+			  }
 			}
 
 			.vis--row_bars {
 			display: inline-flex;
 			align-items: flex-end;
-			justify-content: space-between;  
+			justify-content: space-between;
 			width: $index-bar-width-xs;
 			  @include media(small-up) {
-			  width: $index-bar-width-sm;  
+			  width: $index-bar-width-sm;
 			  }
 			  @include media(medium-up) {
-			  width: $index-bar-width-md;  
+			  width: $index-bar-width-md;
 			  }
 			  @include media(large-up) {
-			  width: $index-bar-width-lg;  
+			  width: $index-bar-width-lg;
 			  }
 			  @include media(xlarge-up) {
-			  width: $index-bar-width-xlg;  
+			  width: $index-bar-width-xlg;
 			  }
 			}
 
@@ -856,11 +856,11 @@
 
 			.vis--category_score_value,
 			.vis--category_score_value span{
-			font-family: $simplon-regular; 
+			font-family: $simplon-regular;
 			color: $dark-blue !important;
 			font-size: 14px;
 			line-height: 1.3;
-			font-weight: 600; 
+			font-weight: 600;
 			letter-spacing: 1px;
 			text-transform: uppercase;
 			overflow: hidden;
@@ -880,7 +880,7 @@
 				font-size: 16px;
 				}
 
-			
+
 			}
 
 			.vis--horiz_bar_container {
@@ -890,17 +890,17 @@
 			overflow: hidden;
 			transition: background .2s ease-in;
 			    @include media(small-up) {
-			    height: $index-bar-height-sm;  
+			    height: $index-bar-height-sm;
 			    }
 			    @include media(medium-up) {
 			    height: $index-bar-height-md;
 			    }
 			    @include media(large-up) {
-			    height: $index-bar-height-lg;      
+			    height: $index-bar-height-lg;
 			    }
 			    @include media(large-up) {
-			    height: $index-bar-height-xlg;      
-			    }    
+			    height: $index-bar-height-xlg;
+			    }
 			}
 
 			.vis--horiz_bar {
@@ -910,36 +910,36 @@
 			height: $index-bar-height-xs;
 			display: block;
 			    @include media(small-up) {
-			    height: $index-bar-height-sm;  
+			    height: $index-bar-height-sm;
 			    }
 			    @include media(medium-up) {
 			    height: $index-bar-height-md;
 			    }
 			    @include media(large-up) {
-			    height: $index-bar-height-lg;      
+			    height: $index-bar-height-lg;
 			    }
 			    @include media(large-up) {
-			    height: $index-bar-height-xlg;      
-			    }   
-			}							
+			    height: $index-bar-height-xlg;
+			    }
+			}
 		}
 
 		.graph-legend {
 	    justify-content: flex-end;
-			.graph-legend-interaction {		
-			padding: 0.5em 0.5em;	
+			.graph-legend-interaction {
+			padding: 0.5em 0.5em;
 				@include media(small-up) {
 				padding: 1em 1em;
 				}
 				@include media(medium-up) {
-				padding: 1em 1em;		
+				padding: 1em 1em;
 				}
 				@include media(large-up) {
-				padding: 1em 0 1em 2em; 
+				padding: 1em 0 1em 2em;
 				}
 				@include media(xlarge-up) {
-				padding: 1em 0 1em 2em; 
-				} 	
+				padding: 1em 0 1em 2em;
+				}
 			}
 
 			.graph-legend-values{
@@ -947,7 +947,7 @@
 					display: block !important;
 				}
 			}
-		}	
+		}
 	}
 
 
@@ -965,7 +965,7 @@
 			fill: #FFFFFF;
 		}
 		/* Tabbed graphs */
-		.tabbed-graphs { 
+		.tabbed-graphs {
 		margin-top: 1em;
 		display: flex;
 		justify-content: flex-start;
@@ -1000,12 +1000,12 @@
 				}
 				@include media(xlarge-up) {
 				width: 21%;
-				}		
+				}
 				li {
-				position: relative;	
+				position: relative;
 				float: none;
 				margin: 0;
-				padding: 5px 3px;		
+				padding: 5px 3px;
 				color: $white-pure;
 				cursor: pointer;
 				font-family: $simplon-medium;
@@ -1014,20 +1014,20 @@
 				line-height: 1;
 					@include media(small-up) {
 					font-size: 10px;
-					padding: 7px 7px;  
+					padding: 7px 7px;
 					}
 					@include media(medium-up) {
 					font-size: 10px;
-					padding: 10px 15px;  
+					padding: 10px 15px;
 					}
 					@include media(large-up) {
 					font-size: 12px;
 					padding: 13px 8px;
-					} 
+					}
 					@include media(xlarge-up) {
 					font-size: 16px;
-					padding: 15px 15px;  
-					} 		
+					padding: 15px 15px;
+					}
 					&.current {
 					border: 1px solid $white-pure;
 					border-right: none;
@@ -1040,7 +1040,7 @@
 						width: 0;
 						position: absolute;
 						pointer-events: none;
-						}				
+						}
 						&:after {
 						border-color: rgba(77, 158, 207, 0);
 						border-left-color: #4D9ECF;
@@ -1058,11 +1058,11 @@
 							@include media(large-up) {
 							border-width: 9px;
 							margin-top: -9px;
-							} 
+							}
 							@include media(xlarge-up) {
  							border-width: 9px;
 							margin-top: -9px;
-							} 						
+							}
 						}
 						&:before {
 						border-color: rgba(255, 255, 255, 0);
@@ -1081,12 +1081,12 @@
 							@include media(large-up) {
 							border-width: 10px;
 							margin-top: -10px;
-							} 
+							}
 							@include media(xlarge-up) {
 							border-width: 10px;
-							margin-top: -10px; 
-							}						
-						}			
+							margin-top: -10px;
+							}
+						}
 					}
 				}
 			}
@@ -1098,7 +1098,7 @@
 			width: 69%;
 			border: 1px solid $white-pure;
 				@include media(small-up) {
-				width: 65%;		
+				width: 65%;
 				}
 				@include media(medium-up) {
 				width: 79%;
@@ -1108,16 +1108,16 @@
 				}
 				@include media(xlarge-up) {
 				width: 79%;
-				}	
+				}
 				.tab-pane-wrapper {
-				display: none;				
+				display: none;
 				overflow-x: hidden;
 				overflow-y: auto;
 				width: 100%;
     			justify-content: center;
 					@include media(small-up) {
 					overflow-x: auto;
-					overflow-y: auto;		
+					overflow-y: auto;
 					}
 					@include media(medium-up) {
 					overflow-x: auto;
@@ -1130,10 +1130,10 @@
 					@include media(xlarge-up) {
 					overflow-x: initial;
 					overflow-y: initial;
-					}					
-					.tab-pane {						
+					}
+					.tab-pane {
 					display: flex;
-		    		flex-direction: column;							
+		    		flex-direction: column;
 				    justify-content: center;
 				    align-items: center;
 				    padding: 15px 10px;
@@ -1153,9 +1153,9 @@
 						@include media(xlarge-up) {
 						flex-direction: column;
 						padding: 15px;
-						}		    
+						}
 				    	.tab-pane-chart-row {
-						display: flex;				
+						display: flex;
 			    		flex-direction: column;
 							@include media(small-up) {
 							flex-direction: column;
@@ -1173,32 +1173,32 @@
 							padding-bottom: 15px;
 							margin: 0 10px;
 								@include media(small-up) {
-								padding-bottom: 15px;	
+								padding-bottom: 15px;
 								}
 								@include media(medium-up) {
 								padding-bottom: 15px;
 								}
 								@include media(large-up) {
-								padding-bottom: 10px;	
+								padding-bottom: 10px;
 								}
 								@include media(xlarge-up) {
 								padding-bottom: 15px;
-								}							
-							}						    				    	
+								}
+							}
 			    		}
 			    		.tab-pane-chart-row + .tab-pane-chart-row {
 						margin-top: 0em;
 							@include media(small-up) {
-							margin-top: 0em;	
+							margin-top: 0em;
 							}
 							@include media(medium-up) {
-							margin-top: 0em;	
+							margin-top: 0em;
 							}
 							@include media(large-up) {
-							margin-top: -1em;	
+							margin-top: -1em;
 							}
 							@include media(xlarge-up) {
-							margin-top: 0em;	
+							margin-top: 0em;
 							}
 			    		}
 			    		i {
@@ -1207,23 +1207,23 @@
 			    		right: 10px;
 			    		display: block;
 			    		color: $white-pure;
-			    		font-size: 15px;	
+			    		font-size: 15px;
 							@include media(small-up) {
 			    			bottom: 15px;
-			    			right: 15px;								
-							display: block;	
+			    			right: 15px;
+							display: block;
 							}
 							@include media(medium-up) {
 			    			bottom: 20px;
-			    			right: 20px;								
-							display: block;	
+			    			right: 20px;
+							display: block;
 							}
 							@include media(large-up) {
-							display: none;	
+							display: none;
 							}
 							@include media(xlarge-up) {
-							display: none;	
-							}			    			
+							display: none;
+							}
 			    		}
 					}
 					&.current {
@@ -1258,9 +1258,9 @@
 		.data-stories-items {
 		clear: both;
 		margin-top: 0em;
-		margin-bottom: .325em;	
+		margin-bottom: .325em;
 			.data-stories-item {
-			@include span-columns(12);	
+			@include span-columns(12);
 				@include media(small-up) {
 				@include span-columns(12);
 				}
@@ -1268,7 +1268,7 @@
 				@include span-columns(6);
 					&:nth-child(2n) {
 					margin-right: 0;
-					}										
+					}
 				}
 				@include media(large-up) {
 				@include span-columns(3);
@@ -1277,7 +1277,7 @@
 					}
 					&:last-child {
 					margin-right: 0;
-					}										
+					}
 				}
 				@include media(xlarge-up) {
 				@include span-columns(3);
@@ -1286,9 +1286,9 @@
 					}
 					&:last-child {
 					margin-right: 0;
-					}										
+					}
 				}
-				    				
+
 				h3 {
 				margin-top: 0.8em;
 		    	margin-bottom: 0.5em;
@@ -1305,33 +1305,33 @@
 
 					}
 					a {
-					color: $black;	
-					}     		
-				}	
+					color: $black;
+					}
+				}
 			}
 			.data-stories-item + .data-stories-item {
-			margin-top: 1.5em;	
+			margin-top: 1.5em;
 				@include media(small-up) {
 				margin-top: 1.5em;
 				}
 				@include media(medium-up) {
 				margin-top: 0em;
 					&:nth-child(n+3) {
-					margin-top: 1.5em;	
-					}				
+					margin-top: 1.5em;
+					}
 				}
 				@include media(large-up) {
 				margin-top: 0em;
 					&:nth-child(n+3) {
-					margin-top: 0em;	
-					}				
+					margin-top: 0em;
+					}
 				}
 				@include media(xlarge-up) {
 				margin-top: 0em;
 					&:nth-child(n+3) {
-					margin-top: 0em;	
-					}				
-				}		
+					margin-top: 0em;
+					}
+				}
 			}
 		}
 	}
@@ -1345,19 +1345,19 @@
 			flex-direction: row;
 		}
 		.icon-01_highlights{
-			background-image: url("/index2019/assets/graphics/content/01_highlights.svg");
+		  background-image: url("../graphics/content/01_highlights.svg");
 		}
 		.icon-02_governance{
-			background-image: url("/index2019/assets/graphics/content/02_governance.svg");
+		  background-image: url("../graphics/content/02_governance.svg");
 		}
 		.icon-03_freedom{
-			background-image: url("/index2019/assets/graphics/content/03_freedom.svg");
+		  background-image: url("../graphics/content/03_freedom.svg");
 		}
 		.icon-04_privacy{
-			background-image: url("/index2019/assets/graphics/content/04_privacy.svg");
+		  background-image: url("../graphics/content/04_privacy.svg");
 		}
 		.icon-05_questions{
-			background-image: url("/index2019/assets/graphics/content/05_questions.svg");
+			background-image: url("../graphics/content/05_questions.svg");
 		}
 		.icon{
 			background-repeat: no-repeat;
@@ -1519,4 +1519,4 @@
 		}
 	}
 
-}	
+}

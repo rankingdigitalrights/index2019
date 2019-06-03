@@ -7,7 +7,7 @@ $maincolor:  #231f20;
 
 
 .narrative--banner {
-  background: url(/index2019/assets/graphics/content/report_background.png) repeat-x;
+  background: url(../graphics/content/report_background.png) repeat-x;
   padding: 0;
   height: 400px;
   max-height: 400px;
@@ -17,7 +17,7 @@ $maincolor:  #231f20;
     max-height: 400px;
     margin: 0 auto;
   }
-   
+
    display: none !important;
 	@include media(small-up) {
 		display: none !important;
@@ -30,8 +30,8 @@ $maincolor:  #231f20;
 		}
 	@include media(xlarge-up) {
 		display: block  !important;
-		}	
-		
+		}
+
 }
 
 
@@ -303,7 +303,7 @@ $maincolor:  #231f20;
           font-size: 1.8em;
           line-height: 1em;
         }
-       
+
     }
     blockquote {
       background-color: #F7F7F7;
@@ -445,7 +445,7 @@ $maincolor:  #231f20;
             @include media(xlarge-up) {
               font-size: 1.250em !important;
             }
-          
+
         }
       }
     ol{
@@ -570,7 +570,7 @@ $maincolor:  #231f20;
       }
       p,a{
         font-family: Simplon-Regular;
-	    
+
       }
     }
 
@@ -578,4 +578,3 @@ $maincolor:  #231f20;
 
 
 }
-
