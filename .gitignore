@@ -13,10 +13,6 @@ npm-debug.log
 .resources
 .bundle
 bundle
-_config-dev.yml
-_config-stage.yml
-_config.yml
-
 
 # Python scripting resources
 bin/raw
