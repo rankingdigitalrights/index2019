@@ -4,6 +4,7 @@ var cp = require('child_process');
 var path = require('path');
 var sass = require('gulp-sass');
 var uglify = require('gulp-uglify');
+var cleanCSS = require('gulp-clean-css');
 var sourcemaps = require('gulp-sourcemaps');
 var clean = require('gulp-clean');
 var browserSync = require('browser-sync');
@@ -124,6 +125,7 @@ gulp.task('styles', function () {
       includePaths: require('node-bourbon').includePaths.concat(require('node-neat').includePaths),
       onError: console.error.bind(console, 'Sass error:')
     }))
+    .pipe(cleanCSS({compatibility: 'ie8'}))
     .pipe(sourcemaps.write())
     .pipe(gulp.dest('.tmp/assets/styles'))
     .pipe(reload({ stream: true }));
