@@ -43,6 +43,11 @@ readPackage();
 // -------------------------- Copy tasks --------------------------------------//
 // ----------------------------------------------------------------------------//
 
+gulp.task('copy:vendor', function () {
+  return gulp.src('app/assets/vendor/**')
+    .pipe(gulp.dest('_site/assets/vendor'));
+});
+
 // Copy from the .tmp to _site directory.
 // To reduce build times the assets are compiles at the same time as jekyll
 // renders the site. Once the rendering has finished the assets are copied.
@@ -160,7 +165,7 @@ gulp.task('jekyll', function (done) {
 //----------------------------------------------------------------------------//
 
 gulp.task('site', gulp.series('jekyll', 'javascript', 'styles'));
-gulp.task('copy', gulp.series('copy:assets'));
+gulp.task('copy', gulp.series('copy:vendor', 'copy:assets'));
 
 // Main build task
 // Builds the site. Destination --> _site
