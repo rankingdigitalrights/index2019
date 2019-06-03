@@ -32,5 +32,6 @@ prose:
   rooturl: app
   siteurl: https://rankingdigitalrights.org/index2019
 
+url: ""
 gems:
   - jekyll-sitemap
