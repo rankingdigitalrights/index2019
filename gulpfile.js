@@ -2,7 +2,6 @@ var fs = require('fs');
 var gulp = require('gulp');
 var cp = require('child_process');
 var path = require('path');
-var runSequence = require('run-sequence');
 var sass = require('gulp-sass');
 var uglify = require('gulp-uglifyjs');
 var sourcemaps = require('gulp-sourcemaps');
@@ -121,7 +120,7 @@ gulp.task('styles', function () {
     .pipe(sass({
       outputStyle: 'nested', // libsass doesn't support expanded yet
       precision: 10,
-      includePaths: require('node-neat').includePaths,
+      includePaths: require('node-bourbon').includePaths.concat(require('node-neat').includePaths),
       onError: console.error.bind(console, 'Sass error:')
     }))
     .pipe(sourcemaps.write())
@@ -153,12 +152,23 @@ gulp.task('jekyll', function (done) {
     .on('close', done);
 });
 
+////////////////////////////////////////////////////////////////////////////////
+//------------------------- Environment tasks --------------------------------//
+//----------------------------------------------------------------------------//
+
+gulp.task('site', gulp.series('jekyll', 'javascript', 'styles'));
+gulp.task('copy', gulp.series('copy:assets'));
+
+// Main build task
+// Builds the site. Destination --> _site
+gulp.task('build', gulp.series('site', 'copy'));
+
 /// /////////////////////////////////////////////////////////////////////////////
 // --------------------------- Callable tasks ---------------------------------//
 // ----------------------------------------------------------------------------//
 
 // Builds the website, watches for changes and starts browserSync.
-gulp.task('serve', ['build'], function () {
+gulp.task('serve', gulp.series('build', function () {
   browserSync({
     port: 3000,
     server: {
@@ -169,64 +179,39 @@ gulp.task('serve', ['build'], function () {
     }
   });
 
-  gulp.watch('app/assets/styles/**/*.scss', function () {
-    runSequence('styles');
-  });
+  gulp.watch('app/assets/styles/**/*.scss', gulp.series('styles'));
 
-  gulp.watch(['app/**/*.html', 'app/**/*.md', 'app/**/*.json', 'app/**/*.geojson'], function () {
-    runSequence('jekyll', 'copy:assets', browserReload);
-  });
-});
-
-/// /////////////////////////////////////////////////////////////////////////////
-// ------------------------- Environment tasks --------------------------------//
-// ----------------------------------------------------------------------------//
-
-// Main build task
-// Builds the site. Destination --> _site
-gulp.task('build', function (done) {
-  runSequence(['jekyll', 'javascript', 'styles'], ['copy:assets'], done);
-});
+  gulp.watch(['app/**/*.html', 'app/**/*.md', 'app/**/*.json', 'app/**/*.geojson'], gulp.series('jekyll', 'copy:assets', browserReload));
+}));
 
 // Default task.
 // Builds the website, watches for changes and starts browserSync.
-gulp.task('default', function (done) {
-  runSequence('build', function () {
-    process.exit(0);
-    done();
-  });
-});
+gulp.task('default', gulp.series('build', function(done) {
+  done();
+  process.exit(0);
+}));
 
-gulp.task('prod', function (done) {
-  environment = 'production';
-  runSequence('build', function () {
-    process.exit(0);
+gulp.task('prod', gulp.series(
+  function(done) {
+    environment = 'production';
     done();
-  });
-});
-
-gulp.task('stage', function (done) {
-  environment = 'stage';
-  runSequence('build', function () {
-    process.exit(0);
+  },
+  'build',
+  function(done) {
     done();
-  });
-});
-
-gulp.task('dev', function (done) {
-  environment = 'development';
-  runSequence('build', function () {
     process.exit(0);
-    done();
-  });
-});
+  }));
 
-gulp.task('limit', function (done) {
-  if (process.argv[3] == '-n') {
-    jekyllLimit = process.argv[4];
-  }
-  runSequence('serve', done);
-});
+gulp.task('stage', gulp.series(
+  function(done) {
+    environment = 'stage';
+    done();
+  },
+  'build',
+  function(done) {
+    done();
+    process.exit(0);
+  }));
 
 // Removes temp folders.
 gulp.task('clean', function () {
