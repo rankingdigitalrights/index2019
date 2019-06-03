@@ -132,20 +132,13 @@ dropdownFn();
   });
 })();
 
-$(window).load(function () {
+$(window).on('load', function () {
   // scroll to indicator
   var $root = $('html,body');
   var ancloc = window.location.hash;
-  if (ancloc != '') {
+  if (ancloc !== '') {
     $root.animate({
       scrollTop: $(ancloc).position().top
     }, 2000);
   }
-
-  // share feature
-  document.getElementById('linkToCopy').innerHTML = window.location;
-  $('#CopyToClipboard').click(function () {
-    document.getElementById('linkToCopy').select();
-    document.execCommand('copy');
-  });
 });
