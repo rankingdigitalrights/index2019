@@ -6,6 +6,7 @@
   "author": "Development Seed",
   "devDependencies": {
     "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.4.5",
     "babelify": "^10.0.0",
     "bower": "^1.8.8",
     "browser-sync": "^2.26.3",
@@ -19,7 +20,7 @@
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-streamify": "1.0.2",
-    "gulp-uglifyjs": "^0.6.2",
+    "gulp-uglify": "^3.0.2",
     "gulp-util": "^3.0.5",
     "jstify": "^0.14.0",
     "node-bourbon": "^4.2.8",

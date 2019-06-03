@@ -3,7 +3,7 @@ var gulp = require('gulp');
 var cp = require('child_process');
 var path = require('path');
 var sass = require('gulp-sass');
-var uglify = require('gulp-uglifyjs');
+var uglify = require('gulp-uglify');
 var sourcemaps = require('gulp-sourcemaps');
 var clean = require('gulp-clean');
 var browserSync = require('browser-sync');
@@ -65,7 +65,7 @@ gulp.task('javascript', function () {
     fullPaths: true
   });
 
-  b.transform(babelify);
+  b.transform(babelify, {presets: [["@babel/preset-env", {"targets": "> 0.25%, not dead"}]]});
   b.transform(jstify);
   b.transform(envify({
     NODE_ENV: environment,
@@ -87,7 +87,8 @@ gulp.task('javascript', function () {
       })
       .pipe(source('bundle.js'))
       .pipe(buffer())
-      // Source maps.
+      .pipe(uglify())
+    // Source maps.
       .pipe(sourcemaps.init({ loadMaps: true }))
       .pipe(sourcemaps.write('./'))
       .pipe(gulp.dest('.tmp/assets/scripts'))
