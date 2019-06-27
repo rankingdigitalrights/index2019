@@ -1,7 +1,7 @@
 [
     {
         "id": "G1",
-        "name": "G1. Policy Commitment",
+        "name": "G1. Policy commitment",
         "scores": {
             "AT&T": "100",
             "América Móvil": "100",
@@ -991,7 +991,7 @@
     },
     {
         "id": "P17",
-        "name": "P17. Account Security (internet, software, and device companies)",
+        "name": "P17. Account security (internet, software, and device companies)",
         "scores": {
             "AT&T": "N/A",
             "América Móvil": "N/A",
