@@ -184,7 +184,7 @@ The RDR Index has six indicators evaluating company disclosure of security polic
 > - **Data breaches:** The company should publicly disclose information about its processes for responding to data breaches [(P15)](/index2019/indicators/p15).
 > - **Security risks:** The company should publish information to help users defend themselves against cyber risks [(P18)](/index2019/indicators/p18).
 > - **Encryption** *(for internet and mobile ecosystem companies)*: The company should encrypt user communication and private content so users can control who has access to it [(P16)](/index2019/indicators/p16).
-> - **Account Security** *(for internet and mobile ecosystem companies)*: The company should help users keep their accounts secure [(P17)](/index2019/indicators/p17).
+> - **Account security** *(for internet and mobile ecosystem companies)*: The company should help users keep their accounts secure [(P17)](/index2019/indicators/p17).
 >
 > See the privacy indicators of the RDR Index methodology: [rankingdigitalrights.org/2019-indicators/#P](/2019-indicators/#P)
 
