@@ -2,6 +2,11 @@ language: node_js
 node_js:
 - 'node'
 
+env:
+  global:
+  - DEPLOY_BRANCH=master
+  - STAGING_BRANCH=staging
+
 cache:
   directories:
   - node_modules
