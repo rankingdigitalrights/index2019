@@ -166,7 +166,7 @@ module.exports = Backbone.View.extend({
       tooltip.append('div').attr('id', 'company--chart--title').text('Services evaluated');
       tooltip.append('ul').attr('id', 'service--evaluated');
 
-      // tooltip.append('div').attr('id', 'company--chart--title').text('Position Among Other Companies');
+      // tooltip.append('div').attr('id', 'company--chart--title').text('Position among other companies');
       // tooltip.append('div').attr('id', 'total--dot_chart');
 
     window.addEventListener('resize', function () {
