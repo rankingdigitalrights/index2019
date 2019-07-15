@@ -69,8 +69,7 @@ module.exports = BaseChart.extend({
       .attr('indicator_id', indicatorId) // parameter for ajax calls
 
       .on('click', function (d) {
-        var href = d.toLowerCase().replace('&', '')
-        .replace('.', '').replace(' ', '').replace('ó', 'o').replace('é', 'e');
+        var href = d.toLowerCase().replace('&', '').replace('.', '').replace(' ', '').replace('ó', 'o').replace('é', 'e');
         window.location.href = baseurl + '/companies/' + href + '/index';
       });
 
