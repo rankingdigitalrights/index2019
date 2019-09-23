@@ -9,7 +9,7 @@ display: Samsung Electronics Co., Ltd.
 telco: false
 rank: 9
 basic_information: | 
-  <p><strong>Domicile:</strong> South Korea<br /><strong>Website:</strong> <a href="https://www.samsung.com">www.samsung.com</a><br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/Samsung2019.pdf">English</a>&nbsp;</p>
+  <p><strong>Domicile:</strong> South Korea<br /><strong>Website:</strong> <a href="https://www.samsung.com">www.samsung.com</a><br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/Samsung2019.pdf">English</a> | <a href="/index2019/assets/static/download/RDR2019_samsung_korean.pdf">한국어</a></p>
 key_findings: | 
   <ul><li>Samsung disclosed less than most of its peers about its policies that affect users&rsquo; freedom of expression and privacy, and scored below its South Korean peer, Kakao.</li><li>Samsung received the second-lowest score of all internet and mobile ecosystem companies in the Privacy category, and disclosed less about its security policies than all of its peers.</li><li>Samsung failed to provide any information about grievance and remedy mechanisms for freedom of expression and privacy complaints, although in South Korea companies are required to offer these mechanisms by law.</li></ul>
 graph: | 

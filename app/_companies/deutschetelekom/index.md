@@ -9,7 +9,7 @@ display: Deutsche Telekom AG
 telco: true
 rank: 5
 basic_information: | 
-  <p><strong>Domicile:</strong> Germany<br /><strong>Website:</strong> <a href="https://www.telekom.com">www.telekom.com</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Deutsche Telekom Germany<br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/DeutscheTelekom2019.pdf">English</a></p>
+  <p><strong>Domicile:</strong> Germany<br /><strong>Website:</strong> <a href="https://www.telekom.com">www.telekom.com</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Deutsche Telekom Germany<br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/DeutscheTelekom2019.pdf">English</a> | <a href="/index2019/assets/static/download/RDR2019_deutschetelekom_german.pdf">Deutsch</a></p>
 key_findings: | 
   <ul><li>Deutsche Telekom earned the highest privacy score in the Index, disclosing significantly more than other telecommunications companies about policies affecting users&rsquo; privacy.</li><li>It failed to disclose adequate information about policies and practices affecting users&rsquo; freedom of expression, including how it handles government demands to block or filter content or deactivate accounts.</li><li>It also lacked strong governance and oversight over human rights issues relative to its European telecommunications peers.</li></ul>
 graph: | 

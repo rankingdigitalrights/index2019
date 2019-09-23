@@ -9,7 +9,7 @@ display: Etisalat Group
 telco: true
 rank: 11
 basic_information: | 
-  <p><strong>Domicile:</strong> United Arab Emirates (UAE)<br /><strong>Website:</strong> <a href="https://www.etisalat.com">www.etisalat.com</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Etisalat UAE<br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/Etisalat2019.pdf">English</a></p>
+  <p><strong>Domicile:</strong> United Arab Emirates (UAE)<br /><strong>Website:</strong> <a href="https://www.etisalat.com">www.etisalat.com</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Etisalat UAE<br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/Etisalat2019.pdf">English</a> | <a href="/index2019/assets/static/download/RDR2019_etisalat_arabic.pdf">العربية</a></p>
 key_findings: | 
   <ul><li>Etisalat was the second-lowest scoring telecommunications company in the Index, disclosing almost nothing about policies and practices affecting users' freedom of expression and privacy.</li><li>Etisalat did not publish a privacy policy, making it impossible for users to understand what the company does with their information, including what it collects and for what purposes.</li><li>Etisalat disclosed nothing about how it handles government and private requests to hand over user information.</li></ul>
 graph: | 

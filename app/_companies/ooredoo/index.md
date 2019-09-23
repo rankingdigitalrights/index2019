@@ -9,7 +9,7 @@ display: Ooredoo Q.S.C.
 telco: true
 rank: 12
 basic_information: | 
-  <p><strong>Domicile:</strong> Qatar<br /><strong>Website:</strong> <a href="https://www.ooredoo.qa">www.ooredoo.qa</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Ooredoo Qatar<br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/Ooredoo2019.pdf">English</a></p>
+  <p><strong>Domicile:</strong> Qatar<br /><strong>Website:</strong> <a href="https://www.ooredoo.qa">www.ooredoo.qa</a>&nbsp;<br /><strong>Operating company evaluated:</strong> Ooredoo Qatar<br /><strong>Download company report:</strong> <a href="/index2019/assets/static/download/Ooredoo2019.pdf">English</a> | <a href="/index2019/assets/static/download/RDR2019_ooredoo_arabic.pdf">العربية</a></p>
 key_findings: | 
   <ul><li>Ooredoo was the lowest scoring telecommunications company in the Index, disclosing almost nothing about its policies and practices affecting freedom of expression and privacy.</li><li>Ooredoo revealed nothing about how it responds to government and other types of third-party requests to block or filter content, or government demands to shut down its networks.</li><li>Ooredoo did not publish a privacy policy, making it impossible for users to understand what the company does with their information, including what it collects, shares, and why.</li></ul>
 graph: | 
