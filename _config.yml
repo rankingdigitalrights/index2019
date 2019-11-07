@@ -33,5 +33,6 @@ prose:
   siteurl: https://rankingdigitalrights.org/index2019
 
 url: ""
-gems:
+plugins:
   - jekyll-sitemap
+  - jekyll-paginate
