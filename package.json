@@ -33,7 +33,7 @@
     "watchify": "^3.11.1"
   },
   "dependencies": {
-    "acorn": "^6.4.0",
+    "acorn": "^6.4.1",
     "backbone": "^1.2.3",
     "bourbon": "^5.1.0",
     "d3": "3.5.6",
